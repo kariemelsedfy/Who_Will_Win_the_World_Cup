@@ -31,3 +31,34 @@ Goals of the Project:
 
 Part 1: Getting and classifying data
 
+One dataset entry should look like this: 
+
+year | team | goalkeeper score | rightback score | ..... striker score | team age average | elo before world cup | previous world cup success score  | success score for this year's world cup
+
+
+Success score:
+
+Success score is the actual result of the squad for that year. In the World Cup there’s only one winner and 31 losers, however, that classification is not the best way to capture the true performance of each team. Treating all non-winners as the same “class” ignores the fact that teams can have very different levels of success within the same tournament.
+
+A team that is eliminated in the Group Stage is not comparable to a team that reaches the Quarter-final, Semi-final, or the Final. These are qualitatively different achievements — and from a modeling perspective, they contain valuable information about team quality, consistency, and squad strength.
+
+So we use success score where each placement coressponds to a numerical value:
+Group = 0.01
+R16 = 0.2
+QF = 0.50
+SF = 0.75
+Runner-up = 0.90
+Champion = 1.00
+
+
+Player Score:
+
+For each squad in a given year, every player is represented by a player score derived from their FIFA video game ratings for that season. FIFA ratings are a convenient and surprisingly effective proxy for real-world player quality because they are built using:
+
+1-Historical performance data from domestic leagues and international matches
+
+2-Expert assessments from scouts, analysts, and professional data providers
+
+3-Player traits, including pace, shooting, passing, defending, physicality, and overall skill
+
+
