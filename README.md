@@ -62,3 +62,24 @@ For each squad in a given year, every player is represented by a player score de
 3-Player traits, including pace, shooting, passing, defending, physicality, and overall skill
 
 
+
+
+Action plan to build dataset:
+
+For each squad for a given year in the world cup:
+
+1- Go over the 23 players in that squad and collect each's FIFA rating and age.
+
+2- Calculate average age 
+
+3- Get this year's and the previous year's elo rating for that squad.
+
+4- Get the squad's world cup success score this year and the previous year.
+
+
+
+Step 1:
+
+I found a website called Sofifa that has all players ratings from fifa 2007 up to fc 26. I scraped all players data from the years of the world cup (every 4 years) and stored them into CSVs as my player dataset. The years I have used are: 2010, 2014, 2018, 2022 for training, and 2026 for testing.
+
+
