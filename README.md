@@ -83,3 +83,7 @@ Step 1:
 I found a website called Sofifa that has all players ratings from fifa 2007 up to fc 26. I scraped all players data from the years of the world cup (every 4 years) and stored them into CSVs as my player dataset. The years I have used are: 2010, 2014, 2018, 2022 for training, and 2026 for testing.
 
 
+Step 2:
+
+I scraped the Wikipedia pages that say which squads made to the previous world cups and which players played in those squads at those given years (2010, 2014, 2018, 2022) using getSquad.py. I stored each in a CSV inside the Squads folder. 
+

@@ -1,0 +1,737 @@
+year,team,player_name
+2014,Brazil,Jefferson
+2014,Brazil,Dani Alves
+2014,Brazil,Thiago Silva (c)
+2014,Brazil,David Luiz
+2014,Brazil,Fernandinho
+2014,Brazil,Marcelo
+2014,Brazil,Hulk
+2014,Brazil,Paulinho
+2014,Brazil,Fred
+2014,Brazil,Neymar
+2014,Brazil,Oscar
+2014,Brazil,Júlio César
+2014,Brazil,Dante
+2014,Brazil,Maxwell
+2014,Brazil,Henrique
+2014,Brazil,Ramires
+2014,Brazil,Luiz Gustavo
+2014,Brazil,Hernanes
+2014,Brazil,Willian
+2014,Brazil,Bernard
+2014,Brazil,Jô
+2014,Brazil,Victor
+2014,Brazil,Maicon
+2014,Cameroon,Loïc Feudjou
+2014,Cameroon,Benoît Assou-Ekotto
+2014,Cameroon,Nicolas Nkoulou
+2014,Cameroon,Cédric Djeugoué
+2014,Cameroon,Dany Nounkeu
+2014,Cameroon,Alex Song
+2014,Cameroon,Landry N'Guémo
+2014,Cameroon,Benjamin Moukandjo
+2014,Cameroon,Samuel Eto'o (c)
+2014,Cameroon,Vincent Aboubakar
+2014,Cameroon,Jean Makoun
+2014,Cameroon,Henri Bedimo
+2014,Cameroon,Eric Maxim Choupo-Moting
+2014,Cameroon,Aurélien Chedjou
+2014,Cameroon,Pierre Webó
+2014,Cameroon,Charles Itandje
+2014,Cameroon,Stéphane Mbia
+2014,Cameroon,Eyong Enoh
+2014,Cameroon,Fabrice Olinga
+2014,Cameroon,Edgar Salli
+2014,Cameroon,Joël Matip
+2014,Cameroon,Allan Nyom
+2014,Cameroon,Sammy Ndjock
+2014,Croatia,Stipe Pletikosa
+2014,Croatia,Šime Vrsaljko
+2014,Croatia,Danijel Pranjić
+2014,Croatia,Ivan Perišić
+2014,Croatia,Vedran Ćorluka
+2014,Croatia,Dejan Lovren
+2014,Croatia,Ivan Rakitić
+2014,Croatia,Ognjen Vukojević
+2014,Croatia,Nikica Jelavić
+2014,Croatia,Luka Modrić
+2014,Croatia,Darijo Srna (c)
+2014,Croatia,Oliver Zelenika
+2014,Croatia,Gordon Schildenfeld
+2014,Croatia,Marcelo Brozović
+2014,Croatia,Milan Badelj
+2014,Croatia,Ante Rebić
+2014,Croatia,Mario Mandžukić
+2014,Croatia,Ivica Olić
+2014,Croatia,Sammir
+2014,Croatia,Mateo Kovačić
+2014,Croatia,Domagoj Vida
+2014,Croatia,Eduardo
+2014,Croatia,Danijel Subašić
+2014,Mexico,Jesús Corona
+2014,Mexico,Francisco Javier Rodríguez
+2014,Mexico,Carlos Salcido
+2014,Mexico,Rafael Márquez (c)
+2014,Mexico,Diego Reyes
+2014,Mexico,Héctor Herrera
+2014,Mexico,Miguel Layún
+2014,Mexico,Marco Fabián
+2014,Mexico,Raúl Jiménez
+2014,Mexico,Giovani dos Santos
+2014,Mexico,Alan Pulido
+2014,Mexico,Alfredo Talavera
+2014,Mexico,Guillermo Ochoa
+2014,Mexico,Javier Hernández
+2014,Mexico,Héctor Moreno
+2014,Mexico,Miguel Ángel Ponce
+2014,Mexico,Isaác Brizuela
+2014,Mexico,Andrés Guardado
+2014,Mexico,Oribe Peralta
+2014,Mexico,Javier Aquino
+2014,Mexico,Carlos Peña
+2014,Mexico,Paul Aguilar
+2014,Mexico,José Juan Vázquez
+2014,Australia,Mathew Ryan
+2014,Australia,Ivan Franjic
+2014,Australia,Jason Davidson
+2014,Australia,Tim Cahill
+2014,Australia,Mark Milligan
+2014,Australia,Matthew Spiranovic
+2014,Australia,Mathew Leckie
+2014,Australia,Bailey Wright
+2014,Australia,Adam Taggart
+2014,Australia,Ben Halloran
+2014,Australia,Tommy Oar
+2014,Australia,Mitchell Langerak
+2014,Australia,Oliver Bozanic
+2014,Australia,James Troisi
+2014,Australia,Mile Jedinak (c)
+2014,Australia,James Holland
+2014,Australia,Matt McKay
+2014,Australia,Eugene Galekovic
+2014,Australia,Ryan McGowan
+2014,Australia,Dario Vidošić
+2014,Australia,Massimo Luongo
+2014,Australia,Alex Wilkinson
+2014,Australia,Mark Bresciano
+2014,Chile,Claudio Bravo (c)
+2014,Chile,Eugenio Mena
+2014,Chile,Miiko Albornoz
+2014,Chile,Mauricio Isla
+2014,Chile,Francisco Silva
+2014,Chile,Carlos Carmona
+2014,Chile,Alexis Sánchez
+2014,Chile,Arturo Vidal
+2014,Chile,Mauricio Pinilla
+2014,Chile,Jorge Valdivia
+2014,Chile,Eduardo Vargas
+2014,Chile,Cristopher Toselli
+2014,Chile,José Manuel Rojas
+2014,Chile,Fabián Orellana
+2014,Chile,Jean Beausejour
+2014,Chile,Felipe Gutiérrez
+2014,Chile,Gary Medel
+2014,Chile,Gonzalo Jara
+2014,Chile,José Pedro Fuenzalida
+2014,Chile,Charles Aránguiz
+2014,Chile,Marcelo Díaz
+2014,Chile,Esteban Paredes
+2014,Chile,Johnny Herrera
+2014,Netherlands,Jasper Cillessen
+2014,Netherlands,Ron Vlaar
+2014,Netherlands,Stefan de Vrij
+2014,Netherlands,Bruno Martins Indi
+2014,Netherlands,Daley Blind
+2014,Netherlands,Nigel de Jong
+2014,Netherlands,Daryl Janmaat
+2014,Netherlands,Jonathan de Guzmán
+2014,Netherlands,Robin van Persie (c)
+2014,Netherlands,Wesley Sneijder
+2014,Netherlands,Arjen Robben
+2014,Netherlands,Paul Verhaegh
+2014,Netherlands,Joël Veltman
+2014,Netherlands,Terence Kongolo
+2014,Netherlands,Dirk Kuyt
+2014,Netherlands,Jordy Clasie
+2014,Netherlands,Jeremain Lens
+2014,Netherlands,Leroy Fer
+2014,Netherlands,Klaas-Jan Huntelaar
+2014,Netherlands,Georginio Wijnaldum
+2014,Netherlands,Memphis Depay
+2014,Netherlands,Michel Vorm
+2014,Netherlands,Tim Krul
+2014,Spain,Iker Casillas (c)
+2014,Spain,Raúl Albiol
+2014,Spain,Gerard Piqué
+2014,Spain,Javi Martínez
+2014,Spain,Juanfran
+2014,Spain,Andrés Iniesta
+2014,Spain,David Villa
+2014,Spain,Xavi
+2014,Spain,Fernando Torres
+2014,Spain,Cesc Fàbregas
+2014,Spain,Pedro
+2014,Spain,David de Gea
+2014,Spain,Juan Mata
+2014,Spain,Xabi Alonso
+2014,Spain,Sergio Ramos
+2014,Spain,Sergio Busquets
+2014,Spain,Koke
+2014,Spain,Jordi Alba
+2014,Spain,Diego Costa
+2014,Spain,Santi Cazorla
+2014,Spain,David Silva
+2014,Spain,César Azpilicueta
+2014,Spain,Pepe Reina
+2014,Colombia,David Ospina
+2014,Colombia,Cristián Zapata
+2014,Colombia,Mario Yepes (c)
+2014,Colombia,Santiago Arias
+2014,Colombia,Carlos Carbonero
+2014,Colombia,Carlos Sánchez
+2014,Colombia,Pablo Armero
+2014,Colombia,Abel Aguilar
+2014,Colombia,Teófilo Gutiérrez
+2014,Colombia,James Rodríguez
+2014,Colombia,Juan Cuadrado
+2014,Colombia,Camilo Vargas
+2014,Colombia,Fredy Guarín
+2014,Colombia,Víctor Ibarbo
+2014,Colombia,Alexander Mejía
+2014,Colombia,Éder Álvarez Balanta
+2014,Colombia,Carlos Bacca
+2014,Colombia,Juan Camilo Zúñiga
+2014,Colombia,Adrián Ramos
+2014,Colombia,Juan Fernando Quintero
+2014,Colombia,Jackson Martínez
+2014,Colombia,Faryd Mondragón
+2014,Colombia,Carlos Valdés
+2014,Greece,Orestis Karnezis
+2014,Greece,Giannis Maniatis
+2014,Greece,Giorgos Tzavellas
+2014,Greece,Kostas Manolas
+2014,Greece,Vangelis Moras
+2014,Greece,Alexandros Tziolis
+2014,Greece,Georgios Samaras
+2014,Greece,Panagiotis Kone
+2014,Greece,Kostas Mitroglou
+2014,Greece,Giorgos Karagounis (c)
+2014,Greece,Loukas Vyntra
+2014,Greece,Panagiotis Glykos
+2014,Greece,Stefanos Kapino
+2014,Greece,Dimitris Salpingidis
+2014,Greece,Vasilis Torosidis
+2014,Greece,Lazaros Christodoulopoulos
+2014,Greece,Theofanis Gekas
+2014,Greece,Giannis Fetfatzidis
+2014,Greece,Sokratis Papastathopoulos
+2014,Greece,José Holebas
+2014,Greece,Kostas Katsouranis
+2014,Greece,Andreas Samaris
+2014,Greece,Panagiotis Tachtsidis
+2014,Ivory Coast,Boubacar Barry
+2014,Ivory Coast,Ousmane Viera
+2014,Ivory Coast,Arthur Boka
+2014,Ivory Coast,Kolo Touré
+2014,Ivory Coast,Didier Zokora
+2014,Ivory Coast,Mathis Bolly
+2014,Ivory Coast,Jean-Daniel Akpa Akpro
+2014,Ivory Coast,Salomon Kalou
+2014,Ivory Coast,Cheick Tioté
+2014,Ivory Coast,Gervinho
+2014,Ivory Coast,Didier Drogba (c)
+2014,Ivory Coast,Wilfried Bony
+2014,Ivory Coast,Didier Ya Konan
+2014,Ivory Coast,Ismaël Diomandé
+2014,Ivory Coast,Max Gradel
+2014,Ivory Coast,Sylvain Gbohouo
+2014,Ivory Coast,Serge Aurier
+2014,Ivory Coast,Constant Djakpa
+2014,Ivory Coast,Yaya Touré
+2014,Ivory Coast,Serey Dié
+2014,Ivory Coast,Giovanni Sio
+2014,Ivory Coast,Sol Bamba
+2014,Ivory Coast,Sayouba Mandé
+2014,Japan,Eiji Kawashima
+2014,Japan,Atsuto Uchida
+2014,Japan,Gōtoku Sakai
+2014,Japan,Keisuke Honda
+2014,Japan,Yuto Nagatomo
+2014,Japan,Masato Morishige
+2014,Japan,Yasuhito Endo
+2014,Japan,Hiroshi Kiyotake
+2014,Japan,Shinji Okazaki
+2014,Japan,Shinji Kagawa
+2014,Japan,Yoichiro Kakitani
+2014,Japan,Shusaku Nishikawa
+2014,Japan,Yoshito Ōkubo
+2014,Japan,Toshihiro Aoyama
+2014,Japan,Yasuyuki Konno
+2014,Japan,Hotaru Yamaguchi
+2014,Japan,Makoto Hasebe (c)
+2014,Japan,Yuya Osako
+2014,Japan,Masahiko Inoha
+2014,Japan,Manabu Saitō
+2014,Japan,Hiroki Sakai
+2014,Japan,Maya Yoshida
+2014,Japan,Shūichi Gonda
+2014,Costa Rica,Keylor Navas
+2014,Costa Rica,Jhonny Acosta
+2014,Costa Rica,Giancarlo González
+2014,Costa Rica,Michael Umaña
+2014,Costa Rica,Celso Borges
+2014,Costa Rica,Óscar Duarte
+2014,Costa Rica,Christian Bolaños
+2014,Costa Rica,David Myrie[64]
+2014,Costa Rica,Joel Campbell
+2014,Costa Rica,Bryan Ruiz (c)
+2014,Costa Rica,Michael Barrantes
+2014,Costa Rica,Waylon Francis
+2014,Costa Rica,Óscar Granados
+2014,Costa Rica,Randall Brenes
+2014,Costa Rica,Júnior Díaz
+2014,Costa Rica,Cristian Gamboa
+2014,Costa Rica,Yeltsin Tejeda
+2014,Costa Rica,Patrick Pemberton
+2014,Costa Rica,Roy Miller
+2014,Costa Rica,Diego Calvo
+2014,Costa Rica,Marco Ureña
+2014,Costa Rica,José Miguel Cubero
+2014,Costa Rica,Daniel Cambronero
+2014,England,Joe Hart
+2014,England,Glen Johnson
+2014,England,Leighton Baines
+2014,England,Steven Gerrard (c)
+2014,England,Gary Cahill
+2014,England,Phil Jagielka
+2014,England,Jack Wilshere
+2014,England,Frank Lampard
+2014,England,Daniel Sturridge
+2014,England,Wayne Rooney
+2014,England,Danny Welbeck
+2014,England,Chris Smalling
+2014,England,Ben Foster
+2014,England,Jordan Henderson
+2014,England,Alex Oxlade-Chamberlain
+2014,England,Phil Jones
+2014,England,James Milner
+2014,England,Rickie Lambert
+2014,England,Raheem Sterling
+2014,England,Adam Lallana
+2014,England,Ross Barkley
+2014,England,Fraser Forster
+2014,England,Luke Shaw
+2014,Italy,Gianluigi Buffon (c)
+2014,Italy,Mattia De Sciglio
+2014,Italy,Giorgio Chiellini
+2014,Italy,Matteo Darmian
+2014,Italy,Thiago Motta
+2014,Italy,Antonio Candreva
+2014,Italy,Ignazio Abate
+2014,Italy,Claudio Marchisio
+2014,Italy,Mario Balotelli
+2014,Italy,Antonio Cassano
+2014,Italy,Alessio Cerci
+2014,Italy,Salvatore Sirigu
+2014,Italy,Mattia Perin
+2014,Italy,Alberto Aquilani
+2014,Italy,Andrea Barzagli
+2014,Italy,Daniele De Rossi
+2014,Italy,Ciro Immobile
+2014,Italy,Marco Parolo
+2014,Italy,Leonardo Bonucci
+2014,Italy,Gabriel Paletta
+2014,Italy,Andrea Pirlo
+2014,Italy,Lorenzo Insigne
+2014,Italy,Marco Verratti
+2014,Uruguay,Fernando Muslera
+2014,Uruguay,Diego Lugano
+2014,Uruguay,Diego Godín (c)
+2014,Uruguay,Jorge Fucile
+2014,Uruguay,Walter Gargano
+2014,Uruguay,Álvaro Pereira
+2014,Uruguay,Cristian Rodríguez
+2014,Uruguay,Abel Hernández
+2014,Uruguay,Luis Suárez
+2014,Uruguay,Diego Forlán
+2014,Uruguay,Cristhian Stuani
+2014,Uruguay,Rodrigo Muñoz
+2014,Uruguay,José Giménez
+2014,Uruguay,Nicolás Lodeiro
+2014,Uruguay,Diego Pérez
+2014,Uruguay,Maxi Pereira
+2014,Uruguay,Egidio Arévalo Ríos
+2014,Uruguay,Gastón Ramírez
+2014,Uruguay,Sebastián Coates
+2014,Uruguay,Álvaro González
+2014,Uruguay,Edinson Cavani
+2014,Uruguay,Martín Cáceres
+2014,Uruguay,Martín Silva
+2014,Ecuador,Máximo Banguera
+2014,Ecuador,Jorge Guagua
+2014,Ecuador,Frickson Erazo
+2014,Ecuador,Juan Carlos Paredes
+2014,Ecuador,Renato Ibarra
+2014,Ecuador,Christian Noboa
+2014,Ecuador,Jefferson Montero
+2014,Ecuador,Édison Méndez
+2014,Ecuador,Joao Rojas
+2014,Ecuador,Walter Ayoví
+2014,Ecuador,Felipe Caicedo
+2014,Ecuador,Adrián Bone
+2014,Ecuador,Enner Valencia
+2014,Ecuador,Oswaldo Minda
+2014,Ecuador,Michael Arroyo
+2014,Ecuador,Antonio Valencia (c)
+2014,Ecuador,Jaime Ayoví
+2014,Ecuador,Óscar Bagüí
+2014,Ecuador,Luis Saritama
+2014,Ecuador,Fidel Martínez
+2014,Ecuador,Gabriel Achilier
+2014,Ecuador,Alexander Domínguez
+2014,Ecuador,Carlos Gruezo
+2014,France,Hugo Lloris (c)
+2014,France,Mathieu Debuchy
+2014,France,Patrice Evra
+2014,France,Raphaël Varane
+2014,France,Mamadou Sakho
+2014,France,Yohan Cabaye
+2014,France,Rémy Cabella[90]
+2014,France,Mathieu Valbuena
+2014,France,Olivier Giroud
+2014,France,Karim Benzema
+2014,France,Antoine Griezmann
+2014,France,Rio Mavuba
+2014,France,Eliaquim Mangala
+2014,France,Blaise Matuidi
+2014,France,Bacary Sagna
+2014,France,Stéphane Ruffier[92]
+2014,France,Lucas Digne
+2014,France,Moussa Sissoko
+2014,France,Paul Pogba
+2014,France,Loïc Rémy
+2014,France,Laurent Koscielny
+2014,France,Morgan Schneiderlin[94]
+2014,France,Mickaël Landreau
+2014,Honduras,Luis López
+2014,Honduras,Osman Chávez
+2014,Honduras,Maynor Figueroa
+2014,Honduras,Juan Pablo Montes
+2014,Honduras,Víctor Bernárdez
+2014,Honduras,Juan Carlos García
+2014,Honduras,Emilio Izaguirre
+2014,Honduras,Wilson Palacios
+2014,Honduras,Jerry Palacios
+2014,Honduras,Mario Martínez
+2014,Honduras,Jerry Bengtson
+2014,Honduras,Edder Delgado[97]
+2014,Honduras,Carlo Costly
+2014,Honduras,Boniek García
+2014,Honduras,Roger Espinoza
+2014,Honduras,Rony Martínez
+2014,Honduras,Andy Najar
+2014,Honduras,Noel Valladares (c)
+2014,Honduras,Luis Garrido
+2014,Honduras,Jorge Claros
+2014,Honduras,Brayan Beckeles
+2014,Honduras,Donis Escober
+2014,Honduras,Marvin Chávez
+2014,Switzerland,Diego Benaglio
+2014,Switzerland,Stephan Lichtsteiner
+2014,Switzerland,Reto Ziegler
+2014,Switzerland,Philippe Senderos
+2014,Switzerland,Steve von Bergen
+2014,Switzerland,Michael Lang
+2014,Switzerland,Tranquillo Barnetta
+2014,Switzerland,Gökhan Inler (c)
+2014,Switzerland,Haris Seferovic
+2014,Switzerland,Granit Xhaka
+2014,Switzerland,Valon Behrami
+2014,Switzerland,Yann Sommer
+2014,Switzerland,Ricardo Rodríguez
+2014,Switzerland,Valentin Stocker
+2014,Switzerland,Blerim Džemaili
+2014,Switzerland,Gelson Fernandes
+2014,Switzerland,Mario Gavranović
+2014,Switzerland,Admir Mehmedi
+2014,Switzerland,Josip Drmić
+2014,Switzerland,Johan Djourou
+2014,Switzerland,Roman Bürki
+2014,Switzerland,Fabian Schär
+2014,Switzerland,Xherdan Shaqiri
+2014,Argentina,Sergio Romero
+2014,Argentina,Ezequiel Garay
+2014,Argentina,Hugo Campagnaro
+2014,Argentina,Pablo Zabaleta
+2014,Argentina,Fernando Gago
+2014,Argentina,Lucas Biglia
+2014,Argentina,Ángel Di María
+2014,Argentina,Enzo Pérez
+2014,Argentina,Gonzalo Higuaín
+2014,Argentina,Lionel Messi (c)
+2014,Argentina,Maxi Rodríguez
+2014,Argentina,Agustín Orión
+2014,Argentina,Augusto Fernández
+2014,Argentina,Javier Mascherano
+2014,Argentina,Martín Demichelis
+2014,Argentina,Marcos Rojo
+2014,Argentina,Federico Fernández
+2014,Argentina,Rodrigo Palacio
+2014,Argentina,Ricky Álvarez
+2014,Argentina,Sergio Agüero
+2014,Argentina,Mariano Andújar
+2014,Argentina,Ezequiel Lavezzi
+2014,Argentina,José María Basanta
+2014,Bosnia and Herzegovina,Asmir Begović
+2014,Bosnia and Herzegovina,Avdija Vršajević
+2014,Bosnia and Herzegovina,Ermin Bičakčić
+2014,Bosnia and Herzegovina,Emir Spahić (c)
+2014,Bosnia and Herzegovina,Sead Kolašinac
+2014,Bosnia and Herzegovina,Ognjen Vranješ
+2014,Bosnia and Herzegovina,Muhamed Bešić
+2014,Bosnia and Herzegovina,Miralem Pjanić
+2014,Bosnia and Herzegovina,Vedad Ibišević
+2014,Bosnia and Herzegovina,Zvjezdan Misimović
+2014,Bosnia and Herzegovina,Edin Džeko
+2014,Bosnia and Herzegovina,Jasmin Fejzić
+2014,Bosnia and Herzegovina,Mensur Mujdža
+2014,Bosnia and Herzegovina,Tino-Sven Sušić
+2014,Bosnia and Herzegovina,Toni Šunjić
+2014,Bosnia and Herzegovina,Senad Lulić
+2014,Bosnia and Herzegovina,Senijad Ibričić
+2014,Bosnia and Herzegovina,Haris Medunjanin
+2014,Bosnia and Herzegovina,Edin Višća
+2014,Bosnia and Herzegovina,Izet Hajrović
+2014,Bosnia and Herzegovina,Anel Hadžić
+2014,Bosnia and Herzegovina,Asmir Avdukić
+2014,Bosnia and Herzegovina,Sejad Salihović
+2014,Iran,Rahman Ahmadi
+2014,Iran,Khosro Heydari
+2014,Iran,Ehsan Hajsafi
+2014,Iran,Jalal Hosseini
+2014,Iran,Amir Hossein Sadeghi
+2014,Iran,Javad Nekounam (c)
+2014,Iran,Masoud Shojaei
+2014,Iran,Reza Haghighi
+2014,Iran,Alireza Jahanbakhsh
+2014,Iran,Karim Ansarifard
+2014,Iran,Ghasem Haddadifar
+2014,Iran,Alireza Haghighi
+2014,Iran,Hossein Mahini
+2014,Iran,Andranik Teymourian
+2014,Iran,Pejman Montazeri
+2014,Iran,Reza Ghoochannejhad
+2014,Iran,Ahmad Alenemeh
+2014,Iran,Bakhtiar Rahmani
+2014,Iran,Hashem Beikzadeh
+2014,Iran,Steven Beitashour
+2014,Iran,Ashkan Dejagah
+2014,Iran,Daniel Davari
+2014,Iran,Mehrdad Pooladi
+2014,Nigeria,Vincent Enyeama
+2014,Nigeria,Joseph Yobo (c)
+2014,Nigeria,Ejike Uzoenyi
+2014,Nigeria,Reuben Gabriel
+2014,Nigeria,Efe Ambrose
+2014,Nigeria,Azubuike Egwuekwe
+2014,Nigeria,Ahmed Musa
+2014,Nigeria,Peter Odemwingie
+2014,Nigeria,Emmanuel Emenike
+2014,Nigeria,John Obi Mikel
+2014,Nigeria,Victor Moses
+2014,Nigeria,Kunle Odunlami
+2014,Nigeria,Juwon Oshaniwa
+2014,Nigeria,Godfrey Oboabona
+2014,Nigeria,Ramon Azeez
+2014,Nigeria,Austin Ejide
+2014,Nigeria,Ogenyi Onazi
+2014,Nigeria,Michael Babatunde
+2014,Nigeria,Uche Nwofor
+2014,Nigeria,Michael Uchebo
+2014,Nigeria,Chigozie Agbim
+2014,Nigeria,Kenneth Omeruo
+2014,Nigeria,Shola Ameobi
+2014,Germany,Manuel Neuer
+2014,Germany,Kevin Großkreutz
+2014,Germany,Matthias Ginter
+2014,Germany,Benedikt Höwedes
+2014,Germany,Mats Hummels
+2014,Germany,Sami Khedira
+2014,Germany,Bastian Schweinsteiger
+2014,Germany,Mesut Özil
+2014,Germany,André Schürrle
+2014,Germany,Lukas Podolski
+2014,Germany,Miroslav Klose
+2014,Germany,Ron-Robert Zieler
+2014,Germany,Thomas Müller
+2014,Germany,Julian Draxler
+2014,Germany,Erik Durm
+2014,Germany,Philipp Lahm (c)
+2014,Germany,Per Mertesacker
+2014,Germany,Toni Kroos
+2014,Germany,Mario Götze
+2014,Germany,Jérôme Boateng
+2014,Germany,Shkodran Mustafi
+2014,Germany,Roman Weidenfeller
+2014,Germany,Christoph Kramer
+2014,Ghana,Stephen Adams
+2014,Ghana,Samuel Inkoom
+2014,Ghana,Asamoah Gyan (c)
+2014,Ghana,Daniel Opare
+2014,Ghana,Michael Essien
+2014,Ghana,Afriyie Acquah
+2014,Ghana,Christian Atsu
+2014,Ghana,Emmanuel Agyemang-Badu
+2014,Ghana,Kevin-Prince Boateng
+2014,Ghana,André Ayew
+2014,Ghana,Sulley Muntari
+2014,Ghana,Adam Larsen Kwarasey
+2014,Ghana,Jordan Ayew
+2014,Ghana,Albert Adomah
+2014,Ghana,Rashid Sumaila
+2014,Ghana,Fatau Dauda
+2014,Ghana,Mohammed Rabiu
+2014,Ghana,Abdul Majeed Waris
+2014,Ghana,Jonathan Mensah
+2014,Ghana,Kwadwo Asamoah
+2014,Ghana,John Boye
+2014,Ghana,Mubarak Wakaso
+2014,Ghana,Harrison Afful
+2014,Portugal,Eduardo
+2014,Portugal,Bruno Alves
+2014,Portugal,Pepe
+2014,Portugal,Miguel Veloso
+2014,Portugal,Fábio Coentrão
+2014,Portugal,William Carvalho
+2014,Portugal,Cristiano Ronaldo (c)
+2014,Portugal,João Moutinho
+2014,Portugal,Hugo Almeida
+2014,Portugal,Vieirinha
+2014,Portugal,Eder
+2014,Portugal,Rui Patrício
+2014,Portugal,Ricardo Costa
+2014,Portugal,Luís Neto
+2014,Portugal,Rafa Silva
+2014,Portugal,Raul Meireles
+2014,Portugal,Nani
+2014,Portugal,Silvestre Varela
+2014,Portugal,André Almeida
+2014,Portugal,Ruben Amorim
+2014,Portugal,João Pereira
+2014,Portugal,Beto
+2014,Portugal,Hélder Postiga
+2014,United States,Tim Howard
+2014,United States,DeAndre Yedlin
+2014,United States,Omar Gonzalez
+2014,United States,Michael Bradley
+2014,United States,Matt Besler
+2014,United States,John Brooks
+2014,United States,DaMarcus Beasley
+2014,United States,Clint Dempsey (c)
+2014,United States,Aron Jóhannsson
+2014,United States,Mix Diskerud
+2014,United States,Alejandro Bedoya
+2014,United States,Brad Guzan
+2014,United States,Jermaine Jones
+2014,United States,Brad Davis
+2014,United States,Kyle Beckerman
+2014,United States,Julian Green
+2014,United States,Jozy Altidore
+2014,United States,Chris Wondolowski
+2014,United States,Graham Zusi
+2014,United States,Geoff Cameron
+2014,United States,Timothy Chandler
+2014,United States,Nick Rimando
+2014,United States,Fabian Johnson
+2014,Algeria,Cédric Si Mohamed
+2014,Algeria,Madjid Bougherra (c)
+2014,Algeria,Faouzi Ghoulam
+2014,Algeria,Essaïd Belkalem
+2014,Algeria,Rafik Halliche
+2014,Algeria,Djamel Mesbah
+2014,Algeria,Hassan Yebda
+2014,Algeria,Mehdi Lacen
+2014,Algeria,Nabil Ghilas
+2014,Algeria,Sofiane Feghouli
+2014,Algeria,Yacine Brahimi
+2014,Algeria,Carl Medjani
+2014,Algeria,Islam Slimani
+2014,Algeria,Nabil Bentaleb
+2014,Algeria,Hillal Soudani
+2014,Algeria,Mohamed Lamine Zemmamouche
+2014,Algeria,Liassine Cadamuro-Bentaïba
+2014,Algeria,Abdelmoumene Djabou
+2014,Algeria,Saphir Taïder
+2014,Algeria,Aïssa Mandi
+2014,Algeria,Riyad Mahrez
+2014,Algeria,Mehdi Mostefa
+2014,Algeria,Raïs M'Bolhi
+2014,Belgium,Thibaut Courtois
+2014,Belgium,Toby Alderweireld
+2014,Belgium,Thomas Vermaelen
+2014,Belgium,Vincent Kompany (c)
+2014,Belgium,Jan Vertonghen
+2014,Belgium,Axel Witsel
+2014,Belgium,Kevin De Bruyne
+2014,Belgium,Marouane Fellaini
+2014,Belgium,Romelu Lukaku
+2014,Belgium,Eden Hazard
+2014,Belgium,Kevin Mirallas
+2014,Belgium,Simon Mignolet
+2014,Belgium,Sammy Bossut
+2014,Belgium,Dries Mertens
+2014,Belgium,Daniel Van Buyten
+2014,Belgium,Steven Defour
+2014,Belgium,Divock Origi
+2014,Belgium,Nicolas Lombaerts
+2014,Belgium,Mousa Dembélé
+2014,Belgium,Adnan Januzaj
+2014,Belgium,Anthony Vanden Borre
+2014,Belgium,Nacer Chadli
+2014,Belgium,Laurent Ciman
+2014,Russia,Igor Akinfeev
+2014,Russia,Aleksei Kozlov
+2014,Russia,Georgi Shchennikov
+2014,Russia,Sergei Ignashevich
+2014,Russia,Andrei Semyonov
+2014,Russia,Maksim Kanunnikov
+2014,Russia,Igor Denisov
+2014,Russia,Denis Glushakov
+2014,Russia,Aleksandr Kokorin
+2014,Russia,Alan Dzagoev
+2014,Russia,Aleksandr Kerzhakov
+2014,Russia,Yuri Lodygin
+2014,Russia,Vladimir Granat
+2014,Russia,Vasili Berezutski (c)
+2014,Russia,Pavel Mogilevets
+2014,Russia,Sergey Ryzhikov
+2014,Russia,Oleg Shatov
+2014,Russia,Yuri Zhirkov
+2014,Russia,Aleksandr Samedov
+2014,Russia,Viktor Fayzulin
+2014,Russia,Aleksei Ionov
+2014,Russia,Andrey Yeshchenko
+2014,Russia,Dmitri Kombarov
+2014,South Korea,Jung Sung-ryong
+2014,South Korea,Kim Chang-soo
+2014,South Korea,Yun Suk-young
+2014,South Korea,Kwak Tae-hwi
+2014,South Korea,Kim Young-gwon
+2014,South Korea,Hwang Seok-ho
+2014,South Korea,Kim Bo-kyung
+2014,South Korea,Ha Dae-sung
+2014,South Korea,Son Heung-min
+2014,South Korea,Park Chu-young
+2014,South Korea,Lee Keun-ho
+2014,South Korea,Lee Yong
+2014,South Korea,Koo Ja-cheol (c)
+2014,South Korea,Han Kook-young
+2014,South Korea,Park Jong-woo
+2014,South Korea,Ki Sung-yueng
+2014,South Korea,Lee Chung-yong
+2014,South Korea,Kim Shin-wook
+2014,South Korea,Ji Dong-won
+2014,South Korea,Hong Jeong-ho
+2014,South Korea,Kim Seung-gyu
+2014,South Korea,Park Joo-ho[159]
+2014,South Korea,Lee Bum-young

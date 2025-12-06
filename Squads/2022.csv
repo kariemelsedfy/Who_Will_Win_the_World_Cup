@@ -1,0 +1,832 @@
+year,team,player_name
+2022,Ecuador,Hernán Galíndez
+2022,Ecuador,Félix Torres
+2022,Ecuador,Piero Hincapié
+2022,Ecuador,Robert Arboleda
+2022,Ecuador,José Cifuentes
+2022,Ecuador,Willian Pacho
+2022,Ecuador,Pervis Estupiñán
+2022,Ecuador,Carlos Gruezo
+2022,Ecuador,Ayrton Preciado
+2022,Ecuador,Romario Ibarra
+2022,Ecuador,Michael Estrada
+2022,Ecuador,Moisés Ramírez
+2022,Ecuador,Enner Valencia (captain)
+2022,Ecuador,Xavier Arreaga
+2022,Ecuador,Ángel Mena
+2022,Ecuador,Jeremy Sarmiento
+2022,Ecuador,Ángelo Preciado
+2022,Ecuador,Diego Palacios
+2022,Ecuador,Gonzalo Plata
+2022,Ecuador,Sebas Méndez
+2022,Ecuador,Alan Franco
+2022,Ecuador,Alexander Domínguez
+2022,Ecuador,Moisés Caicedo
+2022,Ecuador,Djorkaeff Reasco
+2022,Ecuador,Jackson Porozo
+2022,Ecuador,Kevin Rodríguez
+2022,Netherlands,Remko Pasveer
+2022,Netherlands,Jurriën Timber
+2022,Netherlands,Matthijs de Ligt
+2022,Netherlands,Virgil van Dijk (captain)
+2022,Netherlands,Nathan Aké
+2022,Netherlands,Stefan de Vrij
+2022,Netherlands,Steven Bergwijn
+2022,Netherlands,Cody Gakpo
+2022,Netherlands,Luuk de Jong
+2022,Netherlands,Memphis Depay
+2022,Netherlands,Steven Berghuis
+2022,Netherlands,Noa Lang
+2022,Netherlands,Justin Bijlow
+2022,Netherlands,Davy Klaassen
+2022,Netherlands,Marten de Roon
+2022,Netherlands,Tyrell Malacia
+2022,Netherlands,Daley Blind
+2022,Netherlands,Vincent Janssen
+2022,Netherlands,Wout Weghorst
+2022,Netherlands,Teun Koopmeiners
+2022,Netherlands,Frenkie de Jong
+2022,Netherlands,Denzel Dumfries
+2022,Netherlands,Andries Noppert
+2022,Netherlands,Kenneth Taylor
+2022,Netherlands,Xavi Simons
+2022,Netherlands,Jeremie Frimpong
+2022,Qatar,Saad Al-Sheeb
+2022,Qatar,Pedro Miguel
+2022,Qatar,Abdelkarim Hassan
+2022,Qatar,Mohammed Waad
+2022,Qatar,Tarek Salman
+2022,Qatar,Abdulaziz Hatem
+2022,Qatar,Ahmed Alaaeldin
+2022,Qatar,Ali Assadalla
+2022,Qatar,Mohammed Muntari
+2022,Qatar,Hassan Al-Haydos (captain)
+2022,Qatar,Akram Afif
+2022,Qatar,Karim Boudiaf
+2022,Qatar,Musab Kheder
+2022,Qatar,Homam Ahmed
+2022,Qatar,Bassam Al-Rawi
+2022,Qatar,Boualem Khoukhi
+2022,Qatar,Ismaeel Mohammad
+2022,Qatar,Khalid Muneer
+2022,Qatar,Almoez Ali
+2022,Qatar,Salem Al-Hajri
+2022,Qatar,Yousef Hassan
+2022,Qatar,Meshaal Barsham
+2022,Qatar,Assim Madibo
+2022,Qatar,Naif Al-Hadhrami
+2022,Qatar,Jassem Gaber
+2022,Qatar,Mostafa Meshaal
+2022,Senegal,Seny Dieng
+2022,Senegal,Formose Mendy
+2022,Senegal,Kalidou Koulibaly (captain)
+2022,Senegal,Pape Abou Cissé
+2022,Senegal,Idrissa Gueye
+2022,Senegal,Nampalys Mendy
+2022,Senegal,Nicolas Jackson
+2022,Senegal,Cheikhou Kouyaté
+2022,Senegal,Boulaye Dia
+2022,Senegal,Moussa N'Diaye
+2022,Senegal,Pathé Ciss
+2022,Senegal,Fodé Ballo-Touré
+2022,Senegal,Iliman Ndiaye
+2022,Senegal,Ismail Jakobs
+2022,Senegal,Krépin Diatta
+2022,Senegal,Édouard Mendy
+2022,Senegal,Pape Matar Sarr
+2022,Senegal,Ismaïla Sarr
+2022,Senegal,Famara Diédhiou
+2022,Senegal,Bamba Dieng
+2022,Senegal,Youssouf Sabaly
+2022,Senegal,Abdou Diallo
+2022,Senegal,Alfred Gomis
+2022,Senegal,Moustapha Name
+2022,Senegal,Mamadou Loum
+2022,Senegal,Pape Gueye
+2022,England,Jordan Pickford
+2022,England,Kyle Walker
+2022,England,Luke Shaw
+2022,England,Declan Rice
+2022,England,John Stones
+2022,England,Harry Maguire
+2022,England,Jack Grealish
+2022,England,Jordan Henderson
+2022,England,Harry Kane (captain)
+2022,England,Raheem Sterling
+2022,England,Marcus Rashford
+2022,England,Kieran Trippier
+2022,England,Nick Pope
+2022,England,Kalvin Phillips
+2022,England,Eric Dier
+2022,England,Conor Coady
+2022,England,Bukayo Saka
+2022,England,Trent Alexander-Arnold
+2022,England,Mason Mount
+2022,England,Phil Foden
+2022,England,Ben White
+2022,England,Jude Bellingham
+2022,England,Aaron Ramsdale
+2022,England,Callum Wilson
+2022,England,James Maddison
+2022,England,Conor Gallagher
+2022,Iran,Alireza Beiranvand
+2022,Iran,Sadegh Moharrami
+2022,Iran,Ehsan Hajsafi (captain)
+2022,Iran,Shojae Khalilzadeh
+2022,Iran,Milad Mohammadi
+2022,Iran,Saeid Ezatolahi
+2022,Iran,Alireza Jahanbakhsh
+2022,Iran,Morteza Pouraliganji
+2022,Iran,Mehdi Taremi
+2022,Iran,Karim Ansarifard
+2022,Iran,Vahid Amiri
+2022,Iran,Payam Niazmand
+2022,Iran,Hossein Kanaanizadegan
+2022,Iran,Saman Ghoddos
+2022,Iran,Rouzbeh Cheshmi
+2022,Iran,Mehdi Torabi
+2022,Iran,Ali Gholizadeh
+2022,Iran,Ali Karimi
+2022,Iran,Majid Hosseini
+2022,Iran,Sardar Azmoun
+2022,Iran,Ahmad Nourollahi
+2022,Iran,Amir Abedzadeh
+2022,Iran,Ramin Rezaeian
+2022,Iran,Hossein Hosseini
+2022,Iran,Abolfazl Jalali
+2022,United States,Matt Turner
+2022,United States,Sergiño Dest
+2022,United States,Walker Zimmerman
+2022,United States,Tyler Adams (captain)
+2022,United States,Antonee Robinson
+2022,United States,Yunus Musah
+2022,United States,Giovanni Reyna
+2022,United States,Weston McKennie
+2022,United States,Jesús Ferreira
+2022,United States,Christian Pulisic
+2022,United States,Brenden Aaronson
+2022,United States,Ethan Horvath
+2022,United States,Tim Ream
+2022,United States,Luca de la Torre
+2022,United States,Aaron Long
+2022,United States,Jordan Morris
+2022,United States,Cristian Roldan
+2022,United States,Shaq Moore
+2022,United States,Haji Wright
+2022,United States,Cameron Carter-Vickers
+2022,United States,Timothy Weah
+2022,United States,DeAndre Yedlin
+2022,United States,Kellyn Acosta
+2022,United States,Josh Sargent
+2022,United States,Sean Johnson
+2022,United States,Joe Scally
+2022,Wales,Wayne Hennessey
+2022,Wales,Chris Gunter
+2022,Wales,Neco Williams
+2022,Wales,Ben Davies
+2022,Wales,Chris Mepham
+2022,Wales,Joe Rodon
+2022,Wales,Joe Allen
+2022,Wales,Harry Wilson
+2022,Wales,Brennan Johnson
+2022,Wales,Aaron Ramsey
+2022,Wales,Gareth Bale (captain)
+2022,Wales,Danny Ward
+2022,Wales,Kieffer Moore
+2022,Wales,Connor Roberts
+2022,Wales,Ethan Ampadu
+2022,Wales,Joe Morrell
+2022,Wales,Tom Lockyer
+2022,Wales,Jonny Williams
+2022,Wales,Mark Harris
+2022,Wales,Daniel James
+2022,Wales,Adam Davies
+2022,Wales,Sorba Thomas
+2022,Wales,Dylan Levitt
+2022,Wales,Ben Cabango
+2022,Wales,Rubin Colwill
+2022,Wales,Matthew Smith
+2022,Argentina,Franco Armani
+2022,Argentina,Juan Foyth
+2022,Argentina,Nicolás Tagliafico
+2022,Argentina,Gonzalo Montiel
+2022,Argentina,Leandro Paredes
+2022,Argentina,Germán Pezzella
+2022,Argentina,Rodrigo De Paul
+2022,Argentina,Marcos Acuña
+2022,Argentina,Julián Alvarez
+2022,Argentina,Lionel Messi (captain)
+2022,Argentina,Ángel Di María
+2022,Argentina,Gerónimo Rulli
+2022,Argentina,Cristian Romero
+2022,Argentina,Exequiel Palacios
+2022,Argentina,Ángel Correa
+2022,Argentina,Thiago Almada
+2022,Argentina,Papu Gómez
+2022,Argentina,Guido Rodríguez
+2022,Argentina,Nicolás Otamendi
+2022,Argentina,Alexis Mac Allister
+2022,Argentina,Paulo Dybala
+2022,Argentina,Lautaro Martínez
+2022,Argentina,Emiliano Martínez
+2022,Argentina,Enzo Fernández
+2022,Argentina,Lisandro Martínez
+2022,Argentina,Nahuel Molina
+2022,Mexico,Alfredo Talavera
+2022,Mexico,Néstor Araujo
+2022,Mexico,César Montes
+2022,Mexico,Edson Álvarez
+2022,Mexico,Johan Vásquez
+2022,Mexico,Gerardo Arteaga
+2022,Mexico,Luis Romo
+2022,Mexico,Carlos Rodríguez
+2022,Mexico,Raúl Jiménez
+2022,Mexico,Alexis Vega
+2022,Mexico,Rogelio Funes Mori
+2022,Mexico,Rodolfo Cota
+2022,Mexico,Guillermo Ochoa
+2022,Mexico,Érick Gutiérrez
+2022,Mexico,Héctor Moreno
+2022,Mexico,Héctor Herrera
+2022,Mexico,Orbelín Pineda
+2022,Mexico,Andrés Guardado (captain)
+2022,Mexico,Jorge Sánchez
+2022,Mexico,Henry Martín
+2022,Mexico,Uriel Antuna
+2022,Mexico,Hirving Lozano
+2022,Mexico,Jesús Gallardo
+2022,Mexico,Luis Chávez
+2022,Mexico,Roberto Alvarado
+2022,Mexico,Kevin Álvarez
+2022,Poland,Wojciech Szczęsny
+2022,Poland,Matty Cash
+2022,Poland,Artur Jędrzejczyk
+2022,Poland,Mateusz Wieteska
+2022,Poland,Jan Bednarek
+2022,Poland,Krystian Bielik
+2022,Poland,Arkadiusz Milik
+2022,Poland,Damian Szymański
+2022,Poland,Robert Lewandowski (captain)
+2022,Poland,Grzegorz Krychowiak
+2022,Poland,Kamil Grosicki
+2022,Poland,Łukasz Skorupski
+2022,Poland,Jakub Kamiński
+2022,Poland,Jakub Kiwior
+2022,Poland,Kamil Glik
+2022,Poland,Karol Świderski
+2022,Poland,Szymon Żurkowski
+2022,Poland,Bartosz Bereszyński
+2022,Poland,Sebastian Szymański
+2022,Poland,Piotr Zieliński
+2022,Poland,Nicola Zalewski
+2022,Poland,Kamil Grabara
+2022,Poland,Krzysztof Piątek
+2022,Poland,Przemysław Frankowski
+2022,Poland,Robert Gumny
+2022,Poland,Michał Skóraś
+2022,Saudi Arabia,Mohammed Al-Rubaie
+2022,Saudi Arabia,Sultan Al-Ghannam
+2022,Saudi Arabia,Abdullah Madu
+2022,Saudi Arabia,Abdulelah Al-Amri
+2022,Saudi Arabia,Ali Al-Bulaihi
+2022,Saudi Arabia,Mohammed Al-Breik
+2022,Saudi Arabia,Salman Al-Faraj (captain)
+2022,Saudi Arabia,Abdulellah Al-Malki
+2022,Saudi Arabia,Firas Al-Buraikan
+2022,Saudi Arabia,Salem Al-Dawsari
+2022,Saudi Arabia,Saleh Al-Shehri
+2022,Saudi Arabia,Saud Abdulhamid
+2022,Saudi Arabia,Yasser Al-Shahrani
+2022,Saudi Arabia,Abdullah Otayf
+2022,Saudi Arabia,Ali Al-Hassan
+2022,Saudi Arabia,Sami Al-Najei
+2022,Saudi Arabia,Hassan Al-Tambakti
+2022,Saudi Arabia,Nawaf Al-Abed
+2022,Saudi Arabia,Hattan Bahebri
+2022,Saudi Arabia,Abdulrahman Al-Aboud
+2022,Saudi Arabia,Mohammed Al-Owais
+2022,Saudi Arabia,Nawaf Al-Aqidi
+2022,Saudi Arabia,Mohamed Kanno
+2022,Saudi Arabia,Nasser Al-Dawsari
+2022,Saudi Arabia,Haitham Asiri
+2022,Saudi Arabia,Riyadh Sharahili
+2022,Australia,Mathew Ryan (captain)
+2022,Australia,Miloš Degenek
+2022,Australia,Nathaniel Atkinson
+2022,Australia,Kye Rowles
+2022,Australia,Fran Karačić
+2022,Australia,Marco Tilio
+2022,Australia,Mathew Leckie
+2022,Australia,Bailey Wright
+2022,Australia,Jamie Maclaren
+2022,Australia,Ajdin Hrustic
+2022,Australia,Awer Mabil
+2022,Australia,Andrew Redmayne
+2022,Australia,Aaron Mooy
+2022,Australia,Riley McGree
+2022,Australia,Mitchell Duke
+2022,Australia,Aziz Behich
+2022,Australia,Cameron Devlin
+2022,Australia,Danny Vukovic
+2022,Australia,Harry Souttar
+2022,Australia,Thomas Deng
+2022,Australia,Garang Kuol
+2022,Australia,Jackson Irvine
+2022,Australia,Craig Goodwin
+2022,Australia,Joel King
+2022,Australia,Jason Cummings
+2022,Australia,Keanu Baccus
+2022,Denmark,Kasper Schmeichel
+2022,Denmark,Joachim Andersen
+2022,Denmark,Victor Nelsson
+2022,Denmark,Simon Kjær (captain)
+2022,Denmark,Joakim Mæhle
+2022,Denmark,Andreas Christensen
+2022,Denmark,Mathias Jensen
+2022,Denmark,Thomas Delaney
+2022,Denmark,Martin Braithwaite
+2022,Denmark,Christian Eriksen
+2022,Denmark,Andreas Skov Olsen
+2022,Denmark,Kasper Dolberg
+2022,Denmark,Rasmus Kristensen
+2022,Denmark,Mikkel Damsgaard
+2022,Denmark,Christian Nørgaard
+2022,Denmark,Oliver Christensen
+2022,Denmark,Jens Stryger Larsen
+2022,Denmark,Daniel Wass
+2022,Denmark,Jonas Wind
+2022,Denmark,Yussuf Poulsen
+2022,Denmark,Andreas Cornelius
+2022,Denmark,Frederik Rønnow
+2022,Denmark,Pierre-Emile Højbjerg
+2022,Denmark,Robert Skov
+2022,Denmark,Jesper Lindstrøm
+2022,Denmark,Alexander Bah
+2022,France,Hugo Lloris (captain)
+2022,France,Benjamin Pavard
+2022,France,Axel Disasi
+2022,France,Raphaël Varane
+2022,France,Jules Koundé
+2022,France,Mattéo Guendouzi
+2022,France,Antoine Griezmann
+2022,France,Aurélien Tchouaméni
+2022,France,Olivier Giroud
+2022,France,Kylian Mbappé
+2022,France,Ousmane Dembélé
+2022,France,Randal Kolo Muani
+2022,France,Youssouf Fofana
+2022,France,Adrien Rabiot
+2022,France,Jordan Veretout
+2022,France,Steve Mandanda
+2022,France,William Saliba
+2022,France,Dayot Upamecano
+2022,France,Karim Benzema
+2022,France,Kingsley Coman
+2022,France,Lucas Hernandez
+2022,France,Théo Hernandez
+2022,France,Alphonse Areola
+2022,France,Ibrahima Konaté
+2022,France,Eduardo Camavinga
+2022,France,Marcus Thuram
+2022,Tunisia,Aymen Mathlouthi
+2022,Tunisia,Bilel Ifa
+2022,Tunisia,Montassar Talbi
+2022,Tunisia,Yassine Meriah
+2022,Tunisia,Nader Ghandri
+2022,Tunisia,Dylan Bronn
+2022,Tunisia,Youssef Msakni (captain)
+2022,Tunisia,Hannibal Mejbri
+2022,Tunisia,Issam Jebali
+2022,Tunisia,Wahbi Khazri
+2022,Tunisia,Taha Yassine Khenissi
+2022,Tunisia,Ali Maâloul
+2022,Tunisia,Ferjani Sassi
+2022,Tunisia,Aïssa Laïdouni
+2022,Tunisia,Mohamed Ali Ben Romdhane
+2022,Tunisia,Aymen Dahmen
+2022,Tunisia,Ellyes Skhiri
+2022,Tunisia,Ghailene Chaalali
+2022,Tunisia,Seifeddine Jaziri
+2022,Tunisia,Mohamed Dräger
+2022,Tunisia,Wajdi Kechrida
+2022,Tunisia,Bechir Ben Saïd
+2022,Tunisia,Naïm Sliti
+2022,Tunisia,Ali Abdi
+2022,Tunisia,Anis Ben Slimane
+2022,Tunisia,Mouez Hassen
+2022,Costa Rica,Keylor Navas
+2022,Costa Rica,Daniel Chacón
+2022,Costa Rica,Juan Pablo Vargas
+2022,Costa Rica,Keysher Fuller
+2022,Costa Rica,Celso Borges
+2022,Costa Rica,Óscar Duarte
+2022,Costa Rica,Anthony Contreras
+2022,Costa Rica,Bryan Oviedo
+2022,Costa Rica,Jewison Bennette
+2022,Costa Rica,Bryan Ruiz (captain)
+2022,Costa Rica,Johan Venegas
+2022,Costa Rica,Joel Campbell
+2022,Costa Rica,Gerson Torres
+2022,Costa Rica,Youstin Salas
+2022,Costa Rica,Francisco Calvo
+2022,Costa Rica,Carlos Martínez
+2022,Costa Rica,Yeltsin Tejeda
+2022,Costa Rica,Esteban Alvarado
+2022,Costa Rica,Kendall Waston
+2022,Costa Rica,Brandon Aguilera
+2022,Costa Rica,Douglas López
+2022,Costa Rica,Rónald Matarrita
+2022,Costa Rica,Patrick Sequeira
+2022,Costa Rica,Roan Wilson
+2022,Costa Rica,Anthony Hernández
+2022,Costa Rica,Álvaro Zamora
+2022,Germany,Manuel Neuer (captain)
+2022,Germany,Antonio Rüdiger
+2022,Germany,David Raum
+2022,Germany,Matthias Ginter
+2022,Germany,Thilo Kehrer
+2022,Germany,Joshua Kimmich
+2022,Germany,Kai Havertz
+2022,Germany,Leon Goretzka
+2022,Germany,Niclas Füllkrug
+2022,Germany,Serge Gnabry
+2022,Germany,Mario Götze
+2022,Germany,Kevin Trapp
+2022,Germany,Thomas Müller
+2022,Germany,Jamal Musiala
+2022,Germany,Niklas Süle
+2022,Germany,Lukas Klostermann
+2022,Germany,Julian Brandt
+2022,Germany,Jonas Hofmann
+2022,Germany,Leroy Sané
+2022,Germany,Christian Günter
+2022,Germany,İlkay Gündoğan
+2022,Germany,Marc-André ter Stegen
+2022,Germany,Nico Schlotterbeck
+2022,Germany,Karim Adeyemi
+2022,Germany,Armel Bella-Kotchap
+2022,Germany,Youssoufa Moukoko
+2022,Japan,Eiji Kawashima
+2022,Japan,Miki Yamane
+2022,Japan,Shōgo Taniguchi
+2022,Japan,Kō Itakura
+2022,Japan,Yūto Nagatomo
+2022,Japan,Wataru Endō
+2022,Japan,Gaku Shibasaki
+2022,Japan,Ritsu Dōan
+2022,Japan,Kaoru Mitoma
+2022,Japan,Takumi Minamino
+2022,Japan,Takefusa Kubo
+2022,Japan,Shūichi Gonda
+2022,Japan,Hidemasa Morita
+2022,Japan,Junya Itō
+2022,Japan,Daichi Kamada
+2022,Japan,Takehiro Tomiyasu
+2022,Japan,Ao Tanaka
+2022,Japan,Takuma Asano
+2022,Japan,Hiroki Sakai
+2022,Japan,Shūto Machino
+2022,Japan,Ayase Ueda
+2022,Japan,Maya Yoshida (captain)
+2022,Japan,Daniel Schmidt
+2022,Japan,Yūki Sōma
+2022,Japan,Daizen Maeda
+2022,Japan,Hiroki Itō
+2022,Spain,Robert Sánchez
+2022,Spain,César Azpilicueta
+2022,Spain,Eric García
+2022,Spain,Pau Torres
+2022,Spain,Sergio Busquets (captain)
+2022,Spain,Marcos Llorente
+2022,Spain,Álvaro Morata
+2022,Spain,Koke
+2022,Spain,Gavi
+2022,Spain,Marco Asensio
+2022,Spain,Ferran Torres
+2022,Spain,Nico Williams
+2022,Spain,David Raya
+2022,Spain,Alejandro Balde
+2022,Spain,Hugo Guillamón
+2022,Spain,Rodri
+2022,Spain,Yeremy Pino
+2022,Spain,Jordi Alba
+2022,Spain,Carlos Soler
+2022,Spain,Dani Carvajal
+2022,Spain,Dani Olmo
+2022,Spain,Pablo Sarabia
+2022,Spain,Unai Simón
+2022,Spain,Aymeric Laporte
+2022,Spain,Ansu Fati
+2022,Spain,Pedri
+2022,Belgium,Thibaut Courtois
+2022,Belgium,Toby Alderweireld
+2022,Belgium,Arthur Theate
+2022,Belgium,Wout Faes
+2022,Belgium,Jan Vertonghen
+2022,Belgium,Axel Witsel
+2022,Belgium,Kevin De Bruyne
+2022,Belgium,Youri Tielemans
+2022,Belgium,Romelu Lukaku
+2022,Belgium,Eden Hazard (captain)
+2022,Belgium,Yannick Carrasco
+2022,Belgium,Simon Mignolet
+2022,Belgium,Koen Casteels
+2022,Belgium,Dries Mertens
+2022,Belgium,Thomas Meunier
+2022,Belgium,Thorgan Hazard
+2022,Belgium,Leandro Trossard
+2022,Belgium,Amadou Onana
+2022,Belgium,Leander Dendoncker
+2022,Belgium,Hans Vanaken
+2022,Belgium,Timothy Castagne
+2022,Belgium,Charles De Ketelaere
+2022,Belgium,Michy Batshuayi
+2022,Belgium,Loïs Openda
+2022,Belgium,Jérémy Doku
+2022,Belgium,Zeno Debast
+2022,Canada,Dayne St. Clair
+2022,Canada,Alistair Johnston
+2022,Canada,Sam Adekugbe
+2022,Canada,Kamal Miller
+2022,Canada,Steven Vitória
+2022,Canada,Samuel Piette
+2022,Canada,Stephen Eustáquio
+2022,Canada,Liam Fraser
+2022,Canada,Lucas Cavallini
+2022,Canada,Junior Hoilett
+2022,Canada,Tajon Buchanan
+2022,Canada,Iké Ugbo
+2022,Canada,Atiba Hutchinson (captain)
+2022,Canada,Mark-Anthony Kaye
+2022,Canada,Ismaël Koné
+2022,Canada,James Pantemis
+2022,Canada,Cyle Larin
+2022,Canada,Milan Borjan
+2022,Canada,Alphonso Davies
+2022,Canada,Jonathan David
+2022,Canada,Jonathan Osorio
+2022,Canada,Richie Laryea
+2022,Canada,Liam Millar
+2022,Canada,David Wotherspoon
+2022,Canada,Derek Cornelius
+2022,Canada,Joel Waterman
+2022,Croatia,Dominik Livaković
+2022,Croatia,Josip Stanišić
+2022,Croatia,Borna Barišić
+2022,Croatia,Ivan Perišić
+2022,Croatia,Martin Erlić
+2022,Croatia,Dejan Lovren
+2022,Croatia,Lovro Majer
+2022,Croatia,Mateo Kovačić
+2022,Croatia,Andrej Kramarić
+2022,Croatia,Luka Modrić (captain)
+2022,Croatia,Marcelo Brozović
+2022,Croatia,Ivo Grbić
+2022,Croatia,Nikola Vlašić
+2022,Croatia,Marko Livaja
+2022,Croatia,Mario Pašalić
+2022,Croatia,Bruno Petković
+2022,Croatia,Ante Budimir
+2022,Croatia,Mislav Oršić
+2022,Croatia,Borna Sosa
+2022,Croatia,Joško Gvardiol
+2022,Croatia,Domagoj Vida
+2022,Croatia,Josip Juranović
+2022,Croatia,Ivica Ivušić
+2022,Croatia,Josip Šutalo
+2022,Croatia,Luka Sučić
+2022,Croatia,Kristijan Jakić
+2022,Morocco,Yassine Bounou
+2022,Morocco,Achraf Hakimi
+2022,Morocco,Noussair Mazraoui
+2022,Morocco,Sofyan Amrabat
+2022,Morocco,Nayef Aguerd
+2022,Morocco,Romain Saïss (captain)
+2022,Morocco,Hakim Ziyech
+2022,Morocco,Azzedine Ounahi
+2022,Morocco,Abderrazak Hamdallah
+2022,Morocco,Anass Zaroury
+2022,Morocco,Abdelhamid Sabiri
+2022,Morocco,Munir Mohamedi
+2022,Morocco,Ilias Chair
+2022,Morocco,Zakaria Aboukhlal
+2022,Morocco,Selim Amallah
+2022,Morocco,Abde Ezzalzouli
+2022,Morocco,Sofiane Boufal
+2022,Morocco,Jawad El Yamiq
+2022,Morocco,Youssef En-Nesyri
+2022,Morocco,Achraf Dari
+2022,Morocco,Walid Cheddira
+2022,Morocco,Ahmed Reda Tagnaouti
+2022,Morocco,Bilal El Khannous
+2022,Morocco,Badr Benoun
+2022,Morocco,Yahia Attiyat Allah
+2022,Morocco,Yahya Jabrane
+2022,Brazil,Alisson
+2022,Brazil,Danilo
+2022,Brazil,Thiago Silva (captain)
+2022,Brazil,Marquinhos
+2022,Brazil,Casemiro
+2022,Brazil,Alex Sandro
+2022,Brazil,Lucas Paquetá
+2022,Brazil,Fred
+2022,Brazil,Richarlison
+2022,Brazil,Neymar
+2022,Brazil,Raphinha
+2022,Brazil,Weverton
+2022,Brazil,Dani Alves
+2022,Brazil,Éder Militão
+2022,Brazil,Fabinho
+2022,Brazil,Alex Telles
+2022,Brazil,Bruno Guimarães
+2022,Brazil,Gabriel Jesus
+2022,Brazil,Antony
+2022,Brazil,Vinícius Júnior
+2022,Brazil,Rodrygo
+2022,Brazil,Éverton Ribeiro
+2022,Brazil,Ederson
+2022,Brazil,Bremer
+2022,Brazil,Pedro
+2022,Brazil,Gabriel Martinelli
+2022,Cameroon,Simon Ngapandouetnbu
+2022,Cameroon,Jerome Ngom Mbekeli
+2022,Cameroon,Nicolas Nkoulou
+2022,Cameroon,Christopher Wooh
+2022,Cameroon,Gaël Ondoua
+2022,Cameroon,Moumi Ngamaleu
+2022,Cameroon,Georges-Kévin Nkoudou
+2022,Cameroon,André-Frank Zambo Anguissa
+2022,Cameroon,Jean-Pierre Nsame
+2022,Cameroon,Vincent Aboubakar (captain)
+2022,Cameroon,Christian Bassogog
+2022,Cameroon,Karl Toko Ekambi
+2022,Cameroon,Eric Maxim Choupo-Moting
+2022,Cameroon,Samuel Gouet
+2022,Cameroon,Pierre Kunde
+2022,Cameroon,Devis Epassy
+2022,Cameroon,Olivier Mbaizo
+2022,Cameroon,Martin Hongla
+2022,Cameroon,Collins Fai
+2022,Cameroon,Bryan Mbeumo
+2022,Cameroon,Jean-Charles Castelletto
+2022,Cameroon,Olivier Ntcham
+2022,Cameroon,André Onana
+2022,Cameroon,Enzo Ebosse
+2022,Cameroon,Nouhou Tolo
+2022,Cameroon,Souaibou Marou
+2022,Serbia,Marko Dmitrović
+2022,Serbia,Strahinja Pavlović
+2022,Serbia,Strahinja Eraković
+2022,Serbia,Nikola Milenković
+2022,Serbia,Miloš Veljković
+2022,Serbia,Nemanja Maksimović
+2022,Serbia,Nemanja Radonjić
+2022,Serbia,Nemanja Gudelj
+2022,Serbia,Aleksandar Mitrović
+2022,Serbia,Dušan Tadić (captain)
+2022,Serbia,Luka Jović
+2022,Serbia,Predrag Rajković
+2022,Serbia,Stefan Mitrović
+2022,Serbia,Andrija Živković
+2022,Serbia,Srđan Babić
+2022,Serbia,Saša Lukić
+2022,Serbia,Filip Kostić
+2022,Serbia,Dušan Vlahović
+2022,Serbia,Uroš Račić
+2022,Serbia,Sergej Milinković-Savić
+2022,Serbia,Filip Đuričić
+2022,Serbia,Darko Lazović
+2022,Serbia,Vanja Milinković-Savić
+2022,Serbia,Ivan Ilić
+2022,Serbia,Filip Mladenović
+2022,Serbia,Marko Grujić
+2022,Switzerland,Yann Sommer
+2022,Switzerland,Edimilson Fernandes
+2022,Switzerland,Silvan Widmer
+2022,Switzerland,Nico Elvedi
+2022,Switzerland,Manuel Akanji
+2022,Switzerland,Denis Zakaria
+2022,Switzerland,Breel Embolo
+2022,Switzerland,Remo Freuler
+2022,Switzerland,Haris Seferovic
+2022,Switzerland,Granit Xhaka (captain)
+2022,Switzerland,Renato Steffen
+2022,Switzerland,Jonas Omlin
+2022,Switzerland,Ricardo Rodriguez
+2022,Switzerland,Michel Aebischer
+2022,Switzerland,Djibril Sow
+2022,Switzerland,Christian Fassnacht
+2022,Switzerland,Ruben Vargas
+2022,Switzerland,Eray Cömert
+2022,Switzerland,Noah Okafor
+2022,Switzerland,Fabian Frei
+2022,Switzerland,Gregor Kobel
+2022,Switzerland,Fabian Schär
+2022,Switzerland,Xherdan Shaqiri
+2022,Switzerland,Philipp Köhn
+2022,Switzerland,Fabian Rieder
+2022,Switzerland,Ardon Jashari
+2022,Ghana,Lawrence Ati-Zigi
+2022,Ghana,Tariq Lamptey
+2022,Ghana,Denis Odoi
+2022,Ghana,Mohammed Salisu
+2022,Ghana,Thomas Partey
+2022,Ghana,Elisha Owusu
+2022,Ghana,Abdul Fatawu Issahaku
+2022,Ghana,Daniel-Kofi Kyereh
+2022,Ghana,Jordan Ayew
+2022,Ghana,André Ayew (captain)
+2022,Ghana,Osman Bukari
+2022,Ghana,Ibrahim Danlad
+2022,Ghana,Daniel Afriyie
+2022,Ghana,Gideon Mensah
+2022,Ghana,Joseph Aidoo
+2022,Ghana,Abdul Manaf Nurudeen
+2022,Ghana,Baba Rahman
+2022,Ghana,Daniel Amartey
+2022,Ghana,Iñaki Williams
+2022,Ghana,Mohammed Kudus
+2022,Ghana,Salis Abdul Samed
+2022,Ghana,Kamaldeen Sulemana
+2022,Ghana,Alexander Djiku
+2022,Ghana,Kamal Sowah
+2022,Ghana,Antoine Semenyo
+2022,Ghana,Alidu Seidu
+2022,Portugal,Rui Patrício
+2022,Portugal,Diogo Dalot
+2022,Portugal,Pepe
+2022,Portugal,Rúben Dias
+2022,Portugal,Raphaël Guerreiro
+2022,Portugal,João Palhinha
+2022,Portugal,Cristiano Ronaldo (captain)
+2022,Portugal,Bruno Fernandes
+2022,Portugal,André Silva
+2022,Portugal,Bernardo Silva
+2022,Portugal,João Félix
+2022,Portugal,José Sá
+2022,Portugal,Danilo Pereira
+2022,Portugal,William Carvalho
+2022,Portugal,Rafael Leão
+2022,Portugal,Vitinha
+2022,Portugal,João Mário
+2022,Portugal,Rúben Neves
+2022,Portugal,Nuno Mendes
+2022,Portugal,João Cancelo
+2022,Portugal,Ricardo Horta
+2022,Portugal,Diogo Costa
+2022,Portugal,Matheus Nunes
+2022,Portugal,António Silva
+2022,Portugal,Otávio
+2022,Portugal,Gonçalo Ramos
+2022,South Korea,Kim Seung-gyu
+2022,South Korea,Yoon Jong-gyu
+2022,South Korea,Kim Jin-su
+2022,South Korea,Kim Min-jae
+2022,South Korea,Jung Woo-young
+2022,South Korea,Hwang In-beom
+2022,South Korea,Son Heung-min (captain)
+2022,South Korea,Paik Seung-ho
+2022,South Korea,Cho Gue-sung
+2022,South Korea,Lee Jae-sung
+2022,South Korea,Hwang Hee-chan
+2022,South Korea,Song Bum-keun
+2022,South Korea,Son Jun-ho
+2022,South Korea,Hong Chul
+2022,South Korea,Kim Moon-hwan
+2022,South Korea,Hwang Ui-jo
+2022,South Korea,Na Sang-ho
+2022,South Korea,Lee Kang-in
+2022,South Korea,Kim Young-gwon
+2022,South Korea,Kwon Kyung-won
+2022,South Korea,Jo Hyeon-woo
+2022,South Korea,Kwon Chang-hoon
+2022,South Korea,Kim Tae-hwan
+2022,South Korea,Cho Yu-min
+2022,South Korea,Jeong Woo-yeong
+2022,South Korea,Song Min-kyu
+2022,Uruguay,Fernando Muslera
+2022,Uruguay,José Giménez
+2022,Uruguay,Diego Godín (captain)
+2022,Uruguay,Ronald Araújo
+2022,Uruguay,Matías Vecino
+2022,Uruguay,Rodrigo Bentancur
+2022,Uruguay,Nicolás de la Cruz
+2022,Uruguay,Facundo Pellistri
+2022,Uruguay,Luis Suárez
+2022,Uruguay,Giorgian de Arrascaeta
+2022,Uruguay,Darwin Núñez
+2022,Uruguay,Sebastián Sosa
+2022,Uruguay,Guillermo Varela
+2022,Uruguay,Lucas Torreira
+2022,Uruguay,Federico Valverde
+2022,Uruguay,Mathías Olivera
+2022,Uruguay,Matías Viña
+2022,Uruguay,Maxi Gómez
+2022,Uruguay,Sebastián Coates
+2022,Uruguay,Facundo Torres
+2022,Uruguay,Edinson Cavani
+2022,Uruguay,Martín Cáceres
+2022,Uruguay,Sergio Rochet
+2022,Uruguay,Agustín Canobbio
+2022,Uruguay,Manuel Ugarte
+2022,Uruguay,José Luis Rodríguez
