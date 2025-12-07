@@ -1,89 +1,142 @@
+🏆 World Cup National Team Success Prediction
+
 This project builds a machine learning model that predicts how far a national team will progress in a FIFA World Cup based solely on player statistics and team-level features from the years before the tournament.
 
 Instead of making a simple “who wins the World Cup?” binary prediction, this project introduces a success gradient that assigns a numeric value to each team based on the stage they reached.
 The closer a team gets to the final, the higher their score.
 
-This allows us to:
+This approach allows us to:
 
-1-Use richer labels instead of 1 winner vs 31 non-winners
+✅ Use richer labels instead of a shallow 1 winner vs 31 non-winners setup
 
-2-Capture meaningful differences between teams
+✅ Capture meaningful performance differences between teams
 
-3-Train a more stable, informative model
+✅ Train a more stable and informative regression model
 
-4-Rank teams by predicted tournament success for each World Cup year
+✅ Rank teams by predicted tournament success for each World Cup year
 
+🎯 Project Goals
 
-Goals of the Project:
+Collect and engineer squad-level features based primarily on player statistics.
 
-1- Collect and engineer squad-level features, mostly player stats.
+Build a success gradient that represents each team’s real tournament outcome.
 
-2-Build a success gradient representing each team’s real tournament outcome from previous world cups.
+Train machine learning models to predict this success score.
 
-3-Train machine learning models to predict this gradient.
+Evaluate how well the model ranks teams in each tournament.
 
-4-Evaluate how well the model ranks teams in each tournament.
+Forecast which teams are most likely to succeed before a World Cup begins.
 
-5-Forecast which teams are most likely to succeed in a given World Cup before it starts.
+📦 Dataset Structure
 
+Each dataset entry represents a team in a specific World Cup year and follows this structure:
 
+year | team | goalkeeper_score | rightback_score | ... | striker_score |
+team_age_average | elo_before_wc | previous_wc_success | current_wc_success
 
+📈 Success Score (Target Variable)
 
-Part 1: Getting and classifying data
+The success score represents the actual result of a squad in a given World Cup year.
 
-One dataset entry should look like this: 
+In a typical classification setting, there is one winner and 31 losers. However, this completely ignores the fact that teams reach very different stages of the tournament, which are qualitatively meaningful.
 
-year | team | goalkeeper score | rightback score | ..... striker score | team age average | elo before world cup | previous world cup success score  | success score for this year's world cup
+For example:
 
+A team eliminated in the Group Stage is not comparable to a team that reaches the Semi-Final or Final.
 
-Success score:
+These differences contain valuable information about team quality, consistency, and squad strength.
 
-Success score is the actual result of the squad for that year. In the World Cup there’s only one winner and 31 losers, however, that classification is not the best way to capture the true performance of each team. Treating all non-winners as the same “class” ignores the fact that teams can have very different levels of success within the same tournament.
+So instead, tournament placement is mapped to a continuous numeric score:
 
-A team that is eliminated in the Group Stage is not comparable to a team that reaches the Quarter-final, Semi-final, or the Final. These are qualitatively different achievements — and from a modeling perspective, they contain valuable information about team quality, consistency, and squad strength.
+Tournament Stage	Success Score
+Group Stage	0.01
+Round of 16	0.20
+Quarter-Final	0.50
+Semi-Final	0.75
+Runner-up	0.90
+Champion	1.00
 
-So we use success score where each placement coressponds to a numerical value:
-Group = 0.01
-R16 = 0.2
-QF = 0.50
-SF = 0.75
-Runner-up = 0.90
-Champion = 1.00
+This framing turns the problem into a regression + ranking task rather than a simple classification problem.
 
+🎮 Player Score
 
-Player Score:
+For each squad in a given year, every player is represented by a player score derived from their FIFA video game ratings for that season.
 
-For each squad in a given year, every player is represented by a player score derived from their FIFA video game ratings for that season. FIFA ratings are a convenient and surprisingly effective proxy for real-world player quality because they are built using:
+FIFA ratings are a practical and effective proxy for real-world player quality because they are built using:
 
-1-Historical performance data from domestic leagues and international matches
+Historical performance data from club and international matches
 
-2-Expert assessments from scouts, analysts, and professional data providers
+Expert evaluations from scouts and professional analysts
 
-3-Player traits, including pace, shooting, passing, defending, physicality, and overall skill
+Detailed player attributes including:
 
+Pace
 
+Shooting
 
+Passing
 
-Action plan to build dataset:
+Defending
 
-For each squad for a given year in the world cup:
+Physicality
 
-1- Go over the 23 players in that squad and collect each's FIFA rating and age.
+Overall skill
 
-2- Calculate average age 
+These player scores are aggregated into position-level and squad-level features.
 
-3- Get this year's and the previous year's elo rating for that squad.
+🛠 Dataset Construction Plan
 
-4- Get the squad's world cup success score this year and the previous year.
+For each squad in each World Cup year:
 
+Iterate over the 23 selected players and collect:
 
+FIFA rating
 
-Step 1:
+Player age
 
-I found a website called Sofifa that has all players ratings from fifa 2007 up to fc 26. I scraped all players data from the years of the world cup (every 4 years) and stored them into CSVs as my player dataset. The years I have used are: 2010, 2014, 2018, 2022 for training, and 2026 for testing.
+Compute average squad age
 
+Retrieve:
 
-Step 2:
+The squad’s Elo rating before the tournament
 
-I scraped the Wikipedia pages that say which squads made to the previous world cups and which players played in those squads at those given years (2010, 2014, 2018, 2022) using getSquad.py. I stored each in a CSV inside the Squads folder. 
+The squad’s Elo rating from the previous year
 
+Attach:
+
+The squad’s World Cup success score for the current year
+
+The squad’s success score from the previous World Cup
+
+🧩 Data Pipeline
+✅ Step 1 — Player Ratings (SoFIFA)
+
+SoFIFA hosts player ratings from FIFA 07 through FC 26.
+
+All player data for World Cup years was scraped and saved into CSV files.
+
+Training years used:
+
+2010, 2014, 2018, 2022
+
+Testing year:
+
+2026
+
+These CSV files form the player-level dataset.
+
+✅ Step 2 — World Cup Squads (Wikipedia + 442)
+
+Wikipedia pages were scraped to extract:
+
+Which national teams qualified
+
+Which players were selected for each squad
+
+For the following tournaments:
+
+2010, 2014, 2018, 2022
+
+Each tournament’s squads were saved to individual CSV files in the Squads/ folder using getSquad.py.
+
+Since the 2026 draw was just completed, squad information for qualified teams was scraped from the 442 website.
