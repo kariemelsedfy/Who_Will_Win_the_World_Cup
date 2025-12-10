@@ -123,9 +123,9 @@ Testing year:
 
 2026
 
-These CSV files form the player-level dataset.
+These CSV files form the player-level dataset. They are stored inside PlayerDataset/
 
-✅ Step 2 — World Cup Squads (Wikipedia + 442)
+✅ Step 2 — World Cup Squads (Wikipedia + ESPN)
 
 Wikipedia pages were scraped to extract:
 
@@ -137,6 +137,40 @@ For the following tournaments:
 
 2010, 2014, 2018, 2022
 
-Each tournament’s squads were saved to individual CSV files in the Squads/ folder using getSquad.py.
+Each tournament’s squads were saved to individual CSV files in the Squads/ folder using scrape_squads_wikipedia.py.
 
-Since the 2026 draw was just completed, squad information for qualified teams was scraped from the 442 website.
+The 2026 draw was just done yesterday, so I know which teams are going to play, but the players haven't been announced yet. So I created scrape_espn.py in which I scraped first the squads going to the tournament, and then went over ESPN's page for each squad scraping the players for that squad in the 2026 world cup. This is obviously not definitive yet but it's the best guess as of this moment.
+
+The squads particpating in the world cup for a given year are stores in Squads/.
+
+
+✅ Step 3 — Link world cup particpating players to dataset
+
+Using link_squads_to_players.py, I build CSVs that match the players from the squads that have went to the world cup to their index in the fifa rating database inside PlayerDataset/ for a given world cup year. 
+
+For each year in Squads/, I went over each player and created the short version of their name (Lionel Messi would be L. Messi), removed accents, normalized, and looked for the best match in the fifa database for that given year in PlayerDataset/. Once the match was found I append the row for that player to the csv for that year in LinkedSquads/. 
+
+So essentially, LinkedSquads/ contains the players who particpated in the world cup for a given year, what team they player for, and their index in the big FIFA database. That index is going to be used in the next step in collecting the data for the teams to start the regression problem. 
+
+Not all players who played in the world cup where matched to an index in the FIFA ratings database because not all of them were even in it. In that case where a player isn't matched, I will replace his entry in the database with the global rating/age/... feature average. 
+
+The matching rates for the years:
+
+2010: 77.85326086956522 % was matched
+
+2014: 80.70652173913044 % was matched
+
+2018: 79.4836956521739 % was matched
+
+2022: 82.67148014440433 % was matched
+
+2026: 74.74437627811861 % was matched
+
+
+✅ Step 4: Build unified dataset:
+
+
+
+
+
+

@@ -1,0 +1,737 @@
+year,team,player_name,derived_short_name,fifa_index
+2010,France,Hugo Lloris,H. Lloris,55.0
+2010,France,Bacary Sagna,B. Sagna,99.0
+2010,France,Eric Abidal,E. Abidal,155.0
+2010,France,Anthony Réveillère,A. Reveillere,438.0
+2010,France,William Gallas,W. Gallas,85.0
+2010,France,Marc Planus,M. Planus,242.0
+2010,France,Franck Ribéry,F. Ribery,13.0
+2010,France,Yoann Gourcuff,Y. Gourcuff,105.0
+2010,France,Djibril Cissé,D. Cisse,351.0
+2010,France,Sidney Govou,S. Govou,334.0
+2010,France,André-Pierre Gignac,A. Pierre Gignac,
+2010,France,Thierry Henry ,T. Henry,133.0
+2010,France,Patrice Evra,P. Evra,42.0
+2010,France,Jérémy Toulalan,J. Toulalan,111.0
+2010,France,Florent Malouda,F. Malouda,175.0
+2010,France,Steve Mandanda,S. Mandanda,98.0
+2010,France,Sébastien Squillaci,S. Squillaci,254.0
+2010,France,Alou Diarra,A. Diarra,253.0
+2010,France,Abou Diaby,A. Diaby,398.0
+2010,France,Mathieu Valbuena,M. Valbuena,902.0
+2010,France,Nicolas Anelka,N. Anelka,48.0
+2010,France,Gaël Clichy,G. Clichy,106.0
+2010,France,Cédric Carrasso,C. Carrasso,245.0
+2010,Mexico,Óscar Pérez,O. Perez,3039.0
+2010,Mexico,Francisco Rodríguez,F. Rodriguez,1237.0
+2010,Mexico,Carlos Salcido,C. Salcido,1652.0
+2010,Mexico,Rafael Márquez,R. Marquez,123.0
+2010,Mexico,Ricardo Osorio,R. Osorio,1344.0
+2010,Mexico,Gerardo Torrado,G. Torrado,
+2010,Mexico,Pablo Barrera,P. Barrera,1888.0
+2010,Mexico,Israel Castro,I. Castro,1349.0
+2010,Mexico,Guillermo Franco,G. Franco,1976.0
+2010,Mexico,Cuauhtémoc Blanco ,C. Blanco,440.0
+2010,Mexico,Carlos Vela,C. Vela,922.0
+2010,Mexico,Paul Aguilar,P. Aguilar,3851.0
+2010,Mexico,Guillermo Ochoa,G. Ochoa,426.0
+2010,Mexico,Javier Hernández,J. Hernandez,2649.0
+2010,Mexico,Héctor Moreno,H. Moreno,2340.0
+2010,Mexico,Efraín Juárez,E. Juarez,2299.0
+2010,Mexico,Giovani dos Santos,G. dos Santos,920.0
+2010,Mexico,Andrés Guardado,A. Guardado,202.0
+2010,Mexico,Jonny Magallón,J. Magallon,2017.0
+2010,Mexico,Jorge Torres Nilo,J. Torres Nilo,5170.0
+2010,Mexico,Adolfo Bautista,A. Bautista,1878.0
+2010,Mexico,Alberto Medina,A. Medina,2951.0
+2010,Mexico,Luis Ernesto Michel,L. Ernesto Michel,
+2010,South Africa,Moeneeb Josephs,M. Josephs,7390.0
+2010,South Africa,Siboniso Gaxa,S. Gaxa,
+2010,South Africa,Tsepo Masilela,T. Masilela,
+2010,South Africa,Aaron Mokoena ,A. Mokoena,2272.0
+2010,South Africa,Anele Ngcongca,A. Ngcongca,8547.0
+2010,South Africa,MacBeth Sibaya,M. Sibaya,1818.0
+2010,South Africa,Lance Davids,L. Davids,5424.0
+2010,South Africa,Siphiwe Tshabalala,S. Tshabalala,2695.0
+2010,South Africa,Katlego Mphela,K. Mphela,8035.0
+2010,South Africa,Steven Pienaar,S. Pienaar,327.0
+2010,South Africa,Teko Modise,T. Modise,886.0
+2010,South Africa,Reneilwe Letsholonyane,R. Letsholonyane,
+2010,South Africa,Kagisho Dikgacoi,K. Dikgacoi,4224.0
+2010,South Africa,Matthew Booth,M. Booth,2264.0
+2010,South Africa,Lucas Thwala,L. Thwala,8596.0
+2010,South Africa,Itumeleng Khune,I. Khune,5252.0
+2010,South Africa,Bernard Parker,B. Parker,3610.0
+2010,South Africa,Siyabonga Nomvethe,S. Nomvethe,
+2010,South Africa,Surprise Moriri,S. Moriri,2894.0
+2010,South Africa,Bongani Khumalo,B. Khumalo,6087.0
+2010,South Africa,Siyabonga Sangweni,S. Sangweni,
+2010,South Africa,Shu-Aib Walters,S. Aib Walters,
+2010,South Africa,Thanduyise Khuboni,T. Khuboni,
+2010,Uruguay,Fernando Muslera,F. Muslera,887.0
+2010,Uruguay,Diego Lugano ,D. Lugano,235.0
+2010,Uruguay,Diego Godín,D. Godin,519.0
+2010,Uruguay,Jorge Fucile,J. Fucile,893.0
+2010,Uruguay,Walter Gargano,W. Gargano,517.0
+2010,Uruguay,Mauricio Victorino,M. Victorino,3892.0
+2010,Uruguay,Edinson Cavani,E. Cavani,686.0
+2010,Uruguay,Sebastián Eguren,S. Eguren,1193.0
+2010,Uruguay,Luis Suárez,L. Suarez,94.0
+2010,Uruguay,Diego Forlán,D. Forlan,43.0
+2010,Uruguay,Álvaro Pereira,A. Pereira,1186.0
+2010,Uruguay,Juan Castillo,J. Castillo,1465.0
+2010,Uruguay,Sebastián Abreu,S. Abreu,
+2010,Uruguay,Nicolás Lodeiro,N. Lodeiro,1867.0
+2010,Uruguay,Diego Pérez,D. Perez,3114.0
+2010,Uruguay,Maxi Pereira,M. Pereira,884.0
+2010,Uruguay,Egidio Arévalo Ríos,E. Arevalo Rios,
+2010,Uruguay,Ignacio González,I. Gonzalez,
+2010,Uruguay,Andrés Scotti,A. Scotti,2992.0
+2010,Uruguay,Álvaro Fernández,A. Fernandez,1176.0
+2010,Uruguay,Sebastián Fernández,S. Fernandez,4982.0
+2010,Uruguay,Martín Cáceres,M. Caceres,679.0
+2010,Uruguay,Martín Silva,M. Silva,2164.0
+2010,Argentina,Diego Pozo,D. Pozo,
+2010,Argentina,Martín Demichelis,M. Demichelis,315.0
+2010,Argentina,Clemente Rodríguez,C. Rodriguez,205.0
+2010,Argentina,Nicolás Burdisso,N. Burdisso,771.0
+2010,Argentina,Mario Bolatti,M. Bolatti,678.0
+2010,Argentina,Gabriel Heinze,G. Heinze,490.0
+2010,Argentina,Ángel Di María,A. Di Maria,273.0
+2010,Argentina,Juan Sebastián Verón,J. Sebastian Veron,
+2010,Argentina,Gonzalo Higuaín,G. Higuain,56.0
+2010,Argentina,Lionel Messi,L. Messi,0.0
+2010,Argentina,Carlos Tevez,C. Tevez,22.0
+2010,Argentina,Ariel Garcé,A. Garce,
+2010,Argentina,Walter Samuel,W. Samuel,45.0
+2010,Argentina,Javier Mascherano ,J. Mascherano,36.0
+2010,Argentina,Nicolás Otamendi,N. Otamendi,3844.0
+2010,Argentina,Sergio Agüero,S. Aguero,59.0
+2010,Argentina,Jonás Gutiérrez,J. Gutierrez,591.0
+2010,Argentina,Martín Palermo,M. Palermo,810.0
+2010,Argentina,Diego Milito,D. Milito,23.0
+2010,Argentina,Maxi Rodríguez,M. Rodriguez,170.0
+2010,Argentina,Mariano Andújar,M. Andujar,1185.0
+2010,Argentina,Sergio Romero,S. Romero,702.0
+2010,Argentina,Javier Pastore,J. Pastore,360.0
+2010,Greece,Kostas Chalkias,K. Chalkias,764.0
+2010,Greece,Giourkas Seitaridis,G. Seitaridis,1007.0
+2010,Greece,Christos Patsatzoglou,C. Patsatzoglou,3021.0
+2010,Greece,Nikos Spyropoulos,N. Spyropoulos,1713.0
+2010,Greece,Vangelis Moras,V. Moras,4235.0
+2010,Greece,Alexandros Tziolis,A. Tziolis,3030.0
+2010,Greece,Georgios Samaras,G. Samaras,1444.0
+2010,Greece,Avraam Papadopoulos,A. Papadopoulos,976.0
+2010,Greece,Angelos Charisteas,A. Charisteas,1810.0
+2010,Greece,Giorgos Karagounis ,G. Karagounis,354.0
+2010,Greece,Loukas Vyntra,L. Vyntra,1912.0
+2010,Greece,Alexandros Tzorvas,A. Tzorvas,973.0
+2010,Greece,Michalis Sifakis,M. Sifakis,974.0
+2010,Greece,Dimitris Salpingidis,D. Salpingidis,
+2010,Greece,Vasilis Torosidis,V. Torosidis,370.0
+2010,Greece,Sotirios Kyrgiakos,S. Kyrgiakos,622.0
+2010,Greece,Theofanis Gekas,T. Gekas,975.0
+2010,Greece,Sotiris Ninis,S. Ninis,682.0
+2010,Greece,Sokratis Papastathopoulos,S. Papastathopoulos,1824.0
+2010,Greece,Pantelis Kapetanos,P. Kapetanos,
+2010,Greece,Kostas Katsouranis,K. Katsouranis,416.0
+2010,Greece,Stelios Malezas,S. Malezas,1837.0
+2010,Greece,Sakis Prittas,S. Prittas,
+2010,Nigeria,Vincent Enyeama,V. Enyeama,
+2010,Nigeria,Joseph Yobo,J. Yobo,830.0
+2010,Nigeria,Taye Taiwo,T. Taiwo,554.0
+2010,Nigeria,Nwankwo Kanu ,N. Kanu,1781.0
+2010,Nigeria,Rabiu Afolabi,R. Afolabi,3513.0
+2010,Nigeria,Danny Shittu,D. Shittu,2899.0
+2010,Nigeria,John Utaka,J. Utaka,805.0
+2010,Nigeria,Yakubu,Yakubu,797.0
+2010,Nigeria,Obafemi Martins,O. Martins,237.0
+2010,Nigeria,Brown Ideye[4],B. Ideye[4],
+2010,Nigeria,Peter Odemwingie,P. Odemwingie,776.0
+2010,Nigeria,Kalu Uche,K. Uche,807.0
+2010,Nigeria,Ayila Yussuf,A. Yussuf,
+2010,Nigeria,Sani Kaita,S. Kaita,5228.0
+2010,Nigeria,Lukman Haruna,L. Haruna,8740.0
+2010,Nigeria,Austin Ejide,A. Ejide,
+2010,Nigeria,Chidi Odiah,C. Odiah,1985.0
+2010,Nigeria,Victor Obinna,V. Obinna,2642.0
+2010,Nigeria,Chinedu Obasi,C. Obasi,395.0
+2010,Nigeria,Dickson Etuhu,D. Etuhu,1057.0
+2010,Nigeria,Elderson Echiéjilé,E. Echiejile,
+2010,Nigeria,Dele Adeleye,D. Adeleye,
+2010,Nigeria,Dele Aiyenugba,D. Aiyenugba,
+2010,South Korea,Lee Woon-jae,L. Woon jae,1891.0
+2010,South Korea,Oh Beom-seok,O. Beom seok,
+2010,South Korea,Kim Hyung-il,K. Hyung il,5812.0
+2010,South Korea,Cho Yong-hyung,C. Yong hyung,8680.0
+2010,South Korea,Kim Nam-il,K. Nam il,2916.0
+2010,South Korea,Kim Bo-kyung,K. Bo kyung,
+2010,South Korea,Park Ji-sung ,P. Ji sung,
+2010,South Korea,Kim Jung-woo,K. Jung woo,3926.0
+2010,South Korea,Ahn Jung-hwan,A. Jung hwan,
+2010,South Korea,Park Chu-young,P. Chu young,
+2010,South Korea,Lee Seung-yeoul,L. Seung yeoul,8765.0
+2010,South Korea,Lee Young-pyo,L. Young pyo,
+2010,South Korea,Kim Jae-sung,K. Jae sung,10184.0
+2010,South Korea,Lee Jung-soo,L. Jung soo,
+2010,South Korea,Kim Dong-jin,K. Dong jin,
+2010,South Korea,Ki Sung-yueng,K. Sung yueng,3177.0
+2010,South Korea,Lee Chung-yong,L. Chung yong,
+2010,South Korea,Jung Sung-ryong,J. Sung ryong,2576.0
+2010,South Korea,Yeom Ki-hun,Y. Ki hun,4091.0
+2010,South Korea,Lee Dong-gook,L. Dong gook,4448.0
+2010,South Korea,Kim Young-kwang,K. Young kwang,3005.0
+2010,South Korea,Cha Du-ri,C. Du ri,
+2010,South Korea,Kang Min-soo,K. Min soo,6228.0
+2010,Algeria,Lounès Gaouaoui,L. Gaouaoui,
+2010,Algeria,Madjid Bougherra,M. Bougherra,427.0
+2010,Algeria,Nadir Belhadj,N. Belhadj,
+2010,Algeria,Antar Yahia ,A. Yahia,1370.0
+2010,Algeria,Rafik Halliche,R. Halliche,2913.0
+2010,Algeria,Yazid Mansouri,Y. Mansouri,4079.0
+2010,Algeria,Ryad Boudebouz,R. Boudebouz,5552.0
+2010,Algeria,Mehdi Lacen,M. Lacen,1196.0
+2010,Algeria,Abdelkader Ghezzal,A. Ghezzal,2824.0
+2010,Algeria,Rafik Saïfi,R. Saifi,4490.0
+2010,Algeria,Rafik Djebbour,R. Djebbour,951.0
+2010,Algeria,Habib Bellaïd,H. Bellaid,2601.0
+2010,Algeria,Karim Matmour,K. Matmour,2045.0
+2010,Algeria,Abdelkader Laïfaoui,A. Laifaoui,
+2010,Algeria,Karim Ziani,K. Ziani,814.0
+2010,Algeria,Faouzi Chaouchi,F. Chaouchi,
+2010,Algeria,Adlène Guedioura,A. Guedioura,6646.0
+2010,Algeria,Carl Medjani,C. Medjani,9681.0
+2010,Algeria,Hassan Yebda,H. Yebda,1296.0
+2010,Algeria,Djamel Mesbah,D. Mesbah,5292.0
+2010,Algeria,Foued Kadir,F. Kadir,9608.0
+2010,Algeria,Djamel Abdoun,D. Abdoun,5124.0
+2010,Algeria,Raïs M'Bolhi,R. M Bolhi,
+2010,England,David James,D. James,505.0
+2010,England,Glen Johnson,G. Johnson,236.0
+2010,England,Ashley Cole,A. Cole,78.0
+2010,England,Steven Gerrard ,S. Gerrard,10.0
+2010,England,Michael Dawson[5],M. Dawson[5],
+2010,England,John Terry,J. Terry,16.0
+2010,England,Aaron Lennon,A. Lennon,61.0
+2010,England,Frank Lampard,F. Lampard,18.0
+2010,England,Peter Crouch,P. Crouch,464.0
+2010,England,Wayne Rooney,W. Rooney,2.0
+2010,England,Joe Cole,J. Cole,136.0
+2010,England,Robert Green,R. Green,250.0
+2010,England,Stephen Warnock,S. Warnock,456.0
+2010,England,Gareth Barry,G. Barry,84.0
+2010,England,Matthew Upson,M. Upson,326.0
+2010,England,James Milner,J. Milner,160.0
+2010,England,Shaun Wright-Phillips,S. Wright Phillips,195.0
+2010,England,Jamie Carragher,J. Carragher,87.0
+2010,England,Jermain Defoe,J. Defoe,118.0
+2010,England,Ledley King,L. King,628.0
+2010,England,Emile Heskey,E. Heskey,650.0
+2010,England,Michael Carrick,M. Carrick,82.0
+2010,England,Joe Hart,J. Hart,295.0
+2010,Slovenia,Samir Handanović,S. Handanovic,562.0
+2010,Slovenia,Mišo Brečko,M. Brecko,3000.0
+2010,Slovenia,Elvedin Džinić,E. Dzinic,5882.0
+2010,Slovenia,Marko Šuler,M. Suler,3190.0
+2010,Slovenia,Boštjan Cesar,B. Cesar,3062.0
+2010,Slovenia,Branko Ilić,B. Ilic,3624.0
+2010,Slovenia,Nejc Pečnik,N. Pecnik,3298.0
+2010,Slovenia,Robert Koren ,R. Koren,1726.0
+2010,Slovenia,Zlatan Ljubijankić,Z. Ljubijankic,3539.0
+2010,Slovenia,Valter Birsa,V. Birsa,3544.0
+2010,Slovenia,Milivoje Novaković,M. Novakovic,536.0
+2010,Slovenia,Jasmin Handanović,J. Handanovic,5691.0
+2010,Slovenia,Bojan Jokić,B. Jokic,3583.0
+2010,Slovenia,Zlatko Dedić,Z. Dedic,3163.0
+2010,Slovenia,Rene Krhin,R. Krhin,5483.0
+2010,Slovenia,Aleksander Šeliga,A. Seliga,6353.0
+2010,Slovenia,Andraž Kirm,A. Kirm,3023.0
+2010,Slovenia,Aleksandar Radosavljević,A. Radosavljevic,6004.0
+2010,Slovenia,Suad Fileković,S. Filekovic,10407.0
+2010,Slovenia,Andrej Komac,A. Komac,7218.0
+2010,Slovenia,Dalibor Stevanović,D. Stevanovic,4287.0
+2010,Slovenia,Matej Mavrič,M. Mavric,6536.0
+2010,Slovenia,Tim Matavž,T. Matavz,3641.0
+2010,United States,Tim Howard,T. Howard,183.0
+2010,United States,Jonathan Spector,J. Spector,2261.0
+2010,United States,Carlos Bocanegra ,C. Bocanegra,
+2010,United States,Michael Bradley,M. Bradley,1245.0
+2010,United States,Oguchi Onyewu,O. Onyewu,1052.0
+2010,United States,Steve Cherundolo,S. Cherundolo,2665.0
+2010,United States,DaMarcus Beasley,D. Beasley,2957.0
+2010,United States,Clint Dempsey,C. Dempsey,412.0
+2010,United States,Herculez Gomez,H. Gomez,9974.0
+2010,United States,Landon Donovan,L. Donovan,352.0
+2010,United States,Stuart Holden,S. Holden,3517.0
+2010,United States,Jonathan Bornstein,J. Bornstein,4672.0
+2010,United States,Ricardo Clark,R. Clark,3150.0
+2010,United States,Edson Buddle,E. Buddle,5892.0
+2010,United States,Jay DeMerit,J. DeMerit,2389.0
+2010,United States,José Francisco Torres,J. Francisco Torres,
+2010,United States,Jozy Altidore,J. Altidore,1490.0
+2010,United States,Brad Guzan,B. Guzan,937.0
+2010,United States,Maurice Edu,M. Edu,2986.0
+2010,United States,Robbie Findley,R. Findley,5459.0
+2010,United States,Clarence Goodson,C. Goodson,3180.0
+2010,United States,Benny Feilhaber,B. Feilhaber,2230.0
+2010,United States,Marcus Hahnemann,M. Hahnemann,1753.0
+2010,Australia,Mark Schwarzer,M. Schwarzer,504.0
+2010,Australia,Lucas Neill ,L. Neill,1074.0
+2010,Australia,Craig Moore,C. Moore,5392.0
+2010,Australia,Tim Cahill,T. Cahill,462.0
+2010,Australia,Jason Culina,J. Culina,2130.0
+2010,Australia,Michael Beauchamp,M. Beauchamp,8260.0
+2010,Australia,Brett Emerton,B. Emerton,1121.0
+2010,Australia,Luke Wilkshire,L. Wilkshire,1520.0
+2010,Australia,Joshua Kennedy,J. Kennedy,2536.0
+2010,Australia,Harry Kewell,H. Kewell,649.0
+2010,Australia,Scott Chipperfield,S. Chipperfield,1530.0
+2010,Australia,Adam Federici,A. Federici,4824.0
+2010,Australia,Vince Grella,V. Grella,2137.0
+2010,Australia,Brett Holman,B. Holman,3801.0
+2010,Australia,Mile Jedinak,M. Jedinak,7116.0
+2010,Australia,Carl Valeri,C. Valeri,6461.0
+2010,Australia,Nikita Rukavytsya,N. Rukavytsya,5179.0
+2010,Australia,Eugene Galekovic[6],E. Galekovic[6],
+2010,Australia,Richard Garcia,R. Garcia,5492.0
+2010,Australia,Mark Milligan,M. Milligan,5161.0
+2010,Australia,David Carney,D. Carney,4746.0
+2010,Australia,Dario Vidošić,D. Vidosic,6157.0
+2010,Australia,Mark Bresciano,M. Bresciano,1068.0
+2010,Germany,Manuel Neuer,M. Neuer,57.0
+2010,Germany,Marcell Jansen,M. Jansen,555.0
+2010,Germany,Arne Friedrich,A. Friedrich,487.0
+2010,Germany,Dennis Aogo,D. Aogo,938.0
+2010,Germany,Serdar Tasci,S. Tasci,532.0
+2010,Germany,Sami Khedira,S. Khedira,524.0
+2010,Germany,Bastian Schweinsteiger,B. Schweinsteiger,244.0
+2010,Germany,Mesut Özil,M. Ozil,201.0
+2010,Germany,Stefan Kießling,S. Kießling,238.0
+2010,Germany,Lukas Podolski,L. Podolski,296.0
+2010,Germany,Miroslav Klose,M. Klose,127.0
+2010,Germany,Tim Wiese,T. Wiese,116.0
+2010,Germany,Thomas Müller,T. Muller,1129.0
+2010,Germany,Holger Badstuber,H. Badstuber,1124.0
+2010,Germany,Piotr Trochowski,P. Trochowski,243.0
+2010,Germany,Philipp Lahm ,P. Lahm,26.0
+2010,Germany,Per Mertesacker,P. Mertesacker,73.0
+2010,Germany,Toni Kroos,T. Kroos,368.0
+2010,Germany,Cacau,Cacau,802.0
+2010,Germany,Jérôme Boateng,J. Boateng,676.0
+2010,Germany,Marko Marin,M. Marin,276.0
+2010,Germany,Hans-Jörg Butt,H. Jorg Butt,
+2010,Germany,Mario Gómez,M. Gomez,63.0
+2010,Ghana,Daniel Agyei,D. Agyei,
+2010,Ghana,Hans Sarpei,H. Sarpei,4377.0
+2010,Ghana,Asamoah Gyan,A. Gyan,1200.0
+2010,Ghana,John Paintsil,J. Paintsil,1250.0
+2010,Ghana,John Mensah ,J. Mensah,798.0
+2010,Ghana,Anthony Annan,A. Annan,685.0
+2010,Ghana,Samuel Inkoom,S. Inkoom,8644.0
+2010,Ghana,Jonathan Mensah,J. Mensah,798.0
+2010,Ghana,Derek Boateng,D. Boateng,
+2010,Ghana,Stephen Appiah,S. Appiah,1274.0
+2010,Ghana,Sulley Muntari,S. Muntari,316.0
+2010,Ghana,Prince Tagoe,P. Tagoe,2396.0
+2010,Ghana,André Ayew,A. Ayew,5421.0
+2010,Ghana,Matthew Amoah,M. Amoah,1946.0
+2010,Ghana,Isaac Vorsah,I. Vorsah,1497.0
+2010,Ghana,Stephen Ahorlu,S. Ahorlu,
+2010,Ghana,Ibrahim Ayew,I. Ayew,
+2010,Ghana,Dominic Adiyiah,D. Adiyiah,7668.0
+2010,Ghana,Lee Addy,L. Addy,
+2010,Ghana,Quincy Owusu-Abeyie,Q. Owusu Abeyie,3764.0
+2010,Ghana,Kwadwo Asamoah,K. Asamoah,511.0
+2010,Ghana,Richard Kingson,R. Kingson,6135.0
+2010,Ghana,Kevin-Prince Boateng,K. Prince Boateng,
+2010,Serbia,Vladimir Stojković,V. Stojkovic,1201.0
+2010,Serbia,Antonio Rukavina,A. Rukavina,1745.0
+2010,Serbia,Aleksandar Kolarov,A. Kolarov,363.0
+2010,Serbia,Gojko Kačar,G. Kacar,512.0
+2010,Serbia,Nemanja Vidić,N. Vidic,6.0
+2010,Serbia,Branislav Ivanović,B. Ivanovic,374.0
+2010,Serbia,Zoran Tošić,Z. Tosic,1331.0
+2010,Serbia,Danko Lazović,D. Lazovic,777.0
+2010,Serbia,Marko Pantelić,M. Pantelic,701.0
+2010,Serbia,Dejan Stanković ,D. Stankovic,263.0
+2010,Serbia,Nenad Milijaš,N. Milijas,2070.0
+2010,Serbia,Bojan Isailović,B. Isailovic,4737.0
+2010,Serbia,Aleksandar Luković,A. Lukovic,1182.0
+2010,Serbia,Milan Jovanović,M. Jovanovic,588.0
+2010,Serbia,Nikola Žigić,N. Zigic,931.0
+2010,Serbia,Ivan Obradović,I. Obradovic,2067.0
+2010,Serbia,Miloš Krasić,M. Krasic,100.0
+2010,Serbia,Miloš Ninković,M. Ninkovic,
+2010,Serbia,Radosav Petrović,R. Petrovic,
+2010,Serbia,Neven Subotić,N. Subotic,515.0
+2010,Serbia,Dragan Mrđa,D. Mrđa,
+2010,Serbia,Zdravko Kuzmanović,Z. Kuzmanovic,713.0
+2010,Serbia,Anđelko Đuričić,A. Đuricic,
+2010,Cameroon,Carlos Kameni,C. Kameni,246.0
+2010,Cameroon,Benoît Assou-Ekotto,B. Assou Ekotto,736.0
+2010,Cameroon,Nicolas Nkoulou,N. Nkoulou,
+2010,Cameroon,Rigobert Song,R. Song,654.0
+2010,Cameroon,Sébastien Bassong,S. Bassong,543.0
+2010,Cameroon,Alex Song,A. Song,223.0
+2010,Cameroon,Landry N'Guémo,L. N Guemo,1935.0
+2010,Cameroon,Geremi,Geremi,1744.0
+2010,Cameroon,Samuel Eto'o ,S. Eto o,83.0
+2010,Cameroon,Achille Emaná,A. Emana,1051.0
+2010,Cameroon,Jean Makoun,J. Makoun,443.0
+2010,Cameroon,Gaëtan Bong,G. Bong,5960.0
+2010,Cameroon,Eric Maxim Choupo-Moting,E. Maxim Choupo Moting,
+2010,Cameroon,Aurélien Chedjou,A. Chedjou,2097.0
+2010,Cameroon,Pierre Webó,P. Webo,
+2010,Cameroon,Souleymanou Hamidou,S. Hamidou,2515.0
+2010,Cameroon,Mohammadou Idrissou,M. Idrissou,1728.0
+2010,Cameroon,Eyong Enoh,E. Enoh,1811.0
+2010,Cameroon,Stéphane Mbia,S. Mbia,553.0
+2010,Cameroon,Georges Mandjeck,G. Mandjeck,5909.0
+2010,Cameroon,Joël Matip,J. Matip,6999.0
+2010,Cameroon,Guy N'dy Assembé,G. N dy Assembe,3261.0
+2010,Cameroon,Vincent Aboubakar,V. Aboubakar,
+2010,Denmark,Thomas Sørensen,T. Sørensen,1575.0
+2010,Denmark,Christian Poulsen,C. Poulsen,1083.0
+2010,Denmark,Simon Kjær,S. Kjær,688.0
+2010,Denmark,Daniel Agger,D. Agger,151.0
+2010,Denmark,William Kvist,W. Kvist,4072.0
+2010,Denmark,Lars Jacobsen,L. Jacobsen,1917.0
+2010,Denmark,Daniel Jensen,D. Jensen,751.0
+2010,Denmark,Jesper Grønkjær,J. Grønkjær,3414.0
+2010,Denmark,Jon Dahl Tomasson ,J. Dahl Tomasson,
+2010,Denmark,Martin Jørgensen,M. Jørgensen,1268.0
+2010,Denmark,Nicklas Bendtner,N. Bendtner,390.0
+2010,Denmark,Thomas Kahlenberg,T. Kahlenberg,816.0
+2010,Denmark,Per Krøldrup,P. Krøldrup,1087.0
+2010,Denmark,Jakob Poulsen,J. Poulsen,2291.0
+2010,Denmark,Simon Poulsen,S. Poulsen,3593.0
+2010,Denmark,Stephan Andersen,S. Andersen,1928.0
+2010,Denmark,Mikkel Beckmann,M. Beckmann,8085.0
+2010,Denmark,Søren Larsen,S. Larsen,3167.0
+2010,Denmark,Dennis Rommedahl,D. Rommedahl,3281.0
+2010,Denmark,Thomas Enevoldsen,T. Enevoldsen,2804.0
+2010,Denmark,Christian Eriksen,C. Eriksen,5631.0
+2010,Denmark,Jesper Christiansen,J. Christiansen,3069.0
+2010,Denmark,Patrick Mtiliga,P. Mtiliga,4359.0
+2010,Japan,Seigo Narazaki,S. Narazaki,
+2010,Japan,Yuki Abe,Y. Abe,
+2010,Japan,Yūichi Komano,Y. Komano,
+2010,Japan,Marcus Tulio Tanaka,M. Tulio Tanaka,
+2010,Japan,Yuto Nagatomo,Y. Nagatomo,
+2010,Japan,Atsuto Uchida,A. Uchida,
+2010,Japan,Yasuhito Endō,Y. Endo,
+2010,Japan,Daisuke Matsui,D. Matsui,1570.0
+2010,Japan,Shinji Okazaki,S. Okazaki,
+2010,Japan,Shunsuke Nakamura,S. Nakamura,832.0
+2010,Japan,Keiji Tamada,K. Tamada,
+2010,Japan,Kisho Yano,K. Yano,
+2010,Japan,Daiki Iwamasa,D. Iwamasa,
+2010,Japan,Kengo Nakamura,K. Nakamura,
+2010,Japan,Yasuyuki Konno,Y. Konno,
+2010,Japan,Yoshito Ōkubo,Y. Okubo,
+2010,Japan,Makoto Hasebe,M. Hasebe,1151.0
+2010,Japan,Keisuke Honda,K. Honda,513.0
+2010,Japan,Takayuki Morimoto,T. Morimoto,1913.0
+2010,Japan,Junichi Inamoto,J. Inamoto,2270.0
+2010,Japan,Eiji Kawashima,E. Kawashima,
+2010,Japan,Yuji Nakazawa ,Y. Nakazawa,
+2010,Japan,Yoshikatsu Kawaguchi,Y. Kawaguchi,
+2010,Netherlands,Maarten Stekelenburg,M. Stekelenburg,864.0
+2010,Netherlands,Gregory van der Wiel,G. van der Wiel,1141.0
+2010,Netherlands,John Heitinga,J. Heitinga,469.0
+2010,Netherlands,Joris Mathijsen,J. Mathijsen,350.0
+2010,Netherlands,Giovanni van Bronckhorst ,G. van Bronckhorst,1433.0
+2010,Netherlands,Mark van Bommel,M. van Bommel,344.0
+2010,Netherlands,Dirk Kuyt,D. Kuyt,126.0
+2010,Netherlands,Nigel de Jong,N. de Jong,458.0
+2010,Netherlands,Robin van Persie,R. van Persie,46.0
+2010,Netherlands,Wesley Sneijder,W. Sneijder,66.0
+2010,Netherlands,Arjen Robben,A. Robben,28.0
+2010,Netherlands,Khalid Boulahrouz,K. Boulahrouz,1026.0
+2010,Netherlands,André Ooijer,A. Ooijer,1220.0
+2010,Netherlands,Demy de Zeeuw,D. de Zeeuw,601.0
+2010,Netherlands,Edson Braafheid,E. Braafheid,1236.0
+2010,Netherlands,Michel Vorm,M. Vorm,1023.0
+2010,Netherlands,Eljero Elia,E. Elia,383.0
+2010,Netherlands,Stijn Schaars,S. Schaars,1025.0
+2010,Netherlands,Ryan Babel,R. Babel,407.0
+2010,Netherlands,Ibrahim Afellay,I. Afellay,220.0
+2010,Netherlands,Klaas-Jan Huntelaar,K. Jan Huntelaar,
+2010,Netherlands,Sander Boschker,S. Boschker,
+2010,Netherlands,Rafael van der Vaart,R. van der Vaart,75.0
+2010,Italy,Gianluigi Buffon,G. Buffon,12.0
+2010,Italy,Christian Maggio,C. Maggio,298.0
+2010,Italy,Domenico Criscito,D. Criscito,703.0
+2010,Italy,Giorgio Chiellini,G. Chiellini,24.0
+2010,Italy,Fabio Cannavaro ,F. Cannavaro,198.0
+2010,Italy,Daniele De Rossi,D. De Rossi,40.0
+2010,Italy,Simone Pepe,S. Pepe,619.0
+2010,Italy,Gennaro Gattuso,G. Gattuso,266.0
+2010,Italy,Vincenzo Iaquinta,V. Iaquinta,124.0
+2010,Italy,Antonio Di Natale,A. Di Natale,39.0
+2010,Italy,Alberto Gilardino,A. Gilardino,86.0
+2010,Italy,Federico Marchetti,F. Marchetti,157.0
+2010,Italy,Salvatore Bocchetti,S. Bocchetti,926.0
+2010,Italy,Morgan De Sanctis,M. De Sanctis,857.0
+2010,Italy,Claudio Marchisio,C. Marchisio,279.0
+2010,Italy,Mauro Camoranesi,M. Camoranesi,120.0
+2010,Italy,Angelo Palombo,A. Palombo,324.0
+2010,Italy,Fabio Quagliarella,F. Quagliarella,102.0
+2010,Italy,Gianluca Zambrotta,G. Zambrotta,265.0
+2010,Italy,Giampaolo Pazzini,G. Pazzini,162.0
+2010,Italy,Andrea Pirlo,A. Pirlo,47.0
+2010,Italy,Riccardo Montolivo,R. Montolivo,219.0
+2010,Italy,Leonardo Bonucci,L. Bonucci,2170.0
+2010,New Zealand,Mark Paston,M. Paston,10267.0
+2010,New Zealand,Ben Sigmund,B. Sigmund,10493.0
+2010,New Zealand,Tony Lochhead,T. Lochhead,
+2010,New Zealand,Winston Reid,W. Reid,6103.0
+2010,New Zealand,Ivan Vicelich,I. Vicelich,9292.0
+2010,New Zealand,Ryan Nelsen ,R. Nelsen,657.0
+2010,New Zealand,Simon Elliott,S. Elliott,5816.0
+2010,New Zealand,Tim Brown,T. Brown,
+2010,New Zealand,Shane Smeltz,S. Smeltz,4489.0
+2010,New Zealand,Chris Killen,C. Killen,3681.0
+2010,New Zealand,Leo Bertos,L. Bertos,8743.0
+2010,New Zealand,Glen Moss,G. Moss,10633.0
+2010,New Zealand,Andy Barron,A. Barron,
+2010,New Zealand,Rory Fallon,R. Fallon,9745.0
+2010,New Zealand,Michael McGlinchey,M. McGlinchey,10173.0
+2010,New Zealand,Aaron Clapham,A. Clapham,
+2010,New Zealand,Dave Mulligan,D. Mulligan,
+2010,New Zealand,Andrew Boyens,A. Boyens,
+2010,New Zealand,Tommy Smith,T. Smith,1762.0
+2010,New Zealand,Chris Wood,C. Wood,8337.0
+2010,New Zealand,Jeremy Christie,J. Christie,
+2010,New Zealand,Jeremy Brockie,J. Brockie,
+2010,New Zealand,James Bannatyne,J. Bannatyne,
+2010,Paraguay,Justo Villar,J. Villar,963.0
+2010,Paraguay,Darío Verón,D. Veron,2068.0
+2010,Paraguay,Claudio Morel,C. Morel,
+2010,Paraguay,Denis Caniza ,D. Caniza,1241.0
+2010,Paraguay,Julio César Cáceres,J. Cesar Caceres,
+2010,Paraguay,Carlos Bonet,C. Bonet,1391.0
+2010,Paraguay,Óscar Cardozo,O. Cardozo,138.0
+2010,Paraguay,Édgar Barreto,E. Barreto,967.0
+2010,Paraguay,Roque Santa Cruz,R. Santa Cruz,338.0
+2010,Paraguay,Édgar Benítez,E. Benitez,3718.0
+2010,Paraguay,Jonathan Santana,J. Santana,2454.0
+2010,Paraguay,Diego Barreto,D. Barreto,4963.0
+2010,Paraguay,Enrique Vera,E. Vera,2652.0
+2010,Paraguay,Paulo da Silva,P. da Silva,1014.0
+2010,Paraguay,Víctor Cáceres,V. Caceres,3154.0
+2010,Paraguay,Cristian Riveros,C. Riveros,2204.0
+2010,Paraguay,Aureliano Torres,A. Torres,6313.0
+2010,Paraguay,Nelson Valdez,N. Valdez,
+2010,Paraguay,Lucas Barrios,L. Barrios,366.0
+2010,Paraguay,Néstor Ortigoza,N. Ortigoza,3816.0
+2010,Paraguay,Antolín Alcaraz,A. Alcaraz,3474.0
+2010,Paraguay,Aldo Bobadilla,A. Bobadilla,1413.0
+2010,Paraguay,Rodolfo Gamarra,R. Gamarra,
+2010,Slovakia,Ján Mucha,J. Mucha,1383.0
+2010,Slovakia,Peter Pekarík,P. Pekarik,2366.0
+2010,Slovakia,Martin Škrtel,M. Skrtel,212.0
+2010,Slovakia,Marek Čech,M. Cech,1499.0
+2010,Slovakia,Radoslav Zabavník,R. Zabavnik,3667.0
+2010,Slovakia,Zdeno Štrba,Z. Strba,
+2010,Slovakia,Vladimír Weiss Jr.,V. Weiss Jr.,
+2010,Slovakia,Ján Kozák,J. Kozak,
+2010,Slovakia,Stanislav Šesták,S. Sestak,911.0
+2010,Slovakia,Marek Sapara,M. Sapara,1183.0
+2010,Slovakia,Róbert Vittek,R. Vittek,1324.0
+2010,Slovakia,Dušan Perniš,D. Pernis,7543.0
+2010,Slovakia,Filip Hološko,F. Holosko,381.0
+2010,Slovakia,Martin Jakubko,M. Jakubko,2077.0
+2010,Slovakia,Miroslav Stoch,M. Stoch,877.0
+2010,Slovakia,Ján Ďurica,J. Durica,1792.0
+2010,Slovakia,Marek Hamšík ,M. Hamsik,203.0
+2010,Slovakia,Erik Jendrišek,E. Jendrisek,3143.0
+2010,Slovakia,Juraj Kucka,J. Kucka,6867.0
+2010,Slovakia,Kamil Kopúnek,K. Kopunek,
+2010,Slovakia,Kornel Saláta,K. Salata,
+2010,Slovakia,Martin Petráš,M. Petras,6568.0
+2010,Slovakia,Dušan Kuciak,D. Kuciak,
+2010,Brazil,Júlio César,J. Cesar,3.0
+2010,Brazil,Maicon,Maicon,38.0
+2010,Brazil,Lúcio ,Lucio,71.0
+2010,Brazil,Juan,Juan,74.0
+2010,Brazil,Felipe Melo,F. Melo,1031.0
+2010,Brazil,Michel Bastos,M. Bastos,156.0
+2010,Brazil,Elano,Elano,241.0
+2010,Brazil,Gilberto Silva,G. Silva,329.0
+2010,Brazil,Luís Fabiano,L. Fabiano,37.0
+2010,Brazil,Kaká,Kaka,14.0
+2010,Brazil,Robinho,Robinho,240.0
+2010,Brazil,Heurelho Gomes,H. Gomes,
+2010,Brazil,Dani Alves,D. Alves,21.0
+2010,Brazil,Luisão,Luisao,229.0
+2010,Brazil,Thiago Silva,T. Silva,215.0
+2010,Brazil,Gilberto,Gilberto,1029.0
+2010,Brazil,Josué,Josue,216.0
+2010,Brazil,Ramires,Ramires,514.0
+2010,Brazil,Júlio Baptista,J. Baptista,239.0
+2010,Brazil,Kléberson,Kleberson,
+2010,Brazil,Nilmar,Nilmar,314.0
+2010,Brazil,Doni,Doni,608.0
+2010,Brazil,Grafite,Grafite,226.0
+2010,Ivory Coast,Boubacar Barry,B. Barry,
+2010,Ivory Coast,Benjamin Angoua,B. Angoua,4779.0
+2010,Ivory Coast,Arthur Boka,A. Boka,2062.0
+2010,Ivory Coast,Kolo Touré,K. Toure,70.0
+2010,Ivory Coast,Didier Zokora,D. Zokora,331.0
+2010,Ivory Coast,Steve Gohouri,S. Gohouri,2697.0
+2010,Ivory Coast,Seydou Doumbia,S. Doumbia,670.0
+2010,Ivory Coast,Salomon Kalou,S. Kalou,221.0
+2010,Ivory Coast,Cheick Tioté,C. Tiote,1763.0
+2010,Ivory Coast,Gervinho,Gervinho,386.0
+2010,Ivory Coast,Didier Drogba ,D. Drogba,15.0
+2010,Ivory Coast,Jean-Jacques Gosso,J. Jacques Gosso,
+2010,Ivory Coast,Romaric,Romaric,409.0
+2010,Ivory Coast,Emmanuel Koné,E. Kone,
+2010,Ivory Coast,Aruna Dindane,A. Dindane,
+2010,Ivory Coast,Aristide Zogbo,A. Zogbo,
+2010,Ivory Coast,Siaka Tiéné,S. Tiene,2736.0
+2010,Ivory Coast,Kader Keïta,K. Keita,
+2010,Ivory Coast,Yaya Touré,Y. Toure,125.0
+2010,Ivory Coast,Guy Demel,G. Demel,1797.0
+2010,Ivory Coast,Emmanuel Eboué,E. Eboue,609.0
+2010,Ivory Coast,Sol Bamba,S. Bamba,3355.0
+2010,Ivory Coast,Daniel Yeboah,D. Yeboah,
+2010,North Korea,Ri Myong-guk,R. Myong guk,
+2010,North Korea,Cha Jong-hyok,C. Jong hyok,
+2010,North Korea,Ri Jun-il,R. Jun il,
+2010,North Korea,Pak Nam-chol I,P. Nam chol I,
+2010,North Korea,Ri Kwang-chon,R. Kwang chon,
+2010,North Korea,Kim Kum-il,K. Kum il,
+2010,North Korea,An Chol-hyok,A. Chol hyok,
+2010,North Korea,Ji Yun-nam,J. Yun nam,
+2010,North Korea,Jong Tae-se,J. Tae se,
+2010,North Korea,Hong Yong-jo ,H. Yong jo,3986.0
+2010,North Korea,Mun In-guk,M. In guk,
+2010,North Korea,Choe Kum-chol,C. Kum chol,
+2010,North Korea,Pak Chol-jin,P. Chol jin,
+2010,North Korea,Pak Nam-chol II,P. Nam chol II,
+2010,North Korea,Kim Yong-jun,K. Yong jun,
+2010,North Korea,Nam Song-chol,N. Song chol,
+2010,North Korea,An Yong-hak,A. Yong hak,
+2010,North Korea,Kim Myong-gil,K. Myong gil,
+2010,North Korea,Ri Chol-myong,R. Chol myong,
+2010,North Korea,Kim Myong-won[9],K. Myong won[9],
+2010,North Korea,Ri Kwang-hyok,R. Kwang hyok,
+2010,North Korea,Kim Kyong-il,K. Kyong il,
+2010,North Korea,Pak Sung-hyok,P. Sung hyok,
+2010,Portugal,Eduardo,Eduardo,141.0
+2010,Portugal,Bruno Alves,B. Alves,110.0
+2010,Portugal,Paulo Ferreira,P. Ferreira,793.0
+2010,Portugal,Rolando,Rolando,399.0
+2010,Portugal,Duda,Duda,452.0
+2010,Portugal,Ricardo Carvalho,R. Carvalho,88.0
+2010,Portugal,Cristiano Ronaldo ,C. Ronaldo,4.0
+2010,Portugal,Pedro Mendes,P. Mendes,841.0
+2010,Portugal,Liédson,Liedson,230.0
+2010,Portugal,Danny,Danny,181.0
+2010,Portugal,Simão,Simao,131.0
+2010,Portugal,Beto,Beto,518.0
+2010,Portugal,Miguel,Miguel,858.0
+2010,Portugal,Miguel Veloso,M. Veloso,375.0
+2010,Portugal,Pepe,Pepe,69.0
+2010,Portugal,Raul Meireles,R. Meireles,152.0
+2010,Portugal,Ruben Amorim[10],R. Amorim[10],
+2010,Portugal,Hugo Almeida,H. Almeida,596.0
+2010,Portugal,Tiago,Tiago,647.0
+2010,Portugal,Deco,Deco,115.0
+2010,Portugal,Ricardo Costa,R. Costa,1333.0
+2010,Portugal,Daniel Fernandes,D. Fernandes,1654.0
+2010,Portugal,Fábio Coentrão,F. Coentrao,707.0
+2010,Chile,Claudio Bravo ,C. Bravo,1184.0
+2010,Chile,Ismael Fuentes,I. Fuentes,2672.0
+2010,Chile,Waldo Ponce,W. Ponce,
+2010,Chile,Mauricio Isla,M. Isla,1133.0
+2010,Chile,Pablo Contreras,P. Contreras,1048.0
+2010,Chile,Carlos Carmona,C. Carmona,1131.0
+2010,Chile,Alexis Sánchez,A. Sanchez,675.0
+2010,Chile,Arturo Vidal,A. Vidal,520.0
+2010,Chile,Humberto Suazo,H. Suazo,699.0
+2010,Chile,Jorge Valdivia,J. Valdivia,
+2010,Chile,Mark González,M. Gonzalez,1005.0
+2010,Chile,Miguel Pinto,M. Pinto,
+2010,Chile,Marco Estrada,M. Estrada,
+2010,Chile,Matías Fernández,M. Fernandez,538.0
+2010,Chile,Jean Beausejour,J. Beausejour,2361.0
+2010,Chile,Fabián Orellana,F. Orellana,2537.0
+2010,Chile,Gary Medel,G. Medel,1701.0
+2010,Chile,Gonzalo Jara,G. Jara,5568.0
+2010,Chile,Gonzalo Fierro,G. Fierro,3485.0
+2010,Chile,Rodrigo Millar,R. Millar,
+2010,Chile,Rodrigo Tello,R. Tello,342.0
+2010,Chile,Esteban Paredes,E. Paredes,
+2010,Chile,Luis Marín,L. Marin,
+2010,Honduras,Ricardo Canales,R. Canales,
+2010,Honduras,Osman Chávez,O. Chavez,
+2010,Honduras,Maynor Figueroa,M. Figueroa,2095.0
+2010,Honduras,Johnny Palacios,J. Palacios,8395.0
+2010,Honduras,Víctor Bernárdez,V. Bernardez,5581.0
+2010,Honduras,Hendry Thomas,H. Thomas,1964.0
+2010,Honduras,Ramón Núñez,R. Nunez,3727.0
+2010,Honduras,Wilson Palacios,W. Palacios,278.0
+2010,Honduras,Carlos Pavón,C. Pavon,
+2010,Honduras,Jerry Palacios[11],J. Palacios[11],
+2010,Honduras,David Suazo,D. Suazo,455.0
+2010,Honduras,Georgie Welcome,G. Welcome,
+2010,Honduras,Roger Espinoza,R. Espinoza,6538.0
+2010,Honduras,Boniek García,B. Garcia,
+2010,Honduras,Walter Martínez,W. Martinez,
+2010,Honduras,Mauricio Sabillón,M. Sabillon,
+2010,Honduras,Édgar Álvarez,E. Alvarez,1223.0
+2010,Honduras,Noel Valladares,N. Valladares,
+2010,Honduras,Danilo Turcios,D. Turcios,
+2010,Honduras,Amado Guevara ,A. Guevara,4308.0
+2010,Honduras,Emilio Izaguirre,E. Izaguirre,
+2010,Honduras,Donis Escober,D. Escober,
+2010,Honduras,Sergio Mendoza,S. Mendoza,
+2010,Spain,Iker Casillas ,I. Casillas,
+2010,Spain,Raúl Albiol,R. Albiol,103.0
+2010,Spain,Gerard Piqué,G. Pique,
+2010,Spain,Carlos Marchena,C. Marchena,
+2010,Spain,Carles Puyol,C. Puyol,
+2010,Spain,Andrés Iniesta,A. Iniesta,
+2010,Spain,David Villa,D. Villa,7.0
+2010,Spain,Xavi,Xavi,17.0
+2010,Spain,Fernando Torres,F. Torres,8.0
+2010,Spain,Cesc Fàbregas,C. Fabregas,
+2010,Spain,Joan Capdevila,J. Capdevila,
+2010,Spain,Víctor Valdés,V. Valdes,
+2010,Spain,Juan Mata,J. Mata,
+2010,Spain,Xabi Alonso,X. Alonso,76.0
+2010,Spain,Sergio Ramos,S. Ramos,33.0
+2010,Spain,Sergio Busquets,S. Busquets,506.0
+2010,Spain,Álvaro Arbeloa,A. Arbeloa,
+2010,Spain,Pedro,Pedro,507.0
+2010,Spain,Fernando Llorente,F. Llorente,286.0
+2010,Spain,Javi Martínez,J. Martinez,530.0
+2010,Spain,David Silva,D. Silva,20.0
+2010,Spain,Jesús Navas,J. Navas,65.0
+2010,Spain,Pepe Reina,P. Reina,81.0
+2010,Switzerland,Diego Benaglio,D. Benaglio,319.0
+2010,Switzerland,Stephan Lichtsteiner,S. Lichtsteiner,
+2010,Switzerland,Ludovic Magnin,L. Magnin,2031.0
+2010,Switzerland,Philippe Senderos,P. Senderos,1078.0
+2010,Switzerland,Steve von Bergen,S. von Bergen,2176.0
+2010,Switzerland,Benjamin Huggel,B. Huggel,2637.0
+2010,Switzerland,Tranquillo Barnetta,T. Barnetta,460.0
+2010,Switzerland,Gökhan Inler,G. Inler,569.0
+2010,Switzerland,Alexander Frei ,A. Frei,836.0
+2010,Switzerland,Blaise Nkufo,B. Nkufo,1436.0
+2010,Switzerland,Valon Behrami,V. Behrami,952.0
+2010,Switzerland,Marco Wölfli,M. Wolfli,2890.0
+2010,Switzerland,Stéphane Grichting,S. Grichting,865.0
+2010,Switzerland,Marco Padalino,M. Padalino,1227.0
+2010,Switzerland,Hakan Yakin,H. Yakin,2145.0
+2010,Switzerland,Gélson Fernandes,G. Fernandes,1659.0
+2010,Switzerland,Reto Ziegler,R. Ziegler,1757.0
+2010,Switzerland,Albert Bunjaku,A. Bunjaku,1593.0
+2010,Switzerland,Eren Derdiyok,E. Derdiyok,684.0
+2010,Switzerland,Pirmin Schwegler,P. Schwegler,1989.0
+2010,Switzerland,Johnny Leoni,J. Leoni,2157.0
+2010,Switzerland,Mario Eggimann,M. Eggimann,2326.0
+2010,Switzerland,Xherdan Shaqiri,X. Shaqiri,

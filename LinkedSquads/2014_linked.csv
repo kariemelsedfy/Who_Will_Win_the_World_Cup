@@ -1,0 +1,737 @@
+year,team,player_name,derived_short_name,fifa_index
+2014,Brazil,Jefferson,Jefferson,157.0
+2014,Brazil,Dani Alves,D. Alves,69.0
+2014,Brazil,Thiago Silva ,T. Silva,9.0
+2014,Brazil,David Luiz,D. Luiz,129.0
+2014,Brazil,Fernandinho,Fernandinho,156.0
+2014,Brazil,Marcelo,Marcelo,87.0
+2014,Brazil,Hulk,Hulk,51.0
+2014,Brazil,Paulinho,Paulinho,183.0
+2014,Brazil,Fred,Fred,371.0
+2014,Brazil,Neymar,Neymar,34.0
+2014,Brazil,Oscar,Oscar,52.0
+2014,Brazil,Júlio César,J. Cesar,161.0
+2014,Brazil,Dante,Dante,63.0
+2014,Brazil,Maxwell,Maxwell,693.0
+2014,Brazil,Henrique,Henrique,796.0
+2014,Brazil,Ramires,Ramires,187.0
+2014,Brazil,Luiz Gustavo,L. Gustavo,185.0
+2014,Brazil,Hernanes,Hernanes,84.0
+2014,Brazil,Willian,Willian,85.0
+2014,Brazil,Bernard,Bernard,226.0
+2014,Brazil,Jô,Jo,390.0
+2014,Brazil,Victor,Victor,331.0
+2014,Brazil,Maicon,Maicon,286.0
+2014,Cameroon,Loïc Feudjou,L. Feudjou,
+2014,Cameroon,Benoît Assou-Ekotto,B. Assou Ekotto,1140.0
+2014,Cameroon,Nicolas Nkoulou,N. Nkoulou,327.0
+2014,Cameroon,Cédric Djeugoué,C. Djeugoue,8985.0
+2014,Cameroon,Dany Nounkeu,D. Nounkeu,769.0
+2014,Cameroon,Alex Song,A. Song,97.0
+2014,Cameroon,Landry N'Guémo,L. N Guemo,1094.0
+2014,Cameroon,Benjamin Moukandjo,B. Moukandjo,3555.0
+2014,Cameroon,Samuel Eto'o ,S. Eto o,166.0
+2014,Cameroon,Vincent Aboubakar,V. Aboubakar,744.0
+2014,Cameroon,Jean Makoun,J. Makoun,1532.0
+2014,Cameroon,Henri Bedimo,H. Bedimo,876.0
+2014,Cameroon,Eric Maxim Choupo-Moting,E. Maxim Choupo Moting,
+2014,Cameroon,Aurélien Chedjou,A. Chedjou,338.0
+2014,Cameroon,Pierre Webó,P. Webo,1056.0
+2014,Cameroon,Charles Itandje,C. Itandje,4013.0
+2014,Cameroon,Stéphane Mbia,S. Mbia,1046.0
+2014,Cameroon,Eyong Enoh,E. Enoh,2608.0
+2014,Cameroon,Fabrice Olinga,F. Olinga,5048.0
+2014,Cameroon,Edgar Salli,E. Salli,4762.0
+2014,Cameroon,Joël Matip,J. Matip,576.0
+2014,Cameroon,Allan Nyom,A. Nyom,1831.0
+2014,Cameroon,Sammy Ndjock,S. Ndjock,2207.0
+2014,Croatia,Stipe Pletikosa,S. Pletikosa,1255.0
+2014,Croatia,Šime Vrsaljko,S. Vrsaljko,2203.0
+2014,Croatia,Danijel Pranjić,D. Pranjic,1346.0
+2014,Croatia,Ivan Perišić,I. Perisic,617.0
+2014,Croatia,Vedran Ćorluka,V. Corluka,341.0
+2014,Croatia,Dejan Lovren,D. Lovren,313.0
+2014,Croatia,Ivan Rakitić,I. Rakitic,203.0
+2014,Croatia,Ognjen Vukojević,O. Vukojevic,
+2014,Croatia,Nikica Jelavić,N. Jelavic,1164.0
+2014,Croatia,Luka Modrić,L. Modric,25.0
+2014,Croatia,Darijo Srna ,D. Srna,280.0
+2014,Croatia,Oliver Zelenika,O. Zelenika,
+2014,Croatia,Gordon Schildenfeld,G. Schildenfeld,1591.0
+2014,Croatia,Marcelo Brozović,M. Brozovic,
+2014,Croatia,Milan Badelj,M. Badelj,733.0
+2014,Croatia,Ante Rebić,A. Rebic,6206.0
+2014,Croatia,Mario Mandžukić,M. Mandzukic,82.0
+2014,Croatia,Ivica Olić,I. Olic,383.0
+2014,Croatia,Sammir,Sammir,1703.0
+2014,Croatia,Mateo Kovačić,M. Kovacic,715.0
+2014,Croatia,Domagoj Vida,D. Vida,
+2014,Croatia,Eduardo,Eduardo,1039.0
+2014,Croatia,Danijel Subašić,D. Subasic,1012.0
+2014,Mexico,Jesús Corona,J. Corona,664.0
+2014,Mexico,Francisco Javier Rodríguez,F. Javier Rodriguez,
+2014,Mexico,Carlos Salcido,C. Salcido,2896.0
+2014,Mexico,Rafael Márquez ,R. Marquez,1040.0
+2014,Mexico,Diego Reyes,D. Reyes,1570.0
+2014,Mexico,Héctor Herrera,H. Herrera,1334.0
+2014,Mexico,Miguel Layún,M. Layun,1813.0
+2014,Mexico,Marco Fabián,M. Fabian,2346.0
+2014,Mexico,Raúl Jiménez,R. Jimenez,1619.0
+2014,Mexico,Giovani dos Santos,G. dos Santos,261.0
+2014,Mexico,Alan Pulido,A. Pulido,2295.0
+2014,Mexico,Alfredo Talavera,A. Talavera,1208.0
+2014,Mexico,Guillermo Ochoa,G. Ochoa,525.0
+2014,Mexico,Javier Hernández,J. Hernandez,130.0
+2014,Mexico,Héctor Moreno,H. Moreno,494.0
+2014,Mexico,Miguel Ángel Ponce,M. Angel Ponce,
+2014,Mexico,Isaác Brizuela,I. Brizuela,1877.0
+2014,Mexico,Andrés Guardado,A. Guardado,1069.0
+2014,Mexico,Oribe Peralta,O. Peralta,660.0
+2014,Mexico,Javier Aquino,J. Aquino,1715.0
+2014,Mexico,Carlos Peña,C. Pena,1066.0
+2014,Mexico,Paul Aguilar,P. Aguilar,1753.0
+2014,Mexico,José Juan Vázquez,J. Juan Vazquez,
+2014,Australia,Mathew Ryan,M. Ryan,2163.0
+2014,Australia,Ivan Franjic,I. Franjic,5593.0
+2014,Australia,Jason Davidson,J. Davidson,5639.0
+2014,Australia,Tim Cahill,T. Cahill,1492.0
+2014,Australia,Mark Milligan,M. Milligan,4496.0
+2014,Australia,Matthew Spiranovic,M. Spiranovic,6259.0
+2014,Australia,Mathew Leckie,M. Leckie,4101.0
+2014,Australia,Bailey Wright,B. Wright,8267.0
+2014,Australia,Adam Taggart,A. Taggart,4747.0
+2014,Australia,Ben Halloran,B. Halloran,6886.0
+2014,Australia,Tommy Oar,T. Oar,3328.0
+2014,Australia,Mitchell Langerak,M. Langerak,3321.0
+2014,Australia,Oliver Bozanic,O. Bozanic,6478.0
+2014,Australia,James Troisi,J. Troisi,5563.0
+2014,Australia,Mile Jedinak ,M. Jedinak,1524.0
+2014,Australia,James Holland,J. Holland,5002.0
+2014,Australia,Matt McKay,M. McKay,3522.0
+2014,Australia,Eugene Galekovic,E. Galekovic,5124.0
+2014,Australia,Ryan McGowan,R. McGowan,10462.0
+2014,Australia,Dario Vidošić,D. Vidosic,4734.0
+2014,Australia,Massimo Luongo,M. Luongo,8813.0
+2014,Australia,Alex Wilkinson,A. Wilkinson,1662.0
+2014,Australia,Mark Bresciano,M. Bresciano,2179.0
+2014,Chile,Claudio Bravo ,C. Bravo,201.0
+2014,Chile,Eugenio Mena,E. Mena,2135.0
+2014,Chile,Miiko Albornoz,M. Albornoz,5401.0
+2014,Chile,Mauricio Isla,M. Isla,603.0
+2014,Chile,Francisco Silva,F. Silva,2520.0
+2014,Chile,Carlos Carmona,C. Carmona,1550.0
+2014,Chile,Alexis Sánchez,A. Sanchez,124.0
+2014,Chile,Arturo Vidal,A. Vidal,24.0
+2014,Chile,Mauricio Pinilla,M. Pinilla,911.0
+2014,Chile,Jorge Valdivia,J. Valdivia,516.0
+2014,Chile,Eduardo Vargas,E. Vargas,422.0
+2014,Chile,Cristopher Toselli,C. Toselli,785.0
+2014,Chile,José Manuel Rojas,J. Manuel Rojas,
+2014,Chile,Fabián Orellana,F. Orellana,1951.0
+2014,Chile,Jean Beausejour,J. Beausejour,3894.0
+2014,Chile,Felipe Gutiérrez,F. Gutierrez,1211.0
+2014,Chile,Gary Medel,G. Medel,762.0
+2014,Chile,Gonzalo Jara,G. Jara,
+2014,Chile,José Pedro Fuenzalida,J. Pedro Fuenzalida,
+2014,Chile,Charles Aránguiz,C. Aranguiz,989.0
+2014,Chile,Marcelo Díaz,M. Diaz,2401.0
+2014,Chile,Esteban Paredes,E. Paredes,1000.0
+2014,Chile,Johnny Herrera,J. Herrera,1908.0
+2014,Netherlands,Jasper Cillessen,J. Cillessen,425.0
+2014,Netherlands,Ron Vlaar,R. Vlaar,501.0
+2014,Netherlands,Stefan de Vrij,S. de Vrij,994.0
+2014,Netherlands,Bruno Martins Indi,B. Martins Indi,1774.0
+2014,Netherlands,Daley Blind,D. Blind,588.0
+2014,Netherlands,Nigel de Jong,N. de Jong,537.0
+2014,Netherlands,Daryl Janmaat,D. Janmaat,1178.0
+2014,Netherlands,Jonathan de Guzmán,J. de Guzman,836.0
+2014,Netherlands,Robin van Persie ,R. van Persie,6.0
+2014,Netherlands,Wesley Sneijder,W. Sneijder,43.0
+2014,Netherlands,Arjen Robben,A. Robben,13.0
+2014,Netherlands,Paul Verhaegh,P. Verhaegh,1333.0
+2014,Netherlands,Joël Veltman,J. Veltman,1792.0
+2014,Netherlands,Terence Kongolo,T. Kongolo,2895.0
+2014,Netherlands,Dirk Kuyt,D. Kuyt,1055.0
+2014,Netherlands,Jordy Clasie,J. Clasie,741.0
+2014,Netherlands,Jeremain Lens,J. Lens,477.0
+2014,Netherlands,Leroy Fer,L. Fer,803.0
+2014,Netherlands,Klaas-Jan Huntelaar,K. Jan Huntelaar,
+2014,Netherlands,Georginio Wijnaldum,G. Wijnaldum,470.0
+2014,Netherlands,Memphis Depay,M. Depay,727.0
+2014,Netherlands,Michel Vorm,M. Vorm,284.0
+2014,Netherlands,Tim Krul,T. Krul,358.0
+2014,Spain,Iker Casillas ,I. Casillas,
+2014,Spain,Raúl Albiol,R. Albiol,273.0
+2014,Spain,Gerard Piqué,G. Pique,
+2014,Spain,Javi Martínez,J. Martinez,57.0
+2014,Spain,Juanfran,Juanfran,385.0
+2014,Spain,Andrés Iniesta,A. Iniesta,
+2014,Spain,David Villa,D. Villa,105.0
+2014,Spain,Xavi,Xavi,12.0
+2014,Spain,Fernando Torres,F. Torres,160.0
+2014,Spain,Cesc Fàbregas,C. Fabregas,26.0
+2014,Spain,Pedro,Pedro,50.0
+2014,Spain,David de Gea,D. de Gea,
+2014,Spain,Juan Mata,J. Mata,15.0
+2014,Spain,Xabi Alonso,X. Alonso,46.0
+2014,Spain,Sergio Ramos,S. Ramos,27.0
+2014,Spain,Sergio Busquets,S. Busquets,36.0
+2014,Spain,Koke,Koke,115.0
+2014,Spain,Jordi Alba,J. Alba,121.0
+2014,Spain,Diego Costa,D. Costa,56.0
+2014,Spain,Santi Cazorla,S. Cazorla,68.0
+2014,Spain,David Silva,D. Silva,18.0
+2014,Spain,César Azpilicueta,C. Azpilicueta,
+2014,Spain,Pepe Reina,P. Reina,
+2014,Colombia,David Ospina,D. Ospina,842.0
+2014,Colombia,Cristián Zapata,C. Zapata,480.0
+2014,Colombia,Mario Yepes ,M. Yepes,1361.0
+2014,Colombia,Santiago Arias,S. Arias,2904.0
+2014,Colombia,Carlos Carbonero,C. Carbonero,1578.0
+2014,Colombia,Carlos Sánchez,C. Sanchez,1324.0
+2014,Colombia,Pablo Armero,P. Armero,1153.0
+2014,Colombia,Abel Aguilar,A. Aguilar,1252.0
+2014,Colombia,Teófilo Gutiérrez,T. Gutierrez,1254.0
+2014,Colombia,James Rodríguez,J. Rodriguez,77.0
+2014,Colombia,Juan Cuadrado,J. Cuadrado,116.0
+2014,Colombia,Camilo Vargas,C. Vargas,947.0
+2014,Colombia,Fredy Guarín,F. Guarin,263.0
+2014,Colombia,Víctor Ibarbo,V. Ibarbo,719.0
+2014,Colombia,Alexander Mejía,A. Mejia,1677.0
+2014,Colombia,Éder Álvarez Balanta,E. Alvarez Balanta,946.0
+2014,Colombia,Carlos Bacca,C. Bacca,420.0
+2014,Colombia,Juan Camilo Zúñiga,J. Camilo Zuniga,
+2014,Colombia,Adrián Ramos,A. Ramos,349.0
+2014,Colombia,Juan Fernando Quintero,J. Fernando Quintero,
+2014,Colombia,Jackson Martínez,J. Martinez,172.0
+2014,Colombia,Faryd Mondragón,F. Mondragon,
+2014,Colombia,Carlos Valdés,C. Valdes,1938.0
+2014,Greece,Orestis Karnezis,O. Karnezis,1476.0
+2014,Greece,Giannis Maniatis,G. Maniatis,1314.0
+2014,Greece,Giorgos Tzavellas,G. Tzavellas,2758.0
+2014,Greece,Kostas Manolas,K. Manolas,1010.0
+2014,Greece,Vangelis Moras,V. Moras,1584.0
+2014,Greece,Alexandros Tziolis,A. Tziolis,
+2014,Greece,Georgios Samaras,G. Samaras,3134.0
+2014,Greece,Panagiotis Kone,P. Kone,1297.0
+2014,Greece,Kostas Mitroglou,K. Mitroglou,466.0
+2014,Greece,Giorgos Karagounis ,G. Karagounis,2992.0
+2014,Greece,Loukas Vyntra,L. Vyntra,1084.0
+2014,Greece,Panagiotis Glykos,P. Glykos,2552.0
+2014,Greece,Stefanos Kapino,S. Kapino,2078.0
+2014,Greece,Dimitris Salpingidis,D. Salpingidis,
+2014,Greece,Vasilis Torosidis,V. Torosidis,1145.0
+2014,Greece,Lazaros Christodoulopoulos,L. Christodoulopoulos,1126.0
+2014,Greece,Theofanis Gekas,T. Gekas,
+2014,Greece,Giannis Fetfatzidis,G. Fetfatzidis,
+2014,Greece,Sokratis Papastathopoulos,S. Papastathopoulos,
+2014,Greece,José Holebas,J. Holebas,2383.0
+2014,Greece,Kostas Katsouranis,K. Katsouranis,1991.0
+2014,Greece,Andreas Samaris,A. Samaris,2181.0
+2014,Greece,Panagiotis Tachtsidis,P. Tachtsidis,3253.0
+2014,Ivory Coast,Boubacar Barry,B. Barry,
+2014,Ivory Coast,Ousmane Viera,O. Viera,
+2014,Ivory Coast,Arthur Boka,A. Boka,1502.0
+2014,Ivory Coast,Kolo Touré,K. Toure,400.0
+2014,Ivory Coast,Didier Zokora,D. Zokora,
+2014,Ivory Coast,Mathis Bolly,M. Bolly,7753.0
+2014,Ivory Coast,Jean-Daniel Akpa Akpro,J. Daniel Akpa Akpro,
+2014,Ivory Coast,Salomon Kalou,S. Kalou,513.0
+2014,Ivory Coast,Cheick Tioté,C. Tiote,499.0
+2014,Ivory Coast,Gervinho,Gervinho,138.0
+2014,Ivory Coast,Didier Drogba ,D. Drogba,74.0
+2014,Ivory Coast,Wilfried Bony,W. Bony,178.0
+2014,Ivory Coast,Didier Ya Konan,D. Ya Konan,621.0
+2014,Ivory Coast,Ismaël Diomandé,I. Diomande,8335.0
+2014,Ivory Coast,Max Gradel,M. Gradel,1409.0
+2014,Ivory Coast,Sylvain Gbohouo,S. Gbohouo,
+2014,Ivory Coast,Serge Aurier,S. Aurier,1504.0
+2014,Ivory Coast,Constant Djakpa,C. Djakpa,2018.0
+2014,Ivory Coast,Yaya Touré,Y. Toure,31.0
+2014,Ivory Coast,Serey Dié,S. Die,
+2014,Ivory Coast,Giovanni Sio,G. Sio,1313.0
+2014,Ivory Coast,Sol Bamba,S. Bamba,2247.0
+2014,Ivory Coast,Sayouba Mandé,S. Mande,
+2014,Japan,Eiji Kawashima,E. Kawashima,1187.0
+2014,Japan,Atsuto Uchida,A. Uchida,1249.0
+2014,Japan,Gōtoku Sakai,G. Sakai,1745.0
+2014,Japan,Keisuke Honda,K. Honda,332.0
+2014,Japan,Yuto Nagatomo,Y. Nagatomo,580.0
+2014,Japan,Masato Morishige,M. Morishige,
+2014,Japan,Yasuhito Endo,Y. Endo,
+2014,Japan,Hiroshi Kiyotake,H. Kiyotake,710.0
+2014,Japan,Shinji Okazaki,S. Okazaki,757.0
+2014,Japan,Shinji Kagawa,S. Kagawa,181.0
+2014,Japan,Yoichiro Kakitani,Y. Kakitani,
+2014,Japan,Shusaku Nishikawa,S. Nishikawa,
+2014,Japan,Yoshito Ōkubo,Y. Okubo,
+2014,Japan,Toshihiro Aoyama,T. Aoyama,
+2014,Japan,Yasuyuki Konno,Y. Konno,
+2014,Japan,Hotaru Yamaguchi,H. Yamaguchi,
+2014,Japan,Makoto Hasebe ,M. Hasebe,1343.0
+2014,Japan,Yuya Osako,Y. Osako,2618.0
+2014,Japan,Masahiko Inoha,M. Inoha,
+2014,Japan,Manabu Saitō,M. Saito,
+2014,Japan,Hiroki Sakai,H. Sakai,2734.0
+2014,Japan,Maya Yoshida,M. Yoshida,2789.0
+2014,Japan,Shūichi Gonda,S. Gonda,
+2014,Costa Rica,Keylor Navas,K. Navas,433.0
+2014,Costa Rica,Jhonny Acosta,J. Acosta,6091.0
+2014,Costa Rica,Giancarlo González,G. Gonzalez,2458.0
+2014,Costa Rica,Michael Umaña,M. Umana,
+2014,Costa Rica,Celso Borges,C. Borges,2134.0
+2014,Costa Rica,Óscar Duarte,O. Duarte,3654.0
+2014,Costa Rica,Christian Bolaños,C. Bolanos,3265.0
+2014,Costa Rica,David Myrie[64],D. Myrie[64],
+2014,Costa Rica,Joel Campbell,J. Campbell,718.0
+2014,Costa Rica,Bryan Ruiz ,B. Ruiz,488.0
+2014,Costa Rica,Michael Barrantes,M. Barrantes,1601.0
+2014,Costa Rica,Waylon Francis,W. Francis,10101.0
+2014,Costa Rica,Óscar Granados,O. Granados,
+2014,Costa Rica,Randall Brenes,R. Brenes,
+2014,Costa Rica,Júnior Díaz,J. Diaz,2685.0
+2014,Costa Rica,Cristian Gamboa,C. Gamboa,2767.0
+2014,Costa Rica,Yeltsin Tejeda,Y. Tejeda,
+2014,Costa Rica,Patrick Pemberton,P. Pemberton,
+2014,Costa Rica,Roy Miller,R. Miller,6383.0
+2014,Costa Rica,Diego Calvo,D. Calvo,9458.0
+2014,Costa Rica,Marco Ureña,M. Urena,10164.0
+2014,Costa Rica,José Miguel Cubero,J. Miguel Cubero,
+2014,Costa Rica,Daniel Cambronero,D. Cambronero,
+2014,England,Joe Hart,J. Hart,152.0
+2014,England,Glen Johnson,G. Johnson,528.0
+2014,England,Leighton Baines,L. Baines,146.0
+2014,England,Steven Gerrard ,S. Gerrard,110.0
+2014,England,Gary Cahill,G. Cahill,267.0
+2014,England,Phil Jagielka,P. Jagielka,290.0
+2014,England,Jack Wilshere,J. Wilshere,120.0
+2014,England,Frank Lampard,F. Lampard,301.0
+2014,England,Daniel Sturridge,D. Sturridge,91.0
+2014,England,Wayne Rooney,W. Rooney,21.0
+2014,England,Danny Welbeck,D. Welbeck,455.0
+2014,England,Chris Smalling,C. Smalling,782.0
+2014,England,Ben Foster,B. Foster,506.0
+2014,England,Jordan Henderson,J. Henderson,464.0
+2014,England,Alex Oxlade-Chamberlain,A. Oxlade Chamberlain,427.0
+2014,England,Phil Jones,P. Jones,314.0
+2014,England,James Milner,J. Milner,283.0
+2014,England,Rickie Lambert,R. Lambert,936.0
+2014,England,Raheem Sterling,R. Sterling,305.0
+2014,England,Adam Lallana,A. Lallana,342.0
+2014,England,Ross Barkley,R. Barkley,570.0
+2014,England,Fraser Forster,F. Forster,1113.0
+2014,England,Luke Shaw,L. Shaw,1415.0
+2014,Italy,Gianluigi Buffon ,G. Buffon,167.0
+2014,Italy,Mattia De Sciglio,M. De Sciglio,555.0
+2014,Italy,Giorgio Chiellini,G. Chiellini,71.0
+2014,Italy,Matteo Darmian,M. Darmian,3124.0
+2014,Italy,Thiago Motta,T. Motta,107.0
+2014,Italy,Antonio Candreva,A. Candreva,89.0
+2014,Italy,Ignazio Abate,I. Abate,642.0
+2014,Italy,Claudio Marchisio,C. Marchisio,58.0
+2014,Italy,Mario Balotelli,M. Balotelli,80.0
+2014,Italy,Antonio Cassano,A. Cassano,223.0
+2014,Italy,Alessio Cerci,A. Cerci,194.0
+2014,Italy,Salvatore Sirigu,S. Sirigu,59.0
+2014,Italy,Mattia Perin,M. Perin,574.0
+2014,Italy,Alberto Aquilani,A. Aquilani,406.0
+2014,Italy,Andrea Barzagli,A. Barzagli,72.0
+2014,Italy,Daniele De Rossi,D. De Rossi,44.0
+2014,Italy,Ciro Immobile,C. Immobile,234.0
+2014,Italy,Marco Parolo,M. Parolo,614.0
+2014,Italy,Leonardo Bonucci,L. Bonucci,336.0
+2014,Italy,Gabriel Paletta,G. Paletta,265.0
+2014,Italy,Andrea Pirlo,A. Pirlo,75.0
+2014,Italy,Lorenzo Insigne,L. Insigne,311.0
+2014,Italy,Marco Verratti,M. Verratti,309.0
+2014,Uruguay,Fernando Muslera,F. Muslera,127.0
+2014,Uruguay,Diego Lugano,D. Lugano,1479.0
+2014,Uruguay,Diego Godín ,D. Godin,128.0
+2014,Uruguay,Jorge Fucile,J. Fucile,1980.0
+2014,Uruguay,Walter Gargano,W. Gargano,2128.0
+2014,Uruguay,Álvaro Pereira,A. Pereira,1271.0
+2014,Uruguay,Cristian Rodríguez,C. Rodriguez,260.0
+2014,Uruguay,Abel Hernández,A. Hernandez,2109.0
+2014,Uruguay,Luis Suárez,L. Suarez,3.0
+2014,Uruguay,Diego Forlán,D. Forlan,539.0
+2014,Uruguay,Cristhian Stuani,C. Stuani,2800.0
+2014,Uruguay,Rodrigo Muñoz,R. Munoz,3510.0
+2014,Uruguay,José Giménez,J. Gimenez,2746.0
+2014,Uruguay,Nicolás Lodeiro,N. Lodeiro,996.0
+2014,Uruguay,Diego Pérez,D. Perez,2028.0
+2014,Uruguay,Maxi Pereira,M. Pereira,819.0
+2014,Uruguay,Egidio Arévalo Ríos,E. Arevalo Rios,3784.0
+2014,Uruguay,Gastón Ramírez,G. Ramirez,424.0
+2014,Uruguay,Sebastián Coates,S. Coates,2513.0
+2014,Uruguay,Álvaro González,A. Gonzalez,820.0
+2014,Uruguay,Edinson Cavani,E. Cavani,14.0
+2014,Uruguay,Martín Cáceres,M. Caceres,340.0
+2014,Uruguay,Martín Silva,M. Silva,2954.0
+2014,Ecuador,Máximo Banguera,M. Banguera,3177.0
+2014,Ecuador,Jorge Guagua,J. Guagua,4641.0
+2014,Ecuador,Frickson Erazo,F. Erazo,4545.0
+2014,Ecuador,Juan Carlos Paredes,J. Carlos Paredes,
+2014,Ecuador,Renato Ibarra,R. Ibarra,1463.0
+2014,Ecuador,Christian Noboa,C. Noboa,794.0
+2014,Ecuador,Jefferson Montero,J. Montero,801.0
+2014,Ecuador,Édison Méndez,E. Mendez,2750.0
+2014,Ecuador,Joao Rojas,J. Rojas,2382.0
+2014,Ecuador,Walter Ayoví,W. Ayovi,3944.0
+2014,Ecuador,Felipe Caicedo,F. Caicedo,1093.0
+2014,Ecuador,Adrián Bone,A. Bone,10714.0
+2014,Ecuador,Enner Valencia,E. Valencia,3258.0
+2014,Ecuador,Oswaldo Minda,O. Minda,8430.0
+2014,Ecuador,Michael Arroyo,M. Arroyo,2347.0
+2014,Ecuador,Antonio Valencia ,A. Valencia,206.0
+2014,Ecuador,Jaime Ayoví,J. Ayovi,3738.0
+2014,Ecuador,Óscar Bagüí,O. Bagui,7968.0
+2014,Ecuador,Luis Saritama,L. Saritama,2527.0
+2014,Ecuador,Fidel Martínez,F. Martinez,1456.0
+2014,Ecuador,Gabriel Achilier,G. Achilier,8107.0
+2014,Ecuador,Alexander Domínguez,A. Dominguez,891.0
+2014,Ecuador,Carlos Gruezo,C. Gruezo,3981.0
+2014,France,Hugo Lloris ,H. Lloris,60.0
+2014,France,Mathieu Debuchy,M. Debuchy,272.0
+2014,France,Patrice Evra,P. Evra,292.0
+2014,France,Raphaël Varane,R. Varane,170.0
+2014,France,Mamadou Sakho,M. Sakho,190.0
+2014,France,Yohan Cabaye,Y. Cabaye,205.0
+2014,France,Rémy Cabella[90],R. Cabella[90],
+2014,France,Mathieu Valbuena,M. Valbuena,254.0
+2014,France,Olivier Giroud,O. Giroud,346.0
+2014,France,Karim Benzema,K. Benzema,40.0
+2014,France,Antoine Griezmann,A. Griezmann,114.0
+2014,France,Rio Mavuba,R. Mavuba,213.0
+2014,France,Eliaquim Mangala,E. Mangala,237.0
+2014,France,Blaise Matuidi,B. Matuidi,92.0
+2014,France,Bacary Sagna,B. Sagna,268.0
+2014,France,Stéphane Ruffier[92],S. Ruffier[92],
+2014,France,Lucas Digne,L. Digne,979.0
+2014,France,Moussa Sissoko,M. Sissoko,1049.0
+2014,France,Paul Pogba,P. Pogba,173.0
+2014,France,Loïc Rémy,L. Remy,250.0
+2014,France,Laurent Koscielny,L. Koscielny,142.0
+2014,France,Morgan Schneiderlin[94],M. Schneiderlin[94],
+2014,France,Mickaël Landreau,M. Landreau,
+2014,Honduras,Luis López,L. Lopez,1197.0
+2014,Honduras,Osman Chávez,O. Chavez,
+2014,Honduras,Maynor Figueroa,M. Figueroa,1170.0
+2014,Honduras,Juan Pablo Montes,J. Pablo Montes,
+2014,Honduras,Víctor Bernárdez,V. Bernardez,3504.0
+2014,Honduras,Juan Carlos García,J. Carlos Garcia,
+2014,Honduras,Emilio Izaguirre,E. Izaguirre,2138.0
+2014,Honduras,Wilson Palacios,W. Palacios,2963.0
+2014,Honduras,Jerry Palacios,J. Palacios,
+2014,Honduras,Mario Martínez,M. Martinez,4065.0
+2014,Honduras,Jerry Bengtson,J. Bengtson,9770.0
+2014,Honduras,Edder Delgado[97],E. Delgado[97],
+2014,Honduras,Carlo Costly,C. Costly,
+2014,Honduras,Boniek García,B. Garcia,6839.0
+2014,Honduras,Roger Espinoza,R. Espinoza,2068.0
+2014,Honduras,Rony Martínez,R. Martinez,4513.0
+2014,Honduras,Andy Najar,A. Najar,2564.0
+2014,Honduras,Noel Valladares ,N. Valladares,
+2014,Honduras,Luis Garrido,L. Garrido,7304.0
+2014,Honduras,Jorge Claros,J. Claros,5491.0
+2014,Honduras,Brayan Beckeles,B. Beckeles,
+2014,Honduras,Donis Escober,D. Escober,
+2014,Honduras,Marvin Chávez,M. Chavez,8229.0
+2014,Switzerland,Diego Benaglio,D. Benaglio,289.0
+2014,Switzerland,Stephan Lichtsteiner,S. Lichtsteiner,402.0
+2014,Switzerland,Reto Ziegler,R. Ziegler,3633.0
+2014,Switzerland,Philippe Senderos,P. Senderos,2561.0
+2014,Switzerland,Steve von Bergen,S. von Bergen,2528.0
+2014,Switzerland,Michael Lang,M. Lang,5577.0
+2014,Switzerland,Tranquillo Barnetta,T. Barnetta,695.0
+2014,Switzerland,Gökhan Inler ,G. Inler,374.0
+2014,Switzerland,Haris Seferovic,H. Seferovic,1370.0
+2014,Switzerland,Granit Xhaka,G. Xhaka,739.0
+2014,Switzerland,Valon Behrami,V. Behrami,368.0
+2014,Switzerland,Yann Sommer,Y. Sommer,347.0
+2014,Switzerland,Ricardo Rodríguez,R. Rodriguez,315.0
+2014,Switzerland,Valentin Stocker,V. Stocker,339.0
+2014,Switzerland,Blerim Džemaili,B. Dzemaili,1131.0
+2014,Switzerland,Gelson Fernandes,G. Fernandes,1941.0
+2014,Switzerland,Mario Gavranović,M. Gavranovic,2684.0
+2014,Switzerland,Admir Mehmedi,A. Mehmedi,1325.0
+2014,Switzerland,Josip Drmić,J. Drmic,991.0
+2014,Switzerland,Johan Djourou,J. Djourou,1287.0
+2014,Switzerland,Roman Bürki,R. Burki,1458.0
+2014,Switzerland,Fabian Schär,F. Schar,1365.0
+2014,Switzerland,Xherdan Shaqiri,X. Shaqiri,231.0
+2014,Argentina,Sergio Romero,S. Romero,2095.0
+2014,Argentina,Ezequiel Garay,E. Garay,139.0
+2014,Argentina,Hugo Campagnaro,H. Campagnaro,219.0
+2014,Argentina,Pablo Zabaleta,P. Zabaleta,154.0
+2014,Argentina,Fernando Gago,F. Gago,647.0
+2014,Argentina,Lucas Biglia,L. Biglia,658.0
+2014,Argentina,Ángel Di María,A. Di Maria,23.0
+2014,Argentina,Enzo Pérez,E. Perez,312.0
+2014,Argentina,Gonzalo Higuaín,G. Higuain,61.0
+2014,Argentina,Lionel Messi ,L. Messi,0.0
+2014,Argentina,Maxi Rodríguez,M. Rodriguez,535.0
+2014,Argentina,Agustín Orión,A. Orion,675.0
+2014,Argentina,Augusto Fernández,A. Fernandez,839.0
+2014,Argentina,Javier Mascherano,J. Mascherano,70.0
+2014,Argentina,Martín Demichelis,M. Demichelis,397.0
+2014,Argentina,Marcos Rojo,M. Rojo,562.0
+2014,Argentina,Federico Fernández,F. Fernandez,970.0
+2014,Argentina,Rodrigo Palacio,R. Palacio,151.0
+2014,Argentina,Ricky Álvarez,R. Alvarez,559.0
+2014,Argentina,Sergio Agüero,S. Aguero,10.0
+2014,Argentina,Mariano Andújar,M. Andujar,2037.0
+2014,Argentina,Ezequiel Lavezzi,E. Lavezzi,95.0
+2014,Argentina,José María Basanta,J. Maria Basanta,
+2014,Bosnia and Herzegovina,Asmir Begović,A. Begovic,135.0
+2014,Bosnia and Herzegovina,Avdija Vršajević,A. Vrsajevic,
+2014,Bosnia and Herzegovina,Ermin Bičakčić,E. Bicakcic,1791.0
+2014,Bosnia and Herzegovina,Emir Spahić ,E. Spahic,524.0
+2014,Bosnia and Herzegovina,Sead Kolašinac,S. Kolasinac,2219.0
+2014,Bosnia and Herzegovina,Ognjen Vranješ,O. Vranjes,
+2014,Bosnia and Herzegovina,Muhamed Bešić,M. Besic,
+2014,Bosnia and Herzegovina,Miralem Pjanić,M. Pjanic,86.0
+2014,Bosnia and Herzegovina,Vedad Ibišević,V. Ibisevic,269.0
+2014,Bosnia and Herzegovina,Zvjezdan Misimović,Z. Misimovic,
+2014,Bosnia and Herzegovina,Edin Džeko,E. Dzeko,83.0
+2014,Bosnia and Herzegovina,Jasmin Fejzić,J. Fejzic,9407.0
+2014,Bosnia and Herzegovina,Mensur Mujdža,M. Mujdza,1964.0
+2014,Bosnia and Herzegovina,Tino-Sven Sušić,T. Sven Susic,
+2014,Bosnia and Herzegovina,Toni Šunjić,T. Sunjic,
+2014,Bosnia and Herzegovina,Senad Lulić,S. Lulic,328.0
+2014,Bosnia and Herzegovina,Senijad Ibričić,S. Ibricic,
+2014,Bosnia and Herzegovina,Haris Medunjanin,H. Medunjanin,
+2014,Bosnia and Herzegovina,Edin Višća,E. Visca,
+2014,Bosnia and Herzegovina,Izet Hajrović,I. Hajrovic,1007.0
+2014,Bosnia and Herzegovina,Anel Hadžić,A. Hadzic,6270.0
+2014,Bosnia and Herzegovina,Asmir Avdukić,A. Avdukic,
+2014,Bosnia and Herzegovina,Sejad Salihović,S. Salihovic,661.0
+2014,Iran,Rahman Ahmadi,R. Ahmadi,
+2014,Iran,Khosro Heydari,K. Heydari,
+2014,Iran,Ehsan Hajsafi,E. Hajsafi,
+2014,Iran,Jalal Hosseini,J. Hosseini,
+2014,Iran,Amir Hossein Sadeghi,A. Hossein Sadeghi,
+2014,Iran,Javad Nekounam ,J. Nekounam,
+2014,Iran,Masoud Shojaei,M. Shojaei,2363.0
+2014,Iran,Reza Haghighi,R. Haghighi,
+2014,Iran,Alireza Jahanbakhsh,A. Jahanbakhsh,8943.0
+2014,Iran,Karim Ansarifard,K. Ansarifard,
+2014,Iran,Ghasem Haddadifar,G. Haddadifar,
+2014,Iran,Alireza Haghighi,A. Haghighi,
+2014,Iran,Hossein Mahini,H. Mahini,
+2014,Iran,Andranik Teymourian,A. Teymourian,
+2014,Iran,Pejman Montazeri,P. Montazeri,
+2014,Iran,Reza Ghoochannejhad,R. Ghoochannejhad,4267.0
+2014,Iran,Ahmad Alenemeh,A. Alenemeh,
+2014,Iran,Bakhtiar Rahmani,B. Rahmani,
+2014,Iran,Hashem Beikzadeh,H. Beikzadeh,
+2014,Iran,Steven Beitashour,S. Beitashour,8223.0
+2014,Iran,Ashkan Dejagah,A. Dejagah,1536.0
+2014,Iran,Daniel Davari,D. Davari,4737.0
+2014,Iran,Mehrdad Pooladi,M. Pooladi,
+2014,Nigeria,Vincent Enyeama,V. Enyeama,392.0
+2014,Nigeria,Joseph Yobo ,J. Yobo,1371.0
+2014,Nigeria,Ejike Uzoenyi,E. Uzoenyi,
+2014,Nigeria,Reuben Gabriel,R. Gabriel,8969.0
+2014,Nigeria,Efe Ambrose,E. Ambrose,4192.0
+2014,Nigeria,Azubuike Egwuekwe,A. Egwuekwe,
+2014,Nigeria,Ahmed Musa,A. Musa,973.0
+2014,Nigeria,Peter Odemwingie,P. Odemwingie,2850.0
+2014,Nigeria,Emmanuel Emenike,E. Emenike,
+2014,Nigeria,John Obi Mikel,J. Obi Mikel,
+2014,Nigeria,Victor Moses,V. Moses,1102.0
+2014,Nigeria,Kunle Odunlami,K. Odunlami,
+2014,Nigeria,Juwon Oshaniwa,J. Oshaniwa,
+2014,Nigeria,Godfrey Oboabona,G. Oboabona,
+2014,Nigeria,Ramon Azeez,R. Azeez,7765.0
+2014,Nigeria,Austin Ejide,A. Ejide,
+2014,Nigeria,Ogenyi Onazi,O. Onazi,967.0
+2014,Nigeria,Michael Babatunde,M. Babatunde,
+2014,Nigeria,Uche Nwofor,U. Nwofor,7567.0
+2014,Nigeria,Michael Uchebo,M. Uchebo,8123.0
+2014,Nigeria,Chigozie Agbim,C. Agbim,
+2014,Nigeria,Kenneth Omeruo,K. Omeruo,4228.0
+2014,Nigeria,Shola Ameobi,S. Ameobi,2999.0
+2014,Germany,Manuel Neuer,M. Neuer,19.0
+2014,Germany,Kevin Großkreutz,K. Großkreutz,789.0
+2014,Germany,Matthias Ginter,M. Ginter,714.0
+2014,Germany,Benedikt Höwedes,B. Howedes,192.0
+2014,Germany,Mats Hummels,M. Hummels,38.0
+2014,Germany,Sami Khedira,S. Khedira,55.0
+2014,Germany,Bastian Schweinsteiger,B. Schweinsteiger,11.0
+2014,Germany,Mesut Özil,M. Ozil,16.0
+2014,Germany,André Schürrle,A. Schurrle,232.0
+2014,Germany,Lukas Podolski,L. Podolski,668.0
+2014,Germany,Miroslav Klose,M. Klose,165.0
+2014,Germany,Ron-Robert Zieler,R. Robert Zieler,
+2014,Germany,Thomas Müller,T. Muller,35.0
+2014,Germany,Julian Draxler,J. Draxler,228.0
+2014,Germany,Erik Durm,E. Durm,2563.0
+2014,Germany,Philipp Lahm ,P. Lahm,20.0
+2014,Germany,Per Mertesacker,P. Mertesacker,159.0
+2014,Germany,Toni Kroos,T. Kroos,54.0
+2014,Germany,Mario Götze,M. Gotze,33.0
+2014,Germany,Jérôme Boateng,J. Boateng,53.0
+2014,Germany,Shkodran Mustafi,S. Mustafi,771.0
+2014,Germany,Roman Weidenfeller,R. Weidenfeller,112.0
+2014,Germany,Christoph Kramer,C. Kramer,962.0
+2014,Ghana,Stephen Adams,S. Adams,
+2014,Ghana,Samuel Inkoom,S. Inkoom,4128.0
+2014,Ghana,Asamoah Gyan ,A. Gyan,
+2014,Ghana,Daniel Opare,D. Opare,2533.0
+2014,Ghana,Michael Essien,M. Essien,927.0
+2014,Ghana,Afriyie Acquah,A. Acquah,1985.0
+2014,Ghana,Christian Atsu,C. Atsu,956.0
+2014,Ghana,Emmanuel Agyemang-Badu,E. Agyemang Badu,
+2014,Ghana,Kevin-Prince Boateng,K. Prince Boateng,
+2014,Ghana,André Ayew,A. Ayew,491.0
+2014,Ghana,Sulley Muntari,S. Muntari,905.0
+2014,Ghana,Adam Larsen Kwarasey,A. Larsen Kwarasey,
+2014,Ghana,Jordan Ayew,J. Ayew,1771.0
+2014,Ghana,Albert Adomah,A. Adomah,2785.0
+2014,Ghana,Rashid Sumaila,R. Sumaila,
+2014,Ghana,Fatau Dauda,F. Dauda,2625.0
+2014,Ghana,Mohammed Rabiu,M. Rabiu,4062.0
+2014,Ghana,Abdul Majeed Waris,A. Majeed Waris,
+2014,Ghana,Jonathan Mensah,J. Mensah,6919.0
+2014,Ghana,Kwadwo Asamoah,K. Asamoah,242.0
+2014,Ghana,John Boye,J. Boye,2762.0
+2014,Ghana,Mubarak Wakaso,M. Wakaso,790.0
+2014,Ghana,Harrison Afful,H. Afful,
+2014,Portugal,Eduardo,Eduardo,1039.0
+2014,Portugal,Bruno Alves,B. Alves,216.0
+2014,Portugal,Pepe,Pepe,104.0
+2014,Portugal,Miguel Veloso,M. Veloso,252.0
+2014,Portugal,Fábio Coentrão,F. Coentrao,355.0
+2014,Portugal,William Carvalho,W. Carvalho,421.0
+2014,Portugal,Cristiano Ronaldo ,C. Ronaldo,1.0
+2014,Portugal,João Moutinho,J. Moutinho,94.0
+2014,Portugal,Hugo Almeida,H. Almeida,
+2014,Portugal,Vieirinha,Vieirinha,483.0
+2014,Portugal,Eder,Eder,783.0
+2014,Portugal,Rui Patrício,R. Patricio,196.0
+2014,Portugal,Ricardo Costa,R. Costa,542.0
+2014,Portugal,Luís Neto,L. Neto,960.0
+2014,Portugal,Rafa Silva,R. Silva,
+2014,Portugal,Raul Meireles,R. Meireles,276.0
+2014,Portugal,Nani,Nani,155.0
+2014,Portugal,Silvestre Varela,S. Varela,
+2014,Portugal,André Almeida,A. Almeida,2418.0
+2014,Portugal,Ruben Amorim,R. Amorim,892.0
+2014,Portugal,João Pereira,J. Pereira,304.0
+2014,Portugal,Beto,Beto,468.0
+2014,Portugal,Hélder Postiga,H. Postiga,934.0
+2014,United States,Tim Howard,T. Howard,221.0
+2014,United States,DeAndre Yedlin,D. Yedlin,5774.0
+2014,United States,Omar Gonzalez,O. Gonzalez,1723.0
+2014,United States,Michael Bradley,M. Bradley,518.0
+2014,United States,Matt Besler,M. Besler,1634.0
+2014,United States,John Brooks,J. Brooks,2571.0
+2014,United States,DaMarcus Beasley,D. Beasley,7523.0
+2014,United States,Clint Dempsey ,C. Dempsey,211.0
+2014,United States,Aron Jóhannsson,A. Johannsson,1580.0
+2014,United States,Mix Diskerud,M. Diskerud,2281.0
+2014,United States,Alejandro Bedoya,A. Bedoya,2351.0
+2014,United States,Brad Guzan,B. Guzan,504.0
+2014,United States,Jermaine Jones,J. Jones,687.0
+2014,United States,Brad Davis,B. Davis,2933.0
+2014,United States,Kyle Beckerman,K. Beckerman,1204.0
+2014,United States,Julian Green,J. Green,7549.0
+2014,United States,Jozy Altidore,J. Altidore,1349.0
+2014,United States,Chris Wondolowski,C. Wondolowski,2367.0
+2014,United States,Graham Zusi,G. Zusi,1711.0
+2014,United States,Geoff Cameron,G. Cameron,2062.0
+2014,United States,Timothy Chandler,T. Chandler,1673.0
+2014,United States,Nick Rimando,N. Rimando,935.0
+2014,United States,Fabian Johnson,F. Johnson,1557.0
+2014,Algeria,Cédric Si Mohamed,C. Si Mohamed,
+2014,Algeria,Madjid Bougherra ,M. Bougherra,
+2014,Algeria,Faouzi Ghoulam,F. Ghoulam,1528.0
+2014,Algeria,Essaïd Belkalem,E. Belkalem,3812.0
+2014,Algeria,Rafik Halliche,R. Halliche,4787.0
+2014,Algeria,Djamel Mesbah,D. Mesbah,2748.0
+2014,Algeria,Hassan Yebda,H. Yebda,2817.0
+2014,Algeria,Mehdi Lacen,M. Lacen,1929.0
+2014,Algeria,Nabil Ghilas,N. Ghilas,951.0
+2014,Algeria,Sofiane Feghouli,S. Feghouli,188.0
+2014,Algeria,Yacine Brahimi,Y. Brahimi,1133.0
+2014,Algeria,Carl Medjani,C. Medjani,3098.0
+2014,Algeria,Islam Slimani,I. Slimani,1326.0
+2014,Algeria,Nabil Bentaleb,N. Bentaleb,4345.0
+2014,Algeria,Hillal Soudani,H. Soudani,
+2014,Algeria,Mohamed Lamine Zemmamouche,M. Lamine Zemmamouche,
+2014,Algeria,Liassine Cadamuro-Bentaïba,L. Cadamuro Bentaiba,
+2014,Algeria,Abdelmoumene Djabou,A. Djabou,
+2014,Algeria,Saphir Taïder,S. Taider,990.0
+2014,Algeria,Aïssa Mandi,A. Mandi,976.0
+2014,Algeria,Riyad Mahrez,R. Mahrez,5633.0
+2014,Algeria,Mehdi Mostefa,M. Mostefa,4488.0
+2014,Algeria,Raïs M'Bolhi,R. M Bolhi,
+2014,Belgium,Thibaut Courtois,T. Courtois,48.0
+2014,Belgium,Toby Alderweireld,T. Alderweireld,462.0
+2014,Belgium,Thomas Vermaelen,T. Vermaelen,375.0
+2014,Belgium,Vincent Kompany ,V. Kompany,30.0
+2014,Belgium,Jan Vertonghen,J. Vertonghen,134.0
+2014,Belgium,Axel Witsel,A. Witsel,253.0
+2014,Belgium,Kevin De Bruyne,K. De Bruyne,174.0
+2014,Belgium,Marouane Fellaini,M. Fellaini,256.0
+2014,Belgium,Romelu Lukaku,R. Lukaku,233.0
+2014,Belgium,Eden Hazard,E. Hazard,8.0
+2014,Belgium,Kevin Mirallas,K. Mirallas,202.0
+2014,Belgium,Simon Mignolet,S. Mignolet,132.0
+2014,Belgium,Sammy Bossut,S. Bossut,2820.0
+2014,Belgium,Dries Mertens,D. Mertens,131.0
+2014,Belgium,Daniel Van Buyten,D. Van Buyten,
+2014,Belgium,Steven Defour,S. Defour,1020.0
+2014,Belgium,Divock Origi,D. Origi,2752.0
+2014,Belgium,Nicolas Lombaerts,N. Lombaerts,863.0
+2014,Belgium,Mousa Dembélé,M. Dembele,270.0
+2014,Belgium,Adnan Januzaj,A. Januzaj,1898.0
+2014,Belgium,Anthony Vanden Borre,A. Vanden Borre,2592.0
+2014,Belgium,Nacer Chadli,N. Chadli,565.0
+2014,Belgium,Laurent Ciman,L. Ciman,1954.0
+2014,Russia,Igor Akinfeev,I. Akinfeev,66.0
+2014,Russia,Aleksei Kozlov,A. Kozlov,3536.0
+2014,Russia,Georgi Shchennikov,G. Shchennikov,
+2014,Russia,Sergei Ignashevich,S. Ignashevich,688.0
+2014,Russia,Andrei Semyonov,A. Semyonov,
+2014,Russia,Maksim Kanunnikov,M. Kanunnikov,6007.0
+2014,Russia,Igor Denisov,I. Denisov,277.0
+2014,Russia,Denis Glushakov,D. Glushakov,1516.0
+2014,Russia,Aleksandr Kokorin,A. Kokorin,436.0
+2014,Russia,Alan Dzagoev,A. Dzagoev,241.0
+2014,Russia,Aleksandr Kerzhakov,A. Kerzhakov,913.0
+2014,Russia,Yuri Lodygin,Y. Lodygin,547.0
+2014,Russia,Vladimir Granat,V. Granat,2516.0
+2014,Russia,Vasili Berezutski ,V. Berezutski,
+2014,Russia,Pavel Mogilevets,P. Mogilevets,
+2014,Russia,Sergey Ryzhikov,S. Ryzhikov,1134.0
+2014,Russia,Oleg Shatov,O. Shatov,2342.0
+2014,Russia,Yuri Zhirkov,Y. Zhirkov,378.0
+2014,Russia,Aleksandr Samedov,A. Samedov,384.0
+2014,Russia,Viktor Fayzulin,V. Fayzulin,1710.0
+2014,Russia,Aleksei Ionov,A. Ionov,1806.0
+2014,Russia,Andrey Yeshchenko,A. Yeshchenko,
+2014,Russia,Dmitri Kombarov,D. Kombarov,1329.0
+2014,South Korea,Jung Sung-ryong,J. Sung ryong,5016.0
+2014,South Korea,Kim Chang-soo,K. Chang soo,8595.0
+2014,South Korea,Yun Suk-young,Y. Suk young,4929.0
+2014,South Korea,Kwak Tae-hwi,K. Tae hwi,1976.0
+2014,South Korea,Kim Young-gwon,K. Young gwon,4371.0
+2014,South Korea,Hwang Seok-ho,H. Seok ho,
+2014,South Korea,Kim Bo-kyung,K. Bo kyung,
+2014,South Korea,Ha Dae-sung,H. Dae sung,
+2014,South Korea,Son Heung-min,S. Heung min,
+2014,South Korea,Park Chu-young,P. Chu young,
+2014,South Korea,Lee Keun-ho,L. Keun ho,3600.0
+2014,South Korea,Lee Yong,L. Yong,8162.0
+2014,South Korea,Koo Ja-cheol ,K. Ja cheol,
+2014,South Korea,Han Kook-young,H. Kook young,8928.0
+2014,South Korea,Park Jong-woo,P. Jong woo,
+2014,South Korea,Ki Sung-yueng,K. Sung yueng,
+2014,South Korea,Lee Chung-yong,L. Chung yong,
+2014,South Korea,Kim Shin-wook,K. Shin wook,1845.0
+2014,South Korea,Ji Dong-won,J. Dong won,
+2014,South Korea,Hong Jeong-ho,H. Jeong ho,
+2014,South Korea,Kim Seung-gyu,K. Seung gyu,1846.0
+2014,South Korea,Park Joo-ho[159],P. Joo ho[159],
+2014,South Korea,Lee Bum-young,L. Bum young,4748.0

@@ -1,7 +1,7 @@
 year,team,player_name
 2014,Brazil,Jefferson
 2014,Brazil,Dani Alves
-2014,Brazil,Thiago Silva (c)
+2014,Brazil,Thiago Silva 
 2014,Brazil,David Luiz
 2014,Brazil,Fernandinho
 2014,Brazil,Marcelo
@@ -30,7 +30,7 @@ year,team,player_name
 2014,Cameroon,Alex Song
 2014,Cameroon,Landry N'Guémo
 2014,Cameroon,Benjamin Moukandjo
-2014,Cameroon,Samuel Eto'o (c)
+2014,Cameroon,Samuel Eto'o 
 2014,Cameroon,Vincent Aboubakar
 2014,Cameroon,Jean Makoun
 2014,Cameroon,Henri Bedimo
@@ -55,7 +55,7 @@ year,team,player_name
 2014,Croatia,Ognjen Vukojević
 2014,Croatia,Nikica Jelavić
 2014,Croatia,Luka Modrić
-2014,Croatia,Darijo Srna (c)
+2014,Croatia,Darijo Srna 
 2014,Croatia,Oliver Zelenika
 2014,Croatia,Gordon Schildenfeld
 2014,Croatia,Marcelo Brozović
@@ -71,7 +71,7 @@ year,team,player_name
 2014,Mexico,Jesús Corona
 2014,Mexico,Francisco Javier Rodríguez
 2014,Mexico,Carlos Salcido
-2014,Mexico,Rafael Márquez (c)
+2014,Mexico,Rafael Márquez 
 2014,Mexico,Diego Reyes
 2014,Mexico,Héctor Herrera
 2014,Mexico,Miguel Layún
@@ -105,7 +105,7 @@ year,team,player_name
 2014,Australia,Mitchell Langerak
 2014,Australia,Oliver Bozanic
 2014,Australia,James Troisi
-2014,Australia,Mile Jedinak (c)
+2014,Australia,Mile Jedinak 
 2014,Australia,James Holland
 2014,Australia,Matt McKay
 2014,Australia,Eugene Galekovic
@@ -114,7 +114,7 @@ year,team,player_name
 2014,Australia,Massimo Luongo
 2014,Australia,Alex Wilkinson
 2014,Australia,Mark Bresciano
-2014,Chile,Claudio Bravo (c)
+2014,Chile,Claudio Bravo 
 2014,Chile,Eugenio Mena
 2014,Chile,Miiko Albornoz
 2014,Chile,Mauricio Isla
@@ -145,7 +145,7 @@ year,team,player_name
 2014,Netherlands,Nigel de Jong
 2014,Netherlands,Daryl Janmaat
 2014,Netherlands,Jonathan de Guzmán
-2014,Netherlands,Robin van Persie (c)
+2014,Netherlands,Robin van Persie 
 2014,Netherlands,Wesley Sneijder
 2014,Netherlands,Arjen Robben
 2014,Netherlands,Paul Verhaegh
@@ -160,7 +160,7 @@ year,team,player_name
 2014,Netherlands,Memphis Depay
 2014,Netherlands,Michel Vorm
 2014,Netherlands,Tim Krul
-2014,Spain,Iker Casillas (c)
+2014,Spain,Iker Casillas 
 2014,Spain,Raúl Albiol
 2014,Spain,Gerard Piqué
 2014,Spain,Javi Martínez
@@ -185,7 +185,7 @@ year,team,player_name
 2014,Spain,Pepe Reina
 2014,Colombia,David Ospina
 2014,Colombia,Cristián Zapata
-2014,Colombia,Mario Yepes (c)
+2014,Colombia,Mario Yepes 
 2014,Colombia,Santiago Arias
 2014,Colombia,Carlos Carbonero
 2014,Colombia,Carlos Sánchez
@@ -215,7 +215,7 @@ year,team,player_name
 2014,Greece,Georgios Samaras
 2014,Greece,Panagiotis Kone
 2014,Greece,Kostas Mitroglou
-2014,Greece,Giorgos Karagounis (c)
+2014,Greece,Giorgos Karagounis 
 2014,Greece,Loukas Vyntra
 2014,Greece,Panagiotis Glykos
 2014,Greece,Stefanos Kapino
@@ -239,7 +239,7 @@ year,team,player_name
 2014,Ivory Coast,Salomon Kalou
 2014,Ivory Coast,Cheick Tioté
 2014,Ivory Coast,Gervinho
-2014,Ivory Coast,Didier Drogba (c)
+2014,Ivory Coast,Didier Drogba 
 2014,Ivory Coast,Wilfried Bony
 2014,Ivory Coast,Didier Ya Konan
 2014,Ivory Coast,Ismaël Diomandé
@@ -268,7 +268,7 @@ year,team,player_name
 2014,Japan,Toshihiro Aoyama
 2014,Japan,Yasuyuki Konno
 2014,Japan,Hotaru Yamaguchi
-2014,Japan,Makoto Hasebe (c)
+2014,Japan,Makoto Hasebe 
 2014,Japan,Yuya Osako
 2014,Japan,Masahiko Inoha
 2014,Japan,Manabu Saitō
@@ -284,7 +284,7 @@ year,team,player_name
 2014,Costa Rica,Christian Bolaños
 2014,Costa Rica,David Myrie[64]
 2014,Costa Rica,Joel Campbell
-2014,Costa Rica,Bryan Ruiz (c)
+2014,Costa Rica,Bryan Ruiz 
 2014,Costa Rica,Michael Barrantes
 2014,Costa Rica,Waylon Francis
 2014,Costa Rica,Óscar Granados
@@ -301,7 +301,7 @@ year,team,player_name
 2014,England,Joe Hart
 2014,England,Glen Johnson
 2014,England,Leighton Baines
-2014,England,Steven Gerrard (c)
+2014,England,Steven Gerrard 
 2014,England,Gary Cahill
 2014,England,Phil Jagielka
 2014,England,Jack Wilshere
@@ -321,7 +321,7 @@ year,team,player_name
 2014,England,Ross Barkley
 2014,England,Fraser Forster
 2014,England,Luke Shaw
-2014,Italy,Gianluigi Buffon (c)
+2014,Italy,Gianluigi Buffon 
 2014,Italy,Mattia De Sciglio
 2014,Italy,Giorgio Chiellini
 2014,Italy,Matteo Darmian
@@ -346,7 +346,7 @@ year,team,player_name
 2014,Italy,Marco Verratti
 2014,Uruguay,Fernando Muslera
 2014,Uruguay,Diego Lugano
-2014,Uruguay,Diego Godín (c)
+2014,Uruguay,Diego Godín 
 2014,Uruguay,Jorge Fucile
 2014,Uruguay,Walter Gargano
 2014,Uruguay,Álvaro Pereira
@@ -382,7 +382,7 @@ year,team,player_name
 2014,Ecuador,Enner Valencia
 2014,Ecuador,Oswaldo Minda
 2014,Ecuador,Michael Arroyo
-2014,Ecuador,Antonio Valencia (c)
+2014,Ecuador,Antonio Valencia 
 2014,Ecuador,Jaime Ayoví
 2014,Ecuador,Óscar Bagüí
 2014,Ecuador,Luis Saritama
@@ -390,7 +390,7 @@ year,team,player_name
 2014,Ecuador,Gabriel Achilier
 2014,Ecuador,Alexander Domínguez
 2014,Ecuador,Carlos Gruezo
-2014,France,Hugo Lloris (c)
+2014,France,Hugo Lloris 
 2014,France,Mathieu Debuchy
 2014,France,Patrice Evra
 2014,France,Raphaël Varane
@@ -430,7 +430,7 @@ year,team,player_name
 2014,Honduras,Roger Espinoza
 2014,Honduras,Rony Martínez
 2014,Honduras,Andy Najar
-2014,Honduras,Noel Valladares (c)
+2014,Honduras,Noel Valladares 
 2014,Honduras,Luis Garrido
 2014,Honduras,Jorge Claros
 2014,Honduras,Brayan Beckeles
@@ -443,7 +443,7 @@ year,team,player_name
 2014,Switzerland,Steve von Bergen
 2014,Switzerland,Michael Lang
 2014,Switzerland,Tranquillo Barnetta
-2014,Switzerland,Gökhan Inler (c)
+2014,Switzerland,Gökhan Inler 
 2014,Switzerland,Haris Seferovic
 2014,Switzerland,Granit Xhaka
 2014,Switzerland,Valon Behrami
@@ -468,7 +468,7 @@ year,team,player_name
 2014,Argentina,Ángel Di María
 2014,Argentina,Enzo Pérez
 2014,Argentina,Gonzalo Higuaín
-2014,Argentina,Lionel Messi (c)
+2014,Argentina,Lionel Messi 
 2014,Argentina,Maxi Rodríguez
 2014,Argentina,Agustín Orión
 2014,Argentina,Augusto Fernández
@@ -485,7 +485,7 @@ year,team,player_name
 2014,Bosnia and Herzegovina,Asmir Begović
 2014,Bosnia and Herzegovina,Avdija Vršajević
 2014,Bosnia and Herzegovina,Ermin Bičakčić
-2014,Bosnia and Herzegovina,Emir Spahić (c)
+2014,Bosnia and Herzegovina,Emir Spahić 
 2014,Bosnia and Herzegovina,Sead Kolašinac
 2014,Bosnia and Herzegovina,Ognjen Vranješ
 2014,Bosnia and Herzegovina,Muhamed Bešić
@@ -510,7 +510,7 @@ year,team,player_name
 2014,Iran,Ehsan Hajsafi
 2014,Iran,Jalal Hosseini
 2014,Iran,Amir Hossein Sadeghi
-2014,Iran,Javad Nekounam (c)
+2014,Iran,Javad Nekounam 
 2014,Iran,Masoud Shojaei
 2014,Iran,Reza Haghighi
 2014,Iran,Alireza Jahanbakhsh
@@ -529,7 +529,7 @@ year,team,player_name
 2014,Iran,Daniel Davari
 2014,Iran,Mehrdad Pooladi
 2014,Nigeria,Vincent Enyeama
-2014,Nigeria,Joseph Yobo (c)
+2014,Nigeria,Joseph Yobo 
 2014,Nigeria,Ejike Uzoenyi
 2014,Nigeria,Reuben Gabriel
 2014,Nigeria,Efe Ambrose
@@ -566,7 +566,7 @@ year,team,player_name
 2014,Germany,Thomas Müller
 2014,Germany,Julian Draxler
 2014,Germany,Erik Durm
-2014,Germany,Philipp Lahm (c)
+2014,Germany,Philipp Lahm 
 2014,Germany,Per Mertesacker
 2014,Germany,Toni Kroos
 2014,Germany,Mario Götze
@@ -576,7 +576,7 @@ year,team,player_name
 2014,Germany,Christoph Kramer
 2014,Ghana,Stephen Adams
 2014,Ghana,Samuel Inkoom
-2014,Ghana,Asamoah Gyan (c)
+2014,Ghana,Asamoah Gyan 
 2014,Ghana,Daniel Opare
 2014,Ghana,Michael Essien
 2014,Ghana,Afriyie Acquah
@@ -603,7 +603,7 @@ year,team,player_name
 2014,Portugal,Miguel Veloso
 2014,Portugal,Fábio Coentrão
 2014,Portugal,William Carvalho
-2014,Portugal,Cristiano Ronaldo (c)
+2014,Portugal,Cristiano Ronaldo 
 2014,Portugal,João Moutinho
 2014,Portugal,Hugo Almeida
 2014,Portugal,Vieirinha
@@ -627,7 +627,7 @@ year,team,player_name
 2014,United States,Matt Besler
 2014,United States,John Brooks
 2014,United States,DaMarcus Beasley
-2014,United States,Clint Dempsey (c)
+2014,United States,Clint Dempsey 
 2014,United States,Aron Jóhannsson
 2014,United States,Mix Diskerud
 2014,United States,Alejandro Bedoya
@@ -644,7 +644,7 @@ year,team,player_name
 2014,United States,Nick Rimando
 2014,United States,Fabian Johnson
 2014,Algeria,Cédric Si Mohamed
-2014,Algeria,Madjid Bougherra (c)
+2014,Algeria,Madjid Bougherra 
 2014,Algeria,Faouzi Ghoulam
 2014,Algeria,Essaïd Belkalem
 2014,Algeria,Rafik Halliche
@@ -669,7 +669,7 @@ year,team,player_name
 2014,Belgium,Thibaut Courtois
 2014,Belgium,Toby Alderweireld
 2014,Belgium,Thomas Vermaelen
-2014,Belgium,Vincent Kompany (c)
+2014,Belgium,Vincent Kompany 
 2014,Belgium,Jan Vertonghen
 2014,Belgium,Axel Witsel
 2014,Belgium,Kevin De Bruyne
@@ -702,7 +702,7 @@ year,team,player_name
 2014,Russia,Aleksandr Kerzhakov
 2014,Russia,Yuri Lodygin
 2014,Russia,Vladimir Granat
-2014,Russia,Vasili Berezutski (c)
+2014,Russia,Vasili Berezutski 
 2014,Russia,Pavel Mogilevets
 2014,Russia,Sergey Ryzhikov
 2014,Russia,Oleg Shatov
@@ -724,7 +724,7 @@ year,team,player_name
 2014,South Korea,Park Chu-young
 2014,South Korea,Lee Keun-ho
 2014,South Korea,Lee Yong
-2014,South Korea,Koo Ja-cheol (c)
+2014,South Korea,Koo Ja-cheol 
 2014,South Korea,Han Kook-young
 2014,South Korea,Park Jong-woo
 2014,South Korea,Ki Sung-yueng

@@ -1,0 +1,737 @@
+year,team,player_name,derived_short_name,fifa_index
+2018,Egypt,Essam El Hadary ,E. El Hadary,5088.0
+2018,Egypt,Ali Gabr,A. Gabr,8504.0
+2018,Egypt,Ahmed Elmohamady,A. Elmohamady,3567.0
+2018,Egypt,Omar Gaber,O. Gaber,6298.0
+2018,Egypt,Sam Morsy,S. Morsy,7003.0
+2018,Egypt,Ahmed Hegazi,A. Hegazi,
+2018,Egypt,Ahmed Fathy,A. Fathy,
+2018,Egypt,Tarek Hamed,T. Hamed,9503.0
+2018,Egypt,Marwan Mohsen,M. Mohsen,10302.0
+2018,Egypt,Mohamed Salah,M. Salah,186.0
+2018,Egypt,Kahraba,Kahraba,1960.0
+2018,Egypt,Ayman Ashraf,A. Ashraf,
+2018,Egypt,Mohamed Abdel Shafy,M. Abdel Shafy,
+2018,Egypt,Ramadan Sobhi,R. Sobhi,2600.0
+2018,Egypt,Mahmoud Hamdy,M. Hamdy,
+2018,Egypt,Sherif Ekramy,S. Ekramy,5874.0
+2018,Egypt,Mohamed Elneny,M. Elneny,1153.0
+2018,Egypt,Shikabala,Shikabala,4985.0
+2018,Egypt,Abdallah El Said,A. El Said,6998.0
+2018,Egypt,Saad Samir,S. Samir,
+2018,Egypt,Trézéguet,Trezeguet,4716.0
+2018,Egypt,Amr Warda,A. Warda,4804.0
+2018,Egypt,Mohamed El Shenawy,M. El Shenawy,
+2018,Russia,Igor Akinfeev ,I. Akinfeev,538.0
+2018,Russia,Mário Fernandes,M. Fernandes,349.0
+2018,Russia,Ilya Kutepov,I. Kutepov,3067.0
+2018,Russia,Sergei Ignashevich,S. Ignashevich,700.0
+2018,Russia,Andrei Semyonov,A. Semyonov,
+2018,Russia,Denis Cheryshev,D. Cheryshev,866.0
+2018,Russia,Daler Kuzyayev,D. Kuzyayev,
+2018,Russia,Yury Gazinsky,Y. Gazinsky,
+2018,Russia,Alan Dzagoev,A. Dzagoev,457.0
+2018,Russia,Fyodor Smolov,F. Smolov,455.0
+2018,Russia,Roman Zobnin,R. Zobnin,1159.0
+2018,Russia,Andrey Lunyov,A. Lunyov,
+2018,Russia,Fyodor Kudryashov,F. Kudryashov,2788.0
+2018,Russia,Vladimir Granat,V. Granat,3527.0
+2018,Russia,Aleksei Miranchuk,A. Miranchuk,2472.0
+2018,Russia,Anton Miranchuk,A. Miranchuk,2472.0
+2018,Russia,Aleksandr Golovin,A. Golovin,1547.0
+2018,Russia,Yuri Zhirkov,Y. Zhirkov,1248.0
+2018,Russia,Aleksandr Samedov,A. Samedov,536.0
+2018,Russia,Vladimir Gabulov,V. Gabulov,2074.0
+2018,Russia,Aleksandr Yerokhin,A. Yerokhin,
+2018,Russia,Artem Dzyuba,A. Dzyuba,779.0
+2018,Russia,Igor Smolnikov,I. Smolnikov,454.0
+2018,Saudi Arabia,Abdullah Al-Mayouf,A. Al Mayouf,
+2018,Saudi Arabia,Mansoor Al-Harbi,M. Al Harbi,9294.0
+2018,Saudi Arabia,Osama Hawsawi ,O. Hawsawi,1778.0
+2018,Saudi Arabia,Ali Al-Bulaihi,A. Al Bulaihi,
+2018,Saudi Arabia,Omar Hawsawi,O. Hawsawi,1778.0
+2018,Saudi Arabia,Mohammed Al-Breik,M. Al Breik,
+2018,Saudi Arabia,Salman Al-Faraj,S. Al Faraj,2287.0
+2018,Saudi Arabia,Yahya Al-Shehri,Y. Al Shehri,5370.0
+2018,Saudi Arabia,Hattan Bahebri,H. Bahebri,9266.0
+2018,Saudi Arabia,Mohammad Al-Sahlawi,M. Al Sahlawi,3049.0
+2018,Saudi Arabia,Abdulmalek Al-Khaibri,A. Al Khaibri,
+2018,Saudi Arabia,Mohamed Kanno,M. Kanno,8389.0
+2018,Saudi Arabia,Yasser Al-Shahrani,Y. Al Shahrani,2436.0
+2018,Saudi Arabia,Abdullah Otayf,A. Otayf,
+2018,Saudi Arabia,Abdullah Al-Khaibari,A. Al Khaibari,4309.0
+2018,Saudi Arabia,Housain Al-Mogahwi,H. Al Mogahwi,
+2018,Saudi Arabia,Taisir Al-Jassim,T. Al Jassim,
+2018,Saudi Arabia,Salem Al-Dawsari,S. Al Dawsari,3758.0
+2018,Saudi Arabia,Fahad Al-Muwallad,F. Al Muwallad,2424.0
+2018,Saudi Arabia,Muhannad Assiri,M. Assiri,
+2018,Saudi Arabia,Yasser Al-Mosailem,Y. Al Mosailem,4361.0
+2018,Saudi Arabia,Mohammed Al-Owais,M. Al Owais,3071.0
+2018,Saudi Arabia,Motaz Hawsawi,M. Hawsawi,2538.0
+2018,Uruguay,Fernando Muslera,F. Muslera,230.0
+2018,Uruguay,José Giménez,J. Gimenez,193.0
+2018,Uruguay,Diego Godín ,D. Godin,25.0
+2018,Uruguay,Guillermo Varela,G. Varela,
+2018,Uruguay,Carlos Sánchez,C. Sanchez,
+2018,Uruguay,Rodrigo Bentancur,R. Bentancur,6511.0
+2018,Uruguay,Cristian Rodríguez,C. Rodriguez,1671.0
+2018,Uruguay,Nahitan Nández,N. Nandez,5662.0
+2018,Uruguay,Luis Suárez,L. Suarez,3.0
+2018,Uruguay,Giorgian De Arrascaeta,G. De Arrascaeta,
+2018,Uruguay,Cristhian Stuani,C. Stuani,1028.0
+2018,Uruguay,Martín Campaña,M. Campana,688.0
+2018,Uruguay,Gastón Silva,G. Silva,3843.0
+2018,Uruguay,Lucas Torreira,L. Torreira,1985.0
+2018,Uruguay,Matías Vecino,M. Vecino,901.0
+2018,Uruguay,Maxi Pereira,M. Pereira,764.0
+2018,Uruguay,Diego Laxalt,D. Laxalt,888.0
+2018,Uruguay,Maxi Gómez,M. Gomez,203.0
+2018,Uruguay,Sebastián Coates,S. Coates,355.0
+2018,Uruguay,Jonathan Urretaviscaya,J. Urretaviscaya,2258.0
+2018,Uruguay,Edinson Cavani,E. Cavani,40.0
+2018,Uruguay,Martín Cáceres,M. Caceres,1000.0
+2018,Uruguay,Martín Silva,M. Silva,4415.0
+2018,Iran,Alireza Beiranvand,A. Beiranvand,
+2018,Iran,Mehdi Torabi,M. Torabi,
+2018,Iran,Ehsan Hajsafi,E. Hajsafi,
+2018,Iran,Rouzbeh Cheshmi,R. Cheshmi,
+2018,Iran,Milad Mohammadi,M. Mohammadi,3274.0
+2018,Iran,Saeid Ezatolahi,S. Ezatolahi,9714.0
+2018,Iran,Masoud Shojaei ,M. Shojaei,
+2018,Iran,Morteza Pouraliganji,M. Pouraliganji,
+2018,Iran,Omid Ebrahimi,O. Ebrahimi,
+2018,Iran,Karim Ansarifard,K. Ansarifard,2924.0
+2018,Iran,Vahid Amiri,V. Amiri,
+2018,Iran,Mohammad Rashid Mazaheri,M. Rashid Mazaheri,
+2018,Iran,Mohammad Reza Khanzadeh,M. Reza Khanzadeh,
+2018,Iran,Saman Ghoddos,S. Ghoddos,4791.0
+2018,Iran,Pejman Montazeri,P. Montazeri,
+2018,Iran,Reza Ghoochannejhad,R. Ghoochannejhad,3551.0
+2018,Iran,Mehdi Taremi,M. Taremi,
+2018,Iran,Alireza Jahanbakhsh,A. Jahanbakhsh,1943.0
+2018,Iran,Majid Hosseini,M. Hosseini,
+2018,Iran,Sardar Azmoun,S. Azmoun,1160.0
+2018,Iran,Ashkan Dejagah,A. Dejagah,
+2018,Iran,Amir Abedzadeh,A. Abedzadeh,13495.0
+2018,Iran,Ramin Rezaeian,R. Rezaeian,5745.0
+2018,Morocco,Yassine Bounou,Y. Bounou,4542.0
+2018,Morocco,Achraf Hakimi,A. Hakimi,4821.0
+2018,Morocco,Hamza Mendyl,H. Mendyl,12737.0
+2018,Morocco,Manuel da Costa,M. da Costa,3460.0
+2018,Morocco,Medhi Benatia ,M. Benatia,99.0
+2018,Morocco,Romain Saïss,R. Saiss,1472.0
+2018,Morocco,Hakim Ziyech,H. Ziyech,374.0
+2018,Morocco,Karim El Ahmadi,K. El Ahmadi,412.0
+2018,Morocco,Ayoub El Kaabi,A. El Kaabi,
+2018,Morocco,Younès Belhanda,Y. Belhanda,350.0
+2018,Morocco,Fayçal Fajr,F. Fajr,1862.0
+2018,Morocco,Munir Mohamedi,M. Mohamedi,
+2018,Morocco,Khalid Boutaïb,K. Boutaib,4548.0
+2018,Morocco,Mbark Boussoufa,M. Boussoufa,
+2018,Morocco,Youssef Aït Bennasser,Y. Ait Bennasser,3940.0
+2018,Morocco,Nordin Amrabat,N. Amrabat,576.0
+2018,Morocco,Nabil Dirar,N. Dirar,1304.0
+2018,Morocco,Amine Harit,A. Harit,4793.0
+2018,Morocco,Youssef En-Nesyri,Y. En Nesyri,6617.0
+2018,Morocco,Aziz Bouhaddouz,A. Bouhaddouz,2841.0
+2018,Morocco,Sofyan Amrabat,S. Amrabat,2534.0
+2018,Morocco,Ahmed Reda Tagnaouti,A. Reda Tagnaouti,
+2018,Morocco,Mehdi Carcela,M. Carcela,
+2018,Portugal,Rui Patrício,R. Patricio,150.0
+2018,Portugal,Bruno Alves,B. Alves,706.0
+2018,Portugal,Pepe,Pepe,47.0
+2018,Portugal,Manuel Fernandes,M. Fernandes,410.0
+2018,Portugal,Raphaël Guerreiro,R. Guerreiro,376.0
+2018,Portugal,José Fonte,J. Fonte,557.0
+2018,Portugal,Cristiano Ronaldo ,C. Ronaldo,0.0
+2018,Portugal,João Moutinho,J. Moutinho,207.0
+2018,Portugal,André Silva,A. Silva,919.0
+2018,Portugal,João Mário,J. Mario,190.0
+2018,Portugal,Bernardo Silva,B. Silva,124.0
+2018,Portugal,Anthony Lopes,A. Lopes,175.0
+2018,Portugal,Rúben Dias,R. Dias,7660.0
+2018,Portugal,William Carvalho,W. Carvalho,182.0
+2018,Portugal,Ricardo Pereira,R. Pereira,507.0
+2018,Portugal,Bruno Fernandes,B. Fernandes,883.0
+2018,Portugal,Gonçalo Guedes,G. Guedes,2536.0
+2018,Portugal,Gelson Martins,G. Martins,389.0
+2018,Portugal,Mário Rui,M. Rui,1118.0
+2018,Portugal,Ricardo Quaresma,R. Quaresma,
+2018,Portugal,Cédric,Cedric,630.0
+2018,Portugal,Beto,Beto,1322.0
+2018,Portugal,Adrien Silva,A. Silva,157.0
+2018,Spain,David de Gea,D. de Gea,
+2018,Spain,Dani Carvajal,D. Carvajal,12769.0
+2018,Spain,Gerard Piqué,G. Pique,
+2018,Spain,Nacho,Nacho,5419.0
+2018,Spain,Sergio Busquets,S. Busquets,61.0
+2018,Spain,Andrés Iniesta,A. Iniesta,
+2018,Spain,Saúl,Saul,282.0
+2018,Spain,Koke,Koke,114.0
+2018,Spain,Rodrigo,Rodrigo,824.0
+2018,Spain,Thiago,Thiago,29.0
+2018,Spain,Lucas Vázquez,L. Vazquez,283.0
+2018,Spain,Álvaro Odriozola,A. Odriozola,
+2018,Spain,Kepa Arrizabalaga,K. Arrizabalaga,
+2018,Spain,César Azpilicueta,C. Azpilicueta,
+2018,Spain,Sergio Ramos ,S. Ramos,6.0
+2018,Spain,Nacho Monreal,N. Monreal,443.0
+2018,Spain,Iago Aspas,I. Aspas,170.0
+2018,Spain,Jordi Alba,J. Alba,80.0
+2018,Spain,Diego Costa,D. Costa,56.0
+2018,Spain,Marco Asensio,M. Asensio,125.0
+2018,Spain,David Silva,D. Silva,36.0
+2018,Spain,Isco,Isco,66.0
+2018,Spain,Pepe Reina,P. Reina,
+2018,Australia,Mathew Ryan,M. Ryan,1084.0
+2018,Australia,Miloš Degenek,M. Degenek,5628.0
+2018,Australia,James Meredith,J. Meredith,6790.0
+2018,Australia,Tim Cahill,T. Cahill,4855.0
+2018,Australia,Mark Milligan,M. Milligan,2180.0
+2018,Australia,Matthew Jurman,M. Jurman,6041.0
+2018,Australia,Mathew Leckie,M. Leckie,3606.0
+2018,Australia,Massimo Luongo,M. Luongo,4494.0
+2018,Australia,Tomi Juric,T. Juric,3785.0
+2018,Australia,Robbie Kruse,R. Kruse,3489.0
+2018,Australia,Andrew Nabbout,A. Nabbout,10311.0
+2018,Australia,Brad Jones,B. Jones,969.0
+2018,Australia,Aaron Mooy,A. Mooy,1069.0
+2018,Australia,Jamie Maclaren,J. Maclaren,3085.0
+2018,Australia,Mile Jedinak ,M. Jedinak,2200.0
+2018,Australia,Aziz Behich,A. Behich,2972.0
+2018,Australia,Daniel Arzani,D. Arzani,15758.0
+2018,Australia,Danny Vukovic,D. Vukovic,5029.0
+2018,Australia,Josh Risdon,J. Risdon,5267.0
+2018,Australia,Trent Sainsbury,T. Sainsbury,2339.0
+2018,Australia,Dimitri Petratos,D. Petratos,9144.0
+2018,Australia,Jackson Irvine,J. Irvine,4561.0
+2018,Australia,Tom Rogic,T. Rogic,2416.0
+2018,Denmark,Kasper Schmeichel,K. Schmeichel,142.0
+2018,Denmark,Michael Krohn-Dehli,M. Krohn Dehli,544.0
+2018,Denmark,Jannik Vestergaard,J. Vestergaard,641.0
+2018,Denmark,Simon Kjær ,S. Kjær,322.0
+2018,Denmark,Jonas Knudsen,J. Knudsen,6111.0
+2018,Denmark,Andreas Christensen,A. Christensen,382.0
+2018,Denmark,William Kvist,W. Kvist,4914.0
+2018,Denmark,Thomas Delaney,T. Delaney,810.0
+2018,Denmark,Nicolai Jørgensen,N. Jørgensen,621.0
+2018,Denmark,Christian Eriksen,C. Eriksen,42.0
+2018,Denmark,Martin Braithwaite,M. Braithwaite,1060.0
+2018,Denmark,Kasper Dolberg,K. Dolberg,918.0
+2018,Denmark,Mathias Jørgensen,M. Jørgensen,1714.0
+2018,Denmark,Henrik Dalsgaard,H. Dalsgaard,4298.0
+2018,Denmark,Viktor Fischer,V. Fischer,1853.0
+2018,Denmark,Jonas Lössl,J. Lossl,1679.0
+2018,Denmark,Jens Stryger Larsen,J. Stryger Larsen,6048.0
+2018,Denmark,Lukas Lerager,L. Lerager,2502.0
+2018,Denmark,Lasse Schöne,L. Schone,
+2018,Denmark,Yussuf Poulsen,Y. Poulsen,1468.0
+2018,Denmark,Andreas Cornelius,A. Cornelius,2969.0
+2018,Denmark,Frederik Rønnow,F. Rønnow,2962.0
+2018,Denmark,Pione Sisto,P. Sisto,2450.0
+2018,France,Hugo Lloris ,H. Lloris,22.0
+2018,France,Benjamin Pavard,B. Pavard,3914.0
+2018,France,Presnel Kimpembe,P. Kimpembe,1192.0
+2018,France,Raphaël Varane,R. Varane,90.0
+2018,France,Samuel Umtiti,S. Umtiti,181.0
+2018,France,Paul Pogba,P. Pogba,43.0
+2018,France,Antoine Griezmann,A. Griezmann,30.0
+2018,France,Thomas Lemar,T. Lemar,191.0
+2018,France,Olivier Giroud,O. Giroud,226.0
+2018,France,Kylian Mbappé,K. Mbappe,196.0
+2018,France,Ousmane Dembélé,O. Dembele,195.0
+2018,France,Corentin Tolisso,C. Tolisso,295.0
+2018,France,N'Golo Kanté,N. Golo Kante,
+2018,France,Blaise Matuidi,B. Matuidi,73.0
+2018,France,Steven Nzonzi,S. Nzonzi,161.0
+2018,France,Steve Mandanda,S. Mandanda,210.0
+2018,France,Adil Rami,A. Rami,325.0
+2018,France,Nabil Fekir,N. Fekir,293.0
+2018,France,Djibril Sidibé,D. Sidibe,627.0
+2018,France,Florian Thauvin,F. Thauvin,274.0
+2018,France,Lucas Hernandez,L. Hernandez,1182.0
+2018,France,Benjamin Mendy,B. Mendy,858.0
+2018,France,Alphonse Areola,A. Areola,608.0
+2018,Peru,Pedro Gallese,P. Gallese,2546.0
+2018,Peru,Alberto Rodríguez,A. Rodriguez,
+2018,Peru,Aldo Corzo,A. Corzo,10098.0
+2018,Peru,Anderson Santamaría,A. Santamaria,12671.0
+2018,Peru,Miguel Araujo,M. Araujo,8500.0
+2018,Peru,Miguel Trauco,M. Trauco,
+2018,Peru,Paolo Hurtado,P. Hurtado,1487.0
+2018,Peru,Christian Cueva,C. Cueva,
+2018,Peru,Paolo Guerrero ,P. Guerrero,
+2018,Peru,Jefferson Farfán,J. Farfan,728.0
+2018,Peru,Raúl Ruidíaz,R. Ruidiaz,1452.0
+2018,Peru,Carlos Cáceda,C. Caceda,
+2018,Peru,Renato Tapia,R. Tapia,3842.0
+2018,Peru,Andy Polo,A. Polo,6459.0
+2018,Peru,Christian Ramos,C. Ramos,8040.0
+2018,Peru,Wilder Cartagena,W. Cartagena,11439.0
+2018,Peru,Luis Advíncula,L. Advincula,3700.0
+2018,Peru,André Carrillo,A. Carrillo,1113.0
+2018,Peru,Yoshimar Yotún,Y. Yotun,5295.0
+2018,Peru,Edison Flores,E. Flores,12251.0
+2018,Peru,José Carvallo,J. Carvallo,6882.0
+2018,Peru,Nilson Loyola,N. Loyola,12670.0
+2018,Peru,Pedro Aquino,P. Aquino,10770.0
+2018,Argentina,Nahuel Guzmán,N. Guzman,750.0
+2018,Argentina,Gabriel Mercado,G. Mercado,1331.0
+2018,Argentina,Nicolás Tagliafico,N. Tagliafico,665.0
+2018,Argentina,Cristian Ansaldi,C. Ansaldi,561.0
+2018,Argentina,Lucas Biglia,L. Biglia,138.0
+2018,Argentina,Federico Fazio,F. Fazio,227.0
+2018,Argentina,Éver Banega,E. Banega,151.0
+2018,Argentina,Marcos Acuña,M. Acuna,686.0
+2018,Argentina,Gonzalo Higuaín,G. Higuain,7.0
+2018,Argentina,Lionel Messi ,L. Messi,1.0
+2018,Argentina,Ángel Di María,A. Di Maria,77.0
+2018,Argentina,Franco Armani,F. Armani,1163.0
+2018,Argentina,Maximiliano Meza,M. Meza,3151.0
+2018,Argentina,Javier Mascherano,J. Mascherano,134.0
+2018,Argentina,Enzo Pérez,E. Perez,818.0
+2018,Argentina,Marcos Rojo,M. Rojo,263.0
+2018,Argentina,Nicolás Otamendi,N. Otamendi,169.0
+2018,Argentina,Eduardo Salvio,E. Salvio,466.0
+2018,Argentina,Sergio Agüero,S. Aguero,13.0
+2018,Argentina,Giovani Lo Celso,G. Lo Celso,2548.0
+2018,Argentina,Paulo Dybala,P. Dybala,32.0
+2018,Argentina,Cristian Pavón,C. Pavon,1989.0
+2018,Argentina,Willy Caballero,W. Caballero,530.0
+2018,Croatia,Dominik Livaković,D. Livakovic,
+2018,Croatia,Šime Vrsaljko,S. Vrsaljko,644.0
+2018,Croatia,Ivan Strinić,I. Strinic,1836.0
+2018,Croatia,Ivan Perišić,I. Perisic,106.0
+2018,Croatia,Vedran Ćorluka,V. Corluka,229.0
+2018,Croatia,Dejan Lovren,D. Lovren,352.0
+2018,Croatia,Ivan Rakitić,I. Rakitic,37.0
+2018,Croatia,Mateo Kovačić,M. Kovacic,278.0
+2018,Croatia,Andrej Kramarić,A. Kramaric,386.0
+2018,Croatia,Luka Modrić ,L. Modric,15.0
+2018,Croatia,Marcelo Brozović,M. Brozovic,385.0
+2018,Croatia,Lovre Kalinić,L. Kalinic,1184.0
+2018,Croatia,Tin Jedvaj,T. Jedvaj,1513.0
+2018,Croatia,Filip Bradarić,F. Bradaric,
+2018,Croatia,Duje Ćaleta-Car,D. Caleta Car,4711.0
+2018,Croatia,Nikola Kalinić[note 2],N. Kalinic[note 2],
+2018,Croatia,Mario Mandžukić,M. Mandzukic,154.0
+2018,Croatia,Ante Rebić,A. Rebic,3836.0
+2018,Croatia,Milan Badelj,M. Badelj,841.0
+2018,Croatia,Marko Pjaca,M. Pjaca,1559.0
+2018,Croatia,Domagoj Vida,D. Vida,
+2018,Croatia,Josip Pivarić,J. Pivaric,
+2018,Croatia,Danijel Subašić,D. Subasic,84.0
+2018,Iceland,Hannes Þór Halldórsson,H. Þor Halldorsson,
+2018,Iceland,Birkir Már Sævarsson,B. Mar Sævarsson,
+2018,Iceland,Samúel Friðjónsson,S. Friðjonsson,17223.0
+2018,Iceland,Albert Guðmundsson,A. Guðmundsson,9800.0
+2018,Iceland,Sverrir Ingi Ingason,S. Ingi Ingason,
+2018,Iceland,Ragnar Sigurðsson,R. Sigurðsson,3479.0
+2018,Iceland,Jóhann Berg Guðmundsson,J. Berg Guðmundsson,
+2018,Iceland,Birkir Bjarnason,B. Bjarnason,2754.0
+2018,Iceland,Björn Bergmann Sigurðarson,B. Bergmann Sigurðarson,
+2018,Iceland,Gylfi Sigurðsson,G. Sigurðsson,237.0
+2018,Iceland,Alfreð Finnbogason,A. Finnbogason,1399.0
+2018,Iceland,Frederik Schram,F. Schram,
+2018,Iceland,Rúnar Alex Rúnarsson,R. Alex Runarsson,
+2018,Iceland,Kári Árnason,K. Arnason,4967.0
+2018,Iceland,Hólmar Örn Eyjólfsson,H. Orn Eyjolfsson,
+2018,Iceland,Ólafur Ingi Skúlason,O. Ingi Skulason,
+2018,Iceland,Aron Gunnarsson ,A. Gunnarsson,5104.0
+2018,Iceland,Hörður Björgvin Magnússon,H. Bjorgvin Magnusson,
+2018,Iceland,Rúrik Gíslason,R. Gislason,6796.0
+2018,Iceland,Emil Hallfreðsson,E. Hallfreðsson,1601.0
+2018,Iceland,Arnór Ingvi Traustason,A. Ingvi Traustason,
+2018,Iceland,Jón Daði Böðvarsson,J. Daði Boðvarsson,
+2018,Iceland,Ari Freyr Skúlason,A. Freyr Skulason,
+2018,Nigeria,Ikechukwu Ezenwa,I. Ezenwa,
+2018,Nigeria,Brian Idowu,B. Idowu,5415.0
+2018,Nigeria,Elderson Echiéjilé,E. Echiejile,4245.0
+2018,Nigeria,Wilfred Ndidi,W. Ndidi,
+2018,Nigeria,William Troost-Ekong,W. Troost Ekong,4587.0
+2018,Nigeria,Leon Balogun,L. Balogun,1744.0
+2018,Nigeria,Ahmed Musa,A. Musa,1430.0
+2018,Nigeria,Peter Etebo,P. Etebo,3277.0
+2018,Nigeria,Odion Ighalo,O. Ighalo,
+2018,Nigeria,John Obi Mikel ,J. Obi Mikel,
+2018,Nigeria,Victor Moses,V. Moses,560.0
+2018,Nigeria,Shehu Abdullahi,S. Abdullahi,6513.0
+2018,Nigeria,Simeon Nwankwo,S. Nwankwo,
+2018,Nigeria,Kelechi Iheanacho,K. Iheanacho,1994.0
+2018,Nigeria,Joel Obi,J. Obi,2903.0
+2018,Nigeria,Daniel Akpeyi,D. Akpeyi,
+2018,Nigeria,Ogenyi Onazi,O. Onazi,2390.0
+2018,Nigeria,Alex Iwobi,A. Iwobi,2467.0
+2018,Nigeria,John Ogu,J. Ogu,
+2018,Nigeria,Chidozie Awaziem,C. Awaziem,4802.0
+2018,Nigeria,Tyronne Ebuehi,T. Ebuehi,9544.0
+2018,Nigeria,Kenneth Omeruo,K. Omeruo,3723.0
+2018,Nigeria,Francis Uzoho,F. Uzoho,
+2018,Brazil,Alisson,Alisson,514.0
+2018,Brazil,Thiago Silva,T. Silva,21.0
+2018,Brazil,Miranda ,Miranda,51.0
+2018,Brazil,Pedro Geromel,P. Geromel,
+2018,Brazil,Casemiro,Casemiro,89.0
+2018,Brazil,Filipe Luís,F. Luis,71.0
+2018,Brazil,Douglas Costa,D. Costa,249.0
+2018,Brazil,Renato Augusto,R. Augusto,422.0
+2018,Brazil,Gabriel Jesus,G. Jesus,391.0
+2018,Brazil,Neymar,Neymar,4.0
+2018,Brazil,Philippe Coutinho,P. Coutinho,
+2018,Brazil,Marcelo,Marcelo,39.0
+2018,Brazil,Marquinhos,Marquinhos,183.0
+2018,Brazil,Danilo,Danilo,548.0
+2018,Brazil,Paulinho,Paulinho,333.0
+2018,Brazil,Cássio,Cassio,1661.0
+2018,Brazil,Fernandinho,Fernandinho,200.0
+2018,Brazil,Fred,Fred,505.0
+2018,Brazil,Willian,Willian,104.0
+2018,Brazil,Roberto Firmino,R. Firmino,178.0
+2018,Brazil,Taison,Taison,243.0
+2018,Brazil,Fagner,Fagner,
+2018,Brazil,Ederson,Ederson,188.0
+2018,Costa Rica,Keylor Navas,K. Navas,86.0
+2018,Costa Rica,Jhonny Acosta,J. Acosta,
+2018,Costa Rica,Giancarlo González,G. Gonzalez,1885.0
+2018,Costa Rica,Ian Smith,I. Smith,
+2018,Costa Rica,Celso Borges,C. Borges,801.0
+2018,Costa Rica,Óscar Duarte,O. Duarte,1156.0
+2018,Costa Rica,Christian Bolaños,C. Bolanos,4180.0
+2018,Costa Rica,Bryan Oviedo,B. Oviedo,3613.0
+2018,Costa Rica,Daniel Colindres,D. Colindres,
+2018,Costa Rica,Bryan Ruiz ,B. Ruiz,988.0
+2018,Costa Rica,Johan Venegas,J. Venegas,8566.0
+2018,Costa Rica,Joel Campbell,J. Campbell,1119.0
+2018,Costa Rica,Rodney Wallace,R. Wallace,4054.0
+2018,Costa Rica,Randall Azofeifa,R. Azofeifa,
+2018,Costa Rica,Francisco Calvo,F. Calvo,4584.0
+2018,Costa Rica,Cristian Gamboa,C. Gamboa,3616.0
+2018,Costa Rica,Yeltsin Tejeda,Y. Tejeda,7334.0
+2018,Costa Rica,Patrick Pemberton,P. Pemberton,
+2018,Costa Rica,Kendall Waston,K. Waston,2497.0
+2018,Costa Rica,David Guzmán,D. Guzman,4004.0
+2018,Costa Rica,Marco Ureña,M. Urena,7080.0
+2018,Costa Rica,Kenner Gutiérrez,K. Gutierrez,
+2018,Costa Rica,Leonel Moreira,L. Moreira,
+2018,Serbia,Vladimir Stojković,V. Stojkovic,
+2018,Serbia,Antonio Rukavina,A. Rukavina,999.0
+2018,Serbia,Duško Tošić,D. Tosic,2178.0
+2018,Serbia,Luka Milivojević,L. Milivojevic,1132.0
+2018,Serbia,Uroš Spajić,U. Spajic,3143.0
+2018,Serbia,Branislav Ivanović,B. Ivanovic,225.0
+2018,Serbia,Andrija Živković,A. Zivkovic,1181.0
+2018,Serbia,Aleksandar Prijović,A. Prijovic,2268.0
+2018,Serbia,Aleksandar Mitrović,A. Mitrovic,1942.0
+2018,Serbia,Dušan Tadić,D. Tadic,484.0
+2018,Serbia,Aleksandar Kolarov ,A. Kolarov,585.0
+2018,Serbia,Predrag Rajković,P. Rajkovic,
+2018,Serbia,Miloš Veljković,M. Veljkovic,3176.0
+2018,Serbia,Milan Rodić,M. Rodic,
+2018,Serbia,Nikola Milenković,N. Milenkovic,5736.0
+2018,Serbia,Marko Grujić,M. Grujic,4794.0
+2018,Serbia,Filip Kostić,F. Kostic,874.0
+2018,Serbia,Nemanja Radonjić,N. Radonjic,
+2018,Serbia,Luka Jović,L. Jovic,5672.0
+2018,Serbia,Sergej Milinković-Savić,S. Milinkovic Savic,519.0
+2018,Serbia,Nemanja Matić,N. Matic,168.0
+2018,Serbia,Adem Ljajić,A. Ljajic,601.0
+2018,Serbia,Marko Dmitrović,M. Dmitrovic,2551.0
+2018,Switzerland,Yann Sommer,Y. Sommer,149.0
+2018,Switzerland,Stephan Lichtsteiner ,S. Lichtsteiner,198.0
+2018,Switzerland,François Moubandje,F. Moubandje,2326.0
+2018,Switzerland,Nico Elvedi,N. Elvedi,2514.0
+2018,Switzerland,Manuel Akanji,M. Akanji,3933.0
+2018,Switzerland,Michael Lang,M. Lang,1019.0
+2018,Switzerland,Breel Embolo,B. Embolo,1535.0
+2018,Switzerland,Remo Freuler,R. Freuler,1839.0
+2018,Switzerland,Haris Seferovic,H. Seferovic,2310.0
+2018,Switzerland,Granit Xhaka,G. Xhaka,259.0
+2018,Switzerland,Valon Behrami,V. Behrami,963.0
+2018,Switzerland,Yvon Mvogo,Y. Mvogo,1871.0
+2018,Switzerland,Ricardo Rodríguez,R. Rodriguez,348.0
+2018,Switzerland,Steven Zuber,S. Zuber,1763.0
+2018,Switzerland,Blerim Džemaili,B. Dzemaili,707.0
+2018,Switzerland,Gelson Fernandes,G. Fernandes,1253.0
+2018,Switzerland,Denis Zakaria,D. Zakaria,3934.0
+2018,Switzerland,Mario Gavranović,M. Gavranovic,
+2018,Switzerland,Josip Drmić,J. Drmic,2335.0
+2018,Switzerland,Johan Djourou,J. Djourou,2702.0
+2018,Switzerland,Roman Bürki,R. Burki,108.0
+2018,Switzerland,Fabian Schär,F. Schar,1897.0
+2018,Switzerland,Xherdan Shaqiri,X. Shaqiri,252.0
+2018,Germany,Manuel Neuer ,M. Neuer,2.0
+2018,Germany,Marvin Plattenhardt,M. Plattenhardt,804.0
+2018,Germany,Jonas Hector,J. Hector,504.0
+2018,Germany,Matthias Ginter,M. Ginter,869.0
+2018,Germany,Mats Hummels,M. Hummels,24.0
+2018,Germany,Sami Khedira,S. Khedira,103.0
+2018,Germany,Julian Draxler,J. Draxler,119.0
+2018,Germany,Toni Kroos,T. Kroos,8.0
+2018,Germany,Timo Werner,T. Werner,288.0
+2018,Germany,Mesut Özil,M. Ozil,23.0
+2018,Germany,Marco Reus,M. Reus,59.0
+2018,Germany,Kevin Trapp,K. Trapp,245.0
+2018,Germany,Thomas Müller,T. Muller,62.0
+2018,Germany,Leon Goretzka,L. Goretzka,285.0
+2018,Germany,Niklas Süle,N. Sule,189.0
+2018,Germany,Antonio Rüdiger,A. Rudiger,275.0
+2018,Germany,Jérôme Boateng,J. Boateng,26.0
+2018,Germany,Joshua Kimmich,J. Kimmich,381.0
+2018,Germany,Sebastian Rudy,S. Rudy,337.0
+2018,Germany,Julian Brandt,J. Brandt,512.0
+2018,Germany,İlkay Gündoğan,I. Gundogan,79.0
+2018,Germany,Marc-André ter Stegen,M. Andre ter Stegen,
+2018,Germany,Mario Gómez,M. Gomez,203.0
+2018,Mexico,José de Jesús Corona,J. de Jesus Corona,
+2018,Mexico,Hugo Ayala,H. Ayala,1674.0
+2018,Mexico,Carlos Salcedo,C. Salcedo,2459.0
+2018,Mexico,Rafael Márquez ,R. Marquez,10465.0
+2018,Mexico,Érick Gutiérrez,E. Gutierrez,1530.0
+2018,Mexico,Jonathan dos Santos,J. dos Santos,425.0
+2018,Mexico,Miguel Layún,M. Layun,756.0
+2018,Mexico,Marco Fabián,M. Fabian,588.0
+2018,Mexico,Raúl Jiménez,R. Jimenez,857.0
+2018,Mexico,Giovani dos Santos,G. dos Santos,554.0
+2018,Mexico,Carlos Vela,C. Vela,215.0
+2018,Mexico,Alfredo Talavera,A. Talavera,
+2018,Mexico,Guillermo Ochoa,G. Ochoa,531.0
+2018,Mexico,Javier Hernández,J. Hernandez,224.0
+2018,Mexico,Héctor Moreno,H. Moreno,432.0
+2018,Mexico,Héctor Herrera,H. Herrera,541.0
+2018,Mexico,Jesús Manuel Corona,J. Manuel Corona,
+2018,Mexico,Andrés Guardado,A. Guardado,426.0
+2018,Mexico,Oribe Peralta,O. Peralta,1254.0
+2018,Mexico,Javier Aquino,J. Aquino,1056.0
+2018,Mexico,Edson Álvarez,E. Alvarez,4825.0
+2018,Mexico,Hirving Lozano,H. Lozano,904.0
+2018,Mexico,Jesús Gallardo,J. Gallardo,3903.0
+2018,South Korea,Kim Seung-gyu,K. Seung gyu,2886.0
+2018,South Korea,Lee Yong,L. Yong,9118.0
+2018,South Korea,Jung Seung-hyun,J. Seung hyun,
+2018,South Korea,Oh Ban-suk,O. Ban suk,5349.0
+2018,South Korea,Yun Young-sun,Y. Young sun,3622.0
+2018,South Korea,Park Joo-ho,P. Joo ho,2884.0
+2018,South Korea,Son Heung-min,S. Heung min,
+2018,South Korea,Ju Se-jong,J. Se jong,4525.0
+2018,South Korea,Kim Shin-wook,K. Shin wook,2292.0
+2018,South Korea,Lee Seung-woo,L. Seung woo,6569.0
+2018,South Korea,Hwang Hee-chan,H. Hee chan,7472.0
+2018,South Korea,Kim Min-woo,K. Min woo,4641.0
+2018,South Korea,Koo Ja-cheol,K. Ja cheol,1319.0
+2018,South Korea,Hong Chul,H. Chul,2344.0
+2018,South Korea,Jung Woo-young,J. Woo young,
+2018,South Korea,Ki Sung-yueng ,K. Sung yueng,758.0
+2018,South Korea,Lee Jae-sung,L. Jae sung,2515.0
+2018,South Korea,Moon Seon-min,M. Seon min,8558.0
+2018,South Korea,Kim Young-gwon,K. Young gwon,
+2018,South Korea,Jang Hyun-soo,J. Hyun soo,
+2018,South Korea,Kim Jin-hyeon,K. Jin hyeon,4442.0
+2018,South Korea,Go Yo-han,G. Yo han,5965.0
+2018,South Korea,Jo Hyeon-woo,J. Hyeon woo,
+2018,Sweden,Robin Olsen,R. Olsen,2410.0
+2018,Sweden,Mikael Lustig,M. Lustig,2760.0
+2018,Sweden,Victor Lindelöf,V. Lindelof,685.0
+2018,Sweden,Andreas Granqvist ,A. Granqvist,409.0
+2018,Sweden,Martin Olsson,M. Olsson,1722.0
+2018,Sweden,Ludwig Augustinsson,L. Augustinsson,3090.0
+2018,Sweden,Sebastian Larsson,S. Larsson,1480.0
+2018,Sweden,Albin Ekdal,A. Ekdal,1317.0
+2018,Sweden,Marcus Berg,M. Berg,438.0
+2018,Sweden,Emil Forsberg,E. Forsberg,184.0
+2018,Sweden,John Guidetti,J. Guidetti,830.0
+2018,Sweden,Karl-Johan Johnsson,K. Johan Johnsson,
+2018,Sweden,Gustav Svensson,G. Svensson,2182.0
+2018,Sweden,Filip Helander,F. Helander,3028.0
+2018,Sweden,Oscar Hiljemark,O. Hiljemark,2981.0
+2018,Sweden,Emil Krafth,E. Krafth,3030.0
+2018,Sweden,Viktor Claesson,V. Claesson,3027.0
+2018,Sweden,Pontus Jansson,P. Jansson,1066.0
+2018,Sweden,Marcus Rohdén,M. Rohden,4519.0
+2018,Sweden,Ola Toivonen,O. Toivonen,1695.0
+2018,Sweden,Jimmy Durmaz,J. Durmaz,1754.0
+2018,Sweden,Isaac Kiese Thelin,I. Kiese Thelin,4506.0
+2018,Sweden,Kristoffer Nordfeldt,K. Nordfeldt,2889.0
+2018,Belgium,Thibaut Courtois,T. Courtois,17.0
+2018,Belgium,Toby Alderweireld,T. Alderweireld,58.0
+2018,Belgium,Thomas Vermaelen,T. Vermaelen,725.0
+2018,Belgium,Vincent Kompany,V. Kompany,70.0
+2018,Belgium,Jan Vertonghen,J. Vertonghen,74.0
+2018,Belgium,Axel Witsel,A. Witsel,221.0
+2018,Belgium,Kevin De Bruyne,K. De Bruyne,18.0
+2018,Belgium,Marouane Fellaini,M. Fellaini,568.0
+2018,Belgium,Romelu Lukaku,R. Lukaku,64.0
+2018,Belgium,Eden Hazard ,E. Hazard,9.0
+2018,Belgium,Yannick Carrasco,Y. Carrasco,91.0
+2018,Belgium,Simon Mignolet,S. Mignolet,319.0
+2018,Belgium,Koen Casteels,K. Casteels,808.0
+2018,Belgium,Dries Mertens,D. Mertens,53.0
+2018,Belgium,Thomas Meunier,T. Meunier,368.0
+2018,Belgium,Thorgan Hazard,T. Hazard,491.0
+2018,Belgium,Youri Tielemans,Y. Tielemans,517.0
+2018,Belgium,Adnan Januzaj,A. Januzaj,1139.0
+2018,Belgium,Mousa Dembélé,M. Dembele,141.0
+2018,Belgium,Dedryck Boyata,D. Boyata,3608.0
+2018,Belgium,Michy Batshuayi,M. Batshuayi,495.0
+2018,Belgium,Nacer Chadli,N. Chadli,834.0
+2018,Belgium,Leander Dendoncker,L. Dendoncker,670.0
+2018,England,Jordan Pickford,J. Pickford,1120.0
+2018,England,Kyle Walker,K. Walker,163.0
+2018,England,Danny Rose,D. Rose,216.0
+2018,England,Eric Dier,E. Dier,264.0
+2018,England,John Stones,J. Stones,642.0
+2018,England,Harry Maguire,H. Maguire,1112.0
+2018,England,Jesse Lingard,J. Lingard,868.0
+2018,England,Jordan Henderson,J. Henderson,234.0
+2018,England,Harry Kane ,H. Kane,68.0
+2018,England,Raheem Sterling,R. Sterling,267.0
+2018,England,Jamie Vardy,J. Vardy,375.0
+2018,England,Kieran Trippier,K. Trippier,773.0
+2018,England,Jack Butland,J. Butland,370.0
+2018,England,Danny Welbeck,D. Welbeck,453.0
+2018,England,Gary Cahill,G. Cahill,95.0
+2018,England,Phil Jones,P. Jones,613.0
+2018,England,Fabian Delph,F. Delph,1009.0
+2018,England,Ashley Young,A. Young,1613.0
+2018,England,Marcus Rashford,M. Rashford,520.0
+2018,England,Dele Alli,D. Alli,122.0
+2018,England,Ruben Loftus-Cheek,R. Loftus Cheek,6311.0
+2018,England,Trent Alexander-Arnold,T. Alexander Arnold,6565.0
+2018,England,Nick Pope,N. Pope,7095.0
+2018,Panama,Jaime Penedo,J. Penedo,
+2018,Panama,Michael Amir Murillo,M. Amir Murillo,
+2018,Panama,Harold Cummings,H. Cummings,9446.0
+2018,Panama,Fidel Escobar,F. Escobar,
+2018,Panama,Román Torres,R. Torres,5458.0
+2018,Panama,Gabriel Gómez,G. Gomez,1956.0
+2018,Panama,Blas Pérez,B. Perez,
+2018,Panama,Yoel Bárcenas,Y. Barcenas,
+2018,Panama,Gabriel Torres,G. Torres,
+2018,Panama,Ismael Díaz,I. Diaz,
+2018,Panama,Armando Cooper,A. Cooper,8330.0
+2018,Panama,José Calderón,J. Calderon,
+2018,Panama,Adolfo Machado,A. Machado,4359.0
+2018,Panama,Valentín Pimentel,V. Pimentel,
+2018,Panama,Eric Davis,E. Davis,
+2018,Panama,Abdiel Arroyo,A. Arroyo,
+2018,Panama,Luis Ovalle,L. Ovalle,15978.0
+2018,Panama,Luis Tejada,L. Tejada,
+2018,Panama,Ricardo Ávila,R. Avila,
+2018,Panama,Aníbal Godoy,A. Godoy,4634.0
+2018,Panama,José Luis Rodríguez,J. Luis Rodriguez,
+2018,Panama,Álex Rodríguez,A. Rodriguez,
+2018,Panama,Felipe Baloy ,F. Baloy,
+2018,Tunisia,Farouk Ben Mustapha,F. Ben Mustapha,12344.0
+2018,Tunisia,Syam Ben Youssef,S. Ben Youssef,3726.0
+2018,Tunisia,Yohan Benalouane,Y. Benalouane,1712.0
+2018,Tunisia,Yassine Meriah,Y. Meriah,
+2018,Tunisia,Oussama Haddadi,O. Haddadi,9793.0
+2018,Tunisia,Rami Bedoui,R. Bedoui,
+2018,Tunisia,Saîf-Eddine Khaoui,S. Eddine Khaoui,
+2018,Tunisia,Fakhreddine Ben Youssef,F. Ben Youssef,
+2018,Tunisia,Anice Badri,A. Badri,
+2018,Tunisia,Wahbi Khazri,W. Khazri,813.0
+2018,Tunisia,Dylan Bronn,D. Bronn,10758.0
+2018,Tunisia,Ali Maâloul,A. Maaloul,
+2018,Tunisia,Ferjani Sassi,F. Sassi,
+2018,Tunisia,Mohamed Amine Ben Amor,M. Amine Ben Amor,
+2018,Tunisia,Ahmed Khalil,A. Khalil,
+2018,Tunisia,Aymen Mathlouthi ,A. Mathlouthi,
+2018,Tunisia,Ellyes Skhiri,E. Skhiri,2541.0
+2018,Tunisia,Bassem Srarfi,B. Srarfi,7639.0
+2018,Tunisia,Saber Khalifa,S. Khalifa,
+2018,Tunisia,Ghailene Chaalali,G. Chaalali,
+2018,Tunisia,Hamdi Nagguez,H. Nagguez,
+2018,Tunisia,Mouez Hassen,M. Hassen,6251.0
+2018,Tunisia,Naïm Sliti,N. Sliti,3709.0
+2018,Colombia,David Ospina,D. Ospina,565.0
+2018,Colombia,Cristián Zapata,C. Zapata,751.0
+2018,Colombia,Óscar Murillo,O. Murillo,1413.0
+2018,Colombia,Santiago Arias,S. Arias,1116.0
+2018,Colombia,Wilmar Barrios,W. Barrios,2475.0
+2018,Colombia,Carlos Sánchez,C. Sanchez,
+2018,Colombia,Carlos Bacca,C. Bacca,280.0
+2018,Colombia,Abel Aguilar,A. Aguilar,1696.0
+2018,Colombia,Radamel Falcao ,R. Falcao,
+2018,Colombia,James Rodríguez,J. Rodriguez,67.0
+2018,Colombia,Juan Cuadrado,J. Cuadrado,251.0
+2018,Colombia,Camilo Vargas,C. Vargas,1917.0
+2018,Colombia,Yerry Mina,Y. Mina,
+2018,Colombia,Luis Muriel,L. Muriel,483.0
+2018,Colombia,Mateus Uribe,M. Uribe,3107.0
+2018,Colombia,Jefferson Lerma,J. Lerma,1928.0
+2018,Colombia,Johan Mojica,J. Mojica,5445.0
+2018,Colombia,Farid Díaz,F. Diaz,3116.0
+2018,Colombia,Miguel Borja,M. Borja,
+2018,Colombia,Juan Fernando Quintero,J. Fernando Quintero,
+2018,Colombia,José Izquierdo,J. Izquierdo,898.0
+2018,Colombia,José Fernando Cuadrado,J. Fernando Cuadrado,
+2018,Colombia,Davinson Sánchez,D. Sanchez,387.0
+2018,Japan,Eiji Kawashima,E. Kawashima,4216.0
+2018,Japan,Naomichi Ueda,N. Ueda,5683.0
+2018,Japan,Gen Shoji,G. Shoji,3271.0
+2018,Japan,Keisuke Honda,K. Honda,774.0
+2018,Japan,Yūto Nagatomo,Y. Nagatomo,2919.0
+2018,Japan,Wataru Endō,W. Endo,6573.0
+2018,Japan,Gaku Shibasaki,G. Shibasaki,2032.0
+2018,Japan,Genki Haraguchi,G. Haraguchi,1954.0
+2018,Japan,Shinji Okazaki,S. Okazaki,1067.0
+2018,Japan,Shinji Kagawa,S. Kagawa,166.0
+2018,Japan,Takashi Usami,T. Usami,2288.0
+2018,Japan,Masaaki Higashiguchi,M. Higashiguchi,3988.0
+2018,Japan,Yoshinori Muto,Y. Muto,1556.0
+2018,Japan,Takashi Inui,T. Inui,860.0
+2018,Japan,Yuya Osako,Y. Osako,1051.0
+2018,Japan,Hotaru Yamaguchi,H. Yamaguchi,5544.0
+2018,Japan,Makoto Hasebe ,M. Hasebe,997.0
+2018,Japan,Ryota Oshima,R. Oshima,6583.0
+2018,Japan,Hiroki Sakai,H. Sakai,1887.0
+2018,Japan,Tomoaki Makino,T. Makino,5174.0
+2018,Japan,Gōtoku Sakai,G. Sakai,2409.0
+2018,Japan,Maya Yoshida,M. Yoshida,1779.0
+2018,Japan,Kosuke Nakamura,K. Nakamura,2783.0
+2018,Poland,Wojciech Szczęsny,W. Szczesny,238.0
+2018,Poland,Michał Pazdan,M. Pazdan,1336.0
+2018,Poland,Artur Jędrzejczyk,A. Jedrzejczyk,2767.0
+2018,Poland,Thiago Cionek,T. Cionek,4278.0
+2018,Poland,Jan Bednarek,J. Bednarek,7376.0
+2018,Poland,Jacek Góralski,J. Goralski,3227.0
+2018,Poland,Arkadiusz Milik,A. Milik,650.0
+2018,Poland,Karol Linetty,K. Linetty,1913.0
+2018,Poland,Robert Lewandowski ,R. Lewandowski,5.0
+2018,Poland,Grzegorz Krychowiak,G. Krychowiak,354.0
+2018,Poland,Kamil Grosicki,K. Grosicki,1307.0
+2018,Poland,Bartosz Białkowski,B. Białkowski,2083.0
+2018,Poland,Maciej Rybus,M. Rybus,3517.0
+2018,Poland,Łukasz Teodorczyk,Ł. Teodorczyk,837.0
+2018,Poland,Kamil Glik,K. Glik,81.0
+2018,Poland,Jakub Błaszczykowski,J. Błaszczykowski,1276.0
+2018,Poland,Sławomir Peszko,S. Peszko,5796.0
+2018,Poland,Bartosz Bereszyński,B. Bereszynski,2949.0
+2018,Poland,Piotr Zieliński,P. Zielinski,508.0
+2018,Poland,Łukasz Piszczek,Ł. Piszczek,145.0
+2018,Poland,Rafał Kurzawa,R. Kurzawa,9497.0
+2018,Poland,Łukasz Fabiański,Ł. Fabianski,415.0
+2018,Poland,Dawid Kownacki,D. Kownacki,7383.0
+2018,Senegal,Abdoulaye Diallo,A. Diallo,5188.0
+2018,Senegal,Adama Mbengue,A. Mbengue,
+2018,Senegal,Kalidou Koulibaly,K. Koulibaly,116.0
+2018,Senegal,Kara Mbodji,K. Mbodji,
+2018,Senegal,Idrissa Gueye,I. Gueye,171.0
+2018,Senegal,Salif Sané,S. Sane,637.0
+2018,Senegal,Moussa Sow,M. Sow,
+2018,Senegal,Cheikhou Kouyaté ,C. Kouyate,1030.0
+2018,Senegal,Mame Biram Diouf,M. Biram Diouf,
+2018,Senegal,Sadio Mané,S. Mane,121.0
+2018,Senegal,Cheikh N'Doye,C. N Doye,1521.0
+2018,Senegal,Youssouf Sabaly,Y. Sabaly,1512.0
+2018,Senegal,Alfred N'Diaye,A. N Diaye,788.0
+2018,Senegal,Moussa Konaté,M. Konate,2443.0
+2018,Senegal,Diafra Sakho,D. Sakho,1795.0
+2018,Senegal,Khadim N'Diaye,K. N Diaye,
+2018,Senegal,Badou Ndiaye,B. Ndiaye,1185.0
+2018,Senegal,Ismaïla Sarr,I. Sarr,3280.0
+2018,Senegal,M'Baye Niang,M. Baye Niang,
+2018,Senegal,Keita Baldé,K. Balde,
+2018,Senegal,Lamine Gassama,L. Gassama,6917.0
+2018,Senegal,Moussa Wagué,M. Wague,2403.0
+2018,Senegal,Alfred Gomis,A. Gomis,2970.0

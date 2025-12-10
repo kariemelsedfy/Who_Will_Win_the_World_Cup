@@ -11,7 +11,7 @@ year,team,player_name
 2022,Ecuador,Romario Ibarra
 2022,Ecuador,Michael Estrada
 2022,Ecuador,Moisés Ramírez
-2022,Ecuador,Enner Valencia (captain)
+2022,Ecuador,Enner Valencia 
 2022,Ecuador,Xavier Arreaga
 2022,Ecuador,Ángel Mena
 2022,Ecuador,Jeremy Sarmiento
@@ -28,7 +28,7 @@ year,team,player_name
 2022,Netherlands,Remko Pasveer
 2022,Netherlands,Jurriën Timber
 2022,Netherlands,Matthijs de Ligt
-2022,Netherlands,Virgil van Dijk (captain)
+2022,Netherlands,Virgil van Dijk 
 2022,Netherlands,Nathan Aké
 2022,Netherlands,Stefan de Vrij
 2022,Netherlands,Steven Bergwijn
@@ -60,7 +60,7 @@ year,team,player_name
 2022,Qatar,Ahmed Alaaeldin
 2022,Qatar,Ali Assadalla
 2022,Qatar,Mohammed Muntari
-2022,Qatar,Hassan Al-Haydos (captain)
+2022,Qatar,Hassan Al-Haydos 
 2022,Qatar,Akram Afif
 2022,Qatar,Karim Boudiaf
 2022,Qatar,Musab Kheder
@@ -79,7 +79,7 @@ year,team,player_name
 2022,Qatar,Mostafa Meshaal
 2022,Senegal,Seny Dieng
 2022,Senegal,Formose Mendy
-2022,Senegal,Kalidou Koulibaly (captain)
+2022,Senegal,Kalidou Koulibaly 
 2022,Senegal,Pape Abou Cissé
 2022,Senegal,Idrissa Gueye
 2022,Senegal,Nampalys Mendy
@@ -111,7 +111,7 @@ year,team,player_name
 2022,England,Harry Maguire
 2022,England,Jack Grealish
 2022,England,Jordan Henderson
-2022,England,Harry Kane (captain)
+2022,England,Harry Kane 
 2022,England,Raheem Sterling
 2022,England,Marcus Rashford
 2022,England,Kieran Trippier
@@ -131,7 +131,7 @@ year,team,player_name
 2022,England,Conor Gallagher
 2022,Iran,Alireza Beiranvand
 2022,Iran,Sadegh Moharrami
-2022,Iran,Ehsan Hajsafi (captain)
+2022,Iran,Ehsan Hajsafi 
 2022,Iran,Shojae Khalilzadeh
 2022,Iran,Milad Mohammadi
 2022,Iran,Saeid Ezatolahi
@@ -157,7 +157,7 @@ year,team,player_name
 2022,United States,Matt Turner
 2022,United States,Sergiño Dest
 2022,United States,Walker Zimmerman
-2022,United States,Tyler Adams (captain)
+2022,United States,Tyler Adams 
 2022,United States,Antonee Robinson
 2022,United States,Yunus Musah
 2022,United States,Giovanni Reyna
@@ -190,7 +190,7 @@ year,team,player_name
 2022,Wales,Harry Wilson
 2022,Wales,Brennan Johnson
 2022,Wales,Aaron Ramsey
-2022,Wales,Gareth Bale (captain)
+2022,Wales,Gareth Bale 
 2022,Wales,Danny Ward
 2022,Wales,Kieffer Moore
 2022,Wales,Connor Roberts
@@ -215,7 +215,7 @@ year,team,player_name
 2022,Argentina,Rodrigo De Paul
 2022,Argentina,Marcos Acuña
 2022,Argentina,Julián Alvarez
-2022,Argentina,Lionel Messi (captain)
+2022,Argentina,Lionel Messi 
 2022,Argentina,Ángel Di María
 2022,Argentina,Gerónimo Rulli
 2022,Argentina,Cristian Romero
@@ -249,7 +249,7 @@ year,team,player_name
 2022,Mexico,Héctor Moreno
 2022,Mexico,Héctor Herrera
 2022,Mexico,Orbelín Pineda
-2022,Mexico,Andrés Guardado (captain)
+2022,Mexico,Andrés Guardado 
 2022,Mexico,Jorge Sánchez
 2022,Mexico,Henry Martín
 2022,Mexico,Uriel Antuna
@@ -266,7 +266,7 @@ year,team,player_name
 2022,Poland,Krystian Bielik
 2022,Poland,Arkadiusz Milik
 2022,Poland,Damian Szymański
-2022,Poland,Robert Lewandowski (captain)
+2022,Poland,Robert Lewandowski 
 2022,Poland,Grzegorz Krychowiak
 2022,Poland,Kamil Grosicki
 2022,Poland,Łukasz Skorupski
@@ -290,7 +290,7 @@ year,team,player_name
 2022,Saudi Arabia,Abdulelah Al-Amri
 2022,Saudi Arabia,Ali Al-Bulaihi
 2022,Saudi Arabia,Mohammed Al-Breik
-2022,Saudi Arabia,Salman Al-Faraj (captain)
+2022,Saudi Arabia,Salman Al-Faraj 
 2022,Saudi Arabia,Abdulellah Al-Malki
 2022,Saudi Arabia,Firas Al-Buraikan
 2022,Saudi Arabia,Salem Al-Dawsari
@@ -310,7 +310,7 @@ year,team,player_name
 2022,Saudi Arabia,Nasser Al-Dawsari
 2022,Saudi Arabia,Haitham Asiri
 2022,Saudi Arabia,Riyadh Sharahili
-2022,Australia,Mathew Ryan (captain)
+2022,Australia,Mathew Ryan 
 2022,Australia,Miloš Degenek
 2022,Australia,Nathaniel Atkinson
 2022,Australia,Kye Rowles
@@ -339,7 +339,7 @@ year,team,player_name
 2022,Denmark,Kasper Schmeichel
 2022,Denmark,Joachim Andersen
 2022,Denmark,Victor Nelsson
-2022,Denmark,Simon Kjær (captain)
+2022,Denmark,Simon Kjær 
 2022,Denmark,Joakim Mæhle
 2022,Denmark,Andreas Christensen
 2022,Denmark,Mathias Jensen
@@ -362,7 +362,7 @@ year,team,player_name
 2022,Denmark,Robert Skov
 2022,Denmark,Jesper Lindstrøm
 2022,Denmark,Alexander Bah
-2022,France,Hugo Lloris (captain)
+2022,France,Hugo Lloris 
 2022,France,Benjamin Pavard
 2022,France,Axel Disasi
 2022,France,Raphaël Varane
@@ -394,7 +394,7 @@ year,team,player_name
 2022,Tunisia,Yassine Meriah
 2022,Tunisia,Nader Ghandri
 2022,Tunisia,Dylan Bronn
-2022,Tunisia,Youssef Msakni (captain)
+2022,Tunisia,Youssef Msakni 
 2022,Tunisia,Hannibal Mejbri
 2022,Tunisia,Issam Jebali
 2022,Tunisia,Wahbi Khazri
@@ -423,7 +423,7 @@ year,team,player_name
 2022,Costa Rica,Anthony Contreras
 2022,Costa Rica,Bryan Oviedo
 2022,Costa Rica,Jewison Bennette
-2022,Costa Rica,Bryan Ruiz (captain)
+2022,Costa Rica,Bryan Ruiz 
 2022,Costa Rica,Johan Venegas
 2022,Costa Rica,Joel Campbell
 2022,Costa Rica,Gerson Torres
@@ -440,7 +440,7 @@ year,team,player_name
 2022,Costa Rica,Roan Wilson
 2022,Costa Rica,Anthony Hernández
 2022,Costa Rica,Álvaro Zamora
-2022,Germany,Manuel Neuer (captain)
+2022,Germany,Manuel Neuer 
 2022,Germany,Antonio Rüdiger
 2022,Germany,David Raum
 2022,Germany,Matthias Ginter
@@ -487,7 +487,7 @@ year,team,player_name
 2022,Japan,Hiroki Sakai
 2022,Japan,Shūto Machino
 2022,Japan,Ayase Ueda
-2022,Japan,Maya Yoshida (captain)
+2022,Japan,Maya Yoshida 
 2022,Japan,Daniel Schmidt
 2022,Japan,Yūki Sōma
 2022,Japan,Daizen Maeda
@@ -496,7 +496,7 @@ year,team,player_name
 2022,Spain,César Azpilicueta
 2022,Spain,Eric García
 2022,Spain,Pau Torres
-2022,Spain,Sergio Busquets (captain)
+2022,Spain,Sergio Busquets 
 2022,Spain,Marcos Llorente
 2022,Spain,Álvaro Morata
 2022,Spain,Koke
@@ -527,7 +527,7 @@ year,team,player_name
 2022,Belgium,Kevin De Bruyne
 2022,Belgium,Youri Tielemans
 2022,Belgium,Romelu Lukaku
-2022,Belgium,Eden Hazard (captain)
+2022,Belgium,Eden Hazard 
 2022,Belgium,Yannick Carrasco
 2022,Belgium,Simon Mignolet
 2022,Belgium,Koen Casteels
@@ -556,7 +556,7 @@ year,team,player_name
 2022,Canada,Junior Hoilett
 2022,Canada,Tajon Buchanan
 2022,Canada,Iké Ugbo
-2022,Canada,Atiba Hutchinson (captain)
+2022,Canada,Atiba Hutchinson 
 2022,Canada,Mark-Anthony Kaye
 2022,Canada,Ismaël Koné
 2022,Canada,James Pantemis
@@ -579,7 +579,7 @@ year,team,player_name
 2022,Croatia,Lovro Majer
 2022,Croatia,Mateo Kovačić
 2022,Croatia,Andrej Kramarić
-2022,Croatia,Luka Modrić (captain)
+2022,Croatia,Luka Modrić 
 2022,Croatia,Marcelo Brozović
 2022,Croatia,Ivo Grbić
 2022,Croatia,Nikola Vlašić
@@ -601,7 +601,7 @@ year,team,player_name
 2022,Morocco,Noussair Mazraoui
 2022,Morocco,Sofyan Amrabat
 2022,Morocco,Nayef Aguerd
-2022,Morocco,Romain Saïss (captain)
+2022,Morocco,Romain Saïss 
 2022,Morocco,Hakim Ziyech
 2022,Morocco,Azzedine Ounahi
 2022,Morocco,Abderrazak Hamdallah
@@ -624,7 +624,7 @@ year,team,player_name
 2022,Morocco,Yahya Jabrane
 2022,Brazil,Alisson
 2022,Brazil,Danilo
-2022,Brazil,Thiago Silva (captain)
+2022,Brazil,Thiago Silva 
 2022,Brazil,Marquinhos
 2022,Brazil,Casemiro
 2022,Brazil,Alex Sandro
@@ -657,7 +657,7 @@ year,team,player_name
 2022,Cameroon,Georges-Kévin Nkoudou
 2022,Cameroon,André-Frank Zambo Anguissa
 2022,Cameroon,Jean-Pierre Nsame
-2022,Cameroon,Vincent Aboubakar (captain)
+2022,Cameroon,Vincent Aboubakar 
 2022,Cameroon,Christian Bassogog
 2022,Cameroon,Karl Toko Ekambi
 2022,Cameroon,Eric Maxim Choupo-Moting
@@ -683,7 +683,7 @@ year,team,player_name
 2022,Serbia,Nemanja Radonjić
 2022,Serbia,Nemanja Gudelj
 2022,Serbia,Aleksandar Mitrović
-2022,Serbia,Dušan Tadić (captain)
+2022,Serbia,Dušan Tadić 
 2022,Serbia,Luka Jović
 2022,Serbia,Predrag Rajković
 2022,Serbia,Stefan Mitrović
@@ -709,7 +709,7 @@ year,team,player_name
 2022,Switzerland,Breel Embolo
 2022,Switzerland,Remo Freuler
 2022,Switzerland,Haris Seferovic
-2022,Switzerland,Granit Xhaka (captain)
+2022,Switzerland,Granit Xhaka 
 2022,Switzerland,Renato Steffen
 2022,Switzerland,Jonas Omlin
 2022,Switzerland,Ricardo Rodriguez
@@ -735,7 +735,7 @@ year,team,player_name
 2022,Ghana,Abdul Fatawu Issahaku
 2022,Ghana,Daniel-Kofi Kyereh
 2022,Ghana,Jordan Ayew
-2022,Ghana,André Ayew (captain)
+2022,Ghana,André Ayew 
 2022,Ghana,Osman Bukari
 2022,Ghana,Ibrahim Danlad
 2022,Ghana,Daniel Afriyie
@@ -758,7 +758,7 @@ year,team,player_name
 2022,Portugal,Rúben Dias
 2022,Portugal,Raphaël Guerreiro
 2022,Portugal,João Palhinha
-2022,Portugal,Cristiano Ronaldo (captain)
+2022,Portugal,Cristiano Ronaldo 
 2022,Portugal,Bruno Fernandes
 2022,Portugal,André Silva
 2022,Portugal,Bernardo Silva
@@ -784,7 +784,7 @@ year,team,player_name
 2022,South Korea,Kim Min-jae
 2022,South Korea,Jung Woo-young
 2022,South Korea,Hwang In-beom
-2022,South Korea,Son Heung-min (captain)
+2022,South Korea,Son Heung-min 
 2022,South Korea,Paik Seung-ho
 2022,South Korea,Cho Gue-sung
 2022,South Korea,Lee Jae-sung
@@ -806,7 +806,7 @@ year,team,player_name
 2022,South Korea,Song Min-kyu
 2022,Uruguay,Fernando Muslera
 2022,Uruguay,José Giménez
-2022,Uruguay,Diego Godín (captain)
+2022,Uruguay,Diego Godín 
 2022,Uruguay,Ronald Araújo
 2022,Uruguay,Matías Vecino
 2022,Uruguay,Rodrigo Bentancur

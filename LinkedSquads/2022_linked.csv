@@ -1,0 +1,832 @@
+year,team,player_name,derived_short_name,fifa_index
+2022,Ecuador,Hernán Galíndez,H. Galindez,
+2022,Ecuador,Félix Torres,F. Torres,3806.0
+2022,Ecuador,Piero Hincapié,P. Hincapie,5428.0
+2022,Ecuador,Robert Arboleda,R. Arboleda,
+2022,Ecuador,José Cifuentes,J. Cifuentes,4569.0
+2022,Ecuador,Willian Pacho,W. Pacho,14896.0
+2022,Ecuador,Pervis Estupiñán,P. Estupinan,648.0
+2022,Ecuador,Carlos Gruezo,C. Gruezo,3457.0
+2022,Ecuador,Ayrton Preciado,A. Preciado,5252.0
+2022,Ecuador,Romario Ibarra,R. Ibarra,2087.0
+2022,Ecuador,Michael Estrada,M. Estrada,5245.0
+2022,Ecuador,Moisés Ramírez,M. Ramirez,7448.0
+2022,Ecuador,Enner Valencia ,E. Valencia,1733.0
+2022,Ecuador,Xavier Arreaga,X. Arreaga,8393.0
+2022,Ecuador,Ángel Mena,A. Mena,785.0
+2022,Ecuador,Jeremy Sarmiento,J. Sarmiento,16453.0
+2022,Ecuador,Ángelo Preciado,A. Preciado,5252.0
+2022,Ecuador,Diego Palacios,D. Palacios,5316.0
+2022,Ecuador,Gonzalo Plata,G. Plata,2402.0
+2022,Ecuador,Sebas Méndez,S. Mendez,
+2022,Ecuador,Alan Franco,A. Franco,2345.0
+2022,Ecuador,Alexander Domínguez,A. Dominguez,13742.0
+2022,Ecuador,Moisés Caicedo,M. Caicedo,9020.0
+2022,Ecuador,Djorkaeff Reasco,D. Reasco,13033.0
+2022,Ecuador,Jackson Porozo,J. Porozo,8630.0
+2022,Ecuador,Kevin Rodríguez,K. Rodriguez,
+2022,Netherlands,Remko Pasveer,R. Pasveer,1480.0
+2022,Netherlands,Jurriën Timber,J. Timber,1950.0
+2022,Netherlands,Matthijs de Ligt,M. de Ligt,96.0
+2022,Netherlands,Virgil van Dijk ,V. van Dijk,15.0
+2022,Netherlands,Nathan Aké,N. Ake,745.0
+2022,Netherlands,Stefan de Vrij,S. de Vrij,84.0
+2022,Netherlands,Steven Bergwijn,S. Bergwijn,473.0
+2022,Netherlands,Cody Gakpo,C. Gakpo,655.0
+2022,Netherlands,Luuk de Jong,L. de Jong,529.0
+2022,Netherlands,Memphis Depay,M. Depay,86.0
+2022,Netherlands,Steven Berghuis,S. Berghuis,314.0
+2022,Netherlands,Noa Lang,N. Lang,837.0
+2022,Netherlands,Justin Bijlow,J. Bijlow,1062.0
+2022,Netherlands,Davy Klaassen,D. Klaassen,564.0
+2022,Netherlands,Marten de Roon,M. de Roon,237.0
+2022,Netherlands,Tyrell Malacia,T. Malacia,1093.0
+2022,Netherlands,Daley Blind,D. Blind,214.0
+2022,Netherlands,Vincent Janssen,V. Janssen,1796.0
+2022,Netherlands,Wout Weghorst,W. Weghorst,183.0
+2022,Netherlands,Teun Koopmeiners,T. Koopmeiners,652.0
+2022,Netherlands,Frenkie de Jong,F. de Jong,43.0
+2022,Netherlands,Denzel Dumfries,D. Dumfries,270.0
+2022,Netherlands,Andries Noppert,A. Noppert,12467.0
+2022,Netherlands,Kenneth Taylor,K. Taylor,7381.0
+2022,Netherlands,Xavi Simons,X. Simons,9514.0
+2022,Netherlands,Jeremie Frimpong,J. Frimpong,3074.0
+2022,Qatar,Saad Al-Sheeb,S. Al Sheeb,
+2022,Qatar,Pedro Miguel,P. Miguel,
+2022,Qatar,Abdelkarim Hassan,A. Hassan,2658.0
+2022,Qatar,Mohammed Waad,M. Waad,
+2022,Qatar,Tarek Salman,T. Salman,
+2022,Qatar,Abdulaziz Hatem,A. Hatem,
+2022,Qatar,Ahmed Alaaeldin,A. Alaaeldin,
+2022,Qatar,Ali Assadalla,A. Assadalla,
+2022,Qatar,Mohammed Muntari,M. Muntari,
+2022,Qatar,Hassan Al-Haydos ,H. Al Haydos,
+2022,Qatar,Akram Afif,A. Afif,
+2022,Qatar,Karim Boudiaf,K. Boudiaf,
+2022,Qatar,Musab Kheder,M. Kheder,
+2022,Qatar,Homam Ahmed,H. Ahmed,
+2022,Qatar,Bassam Al-Rawi,B. Al Rawi,
+2022,Qatar,Boualem Khoukhi,B. Khoukhi,
+2022,Qatar,Ismaeel Mohammad,I. Mohammad,
+2022,Qatar,Khalid Muneer,K. Muneer,
+2022,Qatar,Almoez Ali,A. Ali,
+2022,Qatar,Salem Al-Hajri,S. Al Hajri,
+2022,Qatar,Yousef Hassan,Y. Hassan,
+2022,Qatar,Meshaal Barsham,M. Barsham,
+2022,Qatar,Assim Madibo,A. Madibo,
+2022,Qatar,Naif Al-Hadhrami,N. Al Hadhrami,
+2022,Qatar,Jassem Gaber,J. Gaber,
+2022,Qatar,Mostafa Meshaal,M. Meshaal,
+2022,Senegal,Seny Dieng,S. Dieng,3707.0
+2022,Senegal,Formose Mendy,F. Mendy,187.0
+2022,Senegal,Kalidou Koulibaly ,K. Koulibaly,56.0
+2022,Senegal,Pape Abou Cissé,P. Abou Cisse,
+2022,Senegal,Idrissa Gueye,I. Gueye,219.0
+2022,Senegal,Nampalys Mendy,N. Mendy,1586.0
+2022,Senegal,Nicolas Jackson,N. Jackson,
+2022,Senegal,Cheikhou Kouyaté,C. Kouyate,693.0
+2022,Senegal,Boulaye Dia,B. Dia,1125.0
+2022,Senegal,Moussa N'Diaye,M. N Diaye,8655.0
+2022,Senegal,Pathé Ciss,P. Ciss,5380.0
+2022,Senegal,Fodé Ballo-Touré,F. Ballo Toure,3684.0
+2022,Senegal,Iliman Ndiaye,I. Ndiaye,4555.0
+2022,Senegal,Ismail Jakobs,I. Jakobs,4554.0
+2022,Senegal,Krépin Diatta,K. Diatta,1417.0
+2022,Senegal,Édouard Mendy,E. Mendy,194.0
+2022,Senegal,Pape Matar Sarr,P. Matar Sarr,
+2022,Senegal,Ismaïla Sarr,I. Sarr,828.0
+2022,Senegal,Famara Diédhiou,F. Diedhiou,5878.0
+2022,Senegal,Bamba Dieng,B. Dieng,
+2022,Senegal,Youssouf Sabaly,Y. Sabaly,1307.0
+2022,Senegal,Abdou Diallo,A. Diallo,794.0
+2022,Senegal,Alfred Gomis,A. Gomis,1223.0
+2022,Senegal,Moustapha Name,M. Name,6351.0
+2022,Senegal,Mamadou Loum,M. Loum,4514.0
+2022,Senegal,Pape Gueye,P. Gueye,1428.0
+2022,England,Jordan Pickford,J. Pickford,169.0
+2022,England,Kyle Walker,K. Walker,80.0
+2022,England,Luke Shaw,L. Shaw,117.0
+2022,England,Declan Rice,D. Rice,273.0
+2022,England,John Stones,J. Stones,166.0
+2022,England,Harry Maguire,H. Maguire,114.0
+2022,England,Jack Grealish,J. Grealish,118.0
+2022,England,Jordan Henderson,J. Henderson,102.0
+2022,England,Harry Kane ,H. Kane,9.0
+2022,England,Raheem Sterling,R. Sterling,27.0
+2022,England,Marcus Rashford,M. Rashford,94.0
+2022,England,Kieran Trippier,K. Trippier,104.0
+2022,England,Nick Pope,N. Pope,167.0
+2022,England,Kalvin Phillips,K. Phillips,357.0
+2022,England,Eric Dier,E. Dier,557.0
+2022,England,Conor Coady,C. Coady,556.0
+2022,England,Bukayo Saka,B. Saka,508.0
+2022,England,Trent Alexander-Arnold,T. Alexander Arnold,44.0
+2022,England,Mason Mount,M. Mount,193.0
+2022,England,Phil Foden,P. Foden,139.0
+2022,England,Ben White,B. White,1385.0
+2022,England,Jude Bellingham,J. Bellingham,661.0
+2022,England,Aaron Ramsdale,A. Ramsdale,2307.0
+2022,England,Callum Wilson,C. Wilson,546.0
+2022,England,James Maddison,J. Maddison,252.0
+2022,England,Conor Gallagher,C. Gallagher,2352.0
+2022,Iran,Alireza Beiranvand,A. Beiranvand,5260.0
+2022,Iran,Sadegh Moharrami,S. Moharrami,4500.0
+2022,Iran,Ehsan Hajsafi ,E. Hajsafi,
+2022,Iran,Shojae Khalilzadeh,S. Khalilzadeh,
+2022,Iran,Milad Mohammadi,M. Mohammadi,
+2022,Iran,Saeid Ezatolahi,S. Ezatolahi,8098.0
+2022,Iran,Alireza Jahanbakhsh,A. Jahanbakhsh,2731.0
+2022,Iran,Morteza Pouraliganji,M. Pouraliganji,5932.0
+2022,Iran,Mehdi Taremi,M. Taremi,654.0
+2022,Iran,Karim Ansarifard,K. Ansarifard,2051.0
+2022,Iran,Vahid Amiri,V. Amiri,
+2022,Iran,Payam Niazmand,P. Niazmand,
+2022,Iran,Hossein Kanaanizadegan,H. Kanaanizadegan,
+2022,Iran,Saman Ghoddos,S. Ghoddos,5108.0
+2022,Iran,Rouzbeh Cheshmi,R. Cheshmi,
+2022,Iran,Mehdi Torabi,M. Torabi,
+2022,Iran,Ali Gholizadeh,A. Gholizadeh,2383.0
+2022,Iran,Ali Karimi,A. Karimi,11703.0
+2022,Iran,Majid Hosseini,M. Hosseini,8327.0
+2022,Iran,Sardar Azmoun,S. Azmoun,
+2022,Iran,Ahmad Nourollahi,A. Nourollahi,
+2022,Iran,Amir Abedzadeh,A. Abedzadeh,2973.0
+2022,Iran,Ramin Rezaeian,R. Rezaeian,
+2022,Iran,Hossein Hosseini,H. Hosseini,
+2022,Iran,Abolfazl Jalali,A. Jalali,
+2022,United States,Matt Turner,M. Turner,1862.0
+2022,United States,Sergiño Dest,S. Dest,1458.0
+2022,United States,Walker Zimmerman,W. Zimmerman,2137.0
+2022,United States,Tyler Adams ,T. Adams,1066.0
+2022,United States,Antonee Robinson,A. Robinson,2850.0
+2022,United States,Yunus Musah,Y. Musah,4560.0
+2022,United States,Giovanni Reyna,G. Reyna,1122.0
+2022,United States,Weston McKennie,W. McKennie,1095.0
+2022,United States,Jesús Ferreira,J. Ferreira,5254.0
+2022,United States,Christian Pulisic,C. Pulisic,259.0
+2022,United States,Brenden Aaronson,B. Aaronson,5365.0
+2022,United States,Ethan Horvath,E. Horvath,4162.0
+2022,United States,Tim Ream,T. Ream,5602.0
+2022,United States,Luca de la Torre,L. de la Torre,6954.0
+2022,United States,Aaron Long,A. Long,1754.0
+2022,United States,Jordan Morris,J. Morris,2219.0
+2022,United States,Cristian Roldan,C. Roldan,1799.0
+2022,United States,Shaq Moore,S. Moore,3623.0
+2022,United States,Haji Wright,H. Wright,9364.0
+2022,United States,Cameron Carter-Vickers,C. Carter Vickers,5934.0
+2022,United States,Timothy Weah,T. Weah,2372.0
+2022,United States,DeAndre Yedlin,D. Yedlin,2686.0
+2022,United States,Kellyn Acosta,K. Acosta,4110.0
+2022,United States,Josh Sargent,J. Sargent,4468.0
+2022,United States,Sean Johnson,S. Johnson,2521.0
+2022,United States,Joe Scally,J. Scally,13844.0
+2022,Wales,Wayne Hennessey,W. Hennessey,1978.0
+2022,Wales,Chris Gunter,C. Gunter,579.0
+2022,Wales,Neco Williams,N. Williams,7212.0
+2022,Wales,Ben Davies,B. Davies,570.0
+2022,Wales,Chris Mepham,C. Mepham,3639.0
+2022,Wales,Joe Rodon,J. Rodon,3550.0
+2022,Wales,Joe Allen,J. Allen,4652.0
+2022,Wales,Harry Wilson,H. Wilson,1736.0
+2022,Wales,Brennan Johnson,B. Johnson,
+2022,Wales,Aaron Ramsey,A. Ramsey,407.0
+2022,Wales,Gareth Bale ,G. Bale,204.0
+2022,Wales,Danny Ward,D. Ward,2111.0
+2022,Wales,Kieffer Moore,K. Moore,2163.0
+2022,Wales,Connor Roberts,C. Roberts,1777.0
+2022,Wales,Ethan Ampadu,E. Ampadu,7066.0
+2022,Wales,Joe Morrell,J. Morrell,9033.0
+2022,Wales,Tom Lockyer,T. Lockyer,5740.0
+2022,Wales,Jonny Williams,J. Williams,4990.0
+2022,Wales,Mark Harris,M. Harris,13740.0
+2022,Wales,Daniel James,D. James,1060.0
+2022,Wales,Adam Davies,A. Davies,274.0
+2022,Wales,Sorba Thomas,S. Thomas,8628.0
+2022,Wales,Dylan Levitt,D. Levitt,12840.0
+2022,Wales,Ben Cabango,B. Cabango,3778.0
+2022,Wales,Rubin Colwill,R. Colwill,16262.0
+2022,Wales,Matthew Smith,M. Smith,
+2022,Argentina,Franco Armani,F. Armani,453.0
+2022,Argentina,Juan Foyth,J. Foyth,1891.0
+2022,Argentina,Nicolás Tagliafico,N. Tagliafico,242.0
+2022,Argentina,Gonzalo Montiel,G. Montiel,818.0
+2022,Argentina,Leandro Paredes,L. Paredes,331.0
+2022,Argentina,Germán Pezzella,G. Pezzella,907.0
+2022,Argentina,Rodrigo De Paul,R. De Paul,247.0
+2022,Argentina,Marcos Acuña,M. Acuna,134.0
+2022,Argentina,Julián Alvarez,J. Alvarez,1940.0
+2022,Argentina,Lionel Messi ,L. Messi,0.0
+2022,Argentina,Ángel Di María,A. Di Maria,33.0
+2022,Argentina,Gerónimo Rulli,G. Rulli,455.0
+2022,Argentina,Cristian Romero,C. Romero,269.0
+2022,Argentina,Exequiel Palacios,E. Palacios,1056.0
+2022,Argentina,Ángel Correa,A. Correa,177.0
+2022,Argentina,Thiago Almada,T. Almada,2397.0
+2022,Argentina,Papu Gómez,P. Gomez,16110.0
+2022,Argentina,Guido Rodríguez,G. Rodriguez,793.0
+2022,Argentina,Nicolás Otamendi,N. Otamendi,302.0
+2022,Argentina,Alexis Mac Allister,A. Mac Allister,1908.0
+2022,Argentina,Paulo Dybala,P. Dybala,41.0
+2022,Argentina,Lautaro Martínez,L. Martinez,93.0
+2022,Argentina,Emiliano Martínez,E. Martinez,113.0
+2022,Argentina,Enzo Fernández,E. Fernandez,3051.0
+2022,Argentina,Lisandro Martínez,L. Martinez,93.0
+2022,Argentina,Nahuel Molina,N. Molina,2913.0
+2022,Mexico,Alfredo Talavera,A. Talavera,666.0
+2022,Mexico,Néstor Araujo,N. Araujo,1190.0
+2022,Mexico,César Montes,C. Montes,1817.0
+2022,Mexico,Edson Álvarez,E. Alvarez,1079.0
+2022,Mexico,Johan Vásquez,J. Vasquez,4504.0
+2022,Mexico,Gerardo Arteaga,G. Arteaga,2960.0
+2022,Mexico,Luis Romo,L. Romo,1112.0
+2022,Mexico,Carlos Rodríguez,C. Rodriguez,1875.0
+2022,Mexico,Raúl Jiménez,R. Jimenez,168.0
+2022,Mexico,Alexis Vega,A. Vega,2915.0
+2022,Mexico,Rogelio Funes Mori,R. Funes Mori,921.0
+2022,Mexico,Rodolfo Cota,R. Cota,1173.0
+2022,Mexico,Guillermo Ochoa,G. Ochoa,389.0
+2022,Mexico,Érick Gutiérrez,E. Gutierrez,2762.0
+2022,Mexico,Héctor Moreno,H. Moreno,874.0
+2022,Mexico,Héctor Herrera,H. Herrera,288.0
+2022,Mexico,Orbelín Pineda,O. Pineda,1014.0
+2022,Mexico,Andrés Guardado ,A. Guardado,672.0
+2022,Mexico,Jorge Sánchez,J. Sanchez,1389.0
+2022,Mexico,Henry Martín,H. Martin,1334.0
+2022,Mexico,Uriel Antuna,U. Antuna,2349.0
+2022,Mexico,Hirving Lozano,H. Lozano,355.0
+2022,Mexico,Jesús Gallardo,J. Gallardo,1789.0
+2022,Mexico,Luis Chávez,L. Chavez,5864.0
+2022,Mexico,Roberto Alvarado,R. Alvarado,1411.0
+2022,Mexico,Kevin Álvarez,K. Alvarez,7339.0
+2022,Poland,Wojciech Szczęsny,W. Szczesny,34.0
+2022,Poland,Matty Cash,M. Cash,799.0
+2022,Poland,Artur Jędrzejczyk,A. Jedrzejczyk,4633.0
+2022,Poland,Mateusz Wieteska,M. Wieteska,6882.0
+2022,Poland,Jan Bednarek,J. Bednarek,1318.0
+2022,Poland,Krystian Bielik,K. Bielik,3499.0
+2022,Poland,Arkadiusz Milik,A. Milik,326.0
+2022,Poland,Damian Szymański,D. Szymanski,4979.0
+2022,Poland,Robert Lewandowski ,R. Lewandowski,1.0
+2022,Poland,Grzegorz Krychowiak,G. Krychowiak,416.0
+2022,Poland,Kamil Grosicki,K. Grosicki,3867.0
+2022,Poland,Łukasz Skorupski,Ł. Skorupski,1547.0
+2022,Poland,Jakub Kamiński,J. Kaminski,7334.0
+2022,Poland,Jakub Kiwior,J. Kiwior,
+2022,Poland,Kamil Glik,K. Glik,2515.0
+2022,Poland,Karol Świderski,K. Swiderski,2792.0
+2022,Poland,Szymon Żurkowski,S. Zurkowski,5228.0
+2022,Poland,Bartosz Bereszyński,B. Bereszynski,2573.0
+2022,Poland,Sebastian Szymański,S. Szymanski,4390.0
+2022,Poland,Piotr Zieliński,P. Zielinski,339.0
+2022,Poland,Nicola Zalewski,N. Zalewski,13273.0
+2022,Poland,Kamil Grabara,K. Grabara,5040.0
+2022,Poland,Krzysztof Piątek,K. Piatek,1328.0
+2022,Poland,Przemysław Frankowski,P. Frankowski,4098.0
+2022,Poland,Robert Gumny,R. Gumny,4355.0
+2022,Poland,Michał Skóraś,M. Skoras,10780.0
+2022,Saudi Arabia,Mohammed Al-Rubaie,M. Al Rubaie,14710.0
+2022,Saudi Arabia,Sultan Al-Ghannam,S. Al Ghannam,3627.0
+2022,Saudi Arabia,Abdullah Madu,A. Madu,7812.0
+2022,Saudi Arabia,Abdulelah Al-Amri,A. Al Amri,3728.0
+2022,Saudi Arabia,Ali Al-Bulaihi,A. Al Bulaihi,
+2022,Saudi Arabia,Mohammed Al-Breik,M. Al Breik,
+2022,Saudi Arabia,Salman Al-Faraj ,S. Al Faraj,2530.0
+2022,Saudi Arabia,Abdulellah Al-Malki,A. Al Malki,5977.0
+2022,Saudi Arabia,Firas Al-Buraikan,F. Al Buraikan,
+2022,Saudi Arabia,Salem Al-Dawsari,S. Al Dawsari,1274.0
+2022,Saudi Arabia,Saleh Al-Shehri,S. Al Shehri,6693.0
+2022,Saudi Arabia,Saud Abdulhamid,S. Abdulhamid,6264.0
+2022,Saudi Arabia,Yasser Al-Shahrani,Y. Al Shahrani,1658.0
+2022,Saudi Arabia,Abdullah Otayf,A. Otayf,
+2022,Saudi Arabia,Ali Al-Hassan,A. Al Hassan,8310.0
+2022,Saudi Arabia,Sami Al-Najei,S. Al Najei,
+2022,Saudi Arabia,Hassan Al-Tambakti,H. Al Tambakti,
+2022,Saudi Arabia,Nawaf Al-Abed,N. Al Abed,7734.0
+2022,Saudi Arabia,Hattan Bahebri,H. Bahebri,8920.0
+2022,Saudi Arabia,Abdulrahman Al-Aboud,A. Al Aboud,
+2022,Saudi Arabia,Mohammed Al-Owais,M. Al Owais,4841.0
+2022,Saudi Arabia,Nawaf Al-Aqidi,N. Al Aqidi,18712.0
+2022,Saudi Arabia,Mohamed Kanno,M. Kanno,4945.0
+2022,Saudi Arabia,Nasser Al-Dawsari,N. Al Dawsari,10574.0
+2022,Saudi Arabia,Haitham Asiri,H. Asiri,17962.0
+2022,Saudi Arabia,Riyadh Sharahili,R. Sharahili,12583.0
+2022,Australia,Mathew Ryan ,M. Ryan,922.0
+2022,Australia,Miloš Degenek,M. Degenek,2854.0
+2022,Australia,Nathaniel Atkinson,N. Atkinson,7187.0
+2022,Australia,Kye Rowles,K. Rowles,12649.0
+2022,Australia,Fran Karačić,F. Karacic,7218.0
+2022,Australia,Marco Tilio,M. Tilio,12895.0
+2022,Australia,Mathew Leckie,M. Leckie,3945.0
+2022,Australia,Bailey Wright,B. Wright,6555.0
+2022,Australia,Jamie Maclaren,J. Maclaren,1284.0
+2022,Australia,Ajdin Hrustic,A. Hrustic,5204.0
+2022,Australia,Awer Mabil,A. Mabil,5756.0
+2022,Australia,Andrew Redmayne,A. Redmayne,7537.0
+2022,Australia,Aaron Mooy,A. Mooy,912.0
+2022,Australia,Riley McGree,R. McGree,5132.0
+2022,Australia,Mitchell Duke,M. Duke,7744.0
+2022,Australia,Aziz Behich,A. Behich,5641.0
+2022,Australia,Cameron Devlin,C. Devlin,5330.0
+2022,Australia,Danny Vukovic,D. Vukovic,1988.0
+2022,Australia,Harry Souttar,H. Souttar,4282.0
+2022,Australia,Thomas Deng,T. Deng,9145.0
+2022,Australia,Garang Kuol,G. Kuol,
+2022,Australia,Jackson Irvine,J. Irvine,6698.0
+2022,Australia,Craig Goodwin,C. Goodwin,2656.0
+2022,Australia,Joel King,J. King,1526.0
+2022,Australia,Jason Cummings,J. Cummings,10144.0
+2022,Australia,Keanu Baccus,K. Baccus,6100.0
+2022,Denmark,Kasper Schmeichel,K. Schmeichel,70.0
+2022,Denmark,Joachim Andersen,J. Andersen,1010.0
+2022,Denmark,Victor Nelsson,V. Nelsson,2945.0
+2022,Denmark,Simon Kjær ,S. Kjær,144.0
+2022,Denmark,Joakim Mæhle,J. Mæhle,1072.0
+2022,Denmark,Andreas Christensen,A. Christensen,452.0
+2022,Denmark,Mathias Jensen,M. Jensen,2238.0
+2022,Denmark,Thomas Delaney,T. Delaney,303.0
+2022,Denmark,Martin Braithwaite,M. Braithwaite,906.0
+2022,Denmark,Christian Eriksen,C. Eriksen,213.0
+2022,Denmark,Andreas Skov Olsen,A. Skov Olsen,
+2022,Denmark,Kasper Dolberg,K. Dolberg,624.0
+2022,Denmark,Rasmus Kristensen,R. Kristensen,1863.0
+2022,Denmark,Mikkel Damsgaard,M. Damsgaard,1108.0
+2022,Denmark,Christian Nørgaard,C. Nørgaard,2666.0
+2022,Denmark,Oliver Christensen,O. Christensen,5188.0
+2022,Denmark,Jens Stryger Larsen,J. Stryger Larsen,
+2022,Denmark,Daniel Wass,D. Wass,395.0
+2022,Denmark,Jonas Wind,J. Wind,3732.0
+2022,Denmark,Yussuf Poulsen,Y. Poulsen,952.0
+2022,Denmark,Andreas Cornelius,A. Cornelius,2592.0
+2022,Denmark,Frederik Rønnow,F. Rønnow,2072.0
+2022,Denmark,Pierre-Emile Højbjerg,P. Emile Højbjerg,
+2022,Denmark,Robert Skov,R. Skov,1707.0
+2022,Denmark,Jesper Lindstrøm,J. Lindstrøm,4521.0
+2022,Denmark,Alexander Bah,A. Bah,1935.0
+2022,France,Hugo Lloris ,H. Lloris,31.0
+2022,France,Benjamin Pavard,B. Pavard,621.0
+2022,France,Axel Disasi,A. Disasi,1034.0
+2022,France,Raphaël Varane,R. Varane,57.0
+2022,France,Jules Koundé,J. Kounde,197.0
+2022,France,Mattéo Guendouzi,M. Guendouzi,1085.0
+2022,France,Antoine Griezmann,A. Griezmann,83.0
+2022,France,Aurélien Tchouaméni,A. Tchouameni,653.0
+2022,France,Olivier Giroud,O. Giroud,520.0
+2022,France,Kylian Mbappé,K. Mbappe,6.0
+2022,France,Ousmane Dembélé,O. Dembele,192.0
+2022,France,Randal Kolo Muani,R. Kolo Muani,2347.0
+2022,France,Youssouf Fofana,Y. Fofana,853.0
+2022,France,Adrien Rabiot,A. Rabiot,337.0
+2022,France,Jordan Veretout,J. Veretout,229.0
+2022,France,Steve Mandanda,S. Mandanda,290.0
+2022,France,William Saliba,W. Saliba,1931.0
+2022,France,Dayot Upamecano,D. Upamecano,261.0
+2022,France,Karim Benzema,K. Benzema,11.0
+2022,France,Kingsley Coman,K. Coman,64.0
+2022,France,Lucas Hernandez,L. Hernandez,181.0
+2022,France,Théo Hernandez,T. Hernandez,137.0
+2022,France,Alphonse Areola,A. Areola,216.0
+2022,France,Ibrahima Konaté,I. Konate,832.0
+2022,France,Eduardo Camavinga,E. Camavinga,859.0
+2022,France,Marcus Thuram,M. Thuram,622.0
+2022,Tunisia,Aymen Mathlouthi,A. Mathlouthi,
+2022,Tunisia,Bilel Ifa,B. Ifa,
+2022,Tunisia,Montassar Talbi,M. Talbi,
+2022,Tunisia,Yassine Meriah,Y. Meriah,6174.0
+2022,Tunisia,Nader Ghandri,N. Ghandri,
+2022,Tunisia,Dylan Bronn,D. Bronn,1877.0
+2022,Tunisia,Youssef Msakni ,Y. Msakni,
+2022,Tunisia,Hannibal Mejbri,H. Mejbri,14144.0
+2022,Tunisia,Issam Jebali,I. Jebali,9286.0
+2022,Tunisia,Wahbi Khazri,W. Khazri,1199.0
+2022,Tunisia,Taha Yassine Khenissi,T. Yassine Khenissi,
+2022,Tunisia,Ali Maâloul,A. Maaloul,
+2022,Tunisia,Ferjani Sassi,F. Sassi,
+2022,Tunisia,Aïssa Laïdouni,A. Laidouni,5138.0
+2022,Tunisia,Mohamed Ali Ben Romdhane,M. Ali Ben Romdhane,
+2022,Tunisia,Aymen Dahmen,A. Dahmen,
+2022,Tunisia,Ellyes Skhiri,E. Skhiri,1017.0
+2022,Tunisia,Ghailene Chaalali,G. Chaalali,
+2022,Tunisia,Seifeddine Jaziri,S. Jaziri,
+2022,Tunisia,Mohamed Dräger,M. Drager,6182.0
+2022,Tunisia,Wajdi Kechrida,W. Kechrida,12228.0
+2022,Tunisia,Bechir Ben Saïd,B. Ben Said,
+2022,Tunisia,Naïm Sliti,N. Sliti,1627.0
+2022,Tunisia,Ali Abdi,A. Abdi,5400.0
+2022,Tunisia,Anis Ben Slimane,A. Ben Slimane,
+2022,Tunisia,Mouez Hassen,M. Hassen,
+2022,Costa Rica,Keylor Navas,K. Navas,26.0
+2022,Costa Rica,Daniel Chacón,D. Chacon,
+2022,Costa Rica,Juan Pablo Vargas,J. Pablo Vargas,
+2022,Costa Rica,Keysher Fuller,K. Fuller,
+2022,Costa Rica,Celso Borges,C. Borges,
+2022,Costa Rica,Óscar Duarte,O. Duarte,2687.0
+2022,Costa Rica,Anthony Contreras,A. Contreras,
+2022,Costa Rica,Bryan Oviedo,B. Oviedo,9922.0
+2022,Costa Rica,Jewison Bennette,J. Bennette,
+2022,Costa Rica,Bryan Ruiz ,B. Ruiz,16856.0
+2022,Costa Rica,Johan Venegas,J. Venegas,
+2022,Costa Rica,Joel Campbell,J. Campbell,1623.0
+2022,Costa Rica,Gerson Torres,G. Torres,4628.0
+2022,Costa Rica,Youstin Salas,Y. Salas,
+2022,Costa Rica,Francisco Calvo,F. Calvo,4869.0
+2022,Costa Rica,Carlos Martínez,C. Martinez,5946.0
+2022,Costa Rica,Yeltsin Tejeda,Y. Tejeda,
+2022,Costa Rica,Esteban Alvarado,E. Alvarado,
+2022,Costa Rica,Kendall Waston,K. Waston,
+2022,Costa Rica,Brandon Aguilera,B. Aguilera,
+2022,Costa Rica,Douglas López,D. Lopez,
+2022,Costa Rica,Rónald Matarrita,R. Matarrita,4331.0
+2022,Costa Rica,Patrick Sequeira,P. Sequeira,
+2022,Costa Rica,Roan Wilson,R. Wilson,
+2022,Costa Rica,Anthony Hernández,A. Hernandez,14064.0
+2022,Costa Rica,Álvaro Zamora,A. Zamora,
+2022,Germany,Manuel Neuer ,M. Neuer,7.0
+2022,Germany,Antonio Rüdiger,A. Rudiger,170.0
+2022,Germany,David Raum,D. Raum,2964.0
+2022,Germany,Matthias Ginter,M. Ginter,119.0
+2022,Germany,Thilo Kehrer,T. Kehrer,1346.0
+2022,Germany,Joshua Kimmich,J. Kimmich,19.0
+2022,Germany,Kai Havertz,K. Havertz,138.0
+2022,Germany,Leon Goretzka,L. Goretzka,40.0
+2022,Germany,Niclas Füllkrug,N. Fullkrug,1245.0
+2022,Germany,Serge Gnabry,S. Gnabry,89.0
+2022,Germany,Mario Götze,M. Gotze,215.0
+2022,Germany,Kevin Trapp,K. Trapp,211.0
+2022,Germany,Thomas Müller,T. Muller,35.0
+2022,Germany,Jamal Musiala,J. Musiala,1962.0
+2022,Germany,Niklas Süle,N. Sule,244.0
+2022,Germany,Lukas Klostermann,L. Klostermann,464.0
+2022,Germany,Julian Brandt,J. Brandt,344.0
+2022,Germany,Jonas Hofmann,J. Hofmann,581.0
+2022,Germany,Leroy Sané,L. Sane,132.0
+2022,Germany,Christian Günter,C. Gunter,579.0
+2022,Germany,İlkay Gündoğan,I. Gundogan,78.0
+2022,Germany,Marc-André ter Stegen,M. Andre ter Stegen,
+2022,Germany,Nico Schlotterbeck,N. Schlotterbeck,3055.0
+2022,Germany,Karim Adeyemi,K. Adeyemi,4547.0
+2022,Germany,Armel Bella-Kotchap,A. Bella Kotchap,4527.0
+2022,Germany,Youssoufa Moukoko,Y. Moukoko,
+2022,Japan,Eiji Kawashima,E. Kawashima,2476.0
+2022,Japan,Miki Yamane,M. Yamane,3638.0
+2022,Japan,Shōgo Taniguchi,S. Taniguchi,3640.0
+2022,Japan,Kō Itakura,K. Itakura,2303.0
+2022,Japan,Yūto Nagatomo,Y. Nagatomo,2551.0
+2022,Japan,Wataru Endō,W. Endo,824.0
+2022,Japan,Gaku Shibasaki,G. Shibasaki,5123.0
+2022,Japan,Ritsu Dōan,R. Doan,1388.0
+2022,Japan,Kaoru Mitoma,K. Mitoma,3080.0
+2022,Japan,Takumi Minamino,T. Minamino,1797.0
+2022,Japan,Takefusa Kubo,T. Kubo,1896.0
+2022,Japan,Shūichi Gonda,S. Gonda,4926.0
+2022,Japan,Hidemasa Morita,H. Morita,3015.0
+2022,Japan,Junya Itō,J. Ito,1065.0
+2022,Japan,Daichi Kamada,D. Kamada,634.0
+2022,Japan,Takehiro Tomiyasu,T. Tomiyasu,1860.0
+2022,Japan,Ao Tanaka,A. Tanaka,3685.0
+2022,Japan,Takuma Asano,T. Asano,2910.0
+2022,Japan,Hiroki Sakai,H. Sakai,1649.0
+2022,Japan,Shūto Machino,S. Machino,13899.0
+2022,Japan,Ayase Ueda,A. Ueda,7328.0
+2022,Japan,Maya Yoshida ,M. Yoshida,2531.0
+2022,Japan,Daniel Schmidt,D. Schmidt,6111.0
+2022,Japan,Yūki Sōma,Y. Soma,5341.0
+2022,Japan,Daizen Maeda,D. Maeda,5342.0
+2022,Japan,Hiroki Itō,H. Ito,13690.0
+2022,Spain,Robert Sánchez,R. Sanchez,1361.0
+2022,Spain,César Azpilicueta,C. Azpilicueta,
+2022,Spain,Eric García,E. Garcia,1119.0
+2022,Spain,Pau Torres,P. Torres,281.0
+2022,Spain,Sergio Busquets ,S. Busquets,52.0
+2022,Spain,Marcos Llorente,M. Llorente,66.0
+2022,Spain,Álvaro Morata,A. Morata,
+2022,Spain,Koke,Koke,82.0
+2022,Spain,Gavi,Gavi,9800.0
+2022,Spain,Marco Asensio,M. Asensio,182.0
+2022,Spain,Ferran Torres,F. Torres,280.0
+2022,Spain,Nico Williams,N. Williams,7212.0
+2022,Spain,David Raya,D. Raya,2182.0
+2022,Spain,Alejandro Balde,A. Balde,13263.0
+2022,Spain,Hugo Guillamón,H. Guillamon,3041.0
+2022,Spain,Rodri,Rodri,67.0
+2022,Spain,Yeremy Pino,Y. Pino,3088.0
+2022,Spain,Jordi Alba,J. Alba,50.0
+2022,Spain,Carlos Soler,C. Soler,375.0
+2022,Spain,Dani Carvajal,D. Carvajal,
+2022,Spain,Dani Olmo,D. Olmo,283.0
+2022,Spain,Pablo Sarabia,P. Sarabia,420.0
+2022,Spain,Unai Simón,U. Simon,267.0
+2022,Spain,Aymeric Laporte,A. Laporte,63.0
+2022,Spain,Ansu Fati,A. Fati,1459.0
+2022,Spain,Pedri,Pedri,387.0
+2022,Belgium,Thibaut Courtois,T. Courtois,12.0
+2022,Belgium,Toby Alderweireld,T. Alderweireld,147.0
+2022,Belgium,Arthur Theate,A. Theate,6355.0
+2022,Belgium,Wout Faes,W. Faes,2935.0
+2022,Belgium,Jan Vertonghen,J. Vertonghen,293.0
+2022,Belgium,Axel Witsel,A. Witsel,142.0
+2022,Belgium,Kevin De Bruyne,K. De Bruyne,4.0
+2022,Belgium,Youri Tielemans,Y. Tielemans,129.0
+2022,Belgium,Romelu Lukaku,R. Lukaku,25.0
+2022,Belgium,Eden Hazard ,E. Hazard,75.0
+2022,Belgium,Yannick Carrasco,Y. Carrasco,121.0
+2022,Belgium,Simon Mignolet,S. Mignolet,396.0
+2022,Belgium,Koen Casteels,K. Casteels,54.0
+2022,Belgium,Dries Mertens,D. Mertens,100.0
+2022,Belgium,Thomas Meunier,T. Meunier,936.0
+2022,Belgium,Thorgan Hazard,T. Hazard,231.0
+2022,Belgium,Leandro Trossard,L. Trossard,950.0
+2022,Belgium,Amadou Onana,A. Onana,7410.0
+2022,Belgium,Leander Dendoncker,L. Dendoncker,970.0
+2022,Belgium,Hans Vanaken,H. Vanaken,723.0
+2022,Belgium,Timothy Castagne,T. Castagne,607.0
+2022,Belgium,Charles De Ketelaere,C. De Ketelaere,1948.0
+2022,Belgium,Michy Batshuayi,M. Batshuayi,1236.0
+2022,Belgium,Loïs Openda,L. Openda,4491.0
+2022,Belgium,Jérémy Doku,J. Doku,1126.0
+2022,Belgium,Zeno Debast,Z. Debast,14854.0
+2022,Canada,Dayne St. Clair,D. St. Clair,7290.0
+2022,Canada,Alistair Johnston,A. Johnston,9683.0
+2022,Canada,Sam Adekugbe,S. Adekugbe,6813.0
+2022,Canada,Kamal Miller,K. Miller,7295.0
+2022,Canada,Steven Vitória,S. Vitoria,9893.0
+2022,Canada,Samuel Piette,S. Piette,4108.0
+2022,Canada,Stephen Eustáquio,S. Eustaquio,1433.0
+2022,Canada,Liam Fraser,L. Fraser,10595.0
+2022,Canada,Lucas Cavallini,L. Cavallini,2692.0
+2022,Canada,Junior Hoilett,J. Hoilett,3175.0
+2022,Canada,Tajon Buchanan,T. Buchanan,7277.0
+2022,Canada,Iké Ugbo,I. Ugbo,4346.0
+2022,Canada,Atiba Hutchinson ,A. Hutchinson,1138.0
+2022,Canada,Mark-Anthony Kaye,M. Anthony Kaye,
+2022,Canada,Ismaël Koné,I. Kone,14674.0
+2022,Canada,James Pantemis,J. Pantemis,12743.0
+2022,Canada,Cyle Larin,C. Larin,1798.0
+2022,Canada,Milan Borjan,M. Borjan,1241.0
+2022,Canada,Alphonso Davies,A. Davies,274.0
+2022,Canada,Jonathan David,J. David,848.0
+2022,Canada,Jonathan Osorio,J. Osorio,3379.0
+2022,Canada,Richie Laryea,R. Laryea,4328.0
+2022,Canada,Liam Millar,L. Millar,9426.0
+2022,Canada,David Wotherspoon,D. Wotherspoon,5578.0
+2022,Canada,Derek Cornelius,D. Cornelius,10608.0
+2022,Canada,Joel Waterman,J. Waterman,14089.0
+2022,Croatia,Dominik Livaković,D. Livakovic,282.0
+2022,Croatia,Josip Stanišić,J. Stanisic,11881.0
+2022,Croatia,Borna Barišić,B. Barisic,1916.0
+2022,Croatia,Ivan Perišić,I. Perisic,296.0
+2022,Croatia,Martin Erlić,M. Erlic,4508.0
+2022,Croatia,Dejan Lovren,D. Lovren,
+2022,Croatia,Lovro Majer,L. Majer,1439.0
+2022,Croatia,Mateo Kovačić,M. Kovacic,172.0
+2022,Croatia,Andrej Kramarić,A. Kramaric,179.0
+2022,Croatia,Luka Modrić ,L. Modric,32.0
+2022,Croatia,Marcelo Brozović,M. Brozovic,128.0
+2022,Croatia,Ivo Grbić,I. Grbic,3084.0
+2022,Croatia,Nikola Vlašić,N. Vlasic,504.0
+2022,Croatia,Marko Livaja,M. Livaja,1632.0
+2022,Croatia,Mario Pašalić,M. Pasalic,786.0
+2022,Croatia,Bruno Petković,B. Petkovic,1305.0
+2022,Croatia,Ante Budimir,A. Budimir,696.0
+2022,Croatia,Mislav Oršić,M. Orsic,1000.0
+2022,Croatia,Borna Sosa,B. Sosa,1114.0
+2022,Croatia,Joško Gvardiol,J. Gvardiol,1949.0
+2022,Croatia,Domagoj Vida,D. Vida,718.0
+2022,Croatia,Josip Juranović,J. Juranovic,3812.0
+2022,Croatia,Ivica Ivušić,I. Ivusic,
+2022,Croatia,Josip Šutalo,J. Sutalo,8560.0
+2022,Croatia,Luka Sučić,L. Sucic,6371.0
+2022,Croatia,Kristijan Jakić,K. Jakic,3083.0
+2022,Morocco,Yassine Bounou,Y. Bounou,238.0
+2022,Morocco,Achraf Hakimi,A. Hakimi,95.0
+2022,Morocco,Noussair Mazraoui,N. Mazraoui,494.0
+2022,Morocco,Sofyan Amrabat,S. Amrabat,1335.0
+2022,Morocco,Nayef Aguerd,N. Aguerd,1445.0
+2022,Morocco,Romain Saïss ,R. Saiss,742.0
+2022,Morocco,Hakim Ziyech,H. Ziyech,123.0
+2022,Morocco,Azzedine Ounahi,A. Ounahi,15582.0
+2022,Morocco,Abderrazak Hamdallah,A. Hamdallah,975.0
+2022,Morocco,Anass Zaroury,A. Zaroury,7446.0
+2022,Morocco,Abdelhamid Sabiri,A. Sabiri,
+2022,Morocco,Munir Mohamedi,M. Mohamedi,
+2022,Morocco,Ilias Chair,I. Chair,4421.0
+2022,Morocco,Zakaria Aboukhlal,Z. Aboukhlal,6283.0
+2022,Morocco,Selim Amallah,S. Amallah,2845.0
+2022,Morocco,Abde Ezzalzouli,A. Ezzalzouli,
+2022,Morocco,Sofiane Boufal,S. Boufal,2130.0
+2022,Morocco,Jawad El Yamiq,J. El Yamiq,3007.0
+2022,Morocco,Youssef En-Nesyri,Y. En Nesyri,276.0
+2022,Morocco,Achraf Dari,A. Dari,
+2022,Morocco,Walid Cheddira,W. Cheddira,
+2022,Morocco,Ahmed Reda Tagnaouti,A. Reda Tagnaouti,
+2022,Morocco,Bilal El Khannous,B. El Khannous,
+2022,Morocco,Badr Benoun,B. Benoun,
+2022,Morocco,Yahia Attiyat Allah,Y. Attiyat Allah,
+2022,Morocco,Yahya Jabrane,Y. Jabrane,
+2022,Brazil,Alisson,Alisson,20.0
+2022,Brazil,Danilo,Danilo,311.0
+2022,Brazil,Thiago Silva ,T. Silva,71.0
+2022,Brazil,Marquinhos,Marquinhos,39.0
+2022,Brazil,Casemiro,Casemiro,14.0
+2022,Brazil,Alex Sandro,A. Sandro,153.0
+2022,Brazil,Lucas Paquetá,L. Paqueta,374.0
+2022,Brazil,Fred,Fred,336.0
+2022,Brazil,Richarlison,Richarlison,268.0
+2022,Brazil,Neymar,Neymar,
+2022,Brazil,Raphinha,Raphinha,271.0
+2022,Brazil,Weverton,Weverton,
+2022,Brazil,Dani Alves,D. Alves,
+2022,Brazil,Éder Militão,E. Militao,279.0
+2022,Brazil,Fabinho,Fabinho,61.0
+2022,Brazil,Alex Telles,A. Telles,245.0
+2022,Brazil,Bruno Guimarães,B. Guimaraes,659.0
+2022,Brazil,Gabriel Jesus,G. Jesus,191.0
+2022,Brazil,Antony,Antony,662.0
+2022,Brazil,Vinícius Júnior,V. Junior,
+2022,Brazil,Rodrygo,Rodrygo,656.0
+2022,Brazil,Éverton Ribeiro,E. Ribeiro,
+2022,Brazil,Ederson,Ederson,18.0
+2022,Brazil,Bremer,Bremer,1418.0
+2022,Brazil,Pedro,Pedro,700.0
+2022,Brazil,Gabriel Martinelli,G. Martinelli,1457.0
+2022,Cameroon,Simon Ngapandouetnbu,S. Ngapandouetnbu,8540.0
+2022,Cameroon,Jerome Ngom Mbekeli,J. Ngom Mbekeli,
+2022,Cameroon,Nicolas Nkoulou,N. Nkoulou,
+2022,Cameroon,Christopher Wooh,C. Wooh,10991.0
+2022,Cameroon,Gaël Ondoua,G. Ondoua,5314.0
+2022,Cameroon,Moumi Ngamaleu,M. Ngamaleu,
+2022,Cameroon,Georges-Kévin Nkoudou,G. Kevin Nkoudou,
+2022,Cameroon,André-Frank Zambo Anguissa,A. Frank Zambo Anguissa,
+2022,Cameroon,Jean-Pierre Nsame,J. Pierre Nsame,
+2022,Cameroon,Vincent Aboubakar ,V. Aboubakar,923.0
+2022,Cameroon,Christian Bassogog,C. Bassogog,3613.0
+2022,Cameroon,Karl Toko Ekambi,K. Toko Ekambi,788.0
+2022,Cameroon,Eric Maxim Choupo-Moting,E. Maxim Choupo Moting,
+2022,Cameroon,Samuel Gouet,S. Gouet,
+2022,Cameroon,Pierre Kunde,P. Kunde,
+2022,Cameroon,Devis Epassy,D. Epassy,
+2022,Cameroon,Olivier Mbaizo,O. Mbaizo,7214.0
+2022,Cameroon,Martin Hongla,M. Hongla,2961.0
+2022,Cameroon,Collins Fai,C. Fai,5111.0
+2022,Cameroon,Bryan Mbeumo,B. Mbeumo,2381.0
+2022,Cameroon,Jean-Charles Castelletto,J. Charles Castelletto,
+2022,Cameroon,Olivier Ntcham,O. Ntcham,4154.0
+2022,Cameroon,André Onana,A. Onana,7410.0
+2022,Cameroon,Enzo Ebosse,E. Ebosse,10554.0
+2022,Cameroon,Nouhou Tolo,N. Tolo,
+2022,Cameroon,Souaibou Marou,S. Marou,
+2022,Serbia,Marko Dmitrović,M. Dmitrovic,476.0
+2022,Serbia,Strahinja Pavlović,S. Pavlovic,6336.0
+2022,Serbia,Strahinja Eraković,S. Erakovic,
+2022,Serbia,Nikola Milenković,N. Milenkovic,1416.0
+2022,Serbia,Miloš Veljković,M. Veljkovic,2765.0
+2022,Serbia,Nemanja Maksimović,N. Maksimovic,650.0
+2022,Serbia,Nemanja Radonjić,N. Radonjic,1930.0
+2022,Serbia,Nemanja Gudelj,N. Gudelj,542.0
+2022,Serbia,Aleksandar Mitrović,A. Mitrovic,1709.0
+2022,Serbia,Dušan Tadić ,D. Tadic,109.0
+2022,Serbia,Luka Jović,L. Jovic,631.0
+2022,Serbia,Predrag Rajković,P. Rajkovic,843.0
+2022,Serbia,Stefan Mitrović,S. Mitrovic,2653.0
+2022,Serbia,Andrija Živković,A. Zivkovic,1320.0
+2022,Serbia,Srđan Babić,S. Babic,5164.0
+2022,Serbia,Saša Lukić,S. Lukic,1885.0
+2022,Serbia,Filip Kostić,F. Kostic,122.0
+2022,Serbia,Dušan Vlahović,D. Vlahovic,856.0
+2022,Serbia,Uroš Račić,U. Racic,850.0
+2022,Serbia,Sergej Milinković-Savić,S. Milinkovic Savic,90.0
+2022,Serbia,Filip Đuričić,F. Đuricic,1197.0
+2022,Serbia,Darko Lazović,D. Lazovic,1280.0
+2022,Serbia,Vanja Milinković-Savić,V. Milinkovic Savic,4997.0
+2022,Serbia,Ivan Ilić,I. Ilic,3818.0
+2022,Serbia,Filip Mladenović,F. Mladenovic,2771.0
+2022,Serbia,Marko Grujić,M. Grujic,1856.0
+2022,Switzerland,Yann Sommer,Y. Sommer,73.0
+2022,Switzerland,Edimilson Fernandes,E. Fernandes,4137.0
+2022,Switzerland,Silvan Widmer,S. Widmer,1711.0
+2022,Switzerland,Nico Elvedi,N. Elvedi,605.0
+2022,Switzerland,Manuel Akanji,M. Akanji,479.0
+2022,Switzerland,Denis Zakaria,D. Zakaria,480.0
+2022,Switzerland,Breel Embolo,B. Embolo,1001.0
+2022,Switzerland,Remo Freuler,R. Freuler,428.0
+2022,Switzerland,Haris Seferovic,H. Seferovic,710.0
+2022,Switzerland,Granit Xhaka ,G. Xhaka,552.0
+2022,Switzerland,Renato Steffen,R. Steffen,749.0
+2022,Switzerland,Jonas Omlin,J. Omlin,1007.0
+2022,Switzerland,Ricardo Rodriguez,R. Rodriguez,1195.0
+2022,Switzerland,Michel Aebischer,M. Aebischer,1888.0
+2022,Switzerland,Djibril Sow,D. Sow,1032.0
+2022,Switzerland,Christian Fassnacht,C. Fassnacht,1872.0
+2022,Switzerland,Ruben Vargas,R. Vargas,1902.0
+2022,Switzerland,Eray Cömert,E. Comert,4360.0
+2022,Switzerland,Noah Okafor,N. Okafor,4474.0
+2022,Switzerland,Fabian Frei,F. Frei,3140.0
+2022,Switzerland,Gregor Kobel,G. Kobel,640.0
+2022,Switzerland,Fabian Schär,F. Schar,1271.0
+2022,Switzerland,Xherdan Shaqiri,X. Shaqiri,543.0
+2022,Switzerland,Philipp Köhn,P. Kohn,8238.0
+2022,Switzerland,Fabian Rieder,F. Rieder,8332.0
+2022,Switzerland,Ardon Jashari,A. Jashari,18518.0
+2022,Ghana,Lawrence Ati-Zigi,L. Ati Zigi,
+2022,Ghana,Tariq Lamptey,T. Lamptey,2379.0
+2022,Ghana,Denis Odoi,D. Odoi,4654.0
+2022,Ghana,Mohammed Salisu,M. Salisu,1447.0
+2022,Ghana,Thomas Partey,T. Partey,173.0
+2022,Ghana,Elisha Owusu,E. Owusu,3696.0
+2022,Ghana,Abdul Fatawu Issahaku,A. Fatawu Issahaku,
+2022,Ghana,Daniel-Kofi Kyereh,D. Kofi Kyereh,
+2022,Ghana,Jordan Ayew,J. Ayew,1578.0
+2022,Ghana,André Ayew ,A. Ayew,
+2022,Ghana,Osman Bukari,O. Bukari,5444.0
+2022,Ghana,Ibrahim Danlad,I. Danlad,
+2022,Ghana,Daniel Afriyie,D. Afriyie,
+2022,Ghana,Gideon Mensah,G. Mensah,4525.0
+2022,Ghana,Joseph Aidoo,J. Aidoo,2241.0
+2022,Ghana,Abdul Manaf Nurudeen,A. Manaf Nurudeen,
+2022,Ghana,Baba Rahman,B. Rahman,2118.0
+2022,Ghana,Daniel Amartey,D. Amartey,1292.0
+2022,Ghana,Iñaki Williams,I. Williams,347.0
+2022,Ghana,Mohammed Kudus,M. Kudus,1120.0
+2022,Ghana,Salis Abdul Samed,S. Abdul Samed,14816.0
+2022,Ghana,Kamaldeen Sulemana,K. Sulemana,3805.0
+2022,Ghana,Alexander Djiku,A. Djiku,1282.0
+2022,Ghana,Kamal Sowah,K. Sowah,5309.0
+2022,Ghana,Antoine Semenyo,A. Semenyo,7180.0
+2022,Ghana,Alidu Seidu,A. Seidu,14138.0
+2022,Portugal,Rui Patrício,R. Patricio,205.0
+2022,Portugal,Diogo Dalot,D. Dalot,1396.0
+2022,Portugal,Pepe,Pepe,199.0
+2022,Portugal,Rúben Dias,R. Dias,46.0
+2022,Portugal,Raphaël Guerreiro,R. Guerreiro,124.0
+2022,Portugal,João Palhinha,J. Palhinha,
+2022,Portugal,Cristiano Ronaldo ,C. Ronaldo,2.0
+2022,Portugal,Bruno Fernandes,B. Fernandes,28.0
+2022,Portugal,André Silva,A. Silva,135.0
+2022,Portugal,Bernardo Silva,B. Silva,65.0
+2022,Portugal,João Félix,J. Felix,198.0
+2022,Portugal,José Sá,J. Sa,591.0
+2022,Portugal,Danilo Pereira,D. Pereira,317.0
+2022,Portugal,William Carvalho,W. Carvalho,740.0
+2022,Portugal,Rafael Leão,R. Leao,1109.0
+2022,Portugal,Vitinha,Vitinha,8543.0
+2022,Portugal,João Mário,J. Mario,451.0
+2022,Portugal,Rúben Neves,R. Neves,255.0
+2022,Portugal,Nuno Mendes,N. Mendes,861.0
+2022,Portugal,João Cancelo,J. Cancelo,62.0
+2022,Portugal,Ricardo Horta,R. Horta,592.0
+2022,Portugal,Diogo Costa,D. Costa,2926.0
+2022,Portugal,Matheus Nunes,M. Nunes,1461.0
+2022,Portugal,António Silva,A. Silva,1725.0
+2022,Portugal,Otávio,Otavio,340.0
+2022,Portugal,Gonçalo Ramos,G. Ramos,3808.0
+2022,South Korea,Kim Seung-gyu,K. Seung gyu,5565.0
+2022,South Korea,Yoon Jong-gyu,Y. Jong gyu,14594.0
+2022,South Korea,Kim Jin-su,K. Jin su,4872.0
+2022,South Korea,Kim Min-jae,K. Min jae,2339.0
+2022,South Korea,Jung Woo-young,J. Woo young,
+2022,South Korea,Hwang In-beom,H. In beom,
+2022,South Korea,Son Heung-min ,S. Heung min,
+2022,South Korea,Paik Seung-ho,P. Seung ho,6109.0
+2022,South Korea,Cho Gue-sung,C. Gue sung,
+2022,South Korea,Lee Jae-sung,L. Jae sung,1752.0
+2022,South Korea,Hwang Hee-chan,H. Hee chan,1794.0
+2022,South Korea,Song Bum-keun,S. Bum keun,8222.0
+2022,South Korea,Son Jun-ho,S. Jun ho,4196.0
+2022,South Korea,Hong Chul,H. Chul,3967.0
+2022,South Korea,Kim Moon-hwan,K. Moon hwan,9504.0
+2022,South Korea,Hwang Ui-jo,H. Ui jo,1286.0
+2022,South Korea,Na Sang-ho,N. Sang ho,5208.0
+2022,South Korea,Lee Kang-in,L. Kang in,
+2022,South Korea,Kim Young-gwon,K. Young gwon,4764.0
+2022,South Korea,Kwon Kyung-won,K. Kyung won,3375.0
+2022,South Korea,Jo Hyeon-woo,J. Hyeon woo,1677.0
+2022,South Korea,Kwon Chang-hoon,K. Chang hoon,2675.0
+2022,South Korea,Kim Tae-hwan,K. Tae hwan,3244.0
+2022,South Korea,Cho Yu-min,C. Yu min,10666.0
+2022,South Korea,Jeong Woo-yeong,J. Woo yeong,5217.0
+2022,South Korea,Song Min-kyu,S. Min kyu,4531.0
+2022,Uruguay,Fernando Muslera,F. Muslera,403.0
+2022,Uruguay,José Giménez,J. Gimenez,130.0
+2022,Uruguay,Diego Godín ,D. Godin,402.0
+2022,Uruguay,Ronald Araújo,R. Araujo,1133.0
+2022,Uruguay,Matías Vecino,M. Vecino,778.0
+2022,Uruguay,Rodrigo Bentancur,R. Bentancur,800.0
+2022,Uruguay,Nicolás de la Cruz,N. de la Cruz,840.0
+2022,Uruguay,Facundo Pellistri,F. Pellistri,5406.0
+2022,Uruguay,Luis Suárez,L. Suarez,23.0
+2022,Uruguay,Giorgian de Arrascaeta,G. de Arrascaeta,
+2022,Uruguay,Darwin Núñez,D. Nunez,1460.0
+2022,Uruguay,Sebastián Sosa,S. Sosa,735.0
+2022,Uruguay,Guillermo Varela,G. Varela,
+2022,Uruguay,Lucas Torreira,L. Torreira,468.0
+2022,Uruguay,Federico Valverde,F. Valverde,196.0
+2022,Uruguay,Mathías Olivera,M. Olivera,1423.0
+2022,Uruguay,Matías Viña,M. Vina,1462.0
+2022,Uruguay,Maxi Gómez,M. Gomez,500.0
+2022,Uruguay,Sebastián Coates,S. Coates,159.0
+2022,Uruguay,Facundo Torres,F. Torres,3806.0
+2022,Uruguay,Edinson Cavani,E. Cavani,74.0
+2022,Uruguay,Martín Cáceres,M. Caceres,1167.0
+2022,Uruguay,Sergio Rochet,S. Rochet,1332.0
+2022,Uruguay,Agustín Canobbio,A. Canobbio,6328.0
+2022,Uruguay,Manuel Ugarte,M. Ugarte,3798.0
+2022,Uruguay,José Luis Rodríguez,J. Luis Rodriguez,

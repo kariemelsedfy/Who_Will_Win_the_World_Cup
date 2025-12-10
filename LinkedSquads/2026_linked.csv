@@ -1,0 +1,979 @@
+year,team,player_name,derived_short_name,fifa_index
+2026,Algeria,Luca Zidane,L. Zidane,17115.0
+2026,Algeria,Alexis Guendouz,A. Guendouz,
+2026,Algeria,Oussama Benbot,O. Benbot,
+2026,Algeria,Aïssa Mandi,A. Mandi,2441.0
+2026,Algeria,Ramy Bensebaini,R. Bensebaini,210.0
+2026,Algeria,Zineddine Belaïd,Z. Belaid,
+2026,Algeria,Samir Sophian Chergui,S. Sophian Chergui,
+2026,Algeria,Jaouen Hadjam,J. Hadjam,4432.0
+2026,Algeria,Kevin Guiton,K. Guiton,
+2026,Algeria,Emile Dorval,E. Dorval,
+2026,Algeria,Rafik Belghali,R. Belghali,4044.0
+2026,Algeria,Yassine Benzia,Y. Benzia,2284.0
+2026,Algeria,Nabil Bentaleb,N. Bentaleb,439.0
+2026,Algeria,Hicham Boudaoui,H. Boudaoui,363.0
+2026,Algeria,Adem Zorgane,A. Zorgane,505.0
+2026,Algeria,Ilan Kebbal,I. Kebbal,4537.0
+2026,Algeria,Farès Chaïbi,F. Chaibi,669.0
+2026,Algeria,Riyad Mahrez,R. Mahrez,427.0
+2026,Algeria,Amine Gouiri,A. Gouiri,563.0
+2026,Algeria,Mohamed Amoura,M. Amoura,330.0
+2026,Algeria,Anis Hadj Moussa,A. Hadj Moussa,4857.0
+2026,Algeria,Badredine Bouanani,B. Bouanani,4022.0
+2026,Algeria,Ibrahim Maza,I. Maza,4043.0
+2026,Algeria,Amin Chiakha,A. Chiakha,8855.0
+2026,Argentina,Emiliano Martínez,E. Martinez,11893.0
+2026,Argentina,Gerónimo Rulli,G. Rulli,15329.0
+2026,Argentina,Walter Benítez,W. Benitez,16257.0
+2026,Argentina,Facundo Cambeses,F. Cambeses,16419.0
+2026,Argentina,Cristian Romero,C. Romero,2461.0
+2026,Argentina,Nicolás Otamendi,N. Otamendi,1665.0
+2026,Argentina,Nicolás Tagliafico,N. Tagliafico,711.0
+2026,Argentina,Marcos Acuña,M. Acuna,56.0
+2026,Argentina,Nahuel Molina,N. Molina,440.0
+2026,Argentina,Gonzalo Montiel,G. Montiel,339.0
+2026,Argentina,Marcos Senesi,M. Senesi,3273.0
+2026,Argentina,Leonardo Balerdi,L. Balerdi,2202.0
+2026,Argentina,Lautaruo Rivero,L. Rivero,5590.0
+2026,Argentina,Leandro Paredes,L. Paredes,187.0
+2026,Argentina,Rodrigo De Paul,R. De Paul,16.0
+2026,Argentina,Giovani Lo Celso,G. Lo Celso,82.0
+2026,Argentina,Alexis Mac Allister,A. Mac Allister,7.0
+2026,Argentina,Aníbal Moreno,A. Moreno,
+2026,Argentina,Nico Paz,N. Paz,1794.0
+2026,Argentina,Lionel Messi,L. Messi,240.0
+2026,Argentina,Nicolás González,N. Gonzalez,1184.0
+2026,Argentina,Lautaro Martínez,L. Martinez,36.0
+2026,Argentina,Julián Álvarez,J. Alvarez,12.0
+2026,Argentina,Flaco López,F. Lopez,6386.0
+2026,Argentina,Giuliano Simeone,G. Simeone,604.0
+2026,Australia,Mathew Ryan,M. Ryan,14808.0
+2026,Australia,Paul Izzo,P. Izzo,16381.0
+2026,Australia,Joe Gauci,J. Gauci,17491.0
+2026,Australia,Milos Degenek,M. Degenek,
+2026,Australia,Jason Geria,J. Geria,
+2026,Australia,Cameron Burgess,C. Burgess,11423.0
+2026,Australia,Kye Rowles,K. Rowles,12588.0
+2026,Australia,Fran Karacic,F. Karacic,5555.0
+2026,Australia,Lewis Miller,L. Miller,1922.0
+2026,Australia,Jordan Bos,J. Bos,2631.0
+2026,Australia,Alessandro Circati,A. Circati,10051.0
+2026,Australia,Hayden Matthews,H. Matthews,13502.0
+2026,Australia,Ajdin Hrustic,A. Hrustic,3034.0
+2026,Australia,Aiden O'Neill,A. O Neill,1702.0
+2026,Australia,Connor Metcalfe,C. Metcalfe,2536.0
+2026,Australia,Cameron Devlin,C. Devlin,2944.0
+2026,Australia,Alex Robertson,A. Robertson,207.0
+2026,Australia,Maximilien Balard,M. Balard,4484.0
+2026,Australia,Patrick Yazbek,P. Yazbek,4610.0
+2026,Australia,Martin Boyle,M. Boyle,2211.0
+2026,Australia,Mitchell Duke,M. Duke,
+2026,Australia,Nicholas D'Agostino,N. D Agostino,2439.0
+2026,Australia,Daniel Arzani,D. Arzani,4087.0
+2026,Australia,Jacob Italiano,J. Italiano,6059.0
+2026,Australia,Mohamed Toure,M. Toure,6124.0
+2026,Australia,Nestory Irankunda,N. Irankunda,1990.0
+2026,Austria,Alexander Schlager,A. Schlager,16683.0
+2026,Austria,Patrick Pentz,P. Pentz,16214.0
+2026,Austria,Nikolas Polster,N. Polster,17538.0
+2026,Austria,David Alaba,D. Alaba,48.0
+2026,Austria,Philipp Lienhart,P. Lienhart,6399.0
+2026,Austria,Marco Friedl,M. Friedl,2811.0
+2026,Austria,Stefan Posch,S. Posch,2069.0
+2026,Austria,Phillipp Mwene,P. Mwene,1768.0
+2026,Austria,Kevin Danso,K. Danso,5973.0
+2026,Austria,Alexander Prass,A. Prass,585.0
+2026,Austria,Leopold Querfeld,L. Querfeld,8114.0
+2026,Austria,Konrad Laimer,K. Laimer,150.0
+2026,Austria,Marcel Sabitzer,M. Sabitzer,22.0
+2026,Austria,Alessandro Schöpf,A. Schopf,2755.0
+2026,Austria,Florian Grillitsch,F. Grillitsch,1868.0
+2026,Austria,Romano Schmid,R. Schmid,1305.0
+2026,Austria,Christoph Baumgartner,C. Baumgartner,1313.0
+2026,Austria,Patrick Wimmer,P. Wimmer,1292.0
+2026,Austria,Nicolas Seiwald,N. Seiwald,546.0
+2026,Austria,Marko Arnautovic,M. Arnautovic,
+2026,Austria,Michael Gregoritsch,M. Gregoritsch,3306.0
+2026,Austria,Marco Grüll,M. Grull,2262.0
+2026,Austria,Raul Florucz,R. Florucz,4673.0
+2026,Austria,Nikolaus Wurmbrand,N. Wurmbrand,7950.0
+2026,Belgium,Thibaut Courtois,T. Courtois,15635.0
+2026,Belgium,Matz Sels,M. Sels,15954.0
+2026,Belgium,Maarten Vandevoordt,M. Vandevoordt,16411.0
+2026,Belgium,Senne Lammens,S. Lammens,16982.0
+2026,Belgium,Axel Witsel,A. Witsel,1576.0
+2026,Belgium,Thomas Meunier,T. Meunier,354.0
+2026,Belgium,Brandon Mechele,B. Mechele,8541.0
+2026,Belgium,Timothy Castagne,T. Castagne,1742.0
+2026,Belgium,Maxim De Cuyper,M. De Cuyper,92.0
+2026,Belgium,Arthur Theate,A. Theate,2788.0
+2026,Belgium,Koni De Winter,K. De Winter,5384.0
+2026,Belgium,Zeno Debast,Z. Debast,982.0
+2026,Belgium,Joaquin Seys,J. Seys,3292.0
+2026,Belgium,Kevin De Bruyne,K. De Bruyne,38.0
+2026,Belgium,Hans Vanaken,H. Vanaken,397.0
+2026,Belgium,Nicolas Raskin,N. Raskin,381.0
+2026,Belgium,Charles Vanhoutte,C. Vanhoutte,689.0
+2026,Belgium,Amadou Onana,A. Onana,13293.0
+2026,Belgium,Michy Batshuayi,M. Batshuayi,2115.0
+2026,Belgium,Leandro Trossard,L. Trossard,815.0
+2026,Belgium,Dodi Lukebakio,D. Lukebakio,1056.0
+2026,Belgium,Alexis Saelemaekers,A. Saelemaekers,663.0
+2026,Belgium,Loïs Openda,L. Openda,650.0
+2026,Belgium,Jérémy Doku,J. Doku,1890.0
+2026,Belgium,Charles De Ketelaere,C. De Ketelaere,305.0
+2026,Belgium,Malick Fofana,M. Fofana,3576.0
+2026,Brazil,John Victor,J. Victor,17560.0
+2026,Brazil,Hugo Souza,H. Souza,
+2026,Brazil,Bento,Bento,16990.0
+2026,Brazil,Douglas Santos,D. Santos,
+2026,Brazil,Éder Militão,E. Militao,595.0
+2026,Brazil,Paulo Henrique,P. Henrique,
+2026,Brazil,Fabrício Bruno,F. Bruno,
+2026,Brazil,Gabriel Magalhães,G. Magalhaes,
+2026,Brazil,Caio Henrique,C. Henrique,653.0
+2026,Brazil,Vitinho,Vitinho,
+2026,Brazil,Carlos Augusto,C. Augusto,62.0
+2026,Brazil,Lucas Beraldo,L. Beraldo,4025.0
+2026,Brazil,Casemiro,Casemiro,475.0
+2026,Brazil,Joelinton,Joelinton,68.0
+2026,Brazil,Bruno Guimarães,B. Guimaraes,32.0
+2026,Brazil,Lucas Paquetá,L. Paqueta,105.0
+2026,Brazil,João Gomes,J. Gomes,524.0
+2026,Brazil,André,Andre,1073.0
+2026,Brazil,Richarlison,Richarlison,446.0
+2026,Brazil,Neymar Jr.,N. Jr.,
+2026,Brazil,Vinícius Júnior,V. Junior,
+2026,Brazil,Matheus Cunha,M. Cunha,214.0
+2026,Brazil,Rodrygo,Rodrygo,582.0
+2026,Brazil,Gabriel Martinelli,G. Martinelli,385.0
+2026,Brazil,Igor Jesus,I. Jesus,2715.0
+2026,Brazil,Luiz Henrique,L. Henrique,
+2026,Brazil,Estêvão,Estevao,1423.0
+2026,Canada,Maxime Crépeau,M. Crepeau,16413.0
+2026,Canada,Dayne St. Clair,D. St. Clair,17551.0
+2026,Canada,Luka Gavran,L. Gavran,17782.0
+2026,Canada,Richie Laryea,R. Laryea,2288.0
+2026,Canada,Joel Waterman,J. Waterman,12205.0
+2026,Canada,Derek Cornelius,D. Cornelius,5042.0
+2026,Canada,Kamal Miller,K. Miller,4587.0
+2026,Canada,Zorhan Bassong,Z. Bassong,9681.0
+2026,Canada,Ali Ahmed,A. Ahmed,3803.0
+2026,Canada,Luc Rollet,L. Rollet,
+2026,Canada,Jonathan Osorio,J. Osorio,2783.0
+2026,Canada,Stephen Eustáquio,S. Eustaquio,561.0
+2026,Canada,Mathieu Choinière,M. Choiniere,5239.0
+2026,Canada,Nathan Saliba,N. Saliba,3376.0
+2026,Canada,Ismaël Koné,I. Kone,2521.0
+2026,Canada,Niko Sigur,N. Sigur,2407.0
+2026,Canada,Cyle Larin,C. Larin,3688.0
+2026,Canada,Liam Millar,L. Millar,2476.0
+2026,Canada,Jonathan David,J. David,959.0
+2026,Canada,Jayden Nelson,J. Nelson,4742.0
+2026,Canada,Tajon Buchanan,T. Buchanan,1118.0
+2026,Canada,Jacob Shaffelburg,J. Shaffelburg,5180.0
+2026,Canada,Tani Oluwaseyi,T. Oluwaseyi,6879.0
+2026,Canada,Promise David,P. David,6690.0
+2026,Colombia,David Ospina,D. Ospina,16331.0
+2026,Colombia,Álvaro Montero,A. Montero,16142.0
+2026,Colombia,Kevin Mier,K. Mier,
+2026,Colombia,Daniel Muñoz,D. Munoz,209.0
+2026,Colombia,Johan Mojica,J. Mojica,504.0
+2026,Colombia,Davinson Sánchez,D. Sanchez,867.0
+2026,Colombia,Álvaro Angulo,A. Angulo,
+2026,Colombia,Jhon Lucumí,J. Lucumi,6159.0
+2026,Colombia,Andres Román,A. Roman,5788.0
+2026,Colombia,Willer Ditta,W. Ditta,
+2026,Colombia,Yerson Mosquera,Y. Mosquera,10120.0
+2026,Colombia,James Rodríguez,J. Rodriguez,1120.0
+2026,Colombia,Juan Portilla,J. Portilla,2287.0
+2026,Colombia,Juan Fernando Quintero,J. Fernando Quintero,
+2026,Colombia,Jefferson Lerma,J. Lerma,261.0
+2026,Colombia,Járninton Campaz,J. Campaz,4430.0
+2026,Colombia,Richard Ríos,R. Rios,123.0
+2026,Colombia,Kevin Castaño,K. Castano,324.0
+2026,Colombia,Yáser Asprilla,Y. Asprilla,1841.0
+2026,Colombia,Rafael Borré,R. Borre,
+2026,Colombia,Luis Díaz,L. Diaz,182.0
+2026,Colombia,Johan Carbonero,J. Carbonero,
+2026,Colombia,Luis Suárez,L. Suarez,243.0
+2026,Colombia,Kevin Serna,K. Serna,
+2026,Colombia,Cucho Hernández,C. Hernandez,
+2026,Croatia,Dominik Livakovic,D. Livakovic,15578.0
+2026,Croatia,Ivica Ivusic,I. Ivusic,16867.0
+2026,Croatia,Dominik Kotarski,D. Kotarski,16121.0
+2026,Croatia,Duje Caleta-Car,D. Caleta Car,9237.0
+2026,Croatia,Martin Erlic,M. Erlic,12512.0
+2026,Croatia,Marin Pongracic,M. Pongracic,10901.0
+2026,Croatia,Domagoj Bradaric,D. Bradaric,2506.0
+2026,Croatia,Josko Gvardiol,J. Gvardiol,102.0
+2026,Croatia,Josip Sutalo,J. Sutalo,5389.0
+2026,Croatia,Ivan Smolcic,I. Smolcic,3083.0
+2026,Croatia,Luka Vuskovic,L. Vuskovic,6206.0
+2026,Croatia,Luka Modric,L. Modric,80.0
+2026,Croatia,Mateo Kovacic,M. Kovacic,184.0
+2026,Croatia,Mario Pasalic,M. Pasalic,249.0
+2026,Croatia,Nikola Moro,N. Moro,532.0
+2026,Croatia,Lovro Majer,L. Majer,264.0
+2026,Croatia,Kristijan Jakic,K. Jakic,1331.0
+2026,Croatia,Luka Sucic,L. Sucic,194.0
+2026,Croatia,Martin Baturina,M. Baturina,633.0
+2026,Croatia,Toni Fruk,T. Fruk,945.0
+2026,Croatia,Petar Sucic,P. Sucic,1220.0
+2026,Croatia,Ivan Perisic,I. Perisic,72.0
+2026,Croatia,Andrej Kramaric,A. Kramaric,431.0
+2026,Croatia,Ante Budimir,A. Budimir,2489.0
+2026,Croatia,Marco Pasalic,M. Pasalic,249.0
+2026,Croatia,Franjo Ivanovic,F. Ivanovic,3295.0
+2026,Ecuador,Gonzalo Valle,G. Valle,17467.0
+2026,Ecuador,Hernán Galíndez,H. Galindez,16870.0
+2026,Ecuador,Moisés Ramírez,M. Ramirez,12878.0
+2026,Ecuador,Cristian Loor,C. Loor,
+2026,Ecuador,Cristian Ramírez,C. Ramirez,7401.0
+2026,Ecuador,Xavier Arreaga,X. Arreaga,12012.0
+2026,Ecuador,Pervis Estupiñán,P. Estupinan,399.0
+2026,Ecuador,Bryan Ramirez,B. Ramirez,3404.0
+2026,Ecuador,Félix Torres,F. Torres,9643.0
+2026,Ecuador,Ángelo Preciado,A. Preciado,1182.0
+2026,Ecuador,Willian Pacho,W. Pacho,3143.0
+2026,Ecuador,Jhoanner Chavez,J. Chavez,2085.0
+2026,Ecuador,Yaimar Medina,Y. Medina,2718.0
+2026,Ecuador,Joel Ordóñez,J. Ordonez,9251.0
+2026,Ecuador,Alan Franco,A. Franco,7657.0
+2026,Ecuador,Jordy Alcivar,J. Alcivar,2197.0
+2026,Ecuador,Pedro Vite,P. Vite,
+2026,Ecuador,Denil Castillo,D. Castillo,4994.0
+2026,Ecuador,Patrik Mercado,P. Mercado,4140.0
+2026,Ecuador,Kendry Páez,K. Paez,4120.0
+2026,Ecuador,Darwin Guagua,D. Guagua,12945.0
+2026,Ecuador,Enner Valencia,E. Valencia,18212.0
+2026,Ecuador,John Yeboah,J. Yeboah,5796.0
+2026,Ecuador,Kevin Rodríguez,K. Rodriguez,8711.0
+2026,Ecuador,Leonardo Campana,L. Campana,8150.0
+2026,Ecuador,John Mercado,J. Mercado,7453.0
+2026,Ecuador,Nilson Angulo,N. Angulo,9582.0
+2026,Ecuador,Alan Minda,A. Minda,4480.0
+2026,Egypt,Mohamed El Shenawy,M. El Shenawy,
+2026,Egypt,Mohamed Sobhy,M. Sobhy,
+2026,Egypt,Mostafa Shobeir,M. Shobeir,
+2026,Egypt,Abdel Aziz El Balouti,A. Aziz El Balouti,
+2026,Egypt,Mohamed Hany,M. Hany,
+2026,Egypt,Ramy Rabia,R. Rabia,7914.0
+2026,Egypt,Yasser Ibrahim,Y. Ibrahim,
+2026,Egypt,Mohamed Hamdy,M. Hamdy,
+2026,Egypt,Ahmed Eid,A. Eid,
+2026,Egypt,Hossam Abdelmaguid,H. Abdelmaguid,
+2026,Egypt,Khaled Sobhy,K. Sobhy,
+2026,Egypt,Amr El Gazar,A. El Gazar,
+2026,Egypt,Zizo,Zizo,
+2026,Egypt,Ibrahim Adel,I. Adel,
+2026,Egypt,Ahmed Koka,A. Koka,
+2026,Egypt,Mahmoud Saber,M. Saber,
+2026,Egypt,Mohanad Lasheen,M. Lasheen,
+2026,Egypt,Trézéguet,Trezeguet,
+2026,Egypt,Mohamed Salah,M. Salah,21.0
+2026,Egypt,Mostafa Mohamed,M. Mohamed,3545.0
+2026,Egypt,Osama Faisal,O. Faisal,
+2026,Egypt,Mostafa Fathi,M. Fathi,
+2026,England,Jordan Pickford,J. Pickford,12141.0
+2026,England,Dean Henderson,D. Henderson,15908.0
+2026,England,James Trafford,J. Trafford,15790.0
+2026,England,John Stones,J. Stones,918.0
+2026,England,Dan Burn,D. Burn,5904.0
+2026,England,Ezri Konsa,E. Konsa,753.0
+2026,England,Marc Guéhi,M. Guehi,2595.0
+2026,England,Djed Spence,D. Spence,1870.0
+2026,England,Myles Lewis-Skelly,M. Lewis Skelly,410.0
+2026,England,Jordan Henderson,J. Henderson,204.0
+2026,England,Ruben Loftus-Cheek,R. Loftus Cheek,88.0
+2026,England,Declan Rice,D. Rice,23.0
+2026,England,Jude Bellingham,J. Bellingham,0.0
+2026,England,Elliot Anderson,E. Anderson,112.0
+2026,England,Morgan Gibbs-White,M. Gibbs White,131.0
+2026,England,Eberechi Eze,E. Eze,213.0
+2026,England,Nico O'Reilly,N. O Reilly,1015.0
+2026,England,Cole Palmer,C. Palmer,125.0
+2026,England,Phil Foden,P. Foden,188.0
+2026,England,Harry Kane,H. Kane,58.0
+2026,England,Ollie Watkins,O. Watkins,201.0
+2026,England,Jarrod Bowen,J. Bowen,306.0
+2026,England,Marcus Rashford,M. Rashford,769.0
+2026,England,Morgan Rogers,M. Rogers,153.0
+2026,England,Anthony Gordon,A. Gordon,244.0
+2026,England,Bukayo Saka,B. Saka,29.0
+2026,France,Brice Samba,B. Samba,15917.0
+2026,France,Mike Maignan,M. Maignan,11122.0
+2026,France,Lucas Chevalier,L. Chevalier,16638.0
+2026,France,Lucas Digne,L. Digne,134.0
+2026,France,Lucas Hernández,L. Hernandez,987.0
+2026,France,Benjamin Pavard,B. Pavard,111.0
+2026,France,Dayot Upamecano,D. Upamecano,2095.0
+2026,France,Jules Koundé,J. Kounde,432.0
+2026,France,Theo Hernández,T. Hernandez,10.0
+2026,France,William Saliba,W. Saliba,1937.0
+2026,France,Malo Gusto,M. Gusto,802.0
+2026,France,Aurélien Tchouaméni,A. Tchouameni,136.0
+2026,France,Adrien Rabiot,A. Rabiot,15.0
+2026,France,Khephren Thuram,K. Thuram,71.0
+2026,France,Eduardo Camavinga,E. Camavinga,59.0
+2026,France,Manu Koné,M. Kone,17765.0
+2026,France,Kylian Mbappé,K. Mbappe,52.0
+2026,France,Ousmane Dembélé,O. Dembele,33.0
+2026,France,Michael Olise,M. Olise,202.0
+2026,France,Maghnes Akliouche,M. Akliouche,1371.0
+2026,France,Florian Thauvin,F. Thauvin,657.0
+2026,France,Kingsley Coman,K. Coman,1376.0
+2026,France,Christopher Nkunku,C. Nkunku,820.0
+2026,France,Jean-Philippe Mateta,J. Philippe Mateta,
+2026,France,Hugo Ekitike,H. Ekitike,1218.0
+2026,Germany,Oliver Baumann,O. Baumann,16288.0
+2026,Germany,Alexander Nübel,A. Nubel,15086.0
+2026,Germany,Finn Dahmen,F. Dahmen,16355.0
+2026,Germany,Noah Atubolu,N. Atubolu,16682.0
+2026,Germany,Nathaniel Brown,N. Brown,2511.0
+2026,Germany,Jonathan Tah,J. Tah,4426.0
+2026,Germany,Robin Koch,R. Koch,3926.0
+2026,Germany,Waldemar Anton,W. Anton,1958.0
+2026,Germany,David Raum,D. Raum,157.0
+2026,Germany,Ridle Baku,R. Baku,262.0
+2026,Germany,Nico Schlotterbeck,N. Schlotterbeck,239.0
+2026,Germany,Leon Goretzka,L. Goretzka,19.0
+2026,Germany,Robert Andrich,R. Andrich,135.0
+2026,Germany,Joshua Kimmich,J. Kimmich,2.0
+2026,Germany,Nadiem Amiri,N. Amiri,183.0
+2026,Germany,Felix Nmecha,F. Nmecha,61.0
+2026,Germany,Angelo Stiller,A. Stiller,478.0
+2026,Germany,Jamal Musiala,J. Musiala,76.0
+2026,Germany,Florian Wirtz,F. Wirtz,86.0
+2026,Germany,Kevin Schade,K. Schade,1614.0
+2026,Germany,Aleksandar Pavlovic,A. Pavlovic,522.0
+2026,Germany,Serge Gnabry,S. Gnabry,569.0
+2026,Germany,Jonathan Burkardt,J. Burkardt,719.0
+2026,Germany,Karim Adeyemi,K. Adeyemi,662.0
+2026,Germany,Maximilian Beier,M. Beier,1359.0
+2026,Germany,Nick Woltemade,N. Woltemade,2697.0
+2026,Ghana,Lawrence Ati-Zigi,L. Ati Zigi,
+2026,Ghana,Joseph Anang,J. Anang,17008.0
+2026,Ghana,Benjamin Asare,B. Asare,
+2026,Ghana,Alexander Djiku,A. Djiku,1989.0
+2026,Ghana,Jerome Opoku,J. Opoku,7221.0
+2026,Ghana,Gideon Mensah,G. Mensah,2018.0
+2026,Ghana,Mohammed Salisu,M. Salisu,9689.0
+2026,Ghana,Alidu Seidu,A. Seidu,5228.0
+2026,Ghana,Ebenezer Annan,E. Annan,11580.0
+2026,Ghana,Jonas Adjei,J. Adjei,
+2026,Ghana,Kojo Peprah Oppong,K. Peprah Oppong,
+2026,Ghana,Thomas Partey,T. Partey,277.0
+2026,Ghana,Elisha Owusu,E. Owusu,3379.0
+2026,Ghana,Mohammed Kudus,M. Kudus,345.0
+2026,Ghana,Kwasi Sibo,K. Sibo,4525.0
+2026,Ghana,Caleb Yirenkyi,C. Yirenkyi,5713.0
+2026,Ghana,Prince Owusu,P. Owusu,10343.0
+2026,Ghana,Jordan Ayew,J. Ayew,1002.0
+2026,Ghana,Brandon Thomas-Asante,B. Thomas Asante,4284.0
+2026,Ghana,Joseph Paintsil,J. Paintsil,2008.0
+2026,Ghana,Antoine Semenyo,A. Semenyo,729.0
+2026,Ghana,Kamaldeen Sulemana,K. Sulemana,5858.0
+2026,Ghana,Fatawu Issahaku,F. Issahaku,
+2026,Ghana,Christopher Baah,C. Baah,
+2026,Haiti,Johny Placide,J. Placide,16823.0
+2026,Haiti,Josue Duverger,J. Duverger,
+2026,Haiti,Tony Algarin,T. Algarin,
+2026,Haiti,Hannes Delcroix,H. Delcroix,8461.0
+2026,Haiti,Martin Expérience,M. Experience,12130.0
+2026,Haiti,Carlens Arcus,C. Arcus,3805.0
+2026,Haiti,Keeto Thermoncy,K. Thermoncy,
+2026,Haiti,Ricardo Adé,R. Ade,5971.0
+2026,Haiti,Stéphane Lambese,S. Lambese,
+2026,Haiti,Garven Metusala,G. Metusala,
+2026,Haiti,Duke Lacroix,D. Lacroix,
+2026,Haiti,Jean-Kévin Duverne,J. Kevin Duverne,
+2026,Haiti,Jean-Ricner Bellegarde,J. Ricner Bellegarde,
+2026,Haiti,Leverton Pierre,L. Pierre,
+2026,Haiti,Danley Jean Jacques,D. Jean Jacques,2965.0
+2026,Haiti,Carl-Fred Sainte,C. Fred Sainte,
+2026,Haiti,Derrick Etienne Jr.,D. Etienne Jr.,7443.0
+2026,Haiti,Josué Casimir,J. Casimir,4166.0
+2026,Haiti,Ruben Providence,R. Providence,
+2026,Haiti,Duckens Nazon,D. Nazon,
+2026,Haiti,Louicius Don Deedson,L. Don Deedson,
+2026,Haiti,Woobens Pacius,W. Pacius,
+2026,Haiti,Yassine Fortune,Y. Fortune,
+2026,Haiti,Frantzdy Pierrot,F. Pierrot,7885.0
+2026,Iran,Alireza Beiranvand,A. Beiranvand,
+2026,Iran,Mohammad Reza Akhbari,M. Reza Akhbari,
+2026,Iran,Payam Niazmand,P. Niazmand,
+2026,Iran,Mohammad Khalifeh,M. Khalifeh,
+2026,Iran,Shoja Khalilzadeh,S. Khalilzadeh,
+2026,Iran,Ramin Rezaeian,R. Rezaeian,
+2026,Iran,Milad Mohammadi,M. Mohammadi,
+2026,Iran,Daniel Esmaeilifar,D. Esmaeilifar,
+2026,Iran,Ali Nemati,A. Nemati,
+2026,Iran,Amin Hazbavi,A. Hazbavi,
+2026,Iran,Aria Yousefi,A. Yousefi,
+2026,Iran,Mohammadmehdi Zare,M. Zare,
+2026,Iran,Hossein Abarghouei,H. Abarghouei,
+2026,Iran,Saeid Ezatolahi,S. Ezatolahi,
+2026,Iran,Omid Norafkan,O. Norafkan,
+2026,Iran,Mohammad Mohebbi,M. Mohebbi,
+2026,Iran,Mohammad Mohebi,M. Mohebi,
+2026,Iran,Mohammad Ghorbani,M. Ghorbani,
+2026,Iran,Mohammad Hosseinnezhad,M. Hosseinnezhad,
+2026,Iran,Mohammad Khodabandelou,M. Khodabandelou,
+2026,Iran,Saman Ghoddos,S. Ghoddos,
+2026,Iran,Amirhossein Hosseinzadeh,A. Hosseinzadeh,
+2026,Iran,Alireza Jahanbakhsh,A. Jahanbakhsh,
+2026,Iran,Mehdi Taremi,M. Taremi,1695.0
+2026,Iran,Ali Alipour,A. Alipour,
+2026,Iran,Allahyar Sayyad,A. Sayyad,
+2026,Iran,Mehdi Hashemnejad,M. Hashemnejad,
+2026,Iran,Kasra Taheri,K. Taheri,
+2026,Ivory Coast,Alban Lafont,A. Lafont,16408.0
+2026,Ivory Coast,Yahia Fofana,Y. Fofana,333.0
+2026,Ivory Coast,Mohamed Koné,M. Kone,17765.0
+2026,Ivory Coast,Michel Diaz,M. Diaz,4188.0
+2026,Ivory Coast,Willy Boly,W. Boly,11385.0
+2026,Ivory Coast,Evan Ndicka,E. Ndicka,1566.0
+2026,Ivory Coast,Christopher Operi,C. Operi,721.0
+2026,Ivory Coast,Ghislain Konan,G. Konan,2508.0
+2026,Ivory Coast,Emmanuel Agbadou,E. Agbadou,2714.0
+2026,Ivory Coast,Armel Junior Zohouri,A. Junior Zohouri,
+2026,Ivory Coast,Guela Doué,G. Doue,2057.0
+2026,Ivory Coast,Franck Kessié,F. Kessie,81.0
+2026,Ivory Coast,Ibrahim Sangaré,I. Sangare,966.0
+2026,Ivory Coast,Abdul Keita,A. Keita,
+2026,Ivory Coast,Sébastien Haller,S. Haller,2550.0
+2026,Ivory Coast,Nicolas Pépé,N. Pepe,771.0
+2026,Ivory Coast,Evann Guessand,E. Guessand,1765.0
+2026,Ivory Coast,Amad,Amad,948.0
+2026,Ivory Coast,Simon Adingra,S. Adingra,4277.0
+2026,Ivory Coast,Oumar Diakité,O. Diakite,6145.0
+2026,Ivory Coast,Pacome Zouzoua,P. Zouzoua,
+2026,Ivory Coast,Bazoumana Touré,B. Toure,9757.0
+2026,Ivory Coast,Yan Diomande,Y. Diomande,10469.0
+2026,Japan,Keisuke Osako,K. Osako,
+2026,Japan,Zion Suzuki,Z. Suzuki,16838.0
+2026,Japan,Tomoki Hayakawa,T. Hayakawa,
+2026,Japan,Yuto Nagatomo,Y. Nagatomo,
+2026,Japan,Shogo Taniguchi,S. Taniguchi,7250.0
+2026,Japan,Kou Itakura,K. Itakura,1817.0
+2026,Japan,Daiki Hashioka,D. Hashioka,2883.0
+2026,Japan,Ayumu Seko,A. Seko,9395.0
+2026,Japan,Tsuyoshi Watanabe,T. Watanabe,7024.0
+2026,Japan,Junnosuke Suzuki,J. Suzuki,8175.0
+2026,Japan,Henry Mochizuki,H. Mochizuki,
+2026,Japan,Tomoya Ando,T. Ando,
+2026,Japan,Wataru Endo,W. Endo,740.0
+2026,Japan,Takumi Minamino,T. Minamino,1012.0
+2026,Japan,Daichi Kamada,D. Kamada,448.0
+2026,Japan,Ritsu Doan,R. Doan,832.0
+2026,Japan,Ao Tanaka,A. Tanaka,518.0
+2026,Japan,Joel Chima Fujita,J. Chima Fujita,
+2026,Japan,Kaishu Sano,K. Sano,1293.0
+2026,Japan,Junya Ito,J. Ito,748.0
+2026,Japan,Koki Ogawa,K. Ogawa,9384.0
+2026,Japan,Takefusa Kubo,T. Kubo,731.0
+2026,Japan,Keito Nakamura,K. Nakamura,1439.0
+2026,Japan,Koki Saito,K. Saito,5663.0
+2026,Japan,Shuto Machino,S. Machino,1394.0
+2026,Japan,Ayase Ueda,A. Ueda,4286.0
+2026,Japan,Yuki Soma,Y. Soma,
+2026,Japan,Daizen Maeda,D. Maeda,109.0
+2026,Mexico,Ángel Malagón,A. Malagon,
+2026,Mexico,Carlos Acevedo,C. Acevedo,
+2026,Mexico,Raúl Rangel,R. Rangel,17334.0
+2026,Mexico,Jesús Gallardo,J. Gallardo,716.0
+2026,Mexico,Jorge Sánchez,J. Sanchez,1873.0
+2026,Mexico,César Montes,C. Montes,4685.0
+2026,Mexico,Johan Vásquez,J. Vasquez,7409.0
+2026,Mexico,Israel Reyes,I. Reyes,
+2026,Mexico,Ramón Juarez,R. Juarez,
+2026,Mexico,Mateo Chávez,M. Chavez,4526.0
+2026,Mexico,Kevin Álvarez,K. Alvarez,
+2026,Mexico,Érick Sánchez,E. Sanchez,221.0
+2026,Mexico,Orbelín Pineda,O. Pineda,186.0
+2026,Mexico,Carlos Rodríguez,C. Rodriguez,897.0
+2026,Mexico,Luis Romo,L. Romo,
+2026,Mexico,Diego Lainez,D. Lainez,1928.0
+2026,Mexico,Alexis Gutierrez,A. Gutierrez,6269.0
+2026,Mexico,Marcel Ruiz,M. Ruiz,737.0
+2026,Mexico,Erik Lira,E. Lira,1851.0
+2026,Mexico,César Huerta,C. Huerta,1975.0
+2026,Mexico,Hirving Lozano,H. Lozano,1108.0
+2026,Mexico,Germán Berterame,G. Berterame,1950.0
+2026,Mexico,Alexis Vega,A. Vega,1067.0
+2026,Mexico,Julián Quiñones,J. Quinones,828.0
+2026,Mexico,Santiago Gimenez,S. Gimenez,989.0
+2026,Morocco,Yassine Bounou,Y. Bounou,16139.0
+2026,Morocco,Munir El Kajoui,M. El Kajoui,
+2026,Morocco,Mehdi Harrar,M. Harrar,
+2026,Morocco,Adam Masina,A. Masina,5075.0
+2026,Morocco,Mohamed Chibi,M. Chibi,
+2026,Morocco,Jawad El Yamiq,J. El Yamiq,3504.0
+2026,Morocco,Achraf Hakimi,A. Hakimi,3.0
+2026,Morocco,Nayef Aguerd,N. Aguerd,2087.0
+2026,Morocco,Abdel Abqar,A. Abqar,11651.0
+2026,Morocco,Souffian El Karouani,S. El Karouani,1808.0
+2026,Morocco,Omar El Hilali,O. El Hilali,2299.0
+2026,Morocco,Youssef Belammari,Y. Belammari,
+2026,Morocco,Sofyan Amrabat,S. Amrabat,321.0
+2026,Morocco,Brahim Díaz,B. Diaz,
+2026,Morocco,Ismael Saibari,I. Saibari,525.0
+2026,Morocco,Oussama Targhaline,O. Targhaline,
+2026,Morocco,Neil El Aynaoui,N. El Aynaoui,920.0
+2026,Morocco,Bilal El Khannouss,B. El Khannouss,3302.0
+2026,Morocco,Anas Bach,A. Bach,
+2026,Morocco,Youssef En-Nesyri,Y. En Nesyri,1333.0
+2026,Morocco,Ayoub El Kaabi,A. El Kaabi,713.0
+2026,Morocco,Amine Adli,A. Adli,915.0
+2026,Morocco,Abde Ezzalzouli,A. Ezzalzouli,
+2026,Morocco,Ilias Akhomach,I. Akhomach,5431.0
+2026,Morocco,Eliesse Ben Seghir,E. Ben Seghir,3241.0
+2026,Morocco,Hamza Igmane,H. Igmane,
+2026,Morocco,Chemsdine Talbi,C. Talbi,4956.0
+2026,Netherlands,Mark Flekken,M. Flekken,16249.0
+2026,Netherlands,Bart Verbruggen,B. Verbruggen,16368.0
+2026,Netherlands,Robin Roefs,R. Roefs,17458.0
+2026,Netherlands,Stefan de Vrij,S. de Vrij,3000.0
+2026,Netherlands,Virgil van Dijk,V. van Dijk,246.0
+2026,Netherlands,Nathan Aké,N. Ake,674.0
+2026,Netherlands,Denzel Dumfries,D. Dumfries,133.0
+2026,Netherlands,Jeremie Frimpong,J. Frimpong,310.0
+2026,Netherlands,Jan Paul van Hecke,J. Paul van Hecke,
+2026,Netherlands,Jurriën Timber,J. Timber,831.0
+2026,Netherlands,Micky van de Ven,M. van de Ven,1723.0
+2026,Netherlands,Quilindschy Hartman,Q. Hartman,691.0
+2026,Netherlands,Frenkie de Jong,F. de Jong,25.0
+2026,Netherlands,Jerdy Schouten,J. Schouten,1278.0
+2026,Netherlands,Teun Koopmeiners,T. Koopmeiners,39.0
+2026,Netherlands,Tijjani Reijnders,T. Reijnders,26.0
+2026,Netherlands,Ryan Gravenberch,R. Gravenberch,35.0
+2026,Netherlands,Xavi Simons,X. Simons,163.0
+2026,Netherlands,Memphis Depay,M. Depay,422.0
+2026,Netherlands,Wout Weghorst,W. Weghorst,1931.0
+2026,Netherlands,Justin Kluivert,J. Kluivert,848.0
+2026,Netherlands,Cody Gakpo,C. Gakpo,196.0
+2026,Netherlands,Donyell Malen,D. Malen,928.0
+2026,Netherlands,Brian Brobbey,B. Brobbey,3657.0
+2026,New Zealand,Max Crocombe,M. Crocombe,16493.0
+2026,New Zealand,Nik Tzanev,N. Tzanev,17195.0
+2026,New Zealand,Alex Paulsen,A. Paulsen,15540.0
+2026,New Zealand,Michael Boxall,M. Boxall,7211.0
+2026,New Zealand,Tommy Smith,T. Smith,17759.0
+2026,New Zealand,Bill Tuiloma,B. Tuiloma,6204.0
+2026,New Zealand,Tim Payne,T. Payne,5847.0
+2026,New Zealand,Francis DeVries,F. DeVries,3513.0
+2026,New Zealand,George Stanger,G. Stanger,14189.0
+2026,New Zealand,Dalton Wilkins,D. Wilkins,
+2026,New Zealand,Finn Surman,F. Surman,11555.0
+2026,New Zealand,Lukas Kelly-Heald,L. Kelly Heald,13273.0
+2026,New Zealand,Tyler Bindon,T. Bindon,7309.0
+2026,New Zealand,Ryan Thomas,R. Thomas,4293.0
+2026,New Zealand,Andre De Jong,A. De Jong,
+2026,New Zealand,Callum McCowatt,C. McCowatt,3145.0
+2026,New Zealand,Owen Parker-Prince,O. Parker Prince,
+2026,New Zealand,Sarpreet Singh,S. Singh,15159.0
+2026,New Zealand,Joe Bell,J. Bell,768.0
+2026,New Zealand,Marko Stamenic,M. Stamenic,1775.0
+2026,New Zealand,Matthew Garbett,M. Garbett,5903.0
+2026,New Zealand,Chris Wood,C. Wood,1633.0
+2026,New Zealand,Elijah Just,E. Just,6582.0
+2026,New Zealand,Ben Waine,B. Waine,6917.0
+2026,New Zealand,Ben Old,B. Old,4324.0
+2026,Norway,Ørjan Nyland,Ø. Nyland,16414.0
+2026,Norway,Matias Dyngeland,M. Dyngeland,16377.0
+2026,Norway,Egil Selvik,E. Selvik,17434.0
+2026,Norway,Marcus Pedersen,M. Pedersen,
+2026,Norway,Kristoffer Ajer,K. Ajer,2925.0
+2026,Norway,Andreas Hanche-Olsen,A. Hanche Olsen,5574.0
+2026,Norway,Torbjorn Heggem,T. Heggem,4509.0
+2026,Norway,Sebastian Soraas Sebulonsen,S. Soraas Sebulonsen,
+2026,Norway,David Wolfe,D. Wolfe,2632.0
+2026,Norway,Eivind Helland,E. Helland,9751.0
+2026,Norway,Patrick Berg,P. Berg,367.0
+2026,Norway,Sander Berge,S. Berge,1149.0
+2026,Norway,Aron Donnum,A. Donnum,
+2026,Norway,Martin Ødegaard,M. Ødegaard,53.0
+2026,Norway,Oscar Bobb,O. Bobb,6534.0
+2026,Norway,Thelo Aasgaard,T. Aasgaard,3937.0
+2026,Norway,Kristian Malt Arnstad,K. Malt Arnstad,
+2026,Norway,Antonio Nusa,A. Nusa,1688.0
+2026,Norway,Sverre Nypan,S. Nypan,4280.0
+2026,Norway,Erling Haaland,E. Haaland,110.0
+2026,Norway,Alexander Sørloth,A. Sørloth,891.0
+2026,Norway,Jørgen Strand Larsen,J. Strand Larsen,
+2026,Norway,Aune Heggebo,A. Heggebo,
+2026,Norway,Andreas Schjelderup,A. Schjelderup,3468.0
+2026,Panama,Luis Mejía,L. Mejia,15966.0
+2026,Panama,César Samudio,C. Samudio,
+2026,Panama,Orlando Mosquera,O. Mosquera,17509.0
+2026,Panama,César Blackman,C. Blackman,
+2026,Panama,José Córdoba,J. Cordoba,10572.0
+2026,Panama,Fidel Escobar,F. Escobar,6575.0
+2026,Panama,Jiovany Ramos,J. Ramos,12120.0
+2026,Panama,Éric Davis,E. Davis,
+2026,Panama,Andrés Andrade,A. Andrade,4912.0
+2026,Panama,Jorge Gutiérrez,J. Gutierrez,5819.0
+2026,Panama,Michael Murillo,M. Murillo,
+2026,Panama,Edward Cedeño,E. Cedeno,4497.0
+2026,Panama,Christian Martínez,C. Martinez,14023.0
+2026,Panama,José Luis Rodríguez,J. Luis Rodriguez,
+2026,Panama,Adalberto Carrasquilla,A. Carrasquilla,
+2026,Panama,Édgar Bárcenas,E. Barcenas,
+2026,Panama,José Manuel Murillo,J. Manuel Murillo,
+2026,Panama,Omar Browne,O. Browne,
+2026,Panama,Aníbal Godoy,A. Godoy,6283.0
+2026,Panama,Tomás Rodríguez,T. Rodriguez,
+2026,Panama,Ismael Díaz,I. Diaz,
+2026,Panama,Azarias Londoño,A. Londono,7347.0
+2026,Panama,José Fajardo,J. Fajardo,6892.0
+2026,Panama,Cecilio Waterman,C. Waterman,
+2026,Paraguay,Gatito Fernández,G. Fernandez,
+2026,Paraguay,Juan Espínola,J. Espinola,16383.0
+2026,Paraguay,Orlando Gil,O. Gil,
+2026,Paraguay,Juan Cáceres,J. Caceres,
+2026,Paraguay,Gustavo Gómez,G. Gomez,
+2026,Paraguay,Gustavo Velázquez,G. Velazquez,9859.0
+2026,Paraguay,Júnior Alonso,J. Alonso,
+2026,Paraguay,Alan Benítez,A. Benitez,11835.0
+2026,Paraguay,Omar Alderete,O. Alderete,1689.0
+2026,Paraguay,Alexis Duarte,A. Duarte,17456.0
+2026,Paraguay,Diego León,D. Leon,15999.0
+2026,Paraguay,Miguel Almirón,M. Almiron,825.0
+2026,Paraguay,Lucas Romero,L. Romero,17606.0
+2026,Paraguay,Kaku,Kaku,597.0
+2026,Paraguay,Diego Gómez,D. Gomez,1016.0
+2026,Paraguay,Andrés Cubas,A. Cubas,3536.0
+2026,Paraguay,Braian Ojeda,B. Ojeda,3606.0
+2026,Paraguay,Matías Galarza,M. Galarza,
+2026,Paraguay,Damián Bobadilla,D. Bobadilla,
+2026,Paraguay,Hugo Cuenca,H. Cuenca,7777.0
+2026,Paraguay,Antonio Sanabria,A. Sanabria,3151.0
+2026,Paraguay,Ángel Romero,A. Romero,17106.0
+2026,Paraguay,Ronaldo Martínez,R. Martinez,1667.0
+2026,Paraguay,Alex Arce,A. Arce,7383.0
+2026,Paraguay,Ramón Sosa,R. Sosa,
+2026,Paraguay,Diego González,D. Gonzalez,1206.0
+2026,Portugal,Rui Silva,R. Silva,16302.0
+2026,Portugal,José Sá,J. Sa,15902.0
+2026,Portugal,Diogo Costa,D. Costa,16228.0
+2026,Portugal,Nélson Semedo,N. Semedo,1134.0
+2026,Portugal,Rúben Dias,R. Dias,2398.0
+2026,Portugal,Diogo Dalot,D. Dalot,302.0
+2026,Portugal,Nuno Tavares,N. Tavares,319.0
+2026,Portugal,Nuno Mendes,N. Mendes,69.0
+2026,Portugal,Gonçalo Inacio,G. Inacio,1512.0
+2026,Portugal,António Silva,A. Silva,4157.0
+2026,Portugal,Bruno Fernandes,B. Fernandes,11.0
+2026,Portugal,Bernardo Silva,B. Silva,85.0
+2026,Portugal,Rúben Neves,R. Neves,60.0
+2026,Portugal,João Palhinha,J. Palhinha,
+2026,Portugal,Pedro Gonçalves,P. Goncalves,67.0
+2026,Portugal,Vitinha,Vitinha,20.0
+2026,Portugal,Matheus Nunes,M. Nunes,189.0
+2026,Portugal,Renato Veiga,R. Veiga,452.0
+2026,Portugal,João Neves,J. Neves,34.0
+2026,Portugal,Cristiano Ronaldo,C. Ronaldo,292.0
+2026,Portugal,Pedro Neto,P. Neto,823.0
+2026,Portugal,Rafael Leão,R. Leao,576.0
+2026,Portugal,Francisco Trincão,F. Trincao,
+2026,Portugal,João Félix,J. Felix,388.0
+2026,Portugal,Gonçalo Ramos,G. Ramos,906.0
+2026,Portugal,Francisco Conceição,F. Conceicao,2149.0
+2026,Qatar,Meshaal Barsham,M. Barsham,17309.0
+2026,Qatar,Salah Zakaria,S. Zakaria,17733.0
+2026,Qatar,Mahmoud Abunada,M. Abunada,
+2026,Qatar,Shehab Ellethy,S. Ellethy,
+2026,Qatar,Ró-Ró,R. Ro,
+2026,Qatar,Lucas Mendes,L. Mendes,5783.0
+2026,Qatar,Almahdi Ali Mukhtar,A. Ali Mukhtar,
+2026,Qatar,Boualem Khoukhi,B. Khoukhi,4078.0
+2026,Qatar,Bassam Al-Rawi,B. Al Rawi,3202.0
+2026,Qatar,Tarek Salman,T. Salman,7254.0
+2026,Qatar,Ahmed Suhail,A. Suhail,10415.0
+2026,Qatar,Homam Ahmed,H. Ahmed,6262.0
+2026,Qatar,Abdalla Yousif,A. Yousif,
+2026,Qatar,Jassem Abdulsallam,J. Abdulsallam,
+2026,Qatar,Sultan Al-Brake,S. Al Brake,
+2026,Qatar,Abdulaziz Hatem,A. Hatem,2565.0
+2026,Qatar,Guilherme,Guilherme,579.0
+2026,Qatar,Karim Boudiaf,K. Boudiaf,2832.0
+2026,Qatar,Assim Madibo,A. Madibo,7306.0
+2026,Qatar,Ahmed Fathi,A. Fathi,7985.0
+2026,Qatar,Mohamed Naceur Almanai,M. Naceur Almanai,
+2026,Qatar,Mohammed Waad,M. Waad,
+2026,Qatar,Ayoub Al Oui,A. Al Oui,
+2026,Qatar,Edmílson Junior,E. Junior,1217.0
+2026,Qatar,Mohammed Muntari,M. Muntari,12273.0
+2026,Qatar,Akram Afif,A. Afif,2775.0
+2026,Qatar,Hassan Al-Haydos,H. Al Haydos,5895.0
+2026,Qatar,Ahmed Alaaeldin,A. Alaaeldin,
+2026,Qatar,Yusuf Abdurisag,Y. Abdurisag,10906.0
+2026,Qatar,Ahmed Alrawi,A. Alrawi,11618.0
+2026,Qatar,Mohamed Gouda,M. Gouda,11014.0
+2026,Qatar,Tahsin Jamshid,T. Jamshid,
+2026,Qatar,Ahmed Al Ganehi,A. Al Ganehi,11327.0
+2026,Qatar,Almoez Ali,A. Ali,5314.0
+2026,Qatar,Sebastián Soria,S. Soria,
+2026,Saudi Arabia,Mohammed Al-Yami,M. Al Yami,14247.0
+2026,Saudi Arabia,Raghid Al-Najjar,R. Al Najjar,17936.0
+2026,Saudi Arabia,Nawaf Al-Aqidi,N. Al Aqidi,16881.0
+2026,Saudi Arabia,Abdulrahman Al-Sanbi,A. Al Sanbi,17585.0
+2026,Saudi Arabia,Hassan Al-Tombakti,H. Al Tombakti,
+2026,Saudi Arabia,Abdulelah Al-Amri,A. Al Amri,9764.0
+2026,Saudi Arabia,Saud Abdulhamid,S. Abdulhamid,2440.0
+2026,Saudi Arabia,Moteb Al-Harbi,M. Al Harbi,5466.0
+2026,Saudi Arabia,Nawaf Boushal,N. Boushal,7039.0
+2026,Saudi Arabia,Ali Majrashi,A. Majrashi,5504.0
+2026,Saudi Arabia,Mohammed Sulaiman,M. Sulaiman,15420.0
+2026,Saudi Arabia,Saad Al Mosa,S. Al Mosa,
+2026,Saudi Arabia,Salem Al-Dawsari,S. Al Dawsari,193.0
+2026,Saudi Arabia,Mohamed Kanno,M. Kanno,875.0
+2026,Saudi Arabia,Nasser Al-Dawsari,N. Al Dawsari,2497.0
+2026,Saudi Arabia,Abdullah Al-Khaibari,A. Al Khaibari,5773.0
+2026,Saudi Arabia,Aiman Yahya,A. Yahya,5035.0
+2026,Saudi Arabia,Ziyad Aljohani,Z. Aljohani,6560.0
+2026,Saudi Arabia,Ali Al-Hassan,A. Al Hassan,6867.0
+2026,Saudi Arabia,Musab Al-Juwayr,M. Al Juwayr,
+2026,Saudi Arabia,Jehad Thakri,J. Thakri,
+2026,Saudi Arabia,Saleh Al-Shehri,S. Al Shehri,8697.0
+2026,Saudi Arabia,Abdulrahman Al-Obud,A. Al Obud,6117.0
+2026,Saudi Arabia,Feras Al-Brikan,F. Al Brikan,
+2026,Saudi Arabia,Abdullah Al-Hamdan,A. Al Hamdan,7403.0
+2026,Saudi Arabia,Marwan Al-Sahafi,M. Al Sahafi,7813.0
+2026,Saudi Arabia,Muhannad Al-Saad,M. Al Saad,10277.0
+2026,Saudi Arabia,Waheb Saleh,W. Saleh,
+2026,Scotland,Liam Kelly,L. Kelly,4624.0
+2026,Scotland,Craig Gordon,C. Gordon,16978.0
+2026,Scotland,Angus Gunn,A. Gunn,16407.0
+2026,Scotland,Andrew Robertson,A. Robertson,207.0
+2026,Scotland,Grant Hanley,G. Hanley,12972.0
+2026,Scotland,John Souttar,J. Souttar,3493.0
+2026,Scotland,Scott McKenna,S. McKenna,10090.0
+2026,Scotland,Jack Hendry,J. Hendry,3186.0
+2026,Scotland,Kieran Tierney,K. Tierney,586.0
+2026,Scotland,Anthony Ralston,A. Ralston,1680.0
+2026,Scotland,Aaron Hickey,A. Hickey,2172.0
+2026,Scotland,Max Johnston,M. Johnston,5716.0
+2026,Scotland,Ryan Christie,R. Christie,226.0
+2026,Scotland,Kenny McLean,K. McLean,1435.0
+2026,Scotland,John McGinn,J. McGinn,63.0
+2026,Scotland,Lewis Ferguson,L. Ferguson,122.0
+2026,Scotland,Scott McTominay,S. McTominay,57.0
+2026,Scotland,Billy Gilmour,B. Gilmour,2054.0
+2026,Scotland,Josh Mulligan,J. Mulligan,5411.0
+2026,Scotland,Connor Barron,C. Barron,1353.0
+2026,Scotland,Lennon Miller,L. Miller,1922.0
+2026,Scotland,Lyndon Dykes,L. Dykes,7302.0
+2026,Scotland,Ché Adams,C. Adams,1097.0
+2026,Scotland,George Hirst,G. Hirst,4832.0
+2026,Scotland,Kieron Bowie,K. Bowie,6351.0
+2026,Scotland,Ben Gannon Doak,B. Gannon Doak,6301.0
+2026,Senegal,Mory Diaw,M. Diaw,16527.0
+2026,Senegal,Édouard Mendy,E. Mendy,16486.0
+2026,Senegal,Yehvann Diouf,Y. Diouf,16613.0
+2026,Senegal,Samba Mballo,S. Mballo,
+2026,Senegal,Kalidou Koulibaly,K. Koulibaly,2950.0
+2026,Senegal,Moussa Niakhaté,M. Niakhate,4084.0
+2026,Senegal,Abdoulaye Seck,A. Seck,
+2026,Senegal,Ismail Jakobs,I. Jakobs,1779.0
+2026,Senegal,Moustapha Mbow,M. Mbow,10661.0
+2026,Senegal,Antoine Mendy,A. Mendy,6466.0
+2026,Senegal,El Hadji Malick Diouf,E. Hadji Malick Diouf,
+2026,Senegal,Ilay Camara,I. Camara,2819.0
+2026,Senegal,Lamine Camara,L. Camara,365.0
+2026,Senegal,Idrissa Gueye,I. Gueye,960.0
+2026,Senegal,Nampalys Mendy,N. Mendy,2114.0
+2026,Senegal,Krépin Diatta,K. Diatta,1074.0
+2026,Senegal,Pape Gueye,P. Gueye,515.0
+2026,Senegal,Cheikh Niasse,C. Niasse,5799.0
+2026,Senegal,Pathé Ciss,P. Ciss,2307.0
+2026,Senegal,Pape Matar Sarr,P. Matar Sarr,
+2026,Senegal,Sadio Mané,S. Mane,169.0
+2026,Senegal,Habib Diallo,H. Diallo,5528.0
+2026,Senegal,Ismaïla Sarr,I. Sarr,1631.0
+2026,Senegal,Cherif Ndiaye,C. Ndiaye,5835.0
+2026,Senegal,Iliman Ndiaye,I. Ndiaye,1506.0
+2026,Senegal,Cheick Tidiane Sabaly,C. Tidiane Sabaly,
+2026,Senegal,Nicolas Jackson,N. Jackson,1152.0
+2026,South Africa,Ricardo Goss,R. Goss,
+2026,South Africa,Ronwen Williams,R. Williams,2313.0
+2026,South Africa,Sipho Chaine,S. Chaine,
+2026,South Africa,Thapelo Morena,T. Morena,
+2026,South Africa,Nkosinathi Sibisi,N. Sibisi,
+2026,South Africa,Khuliso Mudau,K. Mudau,
+2026,South Africa,Thabo Moloisane,T. Moloisane,
+2026,South Africa,Tholo Matuludi,T. Matuludi,
+2026,South Africa,Samukelo Kabini,S. Kabini,12111.0
+2026,South Africa,Khulumani Ndamane,K. Ndamane,
+2026,South Africa,Malibongwe Khoza,M. Khoza,
+2026,South Africa,Aubrey Modiba,A. Modiba,
+2026,South Africa,Yaya Sithole,Y. Sithole,
+2026,South Africa,Teboho Mokoena,T. Mokoena,
+2026,South Africa,Sipho Mbule,S. Mbule,
+2026,South Africa,Bathusi Jurry Aubaas,B. Jurry Aubaas,
+2026,South Africa,Thalente Mbatha,T. Mbatha,
+2026,South Africa,Tshepang Moremi,T. Moremi,
+2026,South Africa,Mduduzi Shabalala,M. Shabalala,
+2026,South Africa,Lyle Foster,L. Foster,4508.0
+2026,South Africa,Oswin Appollis,O. Appollis,
+2026,South Africa,Iqraam Rayners,I. Rayners,
+2026,South Africa,Evidence Makgopa,E. Makgopa,
+2026,South Africa,Ashley Cupido,A. Cupido,
+2026,South Africa,Relebohile Ratomo,R. Ratomo,
+2026,South Africa,Mohau Nkota,M. Nkota,11973.0
+2026,South Korea,Kim Seung-Gyu,K. Seung Gyu,
+2026,South Korea,Jo Hyeon-Woo,J. Hyeon Woo,16714.0
+2026,South Korea,Song Bum-Keun,S. Bum Keun,17261.0
+2026,South Korea,Kim Min-Jae,K. Min Jae,4705.0
+2026,South Korea,Kim Ju-Sung,K. Ju Sung,
+2026,South Korea,Lee Myung-Jae,L. Myung Jae,4588.0
+2026,South Korea,Kim Moon-Hwan,K. Moon Hwan,3812.0
+2026,South Korea,Lee Tae-Seok,L. Tae Seok,5522.0
+2026,South Korea,Han-Beom Lee,H. Beom Lee,
+2026,South Korea,Seol Young-Woo,S. Young Woo,
+2026,South Korea,Cho Yu-Min,C. Yu Min,
+2026,South Korea,Kim Ji-Soo,K. Ji Soo,15147.0
+2026,South Korea,Kim Jin-Kyu,K. Jin Kyu,3466.0
+2026,South Korea,Lee Jae-Sung,L. Jae Sung,513.0
+2026,South Korea,Paik Seung-Ho,P. Seung Ho,921.0
+2026,South Korea,Lee Dong-Gyeong,L. Dong Gyeong,
+2026,South Korea,Lee Kang-in,L. Kang in,380.0
+2026,South Korea,Hwang In-Beom,H. In Beom,1050.0
+2026,South Korea,Won Du-Jae,W. Du Jae,
+2026,South Korea,Jens Castrop,J. Castrop,2298.0
+2026,South Korea,Park Jin-Seop,P. Jin Seop,
+2026,South Korea,Son Heung-Min,S. Heung Min,
+2026,South Korea,Hwang Hee-Chan,H. Hee Chan,1773.0
+2026,South Korea,Jeong Sang-Bin,J. Sang Bin,8068.0
+2026,South Korea,Eom Ji-Sung,E. Ji Sung,4470.0
+2026,South Korea,Oh Hyun-Gyu,O. Hyun Gyu,
+2026,Spain,David Raya,D. Raya,13866.0
+2026,Spain,Álex Remiro,A. Remiro,15840.0
+2026,Spain,Unai Simón,U. Simon,15843.0
+2026,Spain,Aymeric Laporte,A. Laporte,1738.0
+2026,Spain,Alejandro Grimaldo,A. Grimaldo,
+2026,Spain,Robin Le Normand,R. Le Normand,6240.0
+2026,Spain,Marc Cucurella,M. Cucurella,77.0
+2026,Spain,Pedro Porro,P. Porro,51.0
+2026,Spain,Dani Vivian,D. Vivian,
+2026,Spain,Pau Cubarsí,P. Cubarsi,2560.0
+2026,Spain,Marcos Llorente,M. Llorente,18.0
+2026,Spain,Mikel Merino,M. Merino,45.0
+2026,Spain,Aleix García,A. Garcia,115.0
+2026,Spain,Dani Olmo,D. Olmo,378.0
+2026,Spain,Pedri,Pedri,31.0
+2026,Spain,Martín Zubimendi,M. Zubimendi,
+2026,Spain,Yéremy Pino,Y. Pino,2310.0
+2026,Spain,Álex Baena,A. Baena,116.0
+2026,Spain,Pablo Barrios,P. Barrios,393.0
+2026,Spain,Lamine Yamal,L. Yamal,1104.0
+2026,Spain,Nico Williams,N. Williams,453.0
+2026,Spain,Borja Iglesias,B. Iglesias,1156.0
+2026,Spain,Mikel Oyarzabal,M. Oyarzabal,
+2026,Spain,Jorge de Frutos,J. de Frutos,
+2026,Spain,Samu Aghehowa,S. Aghehowa,
+2026,Spain,Jesús Rodriguez,J. Rodriguez,1120.0
+2026,Switzerland,Yvon Mvogo,Y. Mvogo,16147.0
+2026,Switzerland,Gregor Kobel,G. Kobel,16282.0
+2026,Switzerland,Marvin Keller,M. Keller,17260.0
+2026,Switzerland,Ricardo Rodríguez,R. Rodriguez,241.0
+2026,Switzerland,Silvan Widmer,S. Widmer,1204.0
+2026,Switzerland,Nico Elvedi,N. Elvedi,4736.0
+2026,Switzerland,Manuel Akanji,M. Akanji,1496.0
+2026,Switzerland,Miro Muheim,M. Muheim,627.0
+2026,Switzerland,Isaac Schmidt,I. Schmidt,3073.0
+2026,Switzerland,Aurèle Amenda,A. Amenda,13194.0
+2026,Switzerland,Luca Jaquez,L. Jaquez,8992.0
+2026,Switzerland,Adrian Bajrami,A. Bajrami,14378.0
+2026,Switzerland,Zachary Athekame,Z. Athekame,11263.0
+2026,Switzerland,Granit Xhaka,G. Xhaka,165.0
+2026,Switzerland,Remo Freuler,R. Freuler,418.0
+2026,Switzerland,Vincent Sierro,V. Sierro,913.0
+2026,Switzerland,Djibril Sow,D. Sow,327.0
+2026,Switzerland,Rubén Vargas,R. Vargas,1338.0
+2026,Switzerland,Fabian Rieder,F. Rieder,2185.0
+2026,Switzerland,Johan Manzambi,J. Manzambi,5409.0
+2026,Switzerland,Breel Embolo,B. Embolo,860.0
+2026,Switzerland,Cedric Itten,C. Itten,4524.0
+2026,Switzerland,Andi Zeqiri,A. Zeqiri,5405.0
+2026,Switzerland,Dan Ndoye,D. Ndoye,483.0
+2026,Tunisia,Aymen Dahmen,A. Dahmen,
+2026,Tunisia,Ben Said,B. Said,
+2026,Tunisia,Noureddine Farhati,N. Farhati,
+2026,Tunisia,Nader Ghandri,N. Ghandri,
+2026,Tunisia,Yassine Meriah,Y. Meriah,
+2026,Tunisia,Dylan Bronn,D. Bronn,3096.0
+2026,Tunisia,Yan Valery,Y. Valery,3697.0
+2026,Tunisia,Montassar Talbi,M. Talbi,11724.0
+2026,Tunisia,Ali Abdi,A. Abdi,929.0
+2026,Tunisia,Alaa Ghram,A. Ghram,7821.0
+2026,Tunisia,Moutaz Neffati,M. Neffati,8503.0
+2026,Tunisia,Amine Cherni,A. Cherni,10558.0
+2026,Tunisia,Ferjani Sassi,F. Sassi,
+2026,Tunisia,Mohamed Ben Larbi,M. Ben Larbi,
+2026,Tunisia,Ellyes Skhiri,E. Skhiri,237.0
+2026,Tunisia,Aïssa Laïdouni,A. Laidouni,
+2026,Tunisia,Mortadha Ben Ouanes,M. Ben Ouanes,2596.0
+2026,Tunisia,Mohamed Ali Ben Romdhane,M. Ali Ben Romdhane,
+2026,Tunisia,Hadj Mahmoud,H. Mahmoud,
+2026,Tunisia,Hannibal Mejbri,H. Mejbri,
+2026,Tunisia,Naïm Sliti,N. Sliti,
+2026,Tunisia,Firas Chaouat,F. Chaouat,
+2026,Tunisia,Sebastian Tounekti,S. Tounekti,8842.0
+2026,Tunisia,Ismaël Gharbi,I. Gharbi,3491.0
+2026,Tunisia,Elias Saad,E. Saad,5993.0
+2026,Tunisia,Sayfallah Ltaief,S. Ltaief,6936.0
+2026,Tunisia,Youssef Snana,Y. Snana,
+2026,Tunisia,Hazem Mastouri,H. Mastouri,
+2026,United States,Matthew Freese,M. Freese,17536.0
+2026,United States,Patrick Schulte,P. Schulte,17158.0
+2026,United States,Chris Brady,C. Brady,17607.0
+2026,United States,Matt Turner,M. Turner,16659.0
+2026,United States,Mark McKenzie,M. McKenzie,7722.0
+2026,United States,Tim Ream,T. Ream,5561.0
+2026,United States,Cameron Carter-Vickers,C. Carter Vickers,4164.0
+2026,United States,Antonee Robinson,A. Robinson,485.0
+2026,United States,Alex Freeman,A. Freeman,4323.0
+2026,United States,Miles Robinson,M. Robinson,7130.0
+2026,United States,Chris Richards,C. Richards,8083.0
+2026,United States,Diego Luna,D. Luna,3476.0
+2026,United States,Cristian Roldan,C. Roldan,433.0
+2026,United States,Christian Pulisic,C. Pulisic,167.0
+2026,United States,Weston McKennie,W. McKennie,87.0
+2026,United States,James Sands,J. Sands,7048.0
+2026,United States,Brenden Aaronson,B. Aaronson,1727.0
+2026,United States,Aidan Morris,A. Morris,2860.0
+2026,United States,Malik Tillman,M. Tillman,117.0
+2026,United States,Tanner Tessmann,T. Tessmann,1888.0
+2026,United States,Patrick Agyemang,P. Agyemang,11328.0
+2026,United States,Alejandro Zendejas,A. Zendejas,1991.0
+2026,United States,Haji Wright,H. Wright,4070.0
+2026,United States,Timothy Weah,T. Weah,272.0
+2026,United States,Folarin Balogun,F. Balogun,3324.0
+2026,United States,Max Arfsten,M. Arfsten,4645.0
+2026,Uruguay,Paulo Da Costa,P. Da Costa,
+2026,Uruguay,Cristopher Fiermarin,C. Fiermarin,
+2026,Uruguay,Franco Israel,F. Israel,17065.0
+2026,Uruguay,José Luis Rodríguez,J. Luis Rodriguez,
+2026,Uruguay,Marcelo Saracchi,M. Saracchi,1121.0
+2026,Uruguay,Santiago Bueno,S. Bueno,9876.0
+2026,Uruguay,Nicolás Marichal,N. Marichal,
+2026,Uruguay,Santiago Mouriño,S. Mourino,7586.0
+2026,Uruguay,Kevin Amaro,K. Amaro,
+2026,Uruguay,Brian Barboza,B. Barboza,
+2026,Uruguay,Emiliano Martínez,E. Martinez,11893.0
+2026,Uruguay,Nicolás Fonseca,N. Fonseca,
+2026,Uruguay,Ignacio Laquintana,I. Laquintana,
+2026,Uruguay,Rodrigo Zalazar,R. Zalazar,119.0
+2026,Uruguay,Juan Manuel Sanabria,J. Manuel Sanabria,
+2026,Uruguay,Luciano Gonzalez,L. Gonzalez,1840.0
+2026,Uruguay,Julio Daguer,J. Daguer,
+2026,Uruguay,Pablo Alcoba,P. Alcoba,
+2026,Uruguay,Facundo Martinez,F. Martinez,
+2026,Uruguay,Nicolas Azambuja,N. Azambuja,
+2026,Uruguay,Facundo Torres,F. Torres,9643.0
+2026,Uruguay,Luciano Rodríguez,L. Rodriguez,2000.0
+2026,Uruguay,Federico Viñas,F. Vinas,5211.0
+2026,Uruguay,Agustín Álvarez Martínez,A. Alvarez Martinez,

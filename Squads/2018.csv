@@ -1,5 +1,5 @@
 year,team,player_name
-2018,Egypt,Essam El Hadary (captain)
+2018,Egypt,Essam El Hadary 
 2018,Egypt,Ali Gabr
 2018,Egypt,Ahmed Elmohamady
 2018,Egypt,Omar Gaber
@@ -22,7 +22,7 @@ year,team,player_name
 2018,Egypt,Trézéguet
 2018,Egypt,Amr Warda
 2018,Egypt,Mohamed El Shenawy
-2018,Russia,Igor Akinfeev (captain)
+2018,Russia,Igor Akinfeev 
 2018,Russia,Mário Fernandes
 2018,Russia,Ilya Kutepov
 2018,Russia,Sergei Ignashevich
@@ -47,7 +47,7 @@ year,team,player_name
 2018,Russia,Igor Smolnikov
 2018,Saudi Arabia,Abdullah Al-Mayouf
 2018,Saudi Arabia,Mansoor Al-Harbi
-2018,Saudi Arabia,Osama Hawsawi (captain)
+2018,Saudi Arabia,Osama Hawsawi 
 2018,Saudi Arabia,Ali Al-Bulaihi
 2018,Saudi Arabia,Omar Hawsawi
 2018,Saudi Arabia,Mohammed Al-Breik
@@ -70,7 +70,7 @@ year,team,player_name
 2018,Saudi Arabia,Motaz Hawsawi
 2018,Uruguay,Fernando Muslera
 2018,Uruguay,José Giménez
-2018,Uruguay,Diego Godín (captain)
+2018,Uruguay,Diego Godín 
 2018,Uruguay,Guillermo Varela
 2018,Uruguay,Carlos Sánchez
 2018,Uruguay,Rodrigo Bentancur
@@ -97,7 +97,7 @@ year,team,player_name
 2018,Iran,Rouzbeh Cheshmi
 2018,Iran,Milad Mohammadi
 2018,Iran,Saeid Ezatolahi
-2018,Iran,Masoud Shojaei (captain)
+2018,Iran,Masoud Shojaei 
 2018,Iran,Morteza Pouraliganji
 2018,Iran,Omid Ebrahimi
 2018,Iran,Karim Ansarifard
@@ -118,7 +118,7 @@ year,team,player_name
 2018,Morocco,Achraf Hakimi
 2018,Morocco,Hamza Mendyl
 2018,Morocco,Manuel da Costa
-2018,Morocco,Medhi Benatia (captain)
+2018,Morocco,Medhi Benatia 
 2018,Morocco,Romain Saïss
 2018,Morocco,Hakim Ziyech
 2018,Morocco,Karim El Ahmadi
@@ -143,7 +143,7 @@ year,team,player_name
 2018,Portugal,Manuel Fernandes
 2018,Portugal,Raphaël Guerreiro
 2018,Portugal,José Fonte
-2018,Portugal,Cristiano Ronaldo (captain)
+2018,Portugal,Cristiano Ronaldo 
 2018,Portugal,João Moutinho
 2018,Portugal,André Silva
 2018,Portugal,João Mário
@@ -174,7 +174,7 @@ year,team,player_name
 2018,Spain,Álvaro Odriozola
 2018,Spain,Kepa Arrizabalaga
 2018,Spain,César Azpilicueta
-2018,Spain,Sergio Ramos (captain)
+2018,Spain,Sergio Ramos 
 2018,Spain,Nacho Monreal
 2018,Spain,Iago Aspas
 2018,Spain,Jordi Alba
@@ -197,7 +197,7 @@ year,team,player_name
 2018,Australia,Brad Jones
 2018,Australia,Aaron Mooy
 2018,Australia,Jamie Maclaren
-2018,Australia,Mile Jedinak (captain)
+2018,Australia,Mile Jedinak 
 2018,Australia,Aziz Behich
 2018,Australia,Daniel Arzani
 2018,Australia,Danny Vukovic
@@ -209,7 +209,7 @@ year,team,player_name
 2018,Denmark,Kasper Schmeichel
 2018,Denmark,Michael Krohn-Dehli
 2018,Denmark,Jannik Vestergaard
-2018,Denmark,Simon Kjær (captain)
+2018,Denmark,Simon Kjær 
 2018,Denmark,Jonas Knudsen
 2018,Denmark,Andreas Christensen
 2018,Denmark,William Kvist
@@ -229,7 +229,7 @@ year,team,player_name
 2018,Denmark,Andreas Cornelius
 2018,Denmark,Frederik Rønnow
 2018,Denmark,Pione Sisto
-2018,France,Hugo Lloris (captain)
+2018,France,Hugo Lloris 
 2018,France,Benjamin Pavard
 2018,France,Presnel Kimpembe
 2018,France,Raphaël Varane
@@ -260,7 +260,7 @@ year,team,player_name
 2018,Peru,Miguel Trauco
 2018,Peru,Paolo Hurtado
 2018,Peru,Christian Cueva
-2018,Peru,Paolo Guerrero (captain)
+2018,Peru,Paolo Guerrero 
 2018,Peru,Jefferson Farfán
 2018,Peru,Raúl Ruidíaz
 2018,Peru,Carlos Cáceda
@@ -284,7 +284,7 @@ year,team,player_name
 2018,Argentina,Éver Banega
 2018,Argentina,Marcos Acuña
 2018,Argentina,Gonzalo Higuaín
-2018,Argentina,Lionel Messi (captain)
+2018,Argentina,Lionel Messi 
 2018,Argentina,Ángel Di María
 2018,Argentina,Franco Armani
 2018,Argentina,Maximiliano Meza
@@ -307,7 +307,7 @@ year,team,player_name
 2018,Croatia,Ivan Rakitić
 2018,Croatia,Mateo Kovačić
 2018,Croatia,Andrej Kramarić
-2018,Croatia,Luka Modrić (captain)
+2018,Croatia,Luka Modrić 
 2018,Croatia,Marcelo Brozović
 2018,Croatia,Lovre Kalinić
 2018,Croatia,Tin Jedvaj
@@ -337,7 +337,7 @@ year,team,player_name
 2018,Iceland,Kári Árnason
 2018,Iceland,Hólmar Örn Eyjólfsson
 2018,Iceland,Ólafur Ingi Skúlason
-2018,Iceland,Aron Gunnarsson (captain)
+2018,Iceland,Aron Gunnarsson 
 2018,Iceland,Hörður Björgvin Magnússon
 2018,Iceland,Rúrik Gíslason
 2018,Iceland,Emil Hallfreðsson
@@ -353,7 +353,7 @@ year,team,player_name
 2018,Nigeria,Ahmed Musa
 2018,Nigeria,Peter Etebo
 2018,Nigeria,Odion Ighalo
-2018,Nigeria,John Obi Mikel (captain)
+2018,Nigeria,John Obi Mikel 
 2018,Nigeria,Victor Moses
 2018,Nigeria,Shehu Abdullahi
 2018,Nigeria,Simeon Nwankwo
@@ -369,7 +369,7 @@ year,team,player_name
 2018,Nigeria,Francis Uzoho
 2018,Brazil,Alisson
 2018,Brazil,Thiago Silva
-2018,Brazil,Miranda (captain)
+2018,Brazil,Miranda 
 2018,Brazil,Pedro Geromel
 2018,Brazil,Casemiro
 2018,Brazil,Filipe Luís
@@ -399,7 +399,7 @@ year,team,player_name
 2018,Costa Rica,Christian Bolaños
 2018,Costa Rica,Bryan Oviedo
 2018,Costa Rica,Daniel Colindres
-2018,Costa Rica,Bryan Ruiz (captain)
+2018,Costa Rica,Bryan Ruiz 
 2018,Costa Rica,Johan Venegas
 2018,Costa Rica,Joel Campbell
 2018,Costa Rica,Rodney Wallace
@@ -423,7 +423,7 @@ year,team,player_name
 2018,Serbia,Aleksandar Prijović
 2018,Serbia,Aleksandar Mitrović
 2018,Serbia,Dušan Tadić
-2018,Serbia,Aleksandar Kolarov (captain)
+2018,Serbia,Aleksandar Kolarov 
 2018,Serbia,Predrag Rajković
 2018,Serbia,Miloš Veljković
 2018,Serbia,Milan Rodić
@@ -437,7 +437,7 @@ year,team,player_name
 2018,Serbia,Adem Ljajić
 2018,Serbia,Marko Dmitrović
 2018,Switzerland,Yann Sommer
-2018,Switzerland,Stephan Lichtsteiner (captain)
+2018,Switzerland,Stephan Lichtsteiner 
 2018,Switzerland,François Moubandje
 2018,Switzerland,Nico Elvedi
 2018,Switzerland,Manuel Akanji
@@ -459,7 +459,7 @@ year,team,player_name
 2018,Switzerland,Roman Bürki
 2018,Switzerland,Fabian Schär
 2018,Switzerland,Xherdan Shaqiri
-2018,Germany,Manuel Neuer (captain)
+2018,Germany,Manuel Neuer 
 2018,Germany,Marvin Plattenhardt
 2018,Germany,Jonas Hector
 2018,Germany,Matthias Ginter
@@ -485,7 +485,7 @@ year,team,player_name
 2018,Mexico,José de Jesús Corona
 2018,Mexico,Hugo Ayala
 2018,Mexico,Carlos Salcedo
-2018,Mexico,Rafael Márquez (captain)
+2018,Mexico,Rafael Márquez 
 2018,Mexico,Érick Gutiérrez
 2018,Mexico,Jonathan dos Santos
 2018,Mexico,Miguel Layún
@@ -520,7 +520,7 @@ year,team,player_name
 2018,South Korea,Koo Ja-cheol
 2018,South Korea,Hong Chul
 2018,South Korea,Jung Woo-young
-2018,South Korea,Ki Sung-yueng (captain)
+2018,South Korea,Ki Sung-yueng 
 2018,South Korea,Lee Jae-sung
 2018,South Korea,Moon Seon-min
 2018,South Korea,Kim Young-gwon
@@ -531,7 +531,7 @@ year,team,player_name
 2018,Sweden,Robin Olsen
 2018,Sweden,Mikael Lustig
 2018,Sweden,Victor Lindelöf
-2018,Sweden,Andreas Granqvist (captain)
+2018,Sweden,Andreas Granqvist 
 2018,Sweden,Martin Olsson
 2018,Sweden,Ludwig Augustinsson
 2018,Sweden,Sebastian Larsson
@@ -560,7 +560,7 @@ year,team,player_name
 2018,Belgium,Kevin De Bruyne
 2018,Belgium,Marouane Fellaini
 2018,Belgium,Romelu Lukaku
-2018,Belgium,Eden Hazard (captain)
+2018,Belgium,Eden Hazard 
 2018,Belgium,Yannick Carrasco
 2018,Belgium,Simon Mignolet
 2018,Belgium,Koen Casteels
@@ -582,7 +582,7 @@ year,team,player_name
 2018,England,Harry Maguire
 2018,England,Jesse Lingard
 2018,England,Jordan Henderson
-2018,England,Harry Kane (captain)
+2018,England,Harry Kane 
 2018,England,Raheem Sterling
 2018,England,Jamie Vardy
 2018,England,Kieran Trippier
@@ -619,7 +619,7 @@ year,team,player_name
 2018,Panama,Aníbal Godoy
 2018,Panama,José Luis Rodríguez
 2018,Panama,Álex Rodríguez
-2018,Panama,Felipe Baloy (captain)
+2018,Panama,Felipe Baloy 
 2018,Tunisia,Farouk Ben Mustapha
 2018,Tunisia,Syam Ben Youssef
 2018,Tunisia,Yohan Benalouane
@@ -635,7 +635,7 @@ year,team,player_name
 2018,Tunisia,Ferjani Sassi
 2018,Tunisia,Mohamed Amine Ben Amor
 2018,Tunisia,Ahmed Khalil
-2018,Tunisia,Aymen Mathlouthi (captain)
+2018,Tunisia,Aymen Mathlouthi 
 2018,Tunisia,Ellyes Skhiri
 2018,Tunisia,Bassem Srarfi
 2018,Tunisia,Saber Khalifa
@@ -651,7 +651,7 @@ year,team,player_name
 2018,Colombia,Carlos Sánchez
 2018,Colombia,Carlos Bacca
 2018,Colombia,Abel Aguilar
-2018,Colombia,Radamel Falcao (captain)
+2018,Colombia,Radamel Falcao 
 2018,Colombia,James Rodríguez
 2018,Colombia,Juan Cuadrado
 2018,Colombia,Camilo Vargas
@@ -682,7 +682,7 @@ year,team,player_name
 2018,Japan,Takashi Inui
 2018,Japan,Yuya Osako
 2018,Japan,Hotaru Yamaguchi
-2018,Japan,Makoto Hasebe (captain)
+2018,Japan,Makoto Hasebe 
 2018,Japan,Ryota Oshima
 2018,Japan,Hiroki Sakai
 2018,Japan,Tomoaki Makino
@@ -697,7 +697,7 @@ year,team,player_name
 2018,Poland,Jacek Góralski
 2018,Poland,Arkadiusz Milik
 2018,Poland,Karol Linetty
-2018,Poland,Robert Lewandowski (captain)
+2018,Poland,Robert Lewandowski 
 2018,Poland,Grzegorz Krychowiak
 2018,Poland,Kamil Grosicki
 2018,Poland,Bartosz Białkowski
@@ -719,7 +719,7 @@ year,team,player_name
 2018,Senegal,Idrissa Gueye
 2018,Senegal,Salif Sané
 2018,Senegal,Moussa Sow
-2018,Senegal,Cheikhou Kouyaté (captain)
+2018,Senegal,Cheikhou Kouyaté 
 2018,Senegal,Mame Biram Diouf
 2018,Senegal,Sadio Mané
 2018,Senegal,Cheikh N'Doye

@@ -1,1075 +1,979 @@
 year,team,player_name
-2026,Algeria,GK: Farid Chaâl (CR Belouizdad)
-2026,Algeria,GK: Rayane Yesli (HFX Wanderers)
-2026,Algeria,GK: Mohamed Idir Hadid (JS Kabylie)
-2026,Algeria,DF: Houari Baouche (CS Constantine)
-2026,Algeria,DF: Naoufel Khacef (CR Belouizdad)
-2026,Algeria,DF: Youcef Atal (Al-Sadd)
-2026,Algeria,DF: Abdelkader Bedrane (Damac)
-2026,Algeria,DF: Réda Halaïmia (MC Alger)
-2026,Algeria,DF: Mohamed Amine Tougai (Espérance de Tunis)
-2026,Algeria,DF: Achref Abada (ASO Chlef)
-2026,Algeria,DF: Reda Benchaa (JS Kabylie)
-2026,Algeria,MF: Sofiane Bendebka (Al-Fateh)
-2026,Algeria,MF: Zakaria Draoui (USM Alger)
-2026,Algeria,MF: Victor Lekhal (Al-Qadsia)
-2026,Algeria,MF: Houssem Eddine Mrezigue (Dynamo Makhachkala)
-2026,Algeria,FW: Adil Boulbina (Al-Duhail)
-2026,Algeria,FW: Yassine Benzia (Al-Fayha)
-2026,Algeria,FW: Amir Sayoud (Al-Hazem)
-2026,Algeria,FW: Yacine Brahimi (Al-Gharafa)
-2026,Algeria,FW: Islam Slimani (CFR Cluj)
-2026,Algeria,FW: Rafik Guitane (Estoril Praia)
-2026,Algeria,FW: Redouane Berkane (Al-Wakrah)
-2026,Algeria,FW: Adam Ounas (Al-Sailiya)
-2026,Argentina,GK: Geronimo Rulli (Marseille)
-2026,Argentina,GK: Walter Benitez (Crystal Palace)
-2026,Argentina,DF: Nicolas Otamendi (Benfica)
-2026,Argentina,DF: Nicolas Tagliafico (Lyon)
-2026,Argentina,DF: Cristian Romero (Tottenham Hotspur)
-2026,Argentina,DF: Juan Foyth (Villarreal)
-2026,Argentina,DF: Valentin Barco (Strasbourg)
-2026,Argentina,DF: Marcos Senesi (Bournemouth)
-2026,Argentina,DF: Kevin Mac Allister (Union SG)
-2026,Argentina,MF: Rodrigo De Paul (Inter Miami)
-2026,Argentina,MF: Leandro Paredes (Boca Juniors)
-2026,Argentina,MF: Giovani Lo Celso (Real Betis)
-2026,Argentina,MF: Alexis Mac Allister (Liverpool)
-2026,Argentina,MF: Thiago Almada (Atletico Madrid)
-2026,Argentina,MF: Nico Paz (Como)
-2026,Argentina,MF: Emiliano Buendia (Aston Villa)
-2026,Argentina,MF: Maximo Perrone (Como)
-2026,Argentina,FW: Lionel Messi (Inter Miami)
-2026,Argentina,FW: Lautaro Martinez (Internazionale)
-2026,Argentina,FW: Nicolas Gonzalez (Atletico Madrid)
-2026,Argentina,FW: Jose Manuel Lopez (Palmeiras)
-2026,Argentina,FW: Joaquin Panichelli (Strasbourg)
-2026,Argentina,FW: Gianluca Prestianni (Benfica)
-2026,Australia,GK: Mathew Ryan (Levante)
-2026,Australia,GK: Paul Izzo (Randers)
-2026,Australia,GK: Patrick Beach (Melbourne City)
-2026,Australia,DF: Milos Degenek (TSC)
-2026,Australia,DF: Lewis Miller (Blackburn Rovers)
-2026,Australia,DF: Callum Elder (Derby County)
-2026,Australia,DF: Kai Trewin (Melbourne City)
-2026,Australia,DF: Jason Geria (Albirex Niigata)
-2026,Australia,DF: Cameron Burgess (Swansea City)
-2026,Australia,DF: James Overy (Manchester United)
-2026,Australia,DF: Jack Iredale (Hibernian)
-2026,Australia,DF: Kye Rowles (D.C. United)
-2026,Australia,MF: Connor Metcalfe (FC St. Pauli)
-2026,Australia,MF: Aiden O'Neill (New York City)
-2026,Australia,MF: Riley McGree (Middlesbrough)
-2026,Australia,MF: Max Balard (NAC Breda)
-2026,Australia,MF: Cameron Devlin (Heart of Midlothian)
-2026,Australia,MF: Paul Okon-Engstler (Sydney FC)
-2026,Australia,MF: Jackson Irvine (FC St. Pauli)
-2026,Australia,FW: Martin Boyle (Hibernian)
-2026,Australia,FW: Nestory Irankunda (Watford)
-2026,Australia,FW: Mohamed Toure (Randers)
-2026,Australia,FW: Al Hassan Toure (Sydney FC)
-2026,Australia,FW: Craig Goodwin (Adelaide United)
-2026,Australia,FW: Nicholas D'Agostino (Viking)
-2026,Austria,GK: Alexander Schlager (Red Bull Salzburg)
-2026,Austria,GK: Nikolas Polster (Wolfsberger AC)
-2026,Austria,GK: Patrick Pentz (Brondby)
-2026,Austria,GK: Nicolas Kristof (Elversberg)
-2026,Austria,DF: Marco Friedl (Werder Bremen)
-2026,Austria,DF: Kevin Danso (Tottenham Hotspur)
-2026,Austria,DF: Stefan Posch (Como)
-2026,Austria,DF: David Alaba (Real Madrid)
-2026,Austria,DF: Leopold Querfeld (Union Berlin)
-2026,Austria,DF: Philipp Lienhart (SC Freiburg)
-2026,Austria,DF: Phillipp Mwene (Mainz 05)
-2026,Austria,DF: Alexander Prass (TSG Hoffenheim)
-2026,Austria,MF: Xaver Schlager (RB Leipzig)
-2026,Austria,MF: Nicolas Seiwald (RB Leipzig)
-2026,Austria,MF: Marcel Sabitzer (Borussia Dortmund)
-2026,Austria,MF: Florian Grillitsch (Braga)
-2026,Austria,MF: Marco Grull (Werder Bremen)
-2026,Austria,MF: Romano Schmid (Werder Bremen)
-2026,Austria,MF: Christoph Baumgartner (RB Leipzig)
-2026,Austria,MF: Konrad Laimer (Bayern Munich)
-2026,Austria,MF: Patrick Wimmer (VfL Wolfsburg)
-2026,Austria,MF: Alessandro Schopf (Wolfsberger AC)
-2026,Austria,FW: Marko Arnautovic (Red Star Belgrade)
-2026,Austria,FW: Michael Gregoritsch (Brondby)
-2026,Austria,FW: Nikolaus Wurmbrand (Rapid Wien)
-2026,Austria,FW: Raul Florucz (Union Saint-Gilloise)
-2026,Belgium,GK: Senne Lammens (Manchester United)
-2026,Belgium,GK: Mike Penders (Strasbourg)
-2026,Belgium,GK: Matz Sels (Nottingham Forest)
-2026,Belgium,GK: Maarten Vandevoordt (RB Leipzig)
-2026,Belgium,DF: Joaquin Seys (Club Brugge)
-2026,Belgium,DF: Arthur Theate (Eintracht Frankfurt)
-2026,Belgium,DF: Brandon Mechele (Club Brugge)
-2026,Belgium,DF: Maxim De Cuyper (Brighton & Hove Albion)
-2026,Belgium,DF: Thomas Meunier (Lille)
-2026,Belgium,DF: Koni De Winter (Milan)
-2026,Belgium,DF: Timothy Castagne (Fulham)
-2026,Belgium,MF: Axel Witsel (Girona)
-2026,Belgium,MF: Diego Moreira (Strasbourg)
-2026,Belgium,MF: Youri Tielemans (Aston Villa)
-2026,Belgium,MF: Charles Vanhoutte (Nice)
-2026,Belgium,MF: Hans Vanaken (Club Brugge)
-2026,Belgium,MF: Nicolas Raskin (Rangers)
-2026,Belgium,FW: Lois Openda (Juventus)
-2026,Belgium,FW: Leandro Trossard (Arsenal)
-2026,Belgium,FW: Jeremy Doku (Manchester City)
-2026,Belgium,FW: Dodi Lukebakio (Benfica)
-2026,Belgium,FW: Charles De Ketelaere (Atalanta)
-2026,Belgium,FW: Romeo Vermant (Club Brugge)
-2026,Belgium,FW: Alexis Saelemaekers (Milan)
-2026,Brazil,GK: Ederson (Fenerbahce)
-2026,Brazil,GK: Bento (Al-Nassr)
-2026,Brazil,GK: John Victor (Nottingham Forest)
-2026,Brazil,DF: Marquinhos (Paris Saint-Germain)
-2026,Brazil,DF: Danilo (Flamengo)
-2026,Brazil,DF: Alex Sandro (Flamengo)
-2026,Brazil,DF: Eder Militao (Real Madrid)
-2026,Brazil,DF: Gabriel Magalhaes (Arsenal)
-2026,Brazil,DF: Fabricio Bruno (Cruzeiro)
-2026,Brazil,DF: Caio Henrique (Monaco)
-2026,Brazil,DF: Wesley (Roma)
-2026,Brazil,DF: Paulo Henrique (Vasco da Gama)
-2026,Brazil,DF: Luciano Juba (Bahia)
-2026,Brazil,MF: Casemiro (Manchester United)
-2026,Brazil,MF: Lucas Paqueta (West Ham United)
-2026,Brazil,MF: Bruno Guimaraes (Newcastle United)
-2026,Brazil,MF: Fabinho (Al-Ittihad)
-2026,Brazil,MF: Andrey Santos (Chelsea)
-2026,Brazil,FW: Richarlison (Tottenham Hotspur)
-2026,Brazil,FW: Vinicius Junior (Real Madrid)
-2026,Brazil,FW: Rodrygo (Real Madrid)
-2026,Brazil,FW: Matheus Cunha (Manchester United)
-2026,Brazil,FW: Estevao (Chelsea)
-2026,Brazil,FW: Luiz Henrique (Zenit Saint Petersburg)
-2026,Brazil,FW: Joao Pedro (Chelsea)
-2026,Brazil,FW: Vitor Roque (Palmeiras)
-2026,Canada,GK: Dayne St. Clair (Minnesota United)
-2026,Canada,GK: Maxime Crepeau (Portland Timbers)
-2026,Canada,GK: Owen Goodman (Huddersfield Town)
-2026,Canada,DF: Zorhan Bassong (Sporting Kansas City)
-2026,Canada,DF: Kamal Miller (Portland Timbers)
-2026,Canada,DF: Joel Waterman (Chicago Fire)
-2026,Canada,DF: Derek Cornelius (Rangers)
-2026,Canada,DF: Richie Laryea (Toronto FC)
-2026,Canada,DF: Niko Sigur (Hajduk Split)
-2026,Canada,DF: Alfie Jones (Middlesbrough)
-2026,Canada,MF: Mathieu Choiniere (Los Angeles FC)
-2026,Canada,MF: Stephen Eustaquio (Porto)
-2026,Canada,MF: Ismael Kone (Sassuolo)
-2026,Canada,MF: Tajon Buchanan (Villarreal)
-2026,Canada,MF: Nathan Saliba (Anderlecht)
-2026,Canada,MF: Ali Ahmed (Vancouver Whitecaps)
-2026,Canada,MF: Jonathan Osorio (Toronto FC)
-2026,Canada,MF: Jayden Nelson (Vancouver Whitecaps)
-2026,Canada,MF: Junior Hoilett (Hibernian)
-2026,Canada,MF: Marcelo Flores TRP (UANL)
-2026,Canada,FW: Cyle Larin (Feyenoord)
-2026,Canada,FW: Jonathan David (Juventus)
-2026,Canada,FW: Tani Oluwaseyi (Villarreal)
-2026,Canada,FW: Promise David (Union Saint-Gilloise)
-2026,Canada,FW: Theo Bair (Lausanne-Sport)
-2026,Cape Verde,GK: Vozinha (Chaves)
-2026,Cape Verde,GK: Marcio Rosa (Montana)
-2026,Cape Verde,GK: Bruno Varela (Al-Hazem)
-2026,Cape Verde,DF: Stopira (Torreense)
-2026,Cape Verde,DF: Diney (Al Bataeh)
-2026,Cape Verde,DF: Ricardo Santos (Swansea City)
-2026,Cape Verde,DF: Kelvin Pires (SJK)
-2026,Cape Verde,DF: Wagner Pina (Trabzonspor)
-2026,Cape Verde,DF: Sidny Lopes Cabral (Estrela da Amadora)
-2026,Cape Verde,DF: Jojo (Vizela)
-2026,Cape Verde,DF: David Moreira (Sporting CP)
-2026,Cape Verde,MF: Kevin Pina (Krasnodar)
-2026,Cape Verde,MF: Joao Paulo (Otelul Galati)
-2026,Cape Verde,MF: Jamiro Monteiro (PEC Zwolle)
-2026,Cape Verde,MF: Deroy Duarte (Ludogorets Razgrad)
-2026,Cape Verde,MF: Laros Duarte (Puskas Akademia)
-2026,Cape Verde,MF: Telmo Arcanjo (Vitoria de Guimaraes)
-2026,Cape Verde,MF: Ailson Tavares (Beitar Jerusalem)
-2026,Cape Verde,FW: Dailon Livramento (Casa Pia)
-2026,Cape Verde,FW: Garry Rodrigues (Apollon Limassol)
-2026,Cape Verde,FW: Alessio da Cruz (Athletic)
-2026,Cape Verde,FW: Willy Semedo (Omonia)
-2026,Cape Verde,FW: Helio Varela (Maccabi Tel Aviv)
-2026,Cape Verde,FW: Ryan Mendes (Igdir) (captain)
-2026,Cape Verde,FW: Nuno da Costa (Istanbul Basaksehir)
-2026,Cape Verde,FW: Heriberto Tavares (Maccabi Netanya)
-2026,Colombia,GK: David Ospina (Atletico Nacional)
-2026,Colombia,GK: Camilo Vargas (Atlas)
-2026,Colombia,GK: Alvaro Montero (Velez Sarsfield)
-2026,Colombia,DF: Davinson Sanchez (Galatasaray)
-2026,Colombia,DF: Santiago Arias (Bahia)
-2026,Colombia,DF: Yerry Mina (Cagliari)
-2026,Colombia,DF: Daniel Munoz (Crystal Palace)
-2026,Colombia,DF: Johan Mojica (Mallorca)
-2026,Colombia,DF: Jhon Lucumi (Bologna)
-2026,Colombia,DF: Carlos Cuesta (Vasco da Gama)
-2026,Colombia,DF: Alvaro Angulo (UNAM)
-2026,Colombia,MF: James Rodriguez (León)
-2026,Colombia,MF: Jefferson Lerma (Crystal Palace)
-2026,Colombia,MF: Jhon Arias (Wolverhampton Wanderers)
-2026,Colombia,MF: Richard Rios (Benfica)
-2026,Colombia,MF: Kevin Castano (River Plate)
-2026,Colombia,MF: Jorge Carrascal (Flamengo)
-2026,Colombia,MF: Yaser Asprilla (Girona)
-2026,Colombia,MF: Juan Portilla (Talleres)
-2026,Colombia,MF: Gustavo Puerta (Racing de Santander)
-2026,Colombia,FW: Luis Diaz (Bayern Munich)
-2026,Colombia,FW: Rafael Santos Borre (Internacional)
-2026,Colombia,FW: Jhon Cordoba (Krasnodar)
-2026,Colombia,FW: Luis Suarez (Sporting CP)
-2026,Colombia,FW: Andres Gomez (Vasco da Gama)
-2026,Colombia,FW: Johan Carbonero (Internacional)
-2026,Croatia,GK: Dominik Livaković (Girona)
-2026,Croatia,GK: Ivica Ivušić (Hajduk Split)
-2026,Croatia,GK: Ivor Pandur (Hull City)
-2026,Croatia,DF: Joško Gvardiol (Manchester City)
-2026,Croatia,DF: Duje Ćaleta-Car (Real Sociedad)
-2026,Croatia,DF: Josip Šutalo (Ajax)
-2026,Croatia,DF: Josip Stanišić (Bayern Munich)
-2026,Croatia,DF: Marin Pongračić (Fiorentina)
-2026,Croatia,DF: Martin Erlić (Midtjylland)
-2026,Croatia,DF: Luka Vušković (Hamburger SV)
-2026,Croatia,MF: Luka Modrić (Milan) (captain)
-2026,Croatia,MF: Mario Pašalić (Atalanta)
-2026,Croatia,MF: Nikola Vlašić (Torino)
-2026,Croatia,MF: Kristijan Jakić (FC Augsburg)
-2026,Croatia,MF: Petar Sučić (Inter Milan)
-2026,Croatia,MF: Nikola Moro (Bologna)
-2026,Croatia,MF: Toni Fruk (Rijeka)
-2026,Croatia,FW: Ivan Perišić (PSV Eindhoven) (vice-captain)
-2026,Croatia,FW: Andrej Kramarić (TSG Hoffenheim)
-2026,Croatia,FW: Mislav Oršić (Pafos)
-2026,Croatia,FW: Marco Pašalić (Orlando City)
-2026,Croatia,FW: Franjo Ivanović (Benfica)
-2026,Croatia,FW: Petar Musa (Dallas)
-2026,Croatia,FW: Igor Matanović (SC Freiburg)
-2026,Curucao,GK: Eloy Room (Unattached)
-2026,Curucao,GK: Trevor Doornbusch (VVV Venlo)
-2026,Curucao,GK: Tyrick Bodak (Telstar)
-2026,Curucao,DF: Jurien Gaari (Abha)
-2026,Curucao,DF: Roshon van Eijma (RKC Waalwijk)
-2026,Curucao,DF: Sherel Floranus (PEC Zwolle)
-2026,Curucao,DF: Joshua Brenet (Livingston)
-2026,Curucao,DF: Shurandy Sambo (Sparta Rotterdam)
-2026,Curucao,DF: Armando Obispo (PSV Eindhoven)
-2026,Curucao,DF: Deveron Fonville (NEC)
-2026,Curucao,MF: Leandro Bacuna (Bandırmaspor)
-2026,Curucao,MF: Juninho Bacuna (Gaziantep)
-2026,Curucao,MF: Godfried Roemeratoe (RKC Waalwijk)
-2026,Curucao,MF: Kevin Felida (Den Bosch)
-2026,Curucao,MF: Livano Comenencia (Zurich)
-2026,Curucao,MF: Ar'jany Martha (Rotherham United)
-2026,Curucao,MF: Tyrese Noslin (Telstar)
-2026,Curucao,MF: Tahith Chong (Sheffield United)
-2026,Curucao,FW: Kenji Gorre (Maccabi Haifa)
-2026,Curucao,FW: Gervane Kastaneer (Persis Solo)
-2026,Curucao,FW: Jeremy Antonisse (Kifisia)
-2026,Curucao,FW: Jearl Margaritha (Beveren)
-2026,Curucao,FW: Jurgen Locadia (Unattached)
-2026,Curucao,FW: Sontje Hansen (Middlesbrough)
-2026,Curucao,FW: Jordi Paulina (Borussia Dortmund II)
-2026,Ecuador,GK: Hernan Galindez (Huracan)
-2026,Ecuador,GK: Moises Ramirez (Kifisia)
-2026,Ecuador,GK: Cristhian Loor (Botafogo)
-2026,Ecuador,DF: Angelo Preciado (Sparta Prague)
-2026,Ecuador,DF: Piero Hincapie (Arsenal)
-2026,Ecuador,DF: Felix Torres (Corinthians)
-2026,Ecuador,DF: Willian Pacho (Paris Saint-Germain)
-2026,Ecuador,DF: Cristian Ramirez (Lokomotiv Moscow)
-2026,Ecuador,DF: Joel Ordonez (Club Brugge)
-2026,Ecuador,DF: Jhoanner Chavez (Lens)
-2026,Ecuador,DF: Leonardo Realpe (Famalicão)
-2026,Ecuador,MF: Moises Caicedo (Chelsea)
-2026,Ecuador,MF: Alan Franco (Atletico Mineiro)
-2026,Ecuador,MF: Gonzalo Plata (Flamengo)
-2026,Ecuador,MF: Kendry Paez (Strasbourg)
-2026,Ecuador,MF: John Yeboah (Venezia)
-2026,Ecuador,MF: Alan Minda (Cercle Brugge)
-2026,Ecuador,MF: Pedro Vite (UNAM)
-2026,Ecuador,MF: Jordy Alcivar (Independiente del Valle)
-2026,Ecuador,MF: Denil Castillo (Midtjylland)
-2026,Ecuador,MF: Yaimar Medina (Genk)
-2026,Ecuador,MF: Patrik Mercado (Independiente del Valle)
-2026,Ecuador,FW: Kevin Rodriguez (Union Saint-Gilloise)
-2026,Ecuador,FW: Leonardo Campana (New England Revolution)
-2026,Ecuador,FW: Nilson Angulo (Anderlecht)
-2026,Ecuador,FW: John Mercado (Sparta Prague)
-2026,Ecuador,FW: Jeremy Arevalo (Racing de Santander)
-2026,Egypt,GK: Mohamed Awad (Zamalek)
-2026,Egypt,GK: Ali Lotfi (ZED)
-2026,Egypt,GK: Mohamed Bassam (Ceramica Cleopatra)
-2026,Egypt,DF: El-Wensh (Zamalek)
-2026,Egypt,DF: Karim Fouad (Al Ahly)
-2026,Egypt,DF: Karim El Eraki (Al Masry)
-2026,Egypt,DF: Ahmed Hany (Ceramica Cleopatra)
-2026,Egypt,DF: Yassin Marei (Al Ahly)
-2026,Egypt,DF: Ragab Nabil (Ceramica Cleopatra)
-2026,Egypt,DF: Hady Reyad (Petrojet)
-2026,Egypt,DF: Yehia Zakaria (Ghazl El Mahalla)
-2026,Egypt,MF: Mohamed Elneny (Al Jazira)
-2026,Egypt,MF: Amr El Solia (Ceramica Cleopatra)
-2026,Egypt,MF: Afsha (Al Ahly)
-2026,Egypt,MF: Mostafa Saad (ZED)
-2026,Egypt,MF: Akram Tawfik (Al-Shamal)
-2026,Egypt,MF: Mido Gaber (Al Masry)
-2026,Egypt,MF: Islam Issa (Ceramica Cleopatra)
-2026,Egypt,MF: Ghanam Mohamed (Modern Sport)
-2026,Egypt,FW: Mohamed Sherif (Al Ahly)
-2026,Egypt,FW: Hossam Hassan (Modern Sport)
-2026,Egypt,FW: Ahmed Atef (ZED)
-2026,Egypt,FW: Mostafa Shalaby (National Bank of Egypt)
-2026,England,GK: Dean Henderson (Crystal Palace)
-2026,England,GK: Jordan Pickford (Everton)
-2026,England,GK: Nick Pope (Newcastle United)
-2026,England,DF: Dan Burn (Newcastle United)
-2026,England,DF: Marc Guehi (Crystal Palace)
-2026,England,DF: Reece James (Chelsea)
-2026,England,DF: Ezri Konsa (Aston Villa)
-2026,England,DF: Nico O'Reilly (Manchester City)
-2026,England,DF: Jarell Quansah (Bayer Leverkusen)
-2026,England,DF: Djed Spence (Tottenham Hotspur)
-2026,England,DF: John Stones (Manchester City)
-2026,England,MF: Elliot Anderson (Nottingham Forest)
-2026,England,MF: Jude Bellingham (Real Madrid)
-2026,England,MF: Jordan Henderson (Brentford)
-2026,England,MF: Alex Scott (Bournemouth)
-2026,England,MF: Declan Rice (Arsenal)
-2026,England,MF: Morgan Rogers (Aston Villa)
-2026,England,MF: Adam Wharton (Crystal Palace)
-2026,England,FW: Jarrod Bowen (West Ham United)
-2026,England,FW: Eberechi Eze (Arsenal)
-2026,England,FW: Anthony Gordon (Newcastle United)
-2026,England,FW: Harry Kane (Bayern Munich)
-2026,England,"FW: Marcus Rashford (Barcelona, loan from Manchester United)"
-2026,England,FW: Bukayo Saka (Arsenal)
-2026,France,GK: Brice Samba (Rennes)
-2026,France,GK: Mike Maignan (AC Milan)
-2026,France,GK: Lucas Chevalier (Paris Saint-Germain)
-2026,France,DF: Malo Gusto (Chelsea)
-2026,France,DF: Lucas Digne (Aston Villa)
-2026,France,DF: Dayot Upamecano (Bayern Munich)
-2026,France,DF: Jules Kounde (Barcelona)
-2026,France,DF: Ibrahima Konate (Liverpool)
-2026,France,DF: William Saliba (Arsenal)
-2026,France,DF: Lucas Hernandez (Paris Saint-Germain)
-2026,France,DF: Theo Hernandez (Al-Hilal)
-2026,France,MF: Khephren Thuram (Juventus)
-2026,France,MF: Michael Olise (Bayern Munich)
-2026,France,MF: N'Golo Kante (Al-Ittihad)
-2026,France,MF: Warren Zaire-Emery (Paris Saint-Germain)
-2026,France,FW: Christopher Nkunku (AC Milan)
-2026,France,FW: Florian Thauvin (Lens)
-2026,France,FW: Hugo Ekitike (Liverpool)
-2026,France,FW: Maghnes Akliouche (Monaco)
-2026,France,FW: Rayan Cherki (Manchester City)
-2026,France,FW: Jean-Philippe Mateta (Crystal Palace)
-2026,France,FW: Bradley Barcola (Paris Saint-Germain)
-2026,Germany,GK: Oliver Baumann (TSG Hoffenheim)
-2026,Germany,GK: Alexander Nübel (VfB Stuttgart)
-2026,Germany,GK: Noah Atubolu (SC Freiburg)
-2026,Germany,GK: Finn Dahmen (FC Augsburg)
-2026,Germany,DF: Jonathan Tah (Bayern Munich)
-2026,Germany,DF: David Raum (RB Leipzig)
-2026,Germany,DF: Nico Schlotterbeck (Borussia Dortmund)
-2026,Germany,DF: Waldemar Anton (Borussia Dortmund)
-2026,Germany,DF: Ridle Baku (RB Leipzig)
-2026,Germany,DF: Malick Thiaw (Newcastle United)
-2026,Germany,DF: Nathaniel Brown (Eintracht Frankfurt)
-2026,Germany,MF: Joshua Kimmich (Bayern Munich)
-2026,Germany,MF: Leroy Sane (Galatasaray)
-2026,Germany,MF: Leon Goretzka (Bayern Munich)
-2026,Germany,MF: Serge Gnabry (Bayern Munich)
-2026,Germany,MF: Florian Wirtz (Liverpool)
-2026,Germany,MF: Karim Adeyemi (Borussia Dortmund)
-2026,Germany,MF: Aleksandar Pavlovic (Bayern Munich)
-2026,Germany,MF: Felix Nmecha (Borussia Dortmund)
-2026,Germany,MF: Kevin Schade (Brentford)
-2026,Germany,MF: Jamie Leweling (VfB Stuttgart)
-2026,Germany,MF: Assan Ouedraogo (RB Leipzig)
-2026,Germany,FW: Nick Woltemade (Newcastle United)
-2026,Germany,FW: Jonathan Burkardt (Eintracht Frankfurt)
-2026,Germany,FW: Said El Mala (1. FC Köln)
-2026,Ghana,GK: Lawrence Ati-Zigi (St. Gallen)
-2026,Ghana,GK: Joseph Anang (St Patrick's Athletic)
-2026,Ghana,GK: Benjamin Asare (Hearts of Oak)
-2026,Ghana,DF: Alidu Seidu (Rennes)
-2026,Ghana,DF: Caleb Yirenkyi (Nordsjælland)
-2026,Ghana,DF: Jonas Adjetey (Basel)
-2026,Ghana,DF: Mohammed Salisu (Monaco)
-2026,Ghana,DF: Derrick Köhn (Union Berlin)
-2026,Ghana,DF: Kojo Peprah Oppong (Nice)
-2026,Ghana,DF: Gideon Mensah (Auxerre)
-2026,Ghana,DF: Jerome Opoku (İstanbul Başakşehir)
-2026,Ghana,DF: Ebenezer Annan (Saint-Étienne)
-2026,Ghana,MF: Kelvin Nkrumah (Medeama)
-2026,Ghana,MF: Kwasi Sibo (Oviedo)
-2026,Ghana,MF: Christopher Bonsu Baah (Al-Qadsiah)
-2026,Ghana,MF: Abu Francis (Toulouse)
-2026,Ghana,MF: Kamaldeen Sulemana (Atalanta)
-2026,Ghana,MF: Prince Kwabena Adu (Viktoria Plzeň)
-2026,Ghana,MF: Prince Owusu (Medeama)
-2026,Ghana,FW: Prince Osei Owusu (Montréal)
-2026,Ghana,FW: Brandon Thomas-Asante (Coventry City)
-2026,Ghana,FW: Antoine Semenyo (Bournemouth)
-2026,Haiti,GK: Johny Placide (Bastia)
-2026,Haiti,GK: Alexandre Pierre (Sochaux)
-2026,Haiti,GK: Josue Duverger (Cosmos Koblenz)
-2026,Haiti,DF: Carlens Arcus (Angers)
-2026,Haiti,DF: Keeto Thermoncy (Young Boys)
-2026,Haiti,DF: Ricardo Ade (LDU Quito)
-2026,Haiti,DF: Hannes Delcroix (Burnley)
-2026,Haiti,DF: Garven Metusala (Colorado Springs Switchbacks)
-2026,Haiti,DF: Martin Experience (Nancy)
-2026,Haiti,DF: Duke Lacroix (Colorado Springs Switchbacks)
-2026,Haiti,DF: Stephane Lambese (Fleury)
-2026,Haiti,MF: Jean-Ricner Bellegarde (Wolverhampton Wanderers)
-2026,Haiti,MF: Leverton Pierre (Vizela)
-2026,Haiti,MF: Carl Fred Sainte (Phoenix Rising)
-2026,Haiti,MF: Christopher Attys (Triestina)
-2026,Haiti,MF: Danley Jean Jacques (Philadelphia Union)
-2026,Haiti,FW: Derrick Etienne Jr. (Toronto)
-2026,Haiti,FW: Duckens Nazon (Esteghlal)
-2026,Haiti,FW: Don Deedson Louicius (Dallas)
-2026,Haiti,FW: Ruben Providence (Almere City)
-2026,Haiti,FW: Woobens Pacius (Tampa Bay Rowdies)
-2026,Haiti,FW: Frantzdy Pierrot (AEK Athens)
-2026,Haiti,FW: Josue Casimir (Auxerre)
-2026,Iran,GK: Alireza Beiranvand (Tractor)
-2026,Iran,GK: Payam Niazmand (Persepolis)
-2026,Iran,GK: Hossein Hosseini (Sepahan)
-2026,Iran,GK: Mohammad Reza Akhbari (Sepahan)
-2026,Iran,DF: Ali Nemati (Foolad)
-2026,Iran,DF: Saleh Hardani (Esteghlal)
-2026,Iran,DF: Shojae Khalilzadeh (Tractor)
-2026,Iran,DF: Milad Mohammadi (Persepolis)
-2026,Iran,DF: Hossein Kanaanizadegan (Persepolis)
-2026,Iran,DF: Majid Hosseini (Kayserispor)
-2026,Iran,DF: Aria Yousefi (Sepahan)
-2026,Iran,DF: Danial Esmaeilifar (Tractor)
-2026,Iran,MF: Saeid Ezatolahi (Shabab Al Ahli)
-2026,Iran,MF: Saman Ghoddos (Ittihad Kalba)
-2026,Iran,MF: Mohammad Ghorbani (Al Wahda)
-2026,Iran,MF: Mehdi Hashemnejad (Tractor)
-2026,Iran,MF: Mehdi Tikdari (Gol Gohar)
-2026,Iran,MF: Omid Noorafkan (Sepahan)
-2026,Iran,MF: Alireza Koushki (Esteghlal)
-2026,Iran,MF: Hadi Habibinejad (Chadormalou)
-2026,Iran,MF: Mohammad Mehdi Mohebi (Ittihad Kalba)
-2026,Iran,FW: Mehdi Taremi (Olympiacos)
-2026,Iran,FW: Amirhossein Hosseinzadeh (Tractor)
-2026,Iran,FW: Ali Alipour (Persepolis)
-2026,Iran,FW: Mohammad Omri (Persepolis)
-2026,Iran,FW: Mehdi Ghayedi (Al-Nasr)
-2026,Ivory Coast,GK: Yahia Fofana (Çaykur Rizespor)
-2026,Ivory Coast,GK: Mohamed Kone (Charleroi)
-2026,Ivory Coast,GK: Alban Lafont (Panathinaikos)
-2026,Ivory Coast,DF: Clément Akpa (Auxerre)
-2026,Ivory Coast,DF: Ghislain Konan (Gil Vicente)
-2026,Ivory Coast,DF: Armel Zohouri (Iberia 1999)
-2026,Ivory Coast,DF: Odilon Kossounou (Atalanta)
-2026,Ivory Coast,DF: Jean-Philippe Gbamin (Metz)
-2026,Ivory Coast,DF: Guéla Doué (Strasbourg)
-2026,Ivory Coast,DF: Emmanuel Agbadou (Wolverhampton Wanderers)
-2026,Ivory Coast,DF: Ousmane Diomande (Sporting CP)
-2026,Ivory Coast,DF: Evan Ndicka (Roma)
-2026,Ivory Coast,MF: Mario Dorgeles (Braga)
-2026,Ivory Coast,MF: Seko Fofana (Rennes)
-2026,Ivory Coast,MF: Franck Kessié (Al-Ahli)
-2026,Ivory Coast,MF: Ibrahim Sangaré (Nottingham Forest)
-2026,Ivory Coast,MF: Christ Inao Oulaï (Trabzonspor)
-2026,Ivory Coast,MF: Parfait Guiagon (Charleroi)
-2026,Ivory Coast,FW: Yan Diomande (RB Leipzig)
-2026,Ivory Coast,FW: Evann Guessand (Aston Villa)
-2026,Ivory Coast,FW: Jean-Philippe Krasso (Paris)
-2026,Ivory Coast,FW: Oumar Diakité (Cercle Brugge)
-2026,Ivory Coast,FW: Amad Diallo (Manchester United)
-2026,Ivory Coast,FW: Sébastien Haller (Utrecht)
-2026,Ivory Coast,FW: Richard Kone (Queens Park Rangers)
-2026,Ivory Coast,FW: Vakoun Issouf Bayo (Udinese)
-2026,Japan,GK: Tomoki Hayakawa (Kashima Antlers)
-2026,Japan,GK: Leo Kokubo (Sint-Truiden)
-2026,Japan,GK: Taishi Brandon Nozawa (Antwerp)
-2026,Japan,DF: Yukinari Sugawara (Werder Bremen)
-2026,Japan,DF: Shogo Taniguchi (Sint-Truiden)
-2026,Japan,DF: Ko Itakura (Ajax)
-2026,Japan,DF: Tsuyoshi Watanabe (Feyenoord)
-2026,Japan,DF: Tomoya Ando (Avispa Fukuoka)
-2026,Japan,DF: Ayumu Seko (Le Havre)
-2026,Japan,DF: Junnosuke Suzuki (Copenhagen)
-2026,Japan,MF: Wataru Endo (Liverpool)
-2026,Japan,MF: Joel Chima Fujita (FC St. Pauli)
-2026,Japan,MF: Takumi Minamino (Monaco)
-2026,Japan,MF: Ritsu Doan (Eintracht Frankfurt)
-2026,Japan,MF: Keito Nakamura (Reims)
-2026,Japan,MF: Ryunosuke Sato (Fagiano Okayama)
-2026,Japan,MF: Daichi Kamada (Crystal Palace)
-2026,Japan,MF: Ao Tanaka (Leeds United)
-2026,Japan,MF: Takefusa Kubo (Real Sociedad)
-2026,Japan,MF: Kaishu Sano (Mainz 05)
-2026,Japan,MF: Sota Kitano (Red Bull Salzburg)
-2026,Japan,FW: Shuto Machino (Borussia Monchengladbach)
-2026,Japan,FW: Daizen Maeda (Celtic)
-2026,Japan,FW: Ayase Ueda (Feyenoord)
-2026,Japan,FW: Koki Ogawa (NEC Nijmegen)
-2026,Japan,FW: Keisuke Goto (Sint-Truiden)
-2026,Jordan,GK: Yazeed Abulaila (Al-Hussein)
-2026,Jordan,GK: Malek Shalabiya (Al-Ramtha)
-2026,Jordan,GK: Nour Bani Attiah (Al-Faisaly)
-2026,Jordan,DF: Mohammad Abu Hashish (Al-Karma)
-2026,Jordan,DF: Abdallah Nasib (Al-Zawraa)
-2026,Jordan,DF: Husam Abu Dahab (Al-Salmiya)
-2026,Jordan,DF: Hadi Al-Hourani (Al-Faisaly)
-2026,Jordan,DF: Ali Hajabi (Al-Hussein)
-2026,Jordan,DF: Issam Smeeri (Al-Salt)
-2026,Jordan,DF: Salim Obaid (Al-Hussein)
-2026,Jordan,DF: Saed Al-Rosan (Al-Hussein)
-2026,Jordan,DF: Mohannad Abu Taha (Al-Quwa Al-Jawiya)
-2026,Jordan,DF: Adham Al-Quraishi (Al-Hussein)
-2026,Jordan,MF: Amer Jamous (Al-Wehdat)
-2026,Jordan,MF: Rajaei Ayed (Al-Hussein)
-2026,Jordan,MF: Ibrahim Sadeh (Al-Karma)
-2026,Jordan,MF: Nizar Al-Rashdan (Al-Zawraa)
-2026,Jordan,FW: Mohammad Abu Zrayq (Al-Ramtha)
-2026,Jordan,FW: Odeh Al-Fakhouri (Al-Hussein)
-2026,Jordan,FW: Ali Olwan (Al-Karma)
-2026,Jordan,FW: Ahmad Ersan (Al-Faisaly)
-2026,Jordan,FW: Yazan Al-Naimat (Al-Arabi)
-2026,Jordan,FW: Mahmoud Al-Mardi (Dibba)
-2026,Mexico,GK: Luis Malagon (America)
-2026,Mexico,GK: Carlos Acevedo (Santos Laguna)
-2026,Mexico,GK: Raul Rangel (Guadalajara)
-2026,Mexico,DF: Jesus Gallardo (Toluca)
-2026,Mexico,DF: Edson Alvarez (Fenerbahce)
-2026,Mexico,DF: Cesar Montes (Lokomotiv Moscow)
-2026,Mexico,DF: Johan Vasquez (Genoa)
-2026,Mexico,DF: Israel Reyes (America)
-2026,Mexico,DF: Kevin Alvarez (America)
-2026,Mexico,DF: Jesus Orozco (Cruz Azul)
-2026,Mexico,DF: Mateo Chavez (AZ)
-2026,Mexico,MF: Orbelin Pineda (AEK Athens)
-2026,Mexico,MF: Erick Sanchez (America)
-2026,Mexico,MF: Erik Lira (Cruz Azul)
-2026,Mexico,MF: Marcel Ruiz (Toluca)
-2026,Mexico,MF: Gilberto Mora (Tijuana)
-2026,Mexico,MF: Alexis Gutierrez (America)
-2026,Mexico,MF: Fidel Ambriz (Monterrey)
-2026,Mexico,MF: Obed Vargas (Seattle Sounders)
-2026,Mexico,MF: Jorge Ruvalcaba (UNAM)
-2026,Mexico,FW: Raul Jimenez (Fulham)
-2026,Mexico,FW: Hirving Lozano (San Diego)
-2026,Mexico,FW: Roberto Alvarado (Guadalajara)
-2026,Mexico,FW: Diego Lainez (UANL)
-2026,Mexico,FW: German Berterame (Monterrey)
-2026,Mexico,FW: Armando Gonzalez (Guadalajara)
-2026,Morocco,GK: Salaheddine Chihab (MAS Fès)
-2026,Morocco,GK: Mehdi Benabid (Wydad Casablanca)
-2026,Morocco,GK: Rachid Ghanimi (FUS Rabat)
-2026,Morocco,DF: Mohamed Moufid (Wydad Casablanca)
-2026,Morocco,DF: Anas Bach (AS FAR)
-2026,Morocco,DF: Soufiane Bouftini (Al Wasl)
-2026,Morocco,DF: Mahmoud Bentayg (Zamalek)
-2026,Morocco,DF: Mohamed Boulacsoute (Raja Casablanca)
-2026,Morocco,DF: Marouane Louadni (AS FAR)
-2026,Morocco,DF: Marwane Saadane (Al-Fateh)
-2026,Morocco,DF: Hamza El Moussaoui (RS Berkane)
-2026,Morocco,MF: Mohamed Rabie Hrimat (AS FAR)
-2026,Morocco,MF: Sabir Bougrine (Raja Casablanca)
-2026,Morocco,MF: Amine Zouhzouh (Al-Wakrah)
-2026,Morocco,MF: Walid El Karti (Pyramids)
-2026,Morocco,MF: Oussama Tannane (Umm-Salal)
-2026,Morocco,MF: Aschraf El Mahdioui (Al-Taawoun)
-2026,Morocco,FW: Abderrazak Hamdallah (Al-Shabab)
-2026,Morocco,FW: Youssef Mehri (RS Berkane)
-2026,Morocco,FW: Achraf Bencharki (Al Ahly)
-2026,Morocco,FW: Tarik Tissoudali (Khor Fakkan)
-2026,Morocco,FW: Karim El Berkaoui (Al Dhafra)
-2026,Morocco,FW: Hamza Hannouri (Wydad Casablanca)
-2026,Netherlands,GK: Bart Verbruggen (Brighton & Hove Albion)
-2026,Netherlands,GK: Robin Roefs (Sunderland)
-2026,Netherlands,GK: Mark Flekken (Bayer Leverkusen)
-2026,Netherlands,DF: Lutsharel Geertruida (Sunderland)
-2026,Netherlands,DF: Jurriën Timber (Arsenal)
-2026,Netherlands,DF: Virgil van Dijk (Liverpool)
-2026,Netherlands,DF: Nathan Ake (Manchester City)
-2026,Netherlands,DF: Matthijs de Ligt (Manchester United)
-2026,Netherlands,DF: Jan Paul van Hecke (Brighton & Hove Albion)
-2026,Netherlands,DF: Micky van de Ven (Tottenham Hotspur)
-2026,Netherlands,MF: Xavi Simons (Tottenham Hotspur)
-2026,Netherlands,MF: Ryan Gravenberch (Liverpool)
-2026,Netherlands,MF: Tijjani Reijnders (Manchester City)
-2026,Netherlands,MF: Jerdy Schouten (PSV)
-2026,Netherlands,MF: Quinten Timber (Feyenoord)
-2026,Netherlands,MF: Frenkie de Jong (Barcelona)
-2026,Netherlands,MF: Luciano Valente (Feyenoord)
-2026,Netherlands,FW: Emanuel Emegha (Strasbourg)
-2026,Netherlands,FW: Memphis Depay (Corinthians)
-2026,Netherlands,FW: Cody Gakpo (Liverpool)
-2026,Netherlands,FW: Noa Lang (Napoli)
-2026,Netherlands,FW: Donyell Malen (Aston Villa)
-2026,Netherlands,FW: Justin Kluivert (Bournemouth)
-2026,New Zealand,GK: Max Crocombe (Millwall)
-2026,New Zealand,GK: Nik Tzanev (Newport County)
-2026,New Zealand,GK: Kees Sims (GAIS)
-2026,New Zealand,DF: Michael Boxall (Minnesota United)
-2026,New Zealand,DF: Tommy Smith (Braintree Town)
-2026,New Zealand,DF: Bill Tuiloma (Charlotte FC)
-2026,New Zealand,DF: Tyler Bindon (Sheffield United)
-2026,New Zealand,DF: Storm Roux (Central Coast Mariners)
-2026,New Zealand,DF: Francis de Vries (Auckland FC)
-2026,New Zealand,DF: Finn Surman (Portland Timbers)
-2026,New Zealand,DF: James McGarry (Brisbane Roar)
-2026,New Zealand,DF: George Stanger (Kilmarnock)
-2026,New Zealand,MF: Elijah Just (Motherwell)
-2026,New Zealand,MF: Matthew Garbett (Peterborough United)
-2026,New Zealand,MF: Marko Stamenic (Swansea City)
-2026,New Zealand,MF: Joe Bell (Viking)
-2026,New Zealand,MF: Callum McCowatt (Silkeborg)
-2026,New Zealand,MF: Sarpreet Singh (TSC)
-2026,New Zealand,MF: Alex Rufer (Wellington Phoenix)
-2026,New Zealand,MF: Ben Old (Saint-Étienne)
-2026,New Zealand,MF: Owen Parker-Price (Örgryte)
-2026,New Zealand,FW: Kosta Barbarouses (Western Sydney Wanderers)
-2026,New Zealand,FW: Ben Waine (Port Vale)
-2026,New Zealand,FW: Andre de Jong (Stellenbosch)
-2026,New Zealand,FW: Jesse Randall (Auckland FC)
-2026,Norway,GK: Ørjan Nyland (Sevilla)
-2026,Norway,GK: Mathias Dyngeland (Brann)
-2026,Norway,GK: Sander Tangvik (Rosenborg)
-2026,Norway,DF: Kristoffer Ajer (Brentford)
-2026,Norway,DF: Leo Skiri Østigård (Genoa)
-2026,Norway,DF: David Møller Wolfe (Wolverhampton Wanderers)
-2026,Norway,DF: Julian Ryerson (Borussia Dortmund)
-2026,Norway,DF: Fredrik André Bjørkan (Bodø/Glimt)
-2026,Norway,DF: Marcus Holmgren Pedersen (Torino)
-2026,Norway,DF: Torbjørn Heggem (Bologna)
-2026,Norway,DF: Sondre Langås (Derby County)
-2026,Norway,MF: Morten Thorsby (Genoa)
-2026,Norway,MF: Patrick Berg (Bodø/Glimt)
-2026,Norway,MF: Sander Berge (Fulham)
-2026,Norway,MF: Kristian Thorstvedt (Sassuolo)
-2026,Norway,MF: Kristian Arnstad (AGF)
-2026,Norway,MF: Antonio Nusa (RB Leipzig)
-2026,Norway,MF: Oscar Bobb (Manchester City)
-2026,Norway,MF: Thelo Aasgaard (Rangers)
-2026,Norway,MF: Aron Dønnum (Toulouse)
-2026,Norway,FW: Alexander Sørloth (Atlético Madrid)
-2026,Norway,FW: Erling Haaland (Manchester City)
-2026,Norway,FW: Andreas Schjelderup (Benfica)
-2026,Norway,FW: Jørgen Strand Larsen (Wolverhampton Wanderers)
-2026,Panama,GK: Luis Mejia (Nacional)
-2026,Panama,GK: Cesar Samudio (Marathon)
-2026,Panama,GK: Orlando Mosquera (Al-Fayha)
-2026,Panama,DF: Cesar Blackman (Slovan Bratislava)
-2026,Panama,DF: Ivan Anderson (Marathon)
-2026,Panama,DF: Fidel Escobar (Saprissa)
-2026,Panama,DF: Edgardo Farina (Pari Nizhny Novgorod)
-2026,Panama,DF: Carlos Harvey (Minnesota United)
-2026,Panama,DF: Eric Davis (Plaza Amador)
-2026,Panama,DF: Andres Andrade (LASK)
-2026,Panama,DF: Jorge Gutierrez (Deportivo La Guaira)
-2026,Panama,DF: Jiovany Ramos (Puerto Cabello)
-2026,Panama,MF: Cristian Martinez (Ironi Kiryat Shmona)
-2026,Panama,MF: Jose Rodriguez (Juarez)
-2026,Panama,MF: Adalberto Carrasquilla (UNAM)
-2026,Panama,MF: Ismael Diaz (Leon)
-2026,Panama,MF: Azarias Londono (Universidad Catolica)
-2026,Panama,MF: Edward Cedeno (Las Palmas)
-2026,Panama,MF: Alberto Quintero (Plaza Amador)
-2026,Panama,MF: Anibal Godoy (San Diego)
-2026,Panama,MF: Omar Browne (Estudiantes de Merida)
-2026,Panama,MF: Jovani Welch (Monagas)
-2026,Panama,FW: Tomas Rodriguez (Monagas)
-2026,Panama,FW: Jose Fajardo (Universidad Catolica)
-2026,Panama,FW: Cecilio Waterman (Coquimbo Unido)
-2026,Paraguay,GK: Roberto Fernandez (Cerro Porteño)
-2026,Paraguay,GK: Orlando Gill (San Lorenzo)
-2026,Paraguay,GK: Aldo Perez (Guarani)
-2026,Paraguay,DF: Gustavo Gomez (Palmeiras)
-2026,Paraguay,DF: Junior Alonso (Atletico Mineiro)
-2026,Paraguay,DF: Juan Caceres (Dynamo Moscow)
-2026,Paraguay,DF: Blas Riveros (Cerro Porteño)
-2026,Paraguay,DF: Gustavo Velazquez (Cerro Porteño)
-2026,Paraguay,DF: Alan Benitez (Internacional)
-2026,Paraguay,DF: Agustin Sandez (Rosario Central)
-2026,Paraguay,DF: Alexis Duarte (Santos)
-2026,Paraguay,MF: Miguel Almiron (Atlanta United)
-2026,Paraguay,MF: Alejandro Romero Gamarra (Al Ain)
-2026,Paraguay,MF: Ramon Sosa (Palmeiras)
-2026,Paraguay,MF: Diego Gomez (Brighton & Hove Albion)
-2026,Paraguay,MF: Damian Bobadilla (São Paulo)
-2026,Paraguay,MF: Braian Ojeda (Real Salt Lake)
-2026,Paraguay,MF: Matias Galarza (River Plate)
-2026,Paraguay,MF: Diego Gonzalez (Atlas)
-2026,Paraguay,MF: Hugo Cuenca (Genoa)
-2026,Paraguay,MF: Diego Leon (Manchester United)
-2026,Paraguay,MF: Lucas Romero (Recoleta)
-2026,Paraguay,FW: Antonio Sanabria (Cremonese)
-2026,Paraguay,FW: Julio Enciso (Strasbourg)
-2026,Paraguay,FW: Alex Arce (Independiente Rivadavia)
-2026,Paraguay,FW: Ronaldo Martinez (Platense)
-2026,Portugal,GK: Diogo Costa (Porto)
-2026,Portugal,GK: José Sá (Wolverhampton Wanderers)
-2026,Portugal,GK: Rui Silva (Sporting CP)
-2026,Portugal,DF: Nélson Semedo (Fenerbahçe)
-2026,Portugal,DF: Rúben Dias (Manchester City)
-2026,Portugal,DF: António Silva (Benfica)
-2026,Portugal,DF: Diogo Dalot (Manchester United)
-2026,Portugal,DF: Renato Veiga (Villarreal)
-2026,Portugal,DF: Gonçalo Inácio (Sporting CP)
-2026,Portugal,DF: João Cancelo (Al-Hilal)
-2026,Portugal,MF: João Palhinha (Tottenham Hotspur)
-2026,Portugal,MF: Bruno Fernandes (Manchester United)
-2026,Portugal,MF: Bernardo Silva (Manchester City)
-2026,Portugal,MF: João Neves (Paris Saint-Germain)
-2026,Portugal,MF: Matheus Nunes (Manchester City)
-2026,Portugal,MF: Rúben Neves (Al-Hilal)
-2026,Portugal,MF: Vitinha (Paris Saint-Germain)
-2026,Portugal,FW: Carlos Forbs (Club Brugge)
-2026,Portugal,FW: Gonçalo Ramos (Paris Saint-Germain)
-2026,Portugal,FW: João Félix (Al-Nassr)
-2026,Portugal,FW: Francisco Trincão (Sporting CP)
-2026,Portugal,FW: Rafael Leão (Milan)
-2026,Portugal,FW: Francisco Conceição (Juventus)
-2026,Portugal,FW: Cristiano Ronaldo (Al-Nassr)
-2026,Qatar,GK: Shehab Ellethy (Al-Shahaniya)
-2026,Qatar,GK: Mahmud Abunada (Al-Arabi)
-2026,Qatar,GK: Meshaal Barsham (Al-Sadd)
-2026,Qatar,DF: Issa Laye (Al-Arabi)
-2026,Qatar,DF: Lucas Mendes (Al-Wakrah)
-2026,Qatar,DF: Tarek Salman (Al-Sadd)
-2026,Qatar,DF: Ayoub Al-Oui (Al-Gharafa)
-2026,Qatar,DF: Homam Ahmed (Al-Duhail)
-2026,Qatar,DF: Yousef Aymen (Al-Duhail)
-2026,Qatar,DF: Al-Hashmi Al-Hussain (Al-Arabi)
-2026,Qatar,DF: Sultan Al-Brake (Al-Duhail)
-2026,Qatar,MF: Mohammed Waad (Al-Sadd)
-2026,Qatar,MF: Abdulaziz Hatem (Al-Rayyan)
-2026,Qatar,MF: Jassem Gaber (Al-Rayyan)
-2026,Qatar,MF: Khalid Ali Sabah (Al-Sailiya)
-2026,Qatar,MF: Mohamed Al-Mannai (Al-Shamal)
-2026,Qatar,MF: Ahmed Fathy (Al-Arabi)
-2026,Qatar,MF: Assim Madibo (Al-Wakrah)
-2026,Qatar,FW: Ahmed Alaaeldin (Al-Rayyan)
-2026,Qatar,FW: Mohammed Muntari (Al-Gharafa)
-2026,Qatar,FW: Akram Afif (Al-Sadd)
-2026,Qatar,FW: Edmilson Junior (Al-Duhail)
-2026,Qatar,FW: Mohamed Khaled Gouda (Al-Arabi)
-2026,Saudi Arabia,GK: Nawaf Al-Aqidi (Al-Nassr)
-2026,Saudi Arabia,GK: Abdulrahman Al-Sanbi (Al-Ahli)
-2026,Saudi Arabia,GK: Raghed Al-Najjar (Al-Nassr)
-2026,Saudi Arabia,DF: Ali Majrashi (Al-Ahli)
-2026,Saudi Arabia,DF: Jehad Thakri (Al-Qadsiah)
-2026,Saudi Arabia,DF: Abdulelah Al-Amri (Al-Nassr)
-2026,Saudi Arabia,DF: Hassan Al-Tambakti (Al-Hilal)
-2026,Saudi Arabia,DF: Mohammed Abu Al-Shamat (Al-Qadsiah)
-2026,Saudi Arabia,DF: Nawaf Boushal (Al-Nassr)
-2026,Saudi Arabia,DF: Waleed Al-Ahmed (Al-Taawoun)
-2026,Saudi Arabia,DF: Mohammed Sulaiman (Al-Ahli)
-2026,Saudi Arabia,MF: Nasser Al-Dawsari (Al-Hilal)
-2026,Saudi Arabia,MF: Musab Al-Juwayr (Al-Qadsiah)
-2026,Saudi Arabia,MF: Ayman Yahya (Al-Nassr)
-2026,Saudi Arabia,MF: Salem Al-Dawsari (Al-Hilal)
-2026,Saudi Arabia,MF: Abdullah Al-Khaibari (Al-Nassr)
-2026,Saudi Arabia,MF: Murad Hawsawi (Al-Khaleej)
-2026,Saudi Arabia,MF: Saleh Abu Al-Shamat (Al-Ahli)
-2026,Saudi Arabia,MF: Abdulrahman Al-Aboud (Al-Ittihad)
-2026,Saudi Arabia,MF: Mohamed Kanno (Al-Hilal)
-2026,Saudi Arabia,FW: Firas Al-Buraikan (Al-Ahli)
-2026,Saudi Arabia,FW: Saleh Al-Shehri (Al-Ittihad)
-2026,Saudi Arabia,FW: Abdullah Al-Hamdan (Al-Hilal)
-2026,Scotland,GK: Craig Gordon (Heart of Midlothian)
-2026,Scotland,GK: Liam Kelly (Rangers)
-2026,Scotland,GK: Scott Bain (Falkirk)
-2026,Scotland,DF: Aaron Hickey (Brentford)
-2026,Scotland,DF: Andy Robertson (Liverpool) (captain)
-2026,Scotland,DF: Grant Hanley (Hibernian)
-2026,Scotland,DF: Kieran Tierney (Celtic)
-2026,Scotland,DF: Jack Hendry (Al-Ettifaq)
-2026,Scotland,DF: John Souttar (Rangers)
-2026,Scotland,DF: Scott McKenna (Dinamo Zagreb)
-2026,Scotland,DF: Anthony Ralston (Celtic)
-2026,Scotland,DF: Josh Doig (Sassuolo)
-2026,Scotland,MF: Scott McTominay (Napoli)
-2026,Scotland,MF: John McGinn (Aston Villa)
-2026,Scotland,MF: Andy Irving (West Ham United)
-2026,Scotland,MF: Ryan Christie (Bournemouth)
-2026,Scotland,MF: Connor Barron (Rangers)
-2026,Scotland,MF: Ben Gannon-Doak (Bournemouth)
-2026,Scotland,MF: Lewis Ferguson (Bologna)
-2026,Scotland,MF: Kenny McLean (Norwich City)
-2026,Scotland,FW: Lyndon Dykes (Birmingham City)
-2026,Scotland,FW: Che Adams (Torino)
-2026,Scotland,FW: George Hirst (Ipswich Town)
-2026,Scotland,FW: Lawrence Shankland (Heart of Midlothian)
-2026,Senegal,GK: Yehvann Diouf (Nice)
-2026,Senegal,GK: Edouard Mendy (Al-Ahli)
-2026,Senegal,GK: Mory Diaw (Le Havre)
-2026,Senegal,DF: Mamadou Sarr (Strasbourg)
-2026,Senegal,DF: Kalidou Koulibaly (Al-Hilal)
-2026,Senegal,DF: Abdoulaye Seck (Maccabi Haifa)
-2026,Senegal,DF: Ismail Jakobs (Galatasaray)
-2026,Senegal,DF: Ilay Camara (Anderlecht)
-2026,Senegal,DF: Moussa Niakhate (Lyon)
-2026,Senegal,DF: Antoine Mendy (Nice)
-2026,Senegal,DF: El Hadji Malick Diouf (West Ham United)
-2026,Senegal,MF: Idrissa Gueye (Everton)
-2026,Senegal,MF: Pathe Ciss (Rayo Vallecano)
-2026,Senegal,MF: Lamine Camara (Monaco)
-2026,Senegal,MF: Pape Matar Sarr (Tottenham Hotspur)
-2026,Senegal,MF: Rassoul Ndiaye (Le Havre)
-2026,Senegal,MF: Pape Gueye (Villarreal)
-2026,Senegal,FW: Boulaye Dia (Lazio)
-2026,Senegal,FW: Sadio Mane (Al-Nassr)
-2026,Senegal,FW: Nicolas Jackson (Bayern Munich)
-2026,Senegal,FW: Cherif Ndiaye (Samsunspor)
-2026,Senegal,FW: Iliman Ndiaye (Everton)
-2026,Senegal,FW: Ismaila Sarr (Crystal Palace)
-2026,Senegal,FW: Cheikh Sabaly (Metz)
-2026,Senegal,FW: Ibrahim Mbaye (Paris Saint-Germain)
-2026,Senegal,FW: Habib Diallo (Metz)
-2026,Senegal,FW: Assane Diao (Como)
-2026,South Africa,GK: Ronwen Williams (Mamelodi Sundowns)
-2026,South Africa,GK: Ricardo Goss (Siwelele)
-2026,South Africa,GK: Sipho Chaine (Orlando Pirates)
-2026,South Africa,GK: Renaldo Leaner (Sekhukhune United)
-2026,South Africa,GK: Darren Johnson (AmaZulu)
-2026,South Africa,GK: Brandon Petersen (Kaizer Chiefs)
-2026,South Africa,DF: Aubrey Modiba (Mamelodi Sundowns)
-2026,South Africa,DF: Thapelo Morena (Mamelodi Sundowns)
-2026,South Africa,DF: Khuliso Mudau (Mamelodi Sundowns)
-2026,South Africa,DF: Nkosinathi Sibisi (Orlando Pirates)
-2026,South Africa,DF: Siyabonga Ngezana (FCSB)
-2026,South Africa,DF: Ime Okon (Hannover 96)
-2026,South Africa,DF: Mbekezeli Mbokazi (Orlando Pirates)
-2026,South Africa,DF: Fawaaz Basadien (Mamelodi Sundowns)
-2026,South Africa,DF: Malibongwe Khoza (Mamelodi Sundowns)
-2026,South Africa,DF: Khulumani Ndamane (TS Galaxy)
-2026,South Africa,DF: Samukele Kabini (Molde)
-2026,South Africa,DF: Thabo Moloisane (Stellenbosch)
-2026,South Africa,DF: Thabiso Monyane (Kaizer Chiefs)
-2026,South Africa,DF: Thabang Matuludi (Polokwane City)
-2026,South Africa,DF: Keegan Allan (AmaZulu)
-2026,South Africa,DF: Bradley Cross (Kaizer Chiefs)
-2026,South Africa,DF: Fezile Gcaba (Durban City)
-2026,South Africa,DF: Vuyo Letlapa (Sekhukhune United)
-2026,South Africa,DF: Tylon Smith (Queens Park Rangers)
-2026,South Africa,MF: Themba Zwane (Mamelodi Sundowns)
-2026,South Africa,MF: Teboho Mokoena (Mamelodi Sundowns)
-2026,South Africa,MF: Sphephelo Sithole (Tondela)
-2026,South Africa,MF: Bathusi Aubaas (Mamelodi Sundowns)
-2026,South Africa,MF: Thalente Mbatha (Orlando Pirates)
-2026,South Africa,MF: Luke Le Roux (Portsmouth)
-2026,South Africa,MF: Patrick Maswanganyi (Orlando Pirates)
-2026,South Africa,MF: Sipho Mbule (Orlando Pirates)
-2026,South Africa,MF: Ndamulelo Maphangule (Polokwane City)
-2026,South Africa,MF: Mduduzi Shabalala (Kaizer Chiefs)
-2026,South Africa,MF: Siphesihle Maduna (TS Galaxy)
-2026,South Africa,MF: Siphesihle Mkhize (Sekhukhune United)
-2026,South Africa,MF: Mthetheleli Mthiyane (Stellenbosch)
-2026,South Africa,MF: Masindi Nemtajela (Orlando Pirates)
-2026,South Africa,FW: Evidence Makgopa (Orlando Pirates)
-2026,South Africa,FW: Lyle Foster (Burnley)
-2026,South Africa,FW: Oswin Appollis (Orlando Pirates)
-2026,South Africa,FW: Bongokuhle Hlongwane (Minnesota United)
-2026,South Africa,FW: Mihlali Mayambela (Aris Limassol)
-2026,South Africa,FW: Iqraam Rayners (Mamelodi Sundowns)
-2026,South Africa,FW: Elias Mokwana (Al-Hazem)
-2026,South Africa,FW: Relebohile Mofokeng (Orlando Pirates)
-2026,South Africa,FW: Mohau Nkota (Al-Ettifaq)
-2026,South Africa,FW: Tshepang Moremi (Orlando Pirates)
-2026,South Africa,FW: Kamogelo Sebelebele (Orlando Pirates)
-2026,South Africa,FW: Shandre Campbell (Club Brugge)
-2026,South Africa,FW: Ashley Cupido (Stellenbosch)
-2026,South Africa,FW: Puso Dithejane (TS Galaxy)
-2026,South Africa,FW: Keletso Makgalwa (Sekhukhune United)
-2026,South Korea,GK: Kim Seung-gyu (FC Tokyo)
-2026,South Korea,GK: Song Bum-keun (Jeonbuk Hyundai Motors)
-2026,South Korea,GK: Jo Hyeon-woo (Ulsan HD)
-2026,South Korea,DF: Lee Myung-jae (Daejeon Hana Citizen)
-2026,South Korea,DF: Lee Han-beom (Midtjylland)
-2026,South Korea,DF: Kim Min-jae (Bayern Munich)
-2026,South Korea,DF: Lee Tae-seok (Austria Wien)
-2026,South Korea,DF: Cho Yu-min (Sharjah)
-2026,South Korea,DF: Kim Moon-hwan (Daejeon Hana Citizen)
-2026,South Korea,DF: Park Jin-seob (Jeonbuk Hyundai Motors)
-2026,South Korea,DF: Seol Young-woo (Red Star Belgrade)
-2026,South Korea,DF: Kim Tae-hyeon (Kashima Antlers)
-2026,South Korea,MF: Won Du-jae (Khor Fakkan)
-2026,South Korea,MF: Seo Min-woo (Gangwon FC)
-2026,South Korea,MF: Lee Jae-sung (Mainz 05)
-2026,South Korea,MF: Hwang Hee-chan (Wolverhampton Wanderers)
-2026,South Korea,MF: Eom Ji-sung (Swansea City)
-2026,South Korea,MF: Lee Kang-in (Paris Saint-Germain)
-2026,South Korea,MF: Bae Jun-ho (Stoke City)
-2026,South Korea,MF: Jens Castrop (Borussia Mönchengladbach)
-2026,South Korea,MF: Kim Jin-gyu (Jeonbuk Hyundai Motors)
-2026,South Korea,MF: Kwon Hyeok-kyu (Nantes)
-2026,South Korea,MF: Yang Min-hyeok (Portsmouth)
-2026,South Korea,FW: Son Heung-min (Los Angeles FC)
-2026,South Korea,FW: Cho Gue-sung (Midtjylland)
-2026,South Korea,FW: Oh Hyeon-gyu (Genk)
-2026,Spain,GK: David Raya (Arsenal)
-2026,Spain,GK: Alex Remiro (Real Sociedad)
-2026,Spain,GK: Unai Simon (Athletic Bilbao)
-2026,Spain,DF: Dani Vivian (Athletic Bilbao)
-2026,Spain,DF: Marcos Llorente (Atlético Madrid)
-2026,Spain,DF: Pedro Porro (Tottenham Hotspur)
-2026,Spain,DF: Aymeric Laporte (Athletic Bilbao)
-2026,Spain,DF: Pau Cubarsi (Barcelona)
-2026,Spain,DF: Marc Cucurella (Chelsea)
-2026,Spain,DF: Alex Grimaldo (Bayer Leverkusen)
-2026,Spain,MF: Pablo Barrios (Atlético Madrid)
-2026,Spain,MF: Mikel Merino (Arsenal)
-2026,Spain,MF: Fabian Ruiz (Paris Saint-Germain)
-2026,Spain,MF: Alex Baena (Atlético Madrid)
-2026,Spain,MF: Pablo Fornals (Real Betis)
-2026,Spain,MF: Martin Zubimendi (Arsenal)
-2026,Spain,MF: Aleix Garcia (Bayer Leverkusen)
-2026,Spain,FW: Samu Aghehowa (Porto)
-2026,Spain,FW: Ferran Torres (Barcelona)
-2026,Spain,FW: Borja Iglesias (Celta Vigo)
-2026,Spain,FW: Dani Olmo (Barcelona)
-2026,Spain,FW: Yeremy Pino (Crystal Palace)
-2026,Spain,FW: Fermin Lopez (Barcelona)
-2026,Spain,FW: Mikel Oyarzabal (Real Sociedad)
-2026,Spain,FW: Jorge de Frutos (Rayo Vallecano)
-2026,Switzerland,GK: Gregor Kobel (Borussia Dortmund)
-2026,Switzerland,GK: Yvon Mvogo (Lorient)
-2026,Switzerland,GK: Marvin Keller (Young Boys)
-2026,Switzerland,DF: Miro Muheim (Hamburger SV)
-2026,Switzerland,DF: Silvan Widmer (Mainz 05)
-2026,Switzerland,DF: Nico Elvedi (Borussia Monchengladbach)
-2026,Switzerland,DF: Manuel Akanji (Inter Milan)
-2026,Switzerland,DF: Becir Omeragic (Montpellier)
-2026,Switzerland,DF: Ricardo Rodriguez (Real Betis)
-2026,Switzerland,DF: Aurele Amenda (Eintracht Frankfurt)
-2026,Switzerland,DF: Isaac Schmidt (Werder Bremen)
-2026,Switzerland,DF: Adrian Bajrami (Luzern)
-2026,Switzerland,DF: Luca Jaquez (VfB Stuttgart)
-2026,Switzerland,MF: Simon Sohm (Fiorentina)
-2026,Switzerland,MF: Johan Manzambi (SC Freiburg)
-2026,Switzerland,MF: Granit Xhaka (Sunderland)
-2026,Switzerland,MF: Djibril Sow (Sevilla)
-2026,Switzerland,MF: Christian Fassnacht (Young Boys)
-2026,Switzerland,MF: Michel Aebischer (Pisa)
-2026,Switzerland,MF: Fabian Rieder (FC Augsburg)
-2026,Switzerland,MF: Vincent Sierro (Al-Shabab)
-2026,Switzerland,FW: Breel Embolo (Rennes)
-2026,Switzerland,FW: Dan Ndoye (Nottingham Forest)
-2026,Switzerland,FW: Andi Zeqiri (Widzew Lodz)
-2026,Switzerland,FW: Ruben Vargas (Sevilla)
-2026,Switzerland,FW: Cedric Itten (Fortuna Dusseldorf)
-2026,Tunisia,GK: Noureddine Farhati (Stade Tunisien)
-2026,Tunisia,GK: Aymen Dahmen (CS Sfaxien)
-2026,Tunisia,GK: Bechir Ben Said (Esperance de Tunis)
-2026,Tunisia,DF: Marouane Sahraoui (Stade Tunisien)
-2026,Tunisia,DF: Mohamed Amine Ben Hamida (Esperance de Tunis)
-2026,Tunisia,DF: Yassine Meriah (Esperance de Tunis)
-2026,Tunisia,DF: Hamza Jelassi (Esperance de Tunis)
-2026,Tunisia,DF: Ali Maaloul (CS Sfaxien)
-2026,Tunisia,DF: Mohamed Ben Ali (Esperance de Tunis)
-2026,Tunisia,DF: Oussama Haddadi (RS Berkane)
-2026,Tunisia,DF: Moutaz Neffati (IFK Norrkoping)
-2026,Tunisia,MF: Mohamed Ali Ben Romdhane (Al Ahly)
-2026,Tunisia,MF: Houssem Tka (Esperance de Tunis)
-2026,Tunisia,MF: Chiheb Jebali (Esperance de Tunis)
-2026,Tunisia,MF: Ismael Gharbi (FC Augsburg)
-2026,Tunisia,MF: Ferjani Sassi (Al Gharafa) (captain)
-2026,Tunisia,MF: Hadj Mahmoud (Lugano)
-2026,Tunisia,FW: Nacim Dendani (Monaco)
-2026,Tunisia,FW: Hazem Mastouri (Dynamo Makhachkala)
-2026,Tunisia,FW: Amor Layouni (Hacken)
-2026,Tunisia,FW: Firas Chaouat (Club Africain)
-2026,Tunisia,FW: Rayane Anane (Etoile du Sahel)
-2026,Tunisia,FW: Seifeddine Jaziri (Zamalek)
-2026,United States,GK: Matt Freese (New York City FC)
-2026,United States,GK: Jonathan Klinsmann (Cesena)
-2026,United States,GK: Roman Celentano (FC Cincinnati)
-2026,United States,GK: Patrick Schulte (Columbus Crew)
-2026,United States,DF: Sergino Dest (PSV Eindhoven)
-2026,United States,DF: John Tolkin (Holstein Kiel)
-2026,United States,DF: Joe Scally (Borussia Monchengladbach)
-2026,United States,DF: Miles Robinson (FC Cincinnati)
-2026,United States,DF: Tim Ream (Charlotte FC)
-2026,United States,DF: Auston Trusty (Celtic)
-2026,United States,DF: Alex Freeman (Orlando City)
-2026,United States,DF: Maximilian Arfsten (Columbus Crew)
-2026,United States,DF: Mark McKenzie (Toulouse)
-2026,United States,MF: Cristian Roldan (Seattle Sounders)
-2026,United States,MF: Giovanni Reyna (Borussia Monchengladbach)
-2026,United States,MF: Tanner Tessmann (Lyon)
-2026,United States,MF: Timothy Tillman (Los Angeles FC)
-2026,United States,MF: Sebastian Berhalter (Vancouver Whitecaps)
-2026,United States,MF: Aidan Morris (Middlesbrough)
-2026,United States,FW: Ricardo Pepi (PSV Eindhoven)
-2026,United States,FW: Diego Luna (Real Salt Lake)
-2026,United States,FW: Brenden Aaronson (Leeds United)
-2026,United States,FW: Haji Wright (Coventry City)
-2026,United States,FW: Folarin Balogun (Monaco)
-2026,Uruguay,GK: Santiago Mele (Monterrey)
-2026,Uruguay,GK: Cristopher Fiermarin (Deportes Tolima)
-2026,Uruguay,DF: Jose Maria Gimenez (Atletico Madrid)
-2026,Uruguay,DF: Matias Vina (Flamengo)
-2026,Uruguay,DF: Mathias Olivera (Napoli)
-2026,Uruguay,DF: Guillermo Varela (Flamengo)
-2026,Uruguay,DF: Ronald Araujo (Barcelona)
-2026,Uruguay,DF: Sebastian Caceres (America)
-2026,Uruguay,DF: Joaquin Piquerez (Palmeiras)
-2026,Uruguay,DF: Santiago Bueno (Wolverhampton Wanderers)
-2026,Uruguay,DF: Jose Luis Rodriguez (Vasco da Gama)
-2026,Uruguay,MF: Rodrigo Bentancur (Tottenham Hotspur)
-2026,Uruguay,MF: Nahitan Nandez (Al-Qadsiah)
-2026,Uruguay,MF: Giorgian de Arrascaeta (Flamengo)
-2026,Uruguay,MF: Manuel Ugarte (Manchester United)
-2026,Uruguay,MF: Maximiliano Araujo (Sporting CP)
-2026,Uruguay,MF: Rodrigo Zalazar (Braga)
-2026,Uruguay,MF: Emiliano Martinez (Palmeiras)
-2026,Uruguay,MF: Juan Manuel Sanabria (Atletico San Luis)
-2026,Uruguay,MF: Santiago Homenchenko (Queretaro)
-2026,Uruguay,FW: Facundo Pellistri (Panathinaikos)
-2026,Uruguay,FW: Brian Rodriguez (America)
-2026,Uruguay,FW: Facundo Torres (Palmeiras)
-2026,Uruguay,FW: Federico Vinas (Oviedo)
-2026,Uruguay,FW: Rodrigo Aguirre (America)
-2026,Uruguay,FW: Luciano Rodriguez (Neom)
-2026,Uruguay,FW: Ignacio Laquintana (Red Bull Bragantino)
-2026,Uzbekistan,GK: Vladimir Nazarov (Pakhtakor)
-2026,Uzbekistan,GK: Abduvohid Nematov (Nasaf)
-2026,Uzbekistan,GK: Botirali Ergashev (Neftchi)
-2026,Uzbekistan,DF: Abdukodir Khusanov (Manchester City)
-2026,Uzbekistan,DF: Khojiakbar Alijonov (Pakhtakor)
-2026,Uzbekistan,DF: Farrukh Sayfiev (Neftchi)
-2026,Uzbekistan,DF: Rustam Ashurmatov (Esteghlal)
-2026,Uzbekistan,DF: Sherzod Nasrullaev (Nasaf)
-2026,Uzbekistan,DF: Umar Eshmurodov (Nasaf)
-2026,Uzbekistan,DF: Abdulla Abdullaev (Dibba)
-2026,Uzbekistan,DF: Husniddin Aliqulov (Caykur Rizespor)
-2026,Uzbekistan,DF: Mukhammadkodir Khamraliev (Pakhtakor)
-2026,Uzbekistan,MF: Akmal Mozgovoy (Baniyas)
-2026,Uzbekistan,MF: Otabek Shukurov (Baniyas)
-2026,Uzbekistan,MF: Jamshid Iskanderov (Neftchi)
-2026,Uzbekistan,MF: Odiljon Hamrobekov (Tractor)
-2026,Uzbekistan,MF: Azizjon Ganiev (Al Bataeh)
-2026,Uzbekistan,MF: Oston Urunov (Persepolis)
-2026,Uzbekistan,MF: Dostonbek Khamdamov (Pakhtakor)
-2026,Uzbekistan,MF: Azizbek Turgunboev (Pakhtakor)
-2026,Uzbekistan,MF: Khojimat Erkinov (Pakhtakor)
-2026,Uzbekistan,MF: Ruslanbek Jiyanov (Navbahor)
-2026,Uzbekistan,MF: Sardorbek Bakhromov (Nasaf)
-2026,Uzbekistan,FW: Eldor Shomurodov (Istanbul Basaksehir) (captain)
-2026,Uzbekistan,FW: Igor Sergeev (Pakhtakor)
-2026,Uzbekistan,FW: Khusayin Norchaev (Nasaf)
-2026,Uzbekistan,Terms and conditions
-2026,Uzbekistan,Contact Future's experts
-2026,Uzbekistan,Privacy policy
-2026,Uzbekistan,Cookies policy
-2026,Uzbekistan,Accessibility statement
-2026,Uzbekistan,Careers
-2026,Uzbekistan,About FourFourTwo
-2026,Uzbekistan,Advertise with us
-2026,Uzbekistan,Worldwide
-2026,Uzbekistan,How to pitch to FourFourTwo
+2026,Algeria,Luca Zidane
+2026,Algeria,Alexis Guendouz
+2026,Algeria,Oussama Benbot
+2026,Algeria,Aïssa Mandi
+2026,Algeria,Ramy Bensebaini
+2026,Algeria,Zineddine Belaïd
+2026,Algeria,Samir Sophian Chergui
+2026,Algeria,Jaouen Hadjam
+2026,Algeria,Kevin Guiton
+2026,Algeria,Emile Dorval
+2026,Algeria,Rafik Belghali
+2026,Algeria,Yassine Benzia
+2026,Algeria,Nabil Bentaleb
+2026,Algeria,Hicham Boudaoui
+2026,Algeria,Adem Zorgane
+2026,Algeria,Ilan Kebbal
+2026,Algeria,Farès Chaïbi
+2026,Algeria,Riyad Mahrez
+2026,Algeria,Amine Gouiri
+2026,Algeria,Mohamed Amoura
+2026,Algeria,Anis Hadj Moussa
+2026,Algeria,Badredine Bouanani
+2026,Algeria,Ibrahim Maza
+2026,Algeria,Amin Chiakha
+2026,Argentina,Emiliano Martínez
+2026,Argentina,Gerónimo Rulli
+2026,Argentina,Walter Benítez
+2026,Argentina,Facundo Cambeses
+2026,Argentina,Cristian Romero
+2026,Argentina,Nicolás Otamendi
+2026,Argentina,Nicolás Tagliafico
+2026,Argentina,Marcos Acuña
+2026,Argentina,Nahuel Molina
+2026,Argentina,Gonzalo Montiel
+2026,Argentina,Marcos Senesi
+2026,Argentina,Leonardo Balerdi
+2026,Argentina,Lautaruo Rivero
+2026,Argentina,Leandro Paredes
+2026,Argentina,Rodrigo De Paul
+2026,Argentina,Giovani Lo Celso
+2026,Argentina,Alexis Mac Allister
+2026,Argentina,Aníbal Moreno
+2026,Argentina,Nico Paz
+2026,Argentina,Lionel Messi
+2026,Argentina,Nicolás González
+2026,Argentina,Lautaro Martínez
+2026,Argentina,Julián Álvarez
+2026,Argentina,Flaco López
+2026,Argentina,Giuliano Simeone
+2026,Australia,Mathew Ryan
+2026,Australia,Paul Izzo
+2026,Australia,Joe Gauci
+2026,Australia,Milos Degenek
+2026,Australia,Jason Geria
+2026,Australia,Cameron Burgess
+2026,Australia,Kye Rowles
+2026,Australia,Fran Karacic
+2026,Australia,Lewis Miller
+2026,Australia,Jordan Bos
+2026,Australia,Alessandro Circati
+2026,Australia,Hayden Matthews
+2026,Australia,Ajdin Hrustic
+2026,Australia,Aiden O'Neill
+2026,Australia,Connor Metcalfe
+2026,Australia,Cameron Devlin
+2026,Australia,Alex Robertson
+2026,Australia,Maximilien Balard
+2026,Australia,Patrick Yazbek
+2026,Australia,Martin Boyle
+2026,Australia,Mitchell Duke
+2026,Australia,Nicholas D'Agostino
+2026,Australia,Daniel Arzani
+2026,Australia,Jacob Italiano
+2026,Australia,Mohamed Toure
+2026,Australia,Nestory Irankunda
+2026,Austria,Alexander Schlager
+2026,Austria,Patrick Pentz
+2026,Austria,Nikolas Polster
+2026,Austria,David Alaba
+2026,Austria,Philipp Lienhart
+2026,Austria,Marco Friedl
+2026,Austria,Stefan Posch
+2026,Austria,Phillipp Mwene
+2026,Austria,Kevin Danso
+2026,Austria,Alexander Prass
+2026,Austria,Leopold Querfeld
+2026,Austria,Konrad Laimer
+2026,Austria,Marcel Sabitzer
+2026,Austria,Alessandro Schöpf
+2026,Austria,Florian Grillitsch
+2026,Austria,Romano Schmid
+2026,Austria,Christoph Baumgartner
+2026,Austria,Patrick Wimmer
+2026,Austria,Nicolas Seiwald
+2026,Austria,Marko Arnautovic
+2026,Austria,Michael Gregoritsch
+2026,Austria,Marco Grüll
+2026,Austria,Raul Florucz
+2026,Austria,Nikolaus Wurmbrand
+2026,Belgium,Thibaut Courtois
+2026,Belgium,Matz Sels
+2026,Belgium,Maarten Vandevoordt
+2026,Belgium,Senne Lammens
+2026,Belgium,Axel Witsel
+2026,Belgium,Thomas Meunier
+2026,Belgium,Brandon Mechele
+2026,Belgium,Timothy Castagne
+2026,Belgium,Maxim De Cuyper
+2026,Belgium,Arthur Theate
+2026,Belgium,Koni De Winter
+2026,Belgium,Zeno Debast
+2026,Belgium,Joaquin Seys
+2026,Belgium,Kevin De Bruyne
+2026,Belgium,Hans Vanaken
+2026,Belgium,Nicolas Raskin
+2026,Belgium,Charles Vanhoutte
+2026,Belgium,Amadou Onana
+2026,Belgium,Michy Batshuayi
+2026,Belgium,Leandro Trossard
+2026,Belgium,Dodi Lukebakio
+2026,Belgium,Alexis Saelemaekers
+2026,Belgium,Loïs Openda
+2026,Belgium,Jérémy Doku
+2026,Belgium,Charles De Ketelaere
+2026,Belgium,Malick Fofana
+2026,Brazil,John Victor
+2026,Brazil,Hugo Souza
+2026,Brazil,Bento
+2026,Brazil,Douglas Santos
+2026,Brazil,Éder Militão
+2026,Brazil,Paulo Henrique
+2026,Brazil,Fabrício Bruno
+2026,Brazil,Gabriel Magalhães
+2026,Brazil,Caio Henrique
+2026,Brazil,Vitinho
+2026,Brazil,Carlos Augusto
+2026,Brazil,Lucas Beraldo
+2026,Brazil,Casemiro
+2026,Brazil,Joelinton
+2026,Brazil,Bruno Guimarães
+2026,Brazil,Lucas Paquetá
+2026,Brazil,João Gomes
+2026,Brazil,André
+2026,Brazil,Richarlison
+2026,Brazil,Neymar Jr.
+2026,Brazil,Vinícius Júnior
+2026,Brazil,Matheus Cunha
+2026,Brazil,Rodrygo
+2026,Brazil,Gabriel Martinelli
+2026,Brazil,Igor Jesus
+2026,Brazil,Luiz Henrique
+2026,Brazil,Estêvão
+2026,Canada,Maxime Crépeau
+2026,Canada,Dayne St. Clair
+2026,Canada,Luka Gavran
+2026,Canada,Richie Laryea
+2026,Canada,Joel Waterman
+2026,Canada,Derek Cornelius
+2026,Canada,Kamal Miller
+2026,Canada,Zorhan Bassong
+2026,Canada,Ali Ahmed
+2026,Canada,Luc Rollet
+2026,Canada,Jonathan Osorio
+2026,Canada,Stephen Eustáquio
+2026,Canada,Mathieu Choinière
+2026,Canada,Nathan Saliba
+2026,Canada,Ismaël Koné
+2026,Canada,Niko Sigur
+2026,Canada,Cyle Larin
+2026,Canada,Liam Millar
+2026,Canada,Jonathan David
+2026,Canada,Jayden Nelson
+2026,Canada,Tajon Buchanan
+2026,Canada,Jacob Shaffelburg
+2026,Canada,Tani Oluwaseyi
+2026,Canada,Promise David
+2026,Colombia,David Ospina
+2026,Colombia,Álvaro Montero
+2026,Colombia,Kevin Mier
+2026,Colombia,Daniel Muñoz
+2026,Colombia,Johan Mojica
+2026,Colombia,Davinson Sánchez
+2026,Colombia,Álvaro Angulo
+2026,Colombia,Jhon Lucumí
+2026,Colombia,Andres Román
+2026,Colombia,Willer Ditta
+2026,Colombia,Yerson Mosquera
+2026,Colombia,James Rodríguez
+2026,Colombia,Juan Portilla
+2026,Colombia,Juan Fernando Quintero
+2026,Colombia,Jefferson Lerma
+2026,Colombia,Járninton Campaz
+2026,Colombia,Richard Ríos
+2026,Colombia,Kevin Castaño
+2026,Colombia,Yáser Asprilla
+2026,Colombia,Rafael Borré
+2026,Colombia,Luis Díaz
+2026,Colombia,Johan Carbonero
+2026,Colombia,Luis Suárez
+2026,Colombia,Kevin Serna
+2026,Colombia,Cucho Hernández
+2026,Croatia,Dominik Livakovic
+2026,Croatia,Ivica Ivusic
+2026,Croatia,Dominik Kotarski
+2026,Croatia,Duje Caleta-Car
+2026,Croatia,Martin Erlic
+2026,Croatia,Marin Pongracic
+2026,Croatia,Domagoj Bradaric
+2026,Croatia,Josko Gvardiol
+2026,Croatia,Josip Sutalo
+2026,Croatia,Ivan Smolcic
+2026,Croatia,Luka Vuskovic
+2026,Croatia,Luka Modric
+2026,Croatia,Mateo Kovacic
+2026,Croatia,Mario Pasalic
+2026,Croatia,Nikola Moro
+2026,Croatia,Lovro Majer
+2026,Croatia,Kristijan Jakic
+2026,Croatia,Luka Sucic
+2026,Croatia,Martin Baturina
+2026,Croatia,Toni Fruk
+2026,Croatia,Petar Sucic
+2026,Croatia,Ivan Perisic
+2026,Croatia,Andrej Kramaric
+2026,Croatia,Ante Budimir
+2026,Croatia,Marco Pasalic
+2026,Croatia,Franjo Ivanovic
+2026,Ecuador,Gonzalo Valle
+2026,Ecuador,Hernán Galíndez
+2026,Ecuador,Moisés Ramírez
+2026,Ecuador,Cristian Loor
+2026,Ecuador,Cristian Ramírez
+2026,Ecuador,Xavier Arreaga
+2026,Ecuador,Pervis Estupiñán
+2026,Ecuador,Bryan Ramirez
+2026,Ecuador,Félix Torres
+2026,Ecuador,Ángelo Preciado
+2026,Ecuador,Willian Pacho
+2026,Ecuador,Jhoanner Chavez
+2026,Ecuador,Yaimar Medina
+2026,Ecuador,Joel Ordóñez
+2026,Ecuador,Alan Franco
+2026,Ecuador,Jordy Alcivar
+2026,Ecuador,Pedro Vite
+2026,Ecuador,Denil Castillo
+2026,Ecuador,Patrik Mercado
+2026,Ecuador,Kendry Páez
+2026,Ecuador,Darwin Guagua
+2026,Ecuador,Enner Valencia
+2026,Ecuador,John Yeboah
+2026,Ecuador,Kevin Rodríguez
+2026,Ecuador,Leonardo Campana
+2026,Ecuador,John Mercado
+2026,Ecuador,Nilson Angulo
+2026,Ecuador,Alan Minda
+2026,Egypt,Mohamed El Shenawy
+2026,Egypt,Mohamed Sobhy
+2026,Egypt,Mostafa Shobeir
+2026,Egypt,Abdel Aziz El Balouti
+2026,Egypt,Mohamed Hany
+2026,Egypt,Ramy Rabia
+2026,Egypt,Yasser Ibrahim
+2026,Egypt,Mohamed Hamdy
+2026,Egypt,Ahmed Eid
+2026,Egypt,Hossam Abdelmaguid
+2026,Egypt,Khaled Sobhy
+2026,Egypt,Amr El Gazar
+2026,Egypt,Zizo
+2026,Egypt,Ibrahim Adel
+2026,Egypt,Ahmed Koka
+2026,Egypt,Mahmoud Saber
+2026,Egypt,Mohanad Lasheen
+2026,Egypt,Trézéguet
+2026,Egypt,Mohamed Salah
+2026,Egypt,Mostafa Mohamed
+2026,Egypt,Osama Faisal
+2026,Egypt,Mostafa Fathi
+2026,England,Jordan Pickford
+2026,England,Dean Henderson
+2026,England,James Trafford
+2026,England,John Stones
+2026,England,Dan Burn
+2026,England,Ezri Konsa
+2026,England,Marc Guéhi
+2026,England,Djed Spence
+2026,England,Myles Lewis-Skelly
+2026,England,Jordan Henderson
+2026,England,Ruben Loftus-Cheek
+2026,England,Declan Rice
+2026,England,Jude Bellingham
+2026,England,Elliot Anderson
+2026,England,Morgan Gibbs-White
+2026,England,Eberechi Eze
+2026,England,Nico O'Reilly
+2026,England,Cole Palmer
+2026,England,Phil Foden
+2026,England,Harry Kane
+2026,England,Ollie Watkins
+2026,England,Jarrod Bowen
+2026,England,Marcus Rashford
+2026,England,Morgan Rogers
+2026,England,Anthony Gordon
+2026,England,Bukayo Saka
+2026,France,Brice Samba
+2026,France,Mike Maignan
+2026,France,Lucas Chevalier
+2026,France,Lucas Digne
+2026,France,Lucas Hernández
+2026,France,Benjamin Pavard
+2026,France,Dayot Upamecano
+2026,France,Jules Koundé
+2026,France,Theo Hernández
+2026,France,William Saliba
+2026,France,Malo Gusto
+2026,France,Aurélien Tchouaméni
+2026,France,Adrien Rabiot
+2026,France,Khephren Thuram
+2026,France,Eduardo Camavinga
+2026,France,Manu Koné
+2026,France,Kylian Mbappé
+2026,France,Ousmane Dembélé
+2026,France,Michael Olise
+2026,France,Maghnes Akliouche
+2026,France,Florian Thauvin
+2026,France,Kingsley Coman
+2026,France,Christopher Nkunku
+2026,France,Jean-Philippe Mateta
+2026,France,Hugo Ekitike
+2026,Germany,Oliver Baumann
+2026,Germany,Alexander Nübel
+2026,Germany,Finn Dahmen
+2026,Germany,Noah Atubolu
+2026,Germany,Nathaniel Brown
+2026,Germany,Jonathan Tah
+2026,Germany,Robin Koch
+2026,Germany,Waldemar Anton
+2026,Germany,David Raum
+2026,Germany,Ridle Baku
+2026,Germany,Nico Schlotterbeck
+2026,Germany,Leon Goretzka
+2026,Germany,Robert Andrich
+2026,Germany,Joshua Kimmich
+2026,Germany,Nadiem Amiri
+2026,Germany,Felix Nmecha
+2026,Germany,Angelo Stiller
+2026,Germany,Jamal Musiala
+2026,Germany,Florian Wirtz
+2026,Germany,Kevin Schade
+2026,Germany,Aleksandar Pavlovic
+2026,Germany,Serge Gnabry
+2026,Germany,Jonathan Burkardt
+2026,Germany,Karim Adeyemi
+2026,Germany,Maximilian Beier
+2026,Germany,Nick Woltemade
+2026,Ghana,Lawrence Ati-Zigi
+2026,Ghana,Joseph Anang
+2026,Ghana,Benjamin Asare
+2026,Ghana,Alexander Djiku
+2026,Ghana,Jerome Opoku
+2026,Ghana,Gideon Mensah
+2026,Ghana,Mohammed Salisu
+2026,Ghana,Alidu Seidu
+2026,Ghana,Ebenezer Annan
+2026,Ghana,Jonas Adjei
+2026,Ghana,Kojo Peprah Oppong
+2026,Ghana,Thomas Partey
+2026,Ghana,Elisha Owusu
+2026,Ghana,Mohammed Kudus
+2026,Ghana,Kwasi Sibo
+2026,Ghana,Caleb Yirenkyi
+2026,Ghana,Prince Owusu
+2026,Ghana,Jordan Ayew
+2026,Ghana,Brandon Thomas-Asante
+2026,Ghana,Joseph Paintsil
+2026,Ghana,Antoine Semenyo
+2026,Ghana,Kamaldeen Sulemana
+2026,Ghana,Fatawu Issahaku
+2026,Ghana,Christopher Baah
+2026,Haiti,Johny Placide
+2026,Haiti,Josue Duverger
+2026,Haiti,Tony Algarin
+2026,Haiti,Hannes Delcroix
+2026,Haiti,Martin Expérience
+2026,Haiti,Carlens Arcus
+2026,Haiti,Keeto Thermoncy
+2026,Haiti,Ricardo Adé
+2026,Haiti,Stéphane Lambese
+2026,Haiti,Garven Metusala
+2026,Haiti,Duke Lacroix
+2026,Haiti,Jean-Kévin Duverne
+2026,Haiti,Jean-Ricner Bellegarde
+2026,Haiti,Leverton Pierre
+2026,Haiti,Danley Jean Jacques
+2026,Haiti,Carl-Fred Sainte
+2026,Haiti,Derrick Etienne Jr.
+2026,Haiti,Josué Casimir
+2026,Haiti,Ruben Providence
+2026,Haiti,Duckens Nazon
+2026,Haiti,Louicius Don Deedson
+2026,Haiti,Woobens Pacius
+2026,Haiti,Yassine Fortune
+2026,Haiti,Frantzdy Pierrot
+2026,Iran,Alireza Beiranvand
+2026,Iran,Mohammad Reza Akhbari
+2026,Iran,Payam Niazmand
+2026,Iran,Mohammad Khalifeh
+2026,Iran,Shoja Khalilzadeh
+2026,Iran,Ramin Rezaeian
+2026,Iran,Milad Mohammadi
+2026,Iran,Daniel Esmaeilifar
+2026,Iran,Ali Nemati
+2026,Iran,Amin Hazbavi
+2026,Iran,Aria Yousefi
+2026,Iran,Mohammadmehdi Zare
+2026,Iran,Hossein Abarghouei
+2026,Iran,Saeid Ezatolahi
+2026,Iran,Omid Norafkan
+2026,Iran,Mohammad Mohebbi
+2026,Iran,Mohammad Mohebi
+2026,Iran,Mohammad Ghorbani
+2026,Iran,Mohammad Hosseinnezhad
+2026,Iran,Mohammad Khodabandelou
+2026,Iran,Saman Ghoddos
+2026,Iran,Amirhossein Hosseinzadeh
+2026,Iran,Alireza Jahanbakhsh
+2026,Iran,Mehdi Taremi
+2026,Iran,Ali Alipour
+2026,Iran,Allahyar Sayyad
+2026,Iran,Mehdi Hashemnejad
+2026,Iran,Kasra Taheri
+2026,Ivory Coast,Alban Lafont
+2026,Ivory Coast,Yahia Fofana
+2026,Ivory Coast,Mohamed Koné
+2026,Ivory Coast,Michel Diaz
+2026,Ivory Coast,Willy Boly
+2026,Ivory Coast,Evan Ndicka
+2026,Ivory Coast,Christopher Operi
+2026,Ivory Coast,Ghislain Konan
+2026,Ivory Coast,Emmanuel Agbadou
+2026,Ivory Coast,Armel Junior Zohouri
+2026,Ivory Coast,Guela Doué
+2026,Ivory Coast,Franck Kessié
+2026,Ivory Coast,Ibrahim Sangaré
+2026,Ivory Coast,Abdul Keita
+2026,Ivory Coast,Sébastien Haller
+2026,Ivory Coast,Nicolas Pépé
+2026,Ivory Coast,Evann Guessand
+2026,Ivory Coast,Amad
+2026,Ivory Coast,Simon Adingra
+2026,Ivory Coast,Oumar Diakité
+2026,Ivory Coast,Pacome Zouzoua
+2026,Ivory Coast,Bazoumana Touré
+2026,Ivory Coast,Yan Diomande
+2026,Japan,Keisuke Osako
+2026,Japan,Zion Suzuki
+2026,Japan,Tomoki Hayakawa
+2026,Japan,Yuto Nagatomo
+2026,Japan,Shogo Taniguchi
+2026,Japan,Kou Itakura
+2026,Japan,Daiki Hashioka
+2026,Japan,Ayumu Seko
+2026,Japan,Tsuyoshi Watanabe
+2026,Japan,Junnosuke Suzuki
+2026,Japan,Henry Mochizuki
+2026,Japan,Tomoya Ando
+2026,Japan,Wataru Endo
+2026,Japan,Takumi Minamino
+2026,Japan,Daichi Kamada
+2026,Japan,Ritsu Doan
+2026,Japan,Ao Tanaka
+2026,Japan,Joel Chima Fujita
+2026,Japan,Kaishu Sano
+2026,Japan,Junya Ito
+2026,Japan,Koki Ogawa
+2026,Japan,Takefusa Kubo
+2026,Japan,Keito Nakamura
+2026,Japan,Koki Saito
+2026,Japan,Shuto Machino
+2026,Japan,Ayase Ueda
+2026,Japan,Yuki Soma
+2026,Japan,Daizen Maeda
+2026,Mexico,Ángel Malagón
+2026,Mexico,Carlos Acevedo
+2026,Mexico,Raúl Rangel
+2026,Mexico,Jesús Gallardo
+2026,Mexico,Jorge Sánchez
+2026,Mexico,César Montes
+2026,Mexico,Johan Vásquez
+2026,Mexico,Israel Reyes
+2026,Mexico,Ramón Juarez
+2026,Mexico,Mateo Chávez
+2026,Mexico,Kevin Álvarez
+2026,Mexico,Érick Sánchez
+2026,Mexico,Orbelín Pineda
+2026,Mexico,Carlos Rodríguez
+2026,Mexico,Luis Romo
+2026,Mexico,Diego Lainez
+2026,Mexico,Alexis Gutierrez
+2026,Mexico,Marcel Ruiz
+2026,Mexico,Erik Lira
+2026,Mexico,César Huerta
+2026,Mexico,Hirving Lozano
+2026,Mexico,Germán Berterame
+2026,Mexico,Alexis Vega
+2026,Mexico,Julián Quiñones
+2026,Mexico,Santiago Gimenez
+2026,Morocco,Yassine Bounou
+2026,Morocco,Munir El Kajoui
+2026,Morocco,Mehdi Harrar
+2026,Morocco,Adam Masina
+2026,Morocco,Mohamed Chibi
+2026,Morocco,Jawad El Yamiq
+2026,Morocco,Achraf Hakimi
+2026,Morocco,Nayef Aguerd
+2026,Morocco,Abdel Abqar
+2026,Morocco,Souffian El Karouani
+2026,Morocco,Omar El Hilali
+2026,Morocco,Youssef Belammari
+2026,Morocco,Sofyan Amrabat
+2026,Morocco,Brahim Díaz
+2026,Morocco,Ismael Saibari
+2026,Morocco,Oussama Targhaline
+2026,Morocco,Neil El Aynaoui
+2026,Morocco,Bilal El Khannouss
+2026,Morocco,Anas Bach
+2026,Morocco,Youssef En-Nesyri
+2026,Morocco,Ayoub El Kaabi
+2026,Morocco,Amine Adli
+2026,Morocco,Abde Ezzalzouli
+2026,Morocco,Ilias Akhomach
+2026,Morocco,Eliesse Ben Seghir
+2026,Morocco,Hamza Igmane
+2026,Morocco,Chemsdine Talbi
+2026,Netherlands,Mark Flekken
+2026,Netherlands,Bart Verbruggen
+2026,Netherlands,Robin Roefs
+2026,Netherlands,Stefan de Vrij
+2026,Netherlands,Virgil van Dijk
+2026,Netherlands,Nathan Aké
+2026,Netherlands,Denzel Dumfries
+2026,Netherlands,Jeremie Frimpong
+2026,Netherlands,Jan Paul van Hecke
+2026,Netherlands,Jurriën Timber
+2026,Netherlands,Micky van de Ven
+2026,Netherlands,Quilindschy Hartman
+2026,Netherlands,Frenkie de Jong
+2026,Netherlands,Jerdy Schouten
+2026,Netherlands,Teun Koopmeiners
+2026,Netherlands,Tijjani Reijnders
+2026,Netherlands,Ryan Gravenberch
+2026,Netherlands,Xavi Simons
+2026,Netherlands,Memphis Depay
+2026,Netherlands,Wout Weghorst
+2026,Netherlands,Justin Kluivert
+2026,Netherlands,Cody Gakpo
+2026,Netherlands,Donyell Malen
+2026,Netherlands,Brian Brobbey
+2026,New Zealand,Max Crocombe
+2026,New Zealand,Nik Tzanev
+2026,New Zealand,Alex Paulsen
+2026,New Zealand,Michael Boxall
+2026,New Zealand,Tommy Smith
+2026,New Zealand,Bill Tuiloma
+2026,New Zealand,Tim Payne
+2026,New Zealand,Francis DeVries
+2026,New Zealand,George Stanger
+2026,New Zealand,Dalton Wilkins
+2026,New Zealand,Finn Surman
+2026,New Zealand,Lukas Kelly-Heald
+2026,New Zealand,Tyler Bindon
+2026,New Zealand,Ryan Thomas
+2026,New Zealand,Andre De Jong
+2026,New Zealand,Callum McCowatt
+2026,New Zealand,Owen Parker-Prince
+2026,New Zealand,Sarpreet Singh
+2026,New Zealand,Joe Bell
+2026,New Zealand,Marko Stamenic
+2026,New Zealand,Matthew Garbett
+2026,New Zealand,Chris Wood
+2026,New Zealand,Elijah Just
+2026,New Zealand,Ben Waine
+2026,New Zealand,Ben Old
+2026,Norway,Ørjan Nyland
+2026,Norway,Matias Dyngeland
+2026,Norway,Egil Selvik
+2026,Norway,Marcus Pedersen
+2026,Norway,Kristoffer Ajer
+2026,Norway,Andreas Hanche-Olsen
+2026,Norway,Torbjorn Heggem
+2026,Norway,Sebastian Soraas Sebulonsen
+2026,Norway,David Wolfe
+2026,Norway,Eivind Helland
+2026,Norway,Patrick Berg
+2026,Norway,Sander Berge
+2026,Norway,Aron Donnum
+2026,Norway,Martin Ødegaard
+2026,Norway,Oscar Bobb
+2026,Norway,Thelo Aasgaard
+2026,Norway,Kristian Malt Arnstad
+2026,Norway,Antonio Nusa
+2026,Norway,Sverre Nypan
+2026,Norway,Erling Haaland
+2026,Norway,Alexander Sørloth
+2026,Norway,Jørgen Strand Larsen
+2026,Norway,Aune Heggebo
+2026,Norway,Andreas Schjelderup
+2026,Panama,Luis Mejía
+2026,Panama,César Samudio
+2026,Panama,Orlando Mosquera
+2026,Panama,César Blackman
+2026,Panama,José Córdoba
+2026,Panama,Fidel Escobar
+2026,Panama,Jiovany Ramos
+2026,Panama,Éric Davis
+2026,Panama,Andrés Andrade
+2026,Panama,Jorge Gutiérrez
+2026,Panama,Michael Murillo
+2026,Panama,Edward Cedeño
+2026,Panama,Christian Martínez
+2026,Panama,José Luis Rodríguez
+2026,Panama,Adalberto Carrasquilla
+2026,Panama,Édgar Bárcenas
+2026,Panama,José Manuel Murillo
+2026,Panama,Omar Browne
+2026,Panama,Aníbal Godoy
+2026,Panama,Tomás Rodríguez
+2026,Panama,Ismael Díaz
+2026,Panama,Azarias Londoño
+2026,Panama,José Fajardo
+2026,Panama,Cecilio Waterman
+2026,Paraguay,Gatito Fernández
+2026,Paraguay,Juan Espínola
+2026,Paraguay,Orlando Gil
+2026,Paraguay,Juan Cáceres
+2026,Paraguay,Gustavo Gómez
+2026,Paraguay,Gustavo Velázquez
+2026,Paraguay,Júnior Alonso
+2026,Paraguay,Alan Benítez
+2026,Paraguay,Omar Alderete
+2026,Paraguay,Alexis Duarte
+2026,Paraguay,Diego León
+2026,Paraguay,Miguel Almirón
+2026,Paraguay,Lucas Romero
+2026,Paraguay,Kaku
+2026,Paraguay,Diego Gómez
+2026,Paraguay,Andrés Cubas
+2026,Paraguay,Braian Ojeda
+2026,Paraguay,Matías Galarza
+2026,Paraguay,Damián Bobadilla
+2026,Paraguay,Hugo Cuenca
+2026,Paraguay,Antonio Sanabria
+2026,Paraguay,Ángel Romero
+2026,Paraguay,Ronaldo Martínez
+2026,Paraguay,Alex Arce
+2026,Paraguay,Ramón Sosa
+2026,Paraguay,Diego González
+2026,Portugal,Rui Silva
+2026,Portugal,José Sá
+2026,Portugal,Diogo Costa
+2026,Portugal,Nélson Semedo
+2026,Portugal,Rúben Dias
+2026,Portugal,Diogo Dalot
+2026,Portugal,Nuno Tavares
+2026,Portugal,Nuno Mendes
+2026,Portugal,Gonçalo Inacio
+2026,Portugal,António Silva
+2026,Portugal,Bruno Fernandes
+2026,Portugal,Bernardo Silva
+2026,Portugal,Rúben Neves
+2026,Portugal,João Palhinha
+2026,Portugal,Pedro Gonçalves
+2026,Portugal,Vitinha
+2026,Portugal,Matheus Nunes
+2026,Portugal,Renato Veiga
+2026,Portugal,João Neves
+2026,Portugal,Cristiano Ronaldo
+2026,Portugal,Pedro Neto
+2026,Portugal,Rafael Leão
+2026,Portugal,Francisco Trincão
+2026,Portugal,João Félix
+2026,Portugal,Gonçalo Ramos
+2026,Portugal,Francisco Conceição
+2026,Qatar,Meshaal Barsham
+2026,Qatar,Salah Zakaria
+2026,Qatar,Mahmoud Abunada
+2026,Qatar,Shehab Ellethy
+2026,Qatar,Ró-Ró
+2026,Qatar,Lucas Mendes
+2026,Qatar,Almahdi Ali Mukhtar
+2026,Qatar,Boualem Khoukhi
+2026,Qatar,Bassam Al-Rawi
+2026,Qatar,Tarek Salman
+2026,Qatar,Ahmed Suhail
+2026,Qatar,Homam Ahmed
+2026,Qatar,Abdalla Yousif
+2026,Qatar,Jassem Abdulsallam
+2026,Qatar,Sultan Al-Brake
+2026,Qatar,Abdulaziz Hatem
+2026,Qatar,Guilherme
+2026,Qatar,Karim Boudiaf
+2026,Qatar,Assim Madibo
+2026,Qatar,Ahmed Fathi
+2026,Qatar,Mohamed Naceur Almanai
+2026,Qatar,Mohammed Waad
+2026,Qatar,Ayoub Al Oui
+2026,Qatar,Edmílson Junior
+2026,Qatar,Mohammed Muntari
+2026,Qatar,Akram Afif
+2026,Qatar,Hassan Al-Haydos
+2026,Qatar,Ahmed Alaaeldin
+2026,Qatar,Yusuf Abdurisag
+2026,Qatar,Ahmed Alrawi
+2026,Qatar,Mohamed Gouda
+2026,Qatar,Tahsin Jamshid
+2026,Qatar,Ahmed Al Ganehi
+2026,Qatar,Almoez Ali
+2026,Qatar,Sebastián Soria
+2026,Saudi Arabia,Mohammed Al-Yami
+2026,Saudi Arabia,Raghid Al-Najjar
+2026,Saudi Arabia,Nawaf Al-Aqidi
+2026,Saudi Arabia,Abdulrahman Al-Sanbi
+2026,Saudi Arabia,Hassan Al-Tombakti
+2026,Saudi Arabia,Abdulelah Al-Amri
+2026,Saudi Arabia,Saud Abdulhamid
+2026,Saudi Arabia,Moteb Al-Harbi
+2026,Saudi Arabia,Nawaf Boushal
+2026,Saudi Arabia,Ali Majrashi
+2026,Saudi Arabia,Mohammed Sulaiman
+2026,Saudi Arabia,Saad Al Mosa
+2026,Saudi Arabia,Salem Al-Dawsari
+2026,Saudi Arabia,Mohamed Kanno
+2026,Saudi Arabia,Nasser Al-Dawsari
+2026,Saudi Arabia,Abdullah Al-Khaibari
+2026,Saudi Arabia,Aiman Yahya
+2026,Saudi Arabia,Ziyad Aljohani
+2026,Saudi Arabia,Ali Al-Hassan
+2026,Saudi Arabia,Musab Al-Juwayr
+2026,Saudi Arabia,Jehad Thakri
+2026,Saudi Arabia,Saleh Al-Shehri
+2026,Saudi Arabia,Abdulrahman Al-Obud
+2026,Saudi Arabia,Feras Al-Brikan
+2026,Saudi Arabia,Abdullah Al-Hamdan
+2026,Saudi Arabia,Marwan Al-Sahafi
+2026,Saudi Arabia,Muhannad Al-Saad
+2026,Saudi Arabia,Waheb Saleh
+2026,Scotland,Liam Kelly
+2026,Scotland,Craig Gordon
+2026,Scotland,Angus Gunn
+2026,Scotland,Andrew Robertson
+2026,Scotland,Grant Hanley
+2026,Scotland,John Souttar
+2026,Scotland,Scott McKenna
+2026,Scotland,Jack Hendry
+2026,Scotland,Kieran Tierney
+2026,Scotland,Anthony Ralston
+2026,Scotland,Aaron Hickey
+2026,Scotland,Max Johnston
+2026,Scotland,Ryan Christie
+2026,Scotland,Kenny McLean
+2026,Scotland,John McGinn
+2026,Scotland,Lewis Ferguson
+2026,Scotland,Scott McTominay
+2026,Scotland,Billy Gilmour
+2026,Scotland,Josh Mulligan
+2026,Scotland,Connor Barron
+2026,Scotland,Lennon Miller
+2026,Scotland,Lyndon Dykes
+2026,Scotland,Ché Adams
+2026,Scotland,George Hirst
+2026,Scotland,Kieron Bowie
+2026,Scotland,Ben Gannon Doak
+2026,Senegal,Mory Diaw
+2026,Senegal,Édouard Mendy
+2026,Senegal,Yehvann Diouf
+2026,Senegal,Samba Mballo
+2026,Senegal,Kalidou Koulibaly
+2026,Senegal,Moussa Niakhaté
+2026,Senegal,Abdoulaye Seck
+2026,Senegal,Ismail Jakobs
+2026,Senegal,Moustapha Mbow
+2026,Senegal,Antoine Mendy
+2026,Senegal,El Hadji Malick Diouf
+2026,Senegal,Ilay Camara
+2026,Senegal,Lamine Camara
+2026,Senegal,Idrissa Gueye
+2026,Senegal,Nampalys Mendy
+2026,Senegal,Krépin Diatta
+2026,Senegal,Pape Gueye
+2026,Senegal,Cheikh Niasse
+2026,Senegal,Pathé Ciss
+2026,Senegal,Pape Matar Sarr
+2026,Senegal,Sadio Mané
+2026,Senegal,Habib Diallo
+2026,Senegal,Ismaïla Sarr
+2026,Senegal,Cherif Ndiaye
+2026,Senegal,Iliman Ndiaye
+2026,Senegal,Cheick Tidiane Sabaly
+2026,Senegal,Nicolas Jackson
+2026,South Africa,Ricardo Goss
+2026,South Africa,Ronwen Williams
+2026,South Africa,Sipho Chaine
+2026,South Africa,Thapelo Morena
+2026,South Africa,Nkosinathi Sibisi
+2026,South Africa,Khuliso Mudau
+2026,South Africa,Thabo Moloisane
+2026,South Africa,Tholo Matuludi
+2026,South Africa,Samukelo Kabini
+2026,South Africa,Khulumani Ndamane
+2026,South Africa,Malibongwe Khoza
+2026,South Africa,Aubrey Modiba
+2026,South Africa,Yaya Sithole
+2026,South Africa,Teboho Mokoena
+2026,South Africa,Sipho Mbule
+2026,South Africa,Bathusi Jurry Aubaas
+2026,South Africa,Thalente Mbatha
+2026,South Africa,Tshepang Moremi
+2026,South Africa,Mduduzi Shabalala
+2026,South Africa,Lyle Foster
+2026,South Africa,Oswin Appollis
+2026,South Africa,Iqraam Rayners
+2026,South Africa,Evidence Makgopa
+2026,South Africa,Ashley Cupido
+2026,South Africa,Relebohile Ratomo
+2026,South Africa,Mohau Nkota
+2026,South Korea,Kim Seung-Gyu
+2026,South Korea,Jo Hyeon-Woo
+2026,South Korea,Song Bum-Keun
+2026,South Korea,Kim Min-Jae
+2026,South Korea,Kim Ju-Sung
+2026,South Korea,Lee Myung-Jae
+2026,South Korea,Kim Moon-Hwan
+2026,South Korea,Lee Tae-Seok
+2026,South Korea,Han-Beom Lee
+2026,South Korea,Seol Young-Woo
+2026,South Korea,Cho Yu-Min
+2026,South Korea,Kim Ji-Soo
+2026,South Korea,Kim Jin-Kyu
+2026,South Korea,Lee Jae-Sung
+2026,South Korea,Paik Seung-Ho
+2026,South Korea,Lee Dong-Gyeong
+2026,South Korea,Lee Kang-in
+2026,South Korea,Hwang In-Beom
+2026,South Korea,Won Du-Jae
+2026,South Korea,Jens Castrop
+2026,South Korea,Park Jin-Seop
+2026,South Korea,Son Heung-Min
+2026,South Korea,Hwang Hee-Chan
+2026,South Korea,Jeong Sang-Bin
+2026,South Korea,Eom Ji-Sung
+2026,South Korea,Oh Hyun-Gyu
+2026,Spain,David Raya
+2026,Spain,Álex Remiro
+2026,Spain,Unai Simón
+2026,Spain,Aymeric Laporte
+2026,Spain,Alejandro Grimaldo
+2026,Spain,Robin Le Normand
+2026,Spain,Marc Cucurella
+2026,Spain,Pedro Porro
+2026,Spain,Dani Vivian
+2026,Spain,Pau Cubarsí
+2026,Spain,Marcos Llorente
+2026,Spain,Mikel Merino
+2026,Spain,Aleix García
+2026,Spain,Dani Olmo
+2026,Spain,Pedri
+2026,Spain,Martín Zubimendi
+2026,Spain,Yéremy Pino
+2026,Spain,Álex Baena
+2026,Spain,Pablo Barrios
+2026,Spain,Lamine Yamal
+2026,Spain,Nico Williams
+2026,Spain,Borja Iglesias
+2026,Spain,Mikel Oyarzabal
+2026,Spain,Jorge de Frutos
+2026,Spain,Samu Aghehowa
+2026,Spain,Jesús Rodriguez
+2026,Switzerland,Yvon Mvogo
+2026,Switzerland,Gregor Kobel
+2026,Switzerland,Marvin Keller
+2026,Switzerland,Ricardo Rodríguez
+2026,Switzerland,Silvan Widmer
+2026,Switzerland,Nico Elvedi
+2026,Switzerland,Manuel Akanji
+2026,Switzerland,Miro Muheim
+2026,Switzerland,Isaac Schmidt
+2026,Switzerland,Aurèle Amenda
+2026,Switzerland,Luca Jaquez
+2026,Switzerland,Adrian Bajrami
+2026,Switzerland,Zachary Athekame
+2026,Switzerland,Granit Xhaka
+2026,Switzerland,Remo Freuler
+2026,Switzerland,Vincent Sierro
+2026,Switzerland,Djibril Sow
+2026,Switzerland,Rubén Vargas
+2026,Switzerland,Fabian Rieder
+2026,Switzerland,Johan Manzambi
+2026,Switzerland,Breel Embolo
+2026,Switzerland,Cedric Itten
+2026,Switzerland,Andi Zeqiri
+2026,Switzerland,Dan Ndoye
+2026,Tunisia,Aymen Dahmen
+2026,Tunisia,Ben Said
+2026,Tunisia,Noureddine Farhati
+2026,Tunisia,Nader Ghandri
+2026,Tunisia,Yassine Meriah
+2026,Tunisia,Dylan Bronn
+2026,Tunisia,Yan Valery
+2026,Tunisia,Montassar Talbi
+2026,Tunisia,Ali Abdi
+2026,Tunisia,Alaa Ghram
+2026,Tunisia,Moutaz Neffati
+2026,Tunisia,Amine Cherni
+2026,Tunisia,Ferjani Sassi
+2026,Tunisia,Mohamed Ben Larbi
+2026,Tunisia,Ellyes Skhiri
+2026,Tunisia,Aïssa Laïdouni
+2026,Tunisia,Mortadha Ben Ouanes
+2026,Tunisia,Mohamed Ali Ben Romdhane
+2026,Tunisia,Hadj Mahmoud
+2026,Tunisia,Hannibal Mejbri
+2026,Tunisia,Naïm Sliti
+2026,Tunisia,Firas Chaouat
+2026,Tunisia,Sebastian Tounekti
+2026,Tunisia,Ismaël Gharbi
+2026,Tunisia,Elias Saad
+2026,Tunisia,Sayfallah Ltaief
+2026,Tunisia,Youssef Snana
+2026,Tunisia,Hazem Mastouri
+2026,United States,Matthew Freese
+2026,United States,Patrick Schulte
+2026,United States,Chris Brady
+2026,United States,Matt Turner
+2026,United States,Mark McKenzie
+2026,United States,Tim Ream
+2026,United States,Cameron Carter-Vickers
+2026,United States,Antonee Robinson
+2026,United States,Alex Freeman
+2026,United States,Miles Robinson
+2026,United States,Chris Richards
+2026,United States,Diego Luna
+2026,United States,Cristian Roldan
+2026,United States,Christian Pulisic
+2026,United States,Weston McKennie
+2026,United States,James Sands
+2026,United States,Brenden Aaronson
+2026,United States,Aidan Morris
+2026,United States,Malik Tillman
+2026,United States,Tanner Tessmann
+2026,United States,Patrick Agyemang
+2026,United States,Alejandro Zendejas
+2026,United States,Haji Wright
+2026,United States,Timothy Weah
+2026,United States,Folarin Balogun
+2026,United States,Max Arfsten
+2026,Uruguay,Paulo Da Costa
+2026,Uruguay,Cristopher Fiermarin
+2026,Uruguay,Franco Israel
+2026,Uruguay,José Luis Rodríguez
+2026,Uruguay,Marcelo Saracchi
+2026,Uruguay,Santiago Bueno
+2026,Uruguay,Nicolás Marichal
+2026,Uruguay,Santiago Mouriño
+2026,Uruguay,Kevin Amaro
+2026,Uruguay,Brian Barboza
+2026,Uruguay,Emiliano Martínez
+2026,Uruguay,Nicolás Fonseca
+2026,Uruguay,Ignacio Laquintana
+2026,Uruguay,Rodrigo Zalazar
+2026,Uruguay,Juan Manuel Sanabria
+2026,Uruguay,Luciano Gonzalez
+2026,Uruguay,Julio Daguer
+2026,Uruguay,Pablo Alcoba
+2026,Uruguay,Facundo Martinez
+2026,Uruguay,Nicolas Azambuja
+2026,Uruguay,Facundo Torres
+2026,Uruguay,Luciano Rodríguez
+2026,Uruguay,Federico Viñas
+2026,Uruguay,Agustín Álvarez Martínez

@@ -10,7 +10,7 @@ year,team,player_name
 2010,France,Djibril Cissé
 2010,France,Sidney Govou
 2010,France,André-Pierre Gignac
-2010,France,Thierry Henry (c)
+2010,France,Thierry Henry 
 2010,France,Patrice Evra
 2010,France,Jérémy Toulalan
 2010,France,Florent Malouda
@@ -31,7 +31,7 @@ year,team,player_name
 2010,Mexico,Pablo Barrera
 2010,Mexico,Israel Castro
 2010,Mexico,Guillermo Franco
-2010,Mexico,Cuauhtémoc Blanco (c)
+2010,Mexico,Cuauhtémoc Blanco 
 2010,Mexico,Carlos Vela
 2010,Mexico,Paul Aguilar
 2010,Mexico,Guillermo Ochoa
@@ -48,7 +48,7 @@ year,team,player_name
 2010,South Africa,Moeneeb Josephs
 2010,South Africa,Siboniso Gaxa
 2010,South Africa,Tsepo Masilela
-2010,South Africa,Aaron Mokoena (c)
+2010,South Africa,Aaron Mokoena 
 2010,South Africa,Anele Ngcongca
 2010,South Africa,MacBeth Sibaya
 2010,South Africa,Lance Davids
@@ -69,7 +69,7 @@ year,team,player_name
 2010,South Africa,Shu-Aib Walters
 2010,South Africa,Thanduyise Khuboni
 2010,Uruguay,Fernando Muslera
-2010,Uruguay,Diego Lugano (c)
+2010,Uruguay,Diego Lugano 
 2010,Uruguay,Diego Godín
 2010,Uruguay,Jorge Fucile
 2010,Uruguay,Walter Gargano
@@ -104,7 +104,7 @@ year,team,player_name
 2010,Argentina,Carlos Tevez
 2010,Argentina,Ariel Garcé
 2010,Argentina,Walter Samuel
-2010,Argentina,Javier Mascherano (c)
+2010,Argentina,Javier Mascherano 
 2010,Argentina,Nicolás Otamendi
 2010,Argentina,Sergio Agüero
 2010,Argentina,Jonás Gutiérrez
@@ -123,7 +123,7 @@ year,team,player_name
 2010,Greece,Georgios Samaras
 2010,Greece,Avraam Papadopoulos
 2010,Greece,Angelos Charisteas
-2010,Greece,Giorgos Karagounis (c)
+2010,Greece,Giorgos Karagounis 
 2010,Greece,Loukas Vyntra
 2010,Greece,Alexandros Tzorvas
 2010,Greece,Michalis Sifakis
@@ -140,7 +140,7 @@ year,team,player_name
 2010,Nigeria,Vincent Enyeama
 2010,Nigeria,Joseph Yobo
 2010,Nigeria,Taye Taiwo
-2010,Nigeria,Nwankwo Kanu (c)
+2010,Nigeria,Nwankwo Kanu 
 2010,Nigeria,Rabiu Afolabi
 2010,Nigeria,Danny Shittu
 2010,Nigeria,John Utaka
@@ -166,7 +166,7 @@ year,team,player_name
 2010,South Korea,Cho Yong-hyung
 2010,South Korea,Kim Nam-il
 2010,South Korea,Kim Bo-kyung
-2010,South Korea,Park Ji-sung (c)
+2010,South Korea,Park Ji-sung 
 2010,South Korea,Kim Jung-woo
 2010,South Korea,Ahn Jung-hwan
 2010,South Korea,Park Chu-young
@@ -186,7 +186,7 @@ year,team,player_name
 2010,Algeria,Lounès Gaouaoui
 2010,Algeria,Madjid Bougherra
 2010,Algeria,Nadir Belhadj
-2010,Algeria,Antar Yahia (c)
+2010,Algeria,Antar Yahia 
 2010,Algeria,Rafik Halliche
 2010,Algeria,Yazid Mansouri
 2010,Algeria,Ryad Boudebouz
@@ -209,7 +209,7 @@ year,team,player_name
 2010,England,David James
 2010,England,Glen Johnson
 2010,England,Ashley Cole
-2010,England,Steven Gerrard (c)
+2010,England,Steven Gerrard 
 2010,England,Michael Dawson[5]
 2010,England,John Terry
 2010,England,Aaron Lennon
@@ -236,7 +236,7 @@ year,team,player_name
 2010,Slovenia,Boštjan Cesar
 2010,Slovenia,Branko Ilić
 2010,Slovenia,Nejc Pečnik
-2010,Slovenia,Robert Koren (c)
+2010,Slovenia,Robert Koren 
 2010,Slovenia,Zlatan Ljubijankić
 2010,Slovenia,Valter Birsa
 2010,Slovenia,Milivoje Novaković
@@ -254,7 +254,7 @@ year,team,player_name
 2010,Slovenia,Tim Matavž
 2010,United States,Tim Howard
 2010,United States,Jonathan Spector
-2010,United States,Carlos Bocanegra (c)
+2010,United States,Carlos Bocanegra 
 2010,United States,Michael Bradley
 2010,United States,Oguchi Onyewu
 2010,United States,Steve Cherundolo
@@ -276,7 +276,7 @@ year,team,player_name
 2010,United States,Benny Feilhaber
 2010,United States,Marcus Hahnemann
 2010,Australia,Mark Schwarzer
-2010,Australia,Lucas Neill (c)
+2010,Australia,Lucas Neill 
 2010,Australia,Craig Moore
 2010,Australia,Tim Cahill
 2010,Australia,Jason Culina
@@ -313,7 +313,7 @@ year,team,player_name
 2010,Germany,Thomas Müller
 2010,Germany,Holger Badstuber
 2010,Germany,Piotr Trochowski
-2010,Germany,Philipp Lahm (c)
+2010,Germany,Philipp Lahm 
 2010,Germany,Per Mertesacker
 2010,Germany,Toni Kroos
 2010,Germany,Cacau
@@ -325,7 +325,7 @@ year,team,player_name
 2010,Ghana,Hans Sarpei
 2010,Ghana,Asamoah Gyan
 2010,Ghana,John Paintsil
-2010,Ghana,John Mensah (c)
+2010,Ghana,John Mensah 
 2010,Ghana,Anthony Annan
 2010,Ghana,Samuel Inkoom
 2010,Ghana,Jonathan Mensah
@@ -353,7 +353,7 @@ year,team,player_name
 2010,Serbia,Zoran Tošić
 2010,Serbia,Danko Lazović
 2010,Serbia,Marko Pantelić
-2010,Serbia,Dejan Stanković (c)
+2010,Serbia,Dejan Stanković 
 2010,Serbia,Nenad Milijaš
 2010,Serbia,Bojan Isailović
 2010,Serbia,Aleksandar Luković
@@ -375,7 +375,7 @@ year,team,player_name
 2010,Cameroon,Alex Song
 2010,Cameroon,Landry N'Guémo
 2010,Cameroon,Geremi
-2010,Cameroon,Samuel Eto'o (c)
+2010,Cameroon,Samuel Eto'o 
 2010,Cameroon,Achille Emaná
 2010,Cameroon,Jean Makoun
 2010,Cameroon,Gaëtan Bong
@@ -398,7 +398,7 @@ year,team,player_name
 2010,Denmark,Lars Jacobsen
 2010,Denmark,Daniel Jensen
 2010,Denmark,Jesper Grønkjær
-2010,Denmark,Jon Dahl Tomasson (c)
+2010,Denmark,Jon Dahl Tomasson 
 2010,Denmark,Martin Jørgensen
 2010,Denmark,Nicklas Bendtner
 2010,Denmark,Thomas Kahlenberg
@@ -434,13 +434,13 @@ year,team,player_name
 2010,Japan,Takayuki Morimoto
 2010,Japan,Junichi Inamoto
 2010,Japan,Eiji Kawashima
-2010,Japan,Yuji Nakazawa (c)
+2010,Japan,Yuji Nakazawa 
 2010,Japan,Yoshikatsu Kawaguchi
 2010,Netherlands,Maarten Stekelenburg
 2010,Netherlands,Gregory van der Wiel
 2010,Netherlands,John Heitinga
 2010,Netherlands,Joris Mathijsen
-2010,Netherlands,Giovanni van Bronckhorst (c)
+2010,Netherlands,Giovanni van Bronckhorst 
 2010,Netherlands,Mark van Bommel
 2010,Netherlands,Dirk Kuyt
 2010,Netherlands,Nigel de Jong
@@ -463,7 +463,7 @@ year,team,player_name
 2010,Italy,Christian Maggio
 2010,Italy,Domenico Criscito
 2010,Italy,Giorgio Chiellini
-2010,Italy,Fabio Cannavaro (c)
+2010,Italy,Fabio Cannavaro 
 2010,Italy,Daniele De Rossi
 2010,Italy,Simone Pepe
 2010,Italy,Gennaro Gattuso
@@ -487,7 +487,7 @@ year,team,player_name
 2010,New Zealand,Tony Lochhead
 2010,New Zealand,Winston Reid
 2010,New Zealand,Ivan Vicelich
-2010,New Zealand,Ryan Nelsen (c)
+2010,New Zealand,Ryan Nelsen 
 2010,New Zealand,Simon Elliott
 2010,New Zealand,Tim Brown
 2010,New Zealand,Shane Smeltz
@@ -508,7 +508,7 @@ year,team,player_name
 2010,Paraguay,Justo Villar
 2010,Paraguay,Darío Verón
 2010,Paraguay,Claudio Morel
-2010,Paraguay,Denis Caniza (c)
+2010,Paraguay,Denis Caniza 
 2010,Paraguay,Julio César Cáceres
 2010,Paraguay,Carlos Bonet
 2010,Paraguay,Óscar Cardozo
@@ -544,7 +544,7 @@ year,team,player_name
 2010,Slovakia,Martin Jakubko
 2010,Slovakia,Miroslav Stoch
 2010,Slovakia,Ján Ďurica
-2010,Slovakia,Marek Hamšík (c)
+2010,Slovakia,Marek Hamšík 
 2010,Slovakia,Erik Jendrišek
 2010,Slovakia,Juraj Kucka
 2010,Slovakia,Kamil Kopúnek
@@ -553,7 +553,7 @@ year,team,player_name
 2010,Slovakia,Dušan Kuciak
 2010,Brazil,Júlio César
 2010,Brazil,Maicon
-2010,Brazil,Lúcio (c)
+2010,Brazil,Lúcio 
 2010,Brazil,Juan
 2010,Brazil,Felipe Melo
 2010,Brazil,Michel Bastos
@@ -584,7 +584,7 @@ year,team,player_name
 2010,Ivory Coast,Salomon Kalou
 2010,Ivory Coast,Cheick Tioté
 2010,Ivory Coast,Gervinho
-2010,Ivory Coast,Didier Drogba (c)
+2010,Ivory Coast,Didier Drogba 
 2010,Ivory Coast,Jean-Jacques Gosso
 2010,Ivory Coast,Romaric
 2010,Ivory Coast,Emmanuel Koné
@@ -606,7 +606,7 @@ year,team,player_name
 2010,North Korea,An Chol-hyok
 2010,North Korea,Ji Yun-nam
 2010,North Korea,Jong Tae-se
-2010,North Korea,Hong Yong-jo (c)
+2010,North Korea,Hong Yong-jo 
 2010,North Korea,Mun In-guk
 2010,North Korea,Choe Kum-chol
 2010,North Korea,Pak Chol-jin
@@ -626,7 +626,7 @@ year,team,player_name
 2010,Portugal,Rolando
 2010,Portugal,Duda
 2010,Portugal,Ricardo Carvalho
-2010,Portugal,Cristiano Ronaldo (c)
+2010,Portugal,Cristiano Ronaldo 
 2010,Portugal,Pedro Mendes
 2010,Portugal,Liédson
 2010,Portugal,Danny
@@ -643,7 +643,7 @@ year,team,player_name
 2010,Portugal,Ricardo Costa
 2010,Portugal,Daniel Fernandes
 2010,Portugal,Fábio Coentrão
-2010,Chile,Claudio Bravo (c)
+2010,Chile,Claudio Bravo 
 2010,Chile,Ismael Fuentes
 2010,Chile,Waldo Ponce
 2010,Chile,Mauricio Isla
@@ -685,11 +685,11 @@ year,team,player_name
 2010,Honduras,Édgar Álvarez
 2010,Honduras,Noel Valladares
 2010,Honduras,Danilo Turcios
-2010,Honduras,Amado Guevara (c)
+2010,Honduras,Amado Guevara 
 2010,Honduras,Emilio Izaguirre
 2010,Honduras,Donis Escober
 2010,Honduras,Sergio Mendoza
-2010,Spain,Iker Casillas (c)
+2010,Spain,Iker Casillas 
 2010,Spain,Raúl Albiol
 2010,Spain,Gerard Piqué
 2010,Spain,Carlos Marchena
@@ -720,7 +720,7 @@ year,team,player_name
 2010,Switzerland,Benjamin Huggel
 2010,Switzerland,Tranquillo Barnetta
 2010,Switzerland,Gökhan Inler
-2010,Switzerland,Alexander Frei (c)
+2010,Switzerland,Alexander Frei 
 2010,Switzerland,Blaise Nkufo
 2010,Switzerland,Valon Behrami
 2010,Switzerland,Marco Wölfli
