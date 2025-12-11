@@ -4,55 +4,84 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score, mean_squared_error
 
 
-train_files = [
-    "TeamFeatures/2010_features.csv",
-    "TeamFeatures/2014_features.csv",
-    "TeamFeatures/2018_features.csv",
-    "TeamFeatures/2022_features.csv",
-]
+def regression(trainYears, testYear):
+    #Build training dataframe
+    train_files = []
+    for year in trainYears:
+        train_files.append(f"TeamFeatures/{year}_features.csv")
 
-dfs = [pd.read_csv(f) for f in train_files]
+    dfs = [pd.read_csv(f) for f in train_files]
 
-train_df = pd.concat(dfs, ignore_index=True)
-
-
-X_train = train_df.drop(["team", "success_score", "year"], axis=1)
-y_train = train_df["success_score"]
+    train_df = pd.concat(dfs, ignore_index=True)
 
 
-
-scaler = StandardScaler()
-
-X_train_scaled = scaler.fit_transform(X_train)
+    X_train = train_df.drop(["team", "success_score", "year"], axis=1)
+    y_train = train_df["success_score"]
 
 
-model = LinearRegression()
+    #standardize
+    scaler = StandardScaler()
 
-model.fit(X_train_scaled, y_train)
-
-
-test_df = pd.read_csv("TeamFeatures/2026_features.csv")
-
-X_2026 = test_df.drop(["team", "success_score", "year"], axis=1) 
-
-standardized_pred = scaler.transform(X_2026)
+    X_train_scaled = scaler.fit_transform(X_train)
 
 
-pred_2026 = model.predict(standardized_pred)
+    model = LinearRegression()
+
+    model.fit(X_train_scaled, y_train)
 
 
-test_df["predicted_success_score"] = pred_2026
+    test_df = pd.read_csv(f"TeamFeatures/{testYear}_features.csv")
 
-print(test_df[["team", "predicted_success_score"]])
+    X_test = test_df.drop(["team", "success_score", "year"], axis=1) 
+
+    standardized_pred = scaler.transform(X_test)
+
+    pred = model.predict(standardized_pred)
+
+    pred_min = pred.min()
+    pred_max = pred.max()
+    pred_norm = (pred - pred_min) / (pred_max - pred_min)
+
+    test_df["predicted_success_score"] = pred
+    test_df["predicted_success_score_normalized"] = pred_norm
+
+    test_df[["team", "predicted_success_score", "predicted_success_score_normalized"]].sort_values(
+        by="predicted_success_score", 
+        ascending=False
+    ).reset_index(drop=True).to_csv(f"Results/{testYear}_teams_predicted_success_scores.csv")
+
+    
 
 
-importance = (
-    pd.DataFrame({
-        "feature": X_train.columns,
-        "coef": model.coef_
-    })
-    .sort_values(by="coef", ascending=False)
-)
 
-print(importance)
+def compute_r2(years):
+    results = []
+    for year in years:
+        real_results = pd.read_csv(f"TeamFeatures/{year}_features.csv")[["team", "success_score"]].sort_values(
+            by="team"
+        )
+        predicted_results = pd.read_csv(f"Results/{year}_teams_predicted_success_scores.csv").sort_values(
+            by="team"
+        )
+
+        predicted_results_normalized = pd.read_csv(f"Results/{year}_teams_predicted_success_scores.csv").sort_values(
+            by="team"
+        )
+
+
+        r2 = r2_score(real_results["success_score"], predicted_results["predicted_success_score"])
+        r2_normalized = r2_score(real_results["success_score"], predicted_results["predicted_success_score_normalized"])
+        results.append({
+            "year":year,
+            "R2":r2,
+            "R2_normalized":r2_normalized
+        })
+
+    result = pd.DataFrame(results)
+    result.to_csv("Results/R2.csv")
+
+    
+
+if __name__ == "__main__":
+    compute_r2([2010, 2014, 2018, 2022])
 
