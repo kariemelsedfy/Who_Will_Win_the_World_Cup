@@ -178,6 +178,14 @@ Where each feature is a factor that we are trying to see how important is its im
 Those feature to success score CSVs are stored in TeamFeatures/.
 
 
+✅ Step 5: Add success score:
+
+Suprisingly it has proven much easier and quicker to add the success score manually. No code needed for this one. 
+
+
+✅ Step 6: Train regression model:
+
+
 
 
 
