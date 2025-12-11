@@ -169,6 +169,16 @@ The matching rates for the years:
 
 ✅ Step 4: Build unified dataset:
 
+I build the build_team_features.py script, which goes over each year, and calculates the features we want for a given squad that year. The features are:
+
+team,year,team_mean_overall,team_max_overall,team_top3_overall,team_overall_std,team_top3_shooting,team_top3_passing,team_top3_defending,team_top3_physic,team_top3_pace,team_mean_age,team_min_age,team_max_age,success_score
+
+Where each feature is a factor that we are trying to see how important is its impact on the success score for that team for that year. 
+
+Those feature to success score CSVs are stored in TeamFeatures/.
+
+
+
 
 
 
