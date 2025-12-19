@@ -55,9 +55,9 @@ def find_rating_column(players_df):
 def find_player_index_by_short_only(player_name, players_df):
     """
     If multiple matches:
-        → pick highest rated
+        pick highest rated
     If still ambiguous:
-        → return None
+        return None
     """
 
     full_key = normalize_short_key(player_name)

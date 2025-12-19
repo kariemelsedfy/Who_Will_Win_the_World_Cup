@@ -1,19 +1,9 @@
 import pandas as pd
 import os
 
-SUCCESS_SCORE = {
-    "Group": 0.01,
-    "R16": 0.20,
-    "QF": 0.50,
-    "SF": 0.75,
-    "Runner-up": 0.90,
-    "Champion": 1.00
-}
-
-
 
 def compute_top3(df, col):
-    """Return average of top 3 values in df[col]."""
+    #Return average of top 3 values in df[col]
     top3 = df[col].nlargest(3)
     if len(top3) == 0:
         return 0

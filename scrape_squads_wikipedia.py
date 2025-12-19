@@ -31,13 +31,13 @@ def get_wc_squad_from_wikipedia(year: int) -> pd.DataFrame:
 
     # Go through headings and tables in document order
     for tag in content.find_all(["h3", "table"]):
-        # 1) When we hit an <h3>, update the current team name
+        # When we hit an <h3>, update the current team name
         if tag.name == "h3":
             # First non-empty text inside the h3 is the team name
             heading_text = next(tag.stripped_strings, "")
             current_team = heading_text.strip() if heading_text else None
 
-        # 2) When we hit a <table>, see if it looks like a squad and, if so, use the current_team
+        # When we hit a <table>, see if it looks like a squad and, if so, use the current_team
         elif tag.name == "table":
             try:
                 df = pd.read_html(str(tag))[0]

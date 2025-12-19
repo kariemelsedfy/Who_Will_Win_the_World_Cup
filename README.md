@@ -31,8 +31,8 @@ Forecast which teams are most likely to succeed before a World Cup begins.
 
 Each dataset entry represents a team in a specific World Cup year and follows this structure:
 
-year | team | goalkeeper_score | rightback_score | ... | striker_score |
-team_age_average | elo_before_wc | previous_wc_success | current_wc_success
+team,year,team_mean_overall,team_max_overall,team_top3_overall,team_overall_std,team_top3_shooting,team_top3_passing,team_top3_defending,team_top3_physic,team_top3_pace,team_mean_age,team_min_age,team_max_age,success_score
+
 
 📈 Success Score (Target Variable)
 
@@ -84,29 +84,8 @@ Overall skill
 
 These player scores are aggregated into position-level and squad-level features.
 
-🛠 Dataset Construction Plan
 
-For each squad in each World Cup year:
 
-Iterate over the 23 selected players and collect:
-
-FIFA rating
-
-Player age
-
-Compute average squad age
-
-Retrieve:
-
-The squad’s Elo rating before the tournament
-
-The squad’s Elo rating from the previous year
-
-Attach:
-
-The squad’s World Cup success score for the current year
-
-The squad’s success score from the previous World Cup
 
 🧩 Data Pipeline
 ✅ Step 1 — Player Ratings (SoFIFA)
@@ -185,8 +164,24 @@ Suprisingly it has proven much easier and quicker to add the success score manua
 
 ✅ Step 6: Train regression model:
 
+Now that we have all the data we need in TeamFeatures, for the year 2026, we concatenated the 2010-2022 files together to create one big dataset to use for regression training. First I standardized the data then created the regression model using sklearn in regression.py. The expected results, R2 score, and most important features for the success of a team are listed inside Results/ folder. 
+
+For all years other than 2026, the regression model was trained on the years 2010-2022 except that given year. For example 2018's model was trained on 2010, 2014, 2022, and was tested on 2018's dataset.
 
 
+
+🔍 Top-4 Prediction vs. Actual Results
+
+For each past World Cup, teams were ranked by their predicted success score, and the top 4 predicted teams were compared to the actual top 4 finishers.
+
+World Cup	Top 4 Predicted (Model)	Actual Top 4	Overlap
+2010	England, Italy, Germany, France	Spain, Netherlands, Germany, Uruguay	1 / 4
+2014	Germany, Spain, Argentina, France	Germany, Argentina, Netherlands, Brazil	2 / 4
+2018	Germany, France, Belgium, Argentina	France, Croatia, Belgium, England	2 / 4
+2022	Portugal, France, England, Spain	Argentina, France, Croatia, Morocco	1 / 4
+
+Takeaway:
+The model consistently ranks elite squads near the top, correctly identifying 1–2 of the eventual top-4 teams per tournament using only pre-tournament player statistics. Misses are largely explained by tactical overperformance and tournament-specific shocks (e.g., Croatia 2018, Morocco 2022), which are intentionally outside the model’s scope.
 
 
 

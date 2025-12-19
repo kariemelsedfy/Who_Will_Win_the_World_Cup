@@ -25,6 +25,8 @@ def regression(trainYears, testYear):
     X_train_scaled = scaler.fit_transform(X_train)
 
 
+
+    #Regression model
     model = LinearRegression()
 
     model.fit(X_train_scaled, y_train)
@@ -34,10 +36,13 @@ def regression(trainYears, testYear):
 
     X_test = test_df.drop(["team", "success_score", "year"], axis=1) 
 
+    #standardize test data too
     standardized_pred = scaler.transform(X_test)
 
     pred = model.predict(standardized_pred)
 
+    
+    
     pred_min = pred.min()
     pred_max = pred.max()
     pred_norm = (pred - pred_min) / (pred_max - pred_min)
@@ -45,6 +50,7 @@ def regression(trainYears, testYear):
     test_df["predicted_success_score"] = pred
     test_df["predicted_success_score_normalized"] = pred_norm
 
+    #Success score
     test_df[["team", "predicted_success_score", "predicted_success_score_normalized"]].sort_values(
         by="predicted_success_score", 
         ascending=False
